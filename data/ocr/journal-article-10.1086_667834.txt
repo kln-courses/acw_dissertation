@@ -1,0 +1,317 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <disp-quote>
+         <p>[Anthropological] studies of “first contact” [have] often produced remarkable instances of diverging cultural interpretations of the same events.</p>
+         <attrib> (Pels 1997:170)</attrib>
+      </disp-quote>
+      <p>The “remarkable” divergence in scholarly interpretations of European encounters with the first peoples of the Americas and Oceania (Pels 1997:170) is exemplified in the debate between Marshall Sahlins (1995) and Gananath Obeyesekere (1997 [1992]) over Captain Cook’s Hawaiian demise, a moment of history that still lies clearly within the shadow of Cook’s 1778 first contact. In the pages of <italic>Current Anthropology</italic>, this celebrated debate has engaged various practitioners in substantial discussions about cultural relativism, the interpretation of historical sources as ethnography, and ethical questions of indigenous versus outsider anthropology (Borofsky 1997). And yet, the fundamental problem of historical interpretation remains. As Borofsky (1997:276) notes, “All of us acknowledge that uncertainty exists about our interpretations of British-Hawaiian contact in 1778–79. … How could we not, given the limitations and diversity of the data we have from Western and Hawaiian sources?”</p>
+      <p>In first- or early-contact studies, the problem of limited sources is compounded by the privileged European voyaging record with its “advantage of a vivid proximity to the events that are being described” (Salmond 1991:11). In Hawai‘i and New Zealand, however, the engagement of Polynesian histories in historical anthropology to redress that imbalance has been critiqued on practical, philosophical, and ethical grounds (Borofsky 1997:265–267 [comment by Herb Kawainui Kane]; Neumann 1994:126; Obeyesekere 1997 [1992]; Sahlins 1995; Salmond 1991). There is no easy way out of the uncertainty, it seems.</p>
+      <p>Yet some important things are known, including, critically, the physical places, general environments, and chronologies of contact. This knowledge can enable a cross-field anthropology of encounter violence that engages archaeological, documentary, and ethnographic research into behaviors and beliefs on both sides of the encounter. Against the problems of privileged expeditionary documents and sparse local histories, the archaeological record in particular offers a novel source of inclusive physical information that does not necessarily discriminate on behalf of Europeans (e.g., Cusick 1998; Lightfoot 1995). This is especially relevant to the first recorded European-Māori contact in 1642, in which four members of a Dutch East Indies crew under Commander Abel Tasman were killed in a seemingly unprovoked attack in eastern Golden Bay, northwestern South Island (fig. 1). From about the following century, this local Golden Bay community was itself displaced and decimated, losing all but fragments of its history in the process (Mitchell and Mitchell 2004:69–74, 142–147). The research reported here investigates the merits of a cross-field anthropology to understand why first contact ended so badly for the Dutch in Golden Bay and to demonstrate the potential value of this approach in explaining other contact events.<fig id="fg1" position="float" fig-type="figure">
+            <label>Figure 1.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>Golden Bay and New Zealand inset maps. The Golden Bay map locates Tasman’s December 1642 anchorage and fortified Māori <italic>pā</italic> sites as identified from archaeological earthworks or historical references.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg1.tiff"/>
+         </fig>
+      </p>
+      <sec id="sc1">
+         <title>The Unexpected Events of Contact Violence in Golden Bay</title>
+         <p>Tasman’s expedition first sighted New Zealand’s South Island on December 13, 1642. Five days later, Tasman’s two ships, the <italic>Zeehaen</italic> and <italic>Heemskerck</italic>, anchored in eastern Golden Bay in search of water and provisions (fig. 1). Later on December 18, two small Dutch boats sent to explore the shore were followed back to the anchored ships by local <italic>waka</italic> (canoes). As night fell, the Dutch heard trumpet sounds and people calling from these <italic>waka</italic>, to which Tasman ordered a trumpet response. On the morning of December 19, more <italic>waka</italic> came out to the large ships. The Dutch waved many times for the Māori to approach, displaying white linen and knives for exchange, but to no avail. Thereafter, two <italic>waka</italic> positioned themselves close to the Dutch ships, and one of them rammed and boarded a small Dutch craft sent between the ships to coordinate a cautious response. Three of the visitors were overpowered and killed immediately, after which one of the dead was taken to shore in a hail of fire. The Dutch then left Golden Bay pursued by 11 of 22 <italic>waka</italic> seen near shore (fig. 2). Grimly, Tasman named the place Murderers Bay (Sharp 1968:120–122).<fig id="fg2" position="float" fig-type="figure">
+               <label>Figure 2.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Composite sketch of December 1642 contact events in “Moordenaers Baij” (“Murderers Bay,” now Golden Bay) from Abel Tasman’s 1642–1643 journal, reproduced with permission of the National Archives of the Netherlands (Nationaal Archief), The Hague (see digital image of original drawing at <uri xlink:type="simple"
+                          xlink:href="http://www.gahetna.nl/collectie/archief/inventaris/gahetnascans/eadid/1.11.01.01/inventarisnr/121/65/level/file">http://www.gahetna.nl/collectie/archief/inventaris/gahetnascans/eadid/1.11.01.01/inventarisnr/121/65/level/file</uri>, accessed July 11, 2012). The drawing has been attributed to Tasman expedition illustrator Isaac Gilsemans (Anderson 2001). Details include the violent ramming of the small Dutch boat and cannon fire in response (center, <italic>C</italic>) and the pursuit of the European ships from Golden Bay by a fleet of double <italic>waka</italic> (lower left side, <italic>E</italic>).</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg2_online.eps"/>
+            </fig>
+         </p>
+         <p>Historical interpretations of this event emphasize inevitable cultural misunderstanding and local anxieties, where Māori viewed the exchange of trumpet calls on the evening of December 18 as a ritual defiance or challenge to fight (Belich 1996:119; King 2003:96; Salmond 1991:22, 78–82). The ethnographic literature suggests that Māori wood or shell trumpets (<italic>pū kaea</italic> or <italic>pū tara</italic>, respectively) may have been used variously to signal or gather people (especially forces), to warn or sound an alarm, or to ward off intruders (Best 1976<italic>a</italic> [1925]:277–284, 288–293; McLean 1996:176–182). It is not immediately clear from the record whether trumpets were sounded for any one or more of these reasons on December 18 in Golden Bay. Mitchell and Mitchell (2004:146) also suggest that the <italic>iwi</italic> (tribal descent group) concerned, identified as recent North Island arrivals Ngāti Tumatakokiri, felt insecure with the threat of incursions by other <italic>iwi</italic> (Mitchell and Mitchell 2004:69–74, 145). And yet, the seeming Māori unwillingness toward any engagement in the sustained 1642 encounter is unlike the next recorded Māori-European interaction at Queen Charlotte Sound (Totaranui) in the traditionally volatile northeastern South Island. In this 1770 incident, weapons were brandished and stones thrown at James Cook’s <italic>Endeavour</italic>, after which a cordial exchange ensued as an older man expressed a desire to come on board (Salmond 1991:241–242). In contrast, the 1642 Dutch visitors were opposed offshore on both days by shouting men from well-crewed <italic>waka</italic> and pursued as they left under sail.</p>
+      </sec>
+      <sec id="sc2">
+         <title>The Places and Archaeology behind Contact Violence</title>
+         <p>Four discrete areas of extensive archaeological features and soils are recorded from eastern Golden Bay. In each of these localities, multiple sites are linked by extensive, dark sandy soils modified by organic and, in places, mineral additions (potential cultivation anthrosols and more specialized cultivation [Ap] units in fig. 3). Midden deposits at these places incorporate local shellfish and fish elements; significant dog remains (especially at Tata Beach); rat, occasional small-bird, and fragmentary sea mammal bones; and local and exotic stone (Barber 1999<italic>a</italic>). Evidence of residential structures is recorded from Ligar Bay, Tata Beach, and Takapou, most obviously in the form of postholes, small domestic storage pits up to 600 mm wide, and stone hearths (Barber 1999<italic>a</italic>).<fig id="fg3" position="float" fig-type="figure">
+               <label>Figure 3.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Principal Māori archaeological places in Eastern Golden Bay discussed in text, including numbered radiocarbon-dated sites at Tata Beach and Takapou, Wainui Bay (“Wk-” lab numbers in tables 1 and 2). The closest recorded approach to shore of the two small exploratory Dutch boats is also shown (13 fathoms depth, after Tasman’s log and details in Anderson 2001:96).</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg3.tiff"/>
+            </fig>
+         </p>
+         <p>Relict evidence of precontact Māori cultivation in these localities includes very dark, mixed, coarse, sandy to gravelly topsoils (modified A-horizons) with wavy to irregular boundaries. These are the specialist, cultivation Ap units shown in figures 3 and 4. These units collectively extend hundreds of square meters over coastal dunes, beach ridges, and warm, north-facing flats to gentle slopes. At Takapou and Tata Beach in particular, there is a transition within the sandy archaeological topsoil from a very black, upper layer (designated layer 1) to a lower, extensive, dark brownish-gray soil (designated layer 2). Small rounded to irregular planting pits that are usually less than 500 mm wide intrude from layer 2 into the natural, yellow-brown sandy substrate in places (e.g., fig. 4; also fig. A1). Digging marks and planting pits are sometimes found at the base of layer 1, highlighted as black intrusions into layer 2 or the natural substrate. Comparable archaeological planting pits in dry soils are reported elsewhere in Golden Bay (e.g., Triangle M24/11, fig. 1) and from other islands at the Polynesian margins. These pits appear to represent holes dug to receive seedlings, nutrients, and perhaps made garden soils (e.g., Allen 2004:198, 216; Barber 2004:189–190, 2012; Gumbley, Higham, and Lowe 2004; Kirch et al. 2005; Stevenson et al. 2006). Nutrient enrichment and retention may have been an important consideration for cultivation in the coarse, free-draining, and relatively infertile granite-derived sands of eastern Golden Bay.<fig id="fg4" position="float" fig-type="figure">
+               <label>Figure 4.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Archaeological section in eastern Golden Bay at the crest of a steep, eroding coastal dune, Takapou, Wainui Bay (10-mm intervals shown on rigid tape measure). As discussed in text, the midden deposit at the border of layers 1 and 2 (L1 and L2) is dated (Wk-24251; fig. 3; tables 1, 2). The dashed line follows the outline of two planting pits intruding into natural sandy substrate at the base of layer 2.</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg4.tiff"/>
+            </fig>
+         </p>
+         <p>The nature and extent of the light, dry, sandy topsoils identify Māori sweet potato, or <italic>kūmara</italic> (<italic>Ipomoea batatas</italic> L. Lam), as the dominant crop of these fields. <italic>Kūmara</italic> is a hardy, dry-field cultigen that requires good drainage for growing success. It is relatively fast-growing, compared to other Polynesian stem crops, and is therefore well suited to New Zealand’s temperate, seasonal climate in Polynesia’s coldest, southwestern corner (fig. 5; Barber 2004, 2010, 2012; Leach 1984). The extensive, darkened, and mixed granite anthrosols of eastern Golden Bay are consistent with a sustained <italic>kūmara</italic> production strategy. Blackened layer 1 has a relatively high soil carbon content from the inclusion of organic materials, suggesting ongoing and intensive land use. As a further measure of productivity, cut rectangular pits several meters in length, some with associated structural postholes, are recorded from Ligar Bay, Tata Beach, and Takapou, along beach ridge margins and dune systems. These pits are interpreted as covered underground <italic>kūmara</italic> stores that maintained tuber quality through colder months in well-drained structures that could be heated by the addition of hot stones (Davidson et al. 2007). An association of large storage pits, each 4–5 m wide and about 1 m deep, is recorded on the main dune ridge at Tata Beach (e.g., fig. 6), adjacent to an area of homogenized cultivation soils and small planting pits. An upper, black sand pit outline within one of these large storage pits indicates later reuse. Deposits of stones that may have been heated are found within some of these pits (e.g., fig. 6; Barber 1999<italic>a</italic>).<fig id="fg5" position="float" fig-type="figure">
+               <label>Figure 5.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Location map of Polynesia (within dashed line) showing climate zones and Kealakekua Bay (Hawaiian Islands), as discussed in text.</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg5.tiff"/>
+            </fig>
+            <fig id="fg6" position="float" fig-type="figure">
+               <label>Figure 6.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>The dashed line follows the northern margin of a crop storage pit in oblique section view, Tata Beach dune ridge. This is one of several relatively large, ca. fifteenth- to sixteenth-century storage pits clustered near the crest of the Tata Beach dune. The pit outline as cut from layer 2 into natural granite sand is 5 m long and just over 1 m deep. It encloses a smaller, later rectangular pit outlined by upper black sand fill (cf. layer 1). A horizontal deposit of stones perpendicular to and left of the rigid tape measure lies just above the base of the enclosed pit. Photograph by Ian Barber.</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg6.tiff"/>
+            </fig>
+         </p>
+         <p>Multiple radiocarbon ages have been processed from the eastern Golden Bay localities discussed here. The earliest of these archaeological dates cluster around the fifteenth century AD (Barber 2003:440). At least one of the large Tata Beach storage pits on the main dune ridge was infilled sometime between the mid-fifteenth and the earlier seventeenth century (tables 1, 2), to be reused subsequently (fig. 6). Previously unpublished marine shell ages from midden deposits at the border of archaeological layers 1 and 2 at Takapou (fig. 4) and within upper layer 2 at Tata Beach also converge around the mid-fifteenth to the mid-seventeenth century at 2σ (table 2). Calibrated layer 1 midden dates from these localities overlap at 1σ around the late seventeenth to the early nineteenth century, or just before sustained European contact (table 2). These dates suggest that the people Tasman encountered were accomplished gardeners as well as fishers and that cultivation continued into the decades, if not the century, after Tasman departed.<table-wrap id="tb1" position="float">
+               <label>Table 1.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <title>Conventional radiocarbon ages before present (CRA BP) for dated samples from eastern Golden Bay archaeological sites</title>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="tb1.eps"/>
+               <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                              xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                              frame="topbot">
+                  <oasis_0:tgroup cols="5">
+                     <oasis_0:colspec colname="col1" align="left"/>
+                     <oasis_0:colspec colname="col2" align="char" char=";pm"/>
+                     <oasis_0:colspec colname="col3" align="char" char=";pm"/>
+                     <oasis_0:colspec colname="col4" align="left"/>
+                     <oasis_0:colspec colname="col5" align="left"/>
+                     <oasis_0:thead>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="1">Locality, lab no.</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center" char="">CRA (years BP)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center" char="">δ<sup>13</sup>C (‰)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center">Sample material</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center">Context</oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:thead>
+                     <oasis_0:tbody>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Tata Beach:</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-4912</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">415 ± 44</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">−27.8 ± .2</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Terrestrial Ctc</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">L2 ridge pit</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-7031</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">560 ± 45</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.5 ± .2</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Marine <italic>Pa</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">L1</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-9607</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">729 ± 47</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.9 ± .2</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Marine <italic>As</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">L2 (upper)</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-9608</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">707 ± 45</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.7 ± .2</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Marine <italic>Pa</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">L2 (upper)</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Takapou:</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-24251</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">782 ± 32</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.6 ± .2</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Marine <italic>Pa</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">L1/2</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-28801</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">599 ± 33</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.8 ± .2</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Marine <italic>As</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">L1</oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:tbody>
+                  </oasis_0:tgroup>
+               </oasis_0:table>
+               <table-wrap-foot>
+                  <fn id="tb1fn1">
+                     <label>Note. </label>
+                     <p>CRA BP results are without reservoir correction; present = 1950, after Stuiver and Polach (1977). Dated materials include the inshore bivalve mollusks <italic>Paphies australis</italic> (Gmelin, 1790; <italic>Pa</italic>) and <italic>Austrovenus stutchburyi</italic> (Wood, 1828; <italic>As</italic>) and short-lived Cyathaceae twig charcoal (Ctc). See references in Barber (2003:440) for sample suitability. L1 and L2 refer to the layer 1 and layer 2 designations in text, respectively. L1/2 is a transitional-unit designation.</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+            <table-wrap id="tb2" position="float">
+               <label>Table 2.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <title>Calibrated AD (cal AD) age ranges for all dated samples (reservoir corrected for marine mollusk dates) from eastern Golden Bay archaeological sites</title>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="tb2.eps"/>
+               <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                              xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                              frame="topbot">
+                  <oasis_0:tgroup cols="3">
+                     <oasis_0:colspec colname="col1" colwidth="1.00*" align="left"/>
+                     <oasis_0:colspec colname="col2" colwidth="1.00*" align="char" char="&amp;ndash;"/>
+                     <oasis_0:colspec colname="col3" colwidth="1.00*" align="char" char="&amp;ndash;"/>
+                     <oasis_0:thead>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="1">Locality, context, lab no. (material)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center" char="">Cal AD age, 1σ (<italic>P</italic> = .68)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center" char="">Cal AD age, 2σ (<italic>P</italic> = .95)</oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:thead>
+                     <oasis_0:tbody>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Tata Beach, L1:</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-7031 (<italic>Pa</italic>)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1670–1840</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1648–1950</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Tata Beach, L2 (upper):</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-9607 (<italic>As</italic>)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1510–1650</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1460–1690</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-9608 (<italic>Pa</italic>)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1520–1660</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1460–1700</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Tata Beach, L2 ridge pit:</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0"> Wk-4912 (Ctc)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left">1450–1510 (43%), 1570–1620 (26%)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left">1440–1630</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Takapou, L1:</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-28801 (<italic>As</italic>)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1640–1810</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1550–1880</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Takapou, L1/2:</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom"/>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Wk-24251 (<italic>Pa</italic>)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1460–1580</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" align="left" valign="bottom">1440–1650</oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:tbody>
+                  </oasis_0:tgroup>
+               </oasis_0:table>
+               <table-wrap-foot>
+                  <fn id="tb2fn1">
+                     <label>Note. </label>
+                     <p>Compare with table 1. Marine data are from Reimer et al. (2009) with <inline-formula id="if1">
+                           <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if1.eps"/>
+                        </inline-formula> (New Zealand average advised by University of Waikato Radiocarbon Dating Lab); Southern Hemisphere atmospheric data are from McCormac et al. (2004). L1 and L2 refer to the layer 1 and layer 2 designations in text, respectively. L1/2 is a transitional-unit designation. <italic>Pa</italic> = <italic>Paphies australis</italic> (Gmelin, 1790); <italic>As</italic> = <italic>Austrovenus stutchburyi</italic> (Wood, 1828); Ctc = short-lived Cyathaceae twig charcoal.</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+         </p>
+         <p>The seventeenth-century association of residential structures, extensive fields, large storage pits, marine midden deposits, and human interments at these localities is consistent with places of some status and wealth, perhaps important villages (Barber 1999<italic>a</italic>). Interestingly, there is no archaeological evidence that fortified earthworks (<italic>pā</italic>) were constructed around these sites. Indeed, there are significantly fewer <italic>pā</italic> in this region than in western Golden Bay and adjacent, western Tasman Bay (fig. 1; Barber 1996). The coastal seventeenth-century eastern Golden Bay settlements, fields, and storage pits otherwise were all relatively open and accessible to the larger community and, potentially, to visitors. This landscape pattern alone challenges historical interpretations that assume inherent insecurity and aggression toward visitors on the part of the local people of first contact in Golden Bay (as cited above).</p>
+      </sec>
+      <sec id="sc3">
+         <title>Engaging Ethnobotany and Anthropology of Religion</title>
+         <p>In temperate-zone, Southern Hemisphere New Zealand (fig. 5), <italic>kūmara</italic> tubers were planted in warmer, frost-free locations, especially near the coast. The customary, 6-month <italic>kūmara</italic> season extends over the warmest months of the year between midspring (October) and midautumn (March–April). By mid-December, the growing season was well under way (Barber 2004; Best 1976<italic>b</italic> [1925]).</p>
+         <p>In numerous historical accounts, the seasonal requirements for <italic>kūmara</italic> were closely regulated by ritual practice (Best 1976<italic>b</italic> [1925]; Colenso 1881; Johansen 1958). The mythological foundations are set out in an influential North Island creation narrative, recorded in the mid-nineteenth century, where <italic>kūmara</italic> is identified with Rongo, one of the children who pushes apart the primordial parents Rangi (sky) and Papa (earth). Tawhiri (wind) opposes this separation and fights his siblings. Rongo and Haumia (edible bracken fern) hide in the soil while Tū (human) is left to fight Tawhiri. Tū then attacks the siblings who have not fought, digging up Rongo and Haumia (Schrempp 1985:21–22; see also Marck 1996:232–233).</p>
+         <p>Accounts recorded between the nineteenth and early twentieth centuries from both main islands identify various iterations of this myth in which the <italic>kūmara</italic> field is Pani, wife of Rongo-Maui and fertile bearer of the <italic>kūmara</italic> as Pani-tinaku (<italic>tinaku</italic> = to germinate; Best 1976<italic>b</italic> [1925]:102–109; Colenso 1881:43–48). The tensions of the primal creation myth resonate in some of these accounts, where Rongo-Maui ascends to heaven and steals the <italic>kūmara</italic> from his elder brother, who then sends down pests to plague the crop (Best 1976<italic>b</italic> [1925]:102, 104–106; Johansen 1958:119–120, 127–128). In this “widespread” view, <italic>kūmara</italic> is not a gift of the gods but something obtained “by stratagem or by force.” This is a concept that “informs several phases of the <italic>kūmara</italic> ritual” (Johansen 1958:128) and resonates elsewhere in ancient Polynesian myth and ritual (Tcherkézoff 2004:51).</p>
+         <p>The ceremonial planting of the <italic>kūmara</italic> by a <italic>tohunga</italic> (priestly specialist) is accompanied by ritual chants (<italic>karakia</italic>) that in part invoke fertility, as the priest acts in the place of Rongo (Best 1976<italic>b</italic> [1925]:116–118). Human remains, small stone figures, or other stones may be placed in the fields thereafter to protect the crop and promote the <italic>mauri</italic> (life principle) of the <italic>kūmara</italic>. The carved gods were generally understood to be repositories of Rongo or, occasionally, Pani (Best 1976<italic>b</italic> [1925]:193–210; Leach 1984:71–72). Thereafter, the <italic>kūmara</italic> fields become <italic>tapu</italic> (restricted, spiritually dangerous). A non-<italic>tapu</italic> (<italic>noa</italic>) person entering or working such fields was under penalty of death from spiritual powers and, potentially, local Māori guardians (Best 1976<italic>b</italic> [1925]:184–189). “Charmed” <italic>kūmara</italic> tubers were even laid in the way of war parties to cause their defeat (Colenso 1881:35).</p>
+         <p>Complex harvesting ceremonies were required to remove the <italic>tapu</italic> of <italic>kūmara</italic> fields (Best 1976<italic>b</italic> [1925]:170–175, 181–183, 214–222; Johansen 1958:173–188). In North Island accounts, at least, the primal tensions between Tū and Rongo resonate in these rites and associated myths (Colenso 1881:36–39). Thus, the harvest officiator acting as Tū digs up selected crops, effectively killing and devouring Rongo (Best 1976<italic>b</italic> [1925]:217–219; Colenso 1881:36; Johansen 1958:183–184).</p>
+         <p>The antiquity of these ideas and practices is suggested in French explorer Dumont d’Urville’s (1950 [1832–1834]:186) reference to “the unbreakable taboo which applied to the fields of kumaras” in northern New Zealand. Missionary arguments to the contrary did not dissuade Māori, d’Urville observed, who “made answer all the time that the kumaras were <italic>tapou-tapou</italic>, that the <italic>atoua</italic> [spirit] would be angry and slay them if they allowed anyone to go near” (Dumont d’Urville 1950 [1832–1834]:186). Seven years earlier, another visitor had observed that <italic>kūmara</italic> fields and storehouses were both placed under <italic>tapu</italic> and that during “predatory excursions,” it has “sometimes” happened that “the superstition of the tabboo has saved the koomeras from violation” (Cruise 1957 [1823]:37, 83). Deep Pacific roots are also apparent in these practices and beliefs. Rongo as god of food and Tū as god of war are among a sibling group of “first-order” anthropomorphic deities found throughout Polynesia (Marck 1996:243, 249–250). Sahlins (1985) has observed that the Māori myth of Rongo and Tū has a parallel in the Hawaiian Makahiki festival and the seasonal rituals of transition between the agricultural deity Lono (in Māori, Rongo), who is eventually overthrown by Ku (in Māori, Tū) as god of war. Consistently, a historical Hawaiian source describes a “tabu” (<italic>kapu</italic>) on sweet potato fields where “no one was allowed to throw stones … or thrust sticks into it, or to walk about it” (Kamakau 1976 [1869–1870]:29; see also Handy, Handy, and Pukui 1991 [1972]:331; Malo 1951 [1903]:206–207).</p>
+      </sec>
+      <sec id="sc4">
+         <title>Cross-Field Interpretation</title>
+         <p>Collectively, these considerations provide for a new cultural-landscape reading of the 1642 conflict around the untimeliness and location of the Dutch visit. In eastern Golden Bay, the socioeconomic importance of <italic>kūmara</italic> is suggested in the archaeological association of significant residential communities, hundreds of square meters of stratified coastal cultivation soils and features, and multiple <italic>kūmara</italic> storage pits. The massive, reused examples of the last at Tata Beach are consistent with a resource that mattered to the larger community and its leaders. There are also preliminary indications that post-fifteenth-century central New Zealand may have experienced colder summers, possibly affecting <italic>kūmara</italic> yields and heightening concerns for this important crop through the growing period (Barber 2010:86, 2013).</p>
+         <p>On December 18, the <italic>Zeehaen</italic> and <italic>Heemskerck</italic>, as seen from land, sailed almost directly from Farewell Spit into the agricultural heart of eastern, and perhaps larger, Golden Bay with its accessible coastal fields at the summer midpoint of the growing season. That evening, the two small Dutch boats approached Wainui Bay, where <italic>kūmara</italic> fields under <italic>tapu</italic> were planted at Takapou. Beyond Wainui Bay lay a series of comparable fields immediately behind adjacent inlets, where small but edible <italic>kūmara</italic> tubers could have been harvested (fig. 3).</p>
+         <p>The Dutch were still anchored on December 19 and insisted on launching one of the small boats that had reached the outskirts of Wainui Bay on the previous evening. A mounting concern to protect the crops and <italic>tapu</italic> fields of Rongo may have been all the motivation that the warriors required to ram the <italic>Zeehaen</italic>’s boat in a preemptive strike (fig. 2). Consistently, in a historical Māori account, “every traveler avoided roads which led to cultivations, and if he dared to venture and defy the <italic>tapu</italic>, and was caught, the penalty was death” (Best 1976<italic>b</italic> [1925]:187). By contrast, as noted above, the next recorded northern South Island contact, also in summer (January 1770), resolved into social interaction following a standard show of defiance. As a critical difference, the Māori of Queen Charlotte Sound did not cultivate crops in the late eighteenth century (Barber 1999<italic>b</italic>).</p>
+      </sec>
+      <sec id="sc5">
+         <title>Discussion</title>
+         <p>This cross-field anthropology of first contact in New Zealand provides a cultural explanation that is grounded in testable data rather than historical speculations about Māori violence and anxieties. While the historical interpretation is specific to the physical and social environments of Golden Bay in 1642, the method may be capable of application to any encounter situation where chronologies of contact are well documented and archaeological places and patterns of local behavior can be investigated.</p>
+         <p>In particular, there are several other Polynesian examples of contact violence occurring around propitious times and significant places where our understanding may be elucidated from this approach (e.g., Sahlins 1995; Salmond 2009; Tcherkézoff 2004). The anthropologically contested events of Cook’s 1779 Hawaiian death in archaeologically rich Kealakekua Bay (fig. 5) seem especially inviting, with opportunity to compare the Tasman and Cook intrusions into sacred, seasonal time and space regulated by a cognate Polynesian food deity. Thus, at the outset of the 1778 Makahiki festival, Cook was welcomed as Lono in tropical Hawai‘i (Sahlins 1995), whatever that might have meant precisely (cf. Borofsky 1997; Obeyesekere 1997 [1992]; Sahlins 1995; Tcherkézoff 2004), and overwhelmed with sociability and food. Cook’s arrival seemed propitious for everyone, at least initially.</p>
+         <p>Recent archaeological work also identifies cropping limitations and elements of production unpredictability in this dry leeward region (Allen 2001, 2004), potentially restricting the tribute that might have been required for the duration of the Makahiki and to sustain hungry visitors (Obeyesekere 1997 [1992]:239–240). New research engaging archaeology, agronomy, climate modeling, and historical ethnography might test whether these factors could have contributed to Cook’s turn of fortune. While this would be consistent with Obeyesekere’s (1997 [1992]) larger argument that the captain’s death was ultimately a result of poorly handled impacts on the part of visitors, there may still have been a ritual-calendar component as well, since the end of Cook’s visit (and of Cook) had passed into the season of Ku, Hawaiian god of war (Sahlins 1995).</p>
+         <p>Tasman’s very different initial reception approaching the archaeologically confirmed fields of temperate Golden Bay near the midpoint of the growth season can be contrasted as an outcome of Māori identifying a Dutch threat to highly regulated production. Māori warnings and hostility may also have channeled expressions of concern and fear around the intrusion into, and potential ritual violation of, the <italic>tapu</italic> and gardens in the care of Rongo. The Dutch had come, in effect, as Tū rather than as Rongo, where in the middle to latter part of the myth cycle, the <italic>kūmara</italic> was threatened and eventually taken by ritual force in the depredations of the war god and his allies (and representatives).</p>
+      </sec>
+      <sec id="sc6">
+         <title>Conclusion</title>
+         <p>A cross-field anthropology of first contact in New Zealand compensates for sparse local traditional histories in an approach that explains rather than assumes cultural misunderstanding. The stimulating interface of calendars (ritual and otherwise), beliefs, history, climate, and environmental archaeology might well be applied elsewhere, extending knowledge and promoting collaborative research between indigenous and other scholars across the “borderlands of difference” (Borofsky 1997:278) in culture contact studies.</p>
+      </sec>
+   </body>

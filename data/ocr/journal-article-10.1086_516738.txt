@@ -1,0 +1,398 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <sec id="sc1">
+         <label>I. </label>
+         <title>A First Approach: Plutarch’s <italic>Dialogue on Love</italic>
+         </title>
+         <p>Claiming a leading position for Eros, “Love,” as a benevolent deity in the Greek pantheon, is a major goal of Plutarch’s <italic>Dialogue on Love</italic>.1 Plutarch of Chaironeia, prolific writer, middle Platonic philosopher, and priest of Apollo at the oracular shrine at Delphi, composed this treatise, which is usually considered one of his most mature works, late in his life perhaps as late as 120 CE (he lived from approximately 45 to 125 CE).2 The setting and structure of the work are rather sophisticated, as is to be expected. Plutarch’s grown‐up son Autobulus relates a story that his father often told to his friends and family. Young Plutarch, only recently married, is the main speaker within the dialogue. He visits the Boetian city of Thespiae, where his newlywed wife wants to redeem a vow that she had made to Eros. Conveniently, there is a large statue of Eros found in a sanctuary at Thespiae, and the city is celebrating a festival in honor of Eros that takes place every four years.</p>
+         <p>This biographical frame that contains allusions to an obviously happy marriage, namely Plutarch’s own, is skillfully interwoven with a real‐life story. Ismenodora, a rich, beautiful, and still rather young widow, has fallen in love with a handsome young man named Bacchon, who is her junior by perhaps ten years. The male suitors of the lad are nearly driven crazy by this development and try to prevent the union by all means. Ismenodora senses the danger and opts for a radical solution. She has the young man kidnapped—Plutarch writes with a twinkle in his eyes: “her friends prettily snatched up the pretty one and bundled him away” (καλὸν καλῶς … συναρπάσαντες; 754F)—and prepares for a clandestine marriage. This leads to heated disputes in the city and in the circle of Plutarch’s philosophical friends, some of whom had invested personal interests in young Bacchon. The end of this story is a happy one. The last thing we hear about Ismenodora and Bacchon is that they are married; this event is greeted by the city with universal acclaim.</p>
+         <p>In the long dialogical parts of the treatise, many arguments are exchanged on the relative advantages and disadvantages of same‐sex relationships and conventional marriage, Plutarch clearly being in favor of the latter. The statement that is most important for us comes toward the end (763C). Here Plutarch in the double role of inner‐textual speaker and, I would say, real author explains that most of our concepts derive their internal logic and persuasion (πίστις) from three sources, that is, from myth (<italic>mythos</italic>), law (<italic>nomos</italic>), and reason (<italic>logos</italic>). This is then transferred to our thinking about the gods, which is supplied by, respectively, poets, legislators, and philosophers. Though they are often at variance among themselves on many points, all of them agree on the important role of Eros as king, ruler, and harmonizer among the gods (763D). Eminent representatives are adduced as proof in each case—Hesiod for the poets, Plato for the philosophers, and Solon for the legislators.</p>
+         <p>This is the bare outline, not more, of the so‐called <italic>theologia tripertita</italic>. The term itself seems to be modern. We could perhaps best translate it with “three genres of teaching and reflecting about the gods,” in poetry, legislation, and philosophy.3 Plutarch, a relatively minor voice within the <italic>theologia tripertita</italic> tradition, might seem like a strange place to begin in exploring the adaptation of the <italic>theologia tripertita</italic> model by Dio Chrysostom. There are, however, several reasons in favor of this approach. First, Plutarch and Dio Chrysostom are contemporaries, and both are Greek. Our main source for the <italic>theologia tripertita</italic> is in Latin, as we will see in the next paragraph. Plutarch is most probably not dependent on the Latin material and thus helps to demonstrate the Greek origin of this concept.4 Second, Plutarch is a Middle Platonic thinker. Earlier scholars tended to claim the origin of the <italic>theologia tripertita</italic> for Stoicism.5 The usual suspects are brought forward, that is, Panaetius or Poseidonius, the two leading Stoic philosophers of Hellenistic times.6 In truth, there is nothing specifically Stoic about this doctrine. Although the various components were not yet integrated, the individual parts are already found in the theological reflections of Plato and Aristotle, before Stoicism came into existence.7 Third, Plutarch provides a fine demonstration of a move that is followed by most authors who make use of the tripartite theology: they shape the model according to the individual context, with their own rhetorical aims constantly in mind. Remember that, starting with the biographical frame, nearly everything in Plutarch’s treatise is about marriage and love. Throughout, philosophical reflection and advice,8 mythic tales (both traditional9 and poetic10) and public ritual,11 and state legislation12 are exploited to this end. Here the theology in three parts comes in as a very convenient summary.</p>
+         <p>There are some other points that need our consideration and should equally be kept in mind. One of the speakers claims that legislation on marriage is for the masses only and not for the happy few (750C). For Plutarch, on the contrary, the traditional “faith of our fathers” is the firm and common basis of true piety (756B). It is risky to excessively insist on rational evidence for each and every god and rite (756D). To equate gods and passions (e.g., Aphrodite with desire, Hermes with eloquence, and Athena with wisdom) would lead to an “abyss of atheism” (757B–C). The subtext here is allegorical exegesis of mythical tales. But religion has its dark sides too. It might lead to superstition (756C) and magical practices (alluded to in 752C).13 The epistemological status of myth generally is somewhat precarious. Plutarch introduces a string of mythical examples by stating, “If there is ever any use for proof from myths too” (761E). It is advisable neither fully to believe nor altogether to disbelieve them; they might just touch at the truth.14 But we are on much firmer ground when we try to reach truth through Plato’s philosophy (762A). Finally, it is noteworthy that the triadic pattern can be overlaid by binary oppositions, when, for example, poets and legislators on the one side close ranks against philosophers on the other side (763D). Here we may see the much older antithesis of <italic>nomos</italic> (law) and <italic>physis</italic> (nature) or of <italic>thesis</italic> (convention) and <italic>physis</italic> still at work, which has been seen by some as the place of origin of the tripartite theology.15</p>
+         <fn-group>
+            <fn id="fn2">
+               <label>1</label>
+               <p>In Latin the title is <italic>Amatorius</italic>, in Greek 'Ερωτικός. For the text, with German translation, commentary, and further bibliography, see Herwig Görgemanns, Barbara Feichtinger, Fritz Graf, Werner Jeanrond, and Jan Opsomer, <italic>Plutarch: Dialog über die Liebe</italic>/<italic>Amatorius</italic>, Scripta Antiquitatis Posterioris ad Ethicam Religionemque pertinentia 10 (Tübingen: Mohr Siebeck, 2006); an innovative reading of the treatise is provided by Frederick E. Brenk, “All for Love: The Rhetoric of Exaggeration in Plutarch’s <italic>Erotikos</italic>,” in Luc Van der Stockt, <italic>Rhetorical Theory and Praxis in Plutarch</italic>, Collection d’Études Classiques (Louvain: Éditions Peeters, 2000), 45–60; see also Herwig Görgemanns, “Eros als Gott in Plutarchs ‘Amatorius,’” in <italic>Gott und die Götter bei Plutarch: Götterbilder—Gottesbilder—Weltbilder</italic>, ed. Rainer Hirsch‐Luipold, Religionsgeschichtliche Versuche und Vorarbiten 54 (Berlin: de Gruyter, 2005), 169–95.</p>
+            </fn>
+            <fn id="fn3">
+               <label>2</label>
+               <p>Section 771C seems to refer to the fall of the Flavian house with the death of Domition in 96 CE; sec. 771B (at the end) could allude to a war in Egypt that took place in 116–17 CE; see the note in W. C. Hembold, “The Dialogue on Love,” in <italic>Plutarch’s Moralia in Sixteen Volumes</italic>, vol. 9, Loeb Classical Library (Cambridge, MA: Harvard University Press, 1961), 438. These are anachronisms when compared to the “real time” of the dialogue somewhere between 60 and 80 CE, but this “date” is of course completely fictitious; see the note of Donald A. Russell, “Eroticus,” in his <italic>Plutarch: Selected Essays and Dialogues</italic>, World’s Classics (Oxford: Oxford University Press, 1993), 381. On a late date for the treatise, see also Robert Flacelière, “Dialogue sur l’amour,” in <italic>Plutarque: Œuvres morales</italic>, ed. Robert Flacelière, vol. 10, Collection des Universités de France (Paris: Les Belles Lettres, 1980), 7–11.</p>
+            </fn>
+            <fn id="fn4">
+               <label>3</label>
+               <p>On this topic, see esp. Jean Pépin, <italic>Mythe et allégorie: Les origines grecques et les contestations judéo‐chrétiennes</italic>, 2nd ed. (Paris: Études augustiniennes, 1976), 13–32, 276–392; and Godo Lieberg, “Die ‘theologia tripartita’ in Forschung und Bezeugung,” <italic>Aufstieg und Niedergang der römischen Welt</italic>, ser. 1, vol. 4 (1973): 63–115, and “Die theologia tripartita als Formprinzip antiken Denkens,” <italic>Rheinisches Museum für Philologie</italic> 125 (1982): 25–53 (in English as “The <italic>Theologia Tripartita</italic> as an Intellectual Model in Antiquity,” in <italic>Journal of Indo‐European Studies</italic>, Monograph Series no. 4, <italic>Essays in Memory of Karl Kerényi</italic>, ed. Edgar C. Polomé [Washington, DC: Institute for the Study of Man, 1984], 91–115).</p>
+            </fn>
+            <fn id="fn5">
+               <label>4</label>
+               <p>As does somewhat earlier Strabo, who completed his voluminous <italic>Geographica</italic> probably in 7 BCE. He has an excursus on our topic in 1.2.8: cities and states made use of myths long before the poets did. Mythic tales are for children but also for the uneducated masses. Religious fear (δεισιδαιμονία) is needed to keep them in check (cf. Polybius 6.56.6–12). Philosophy is only for the few. Of interest for us is that Strabo mentions paintings and statues and also alludes to the theater.</p>
+            </fn>
+            <fn id="fn6">
+               <label>5</label>
+               <p>The Stoic notions in the <italic>Amatorius</italic> are overemphasized by Pépin, <italic>Mythe et allégorie</italic>, 290–91. From about the same time as Plutarch comes the handbook of Aetius, <italic>De placitis philosophorum</italic>, which is partly transmitted in the corpus of Plutarch’s writings. Aetius gives a short summary of the <italic>theologia tripertita</italic> in 1.6; it is taken as Stoic in <italic>Stoicorum Veterum Fragmenta</italic> (<italic>SVF</italic>) II, 1009 (300, lines 8–12), but this may be a later gloss.</p>
+            </fn>
+            <fn id="fn7">
+               <label>6</label>
+               <p>By way of an example, I quote Hermann Binder, <italic>Dio Chrysostomus und Posidonius: Quellenuntersuchungen zur Theologie des Dio von Prusa</italic>, Diss. phil., Tübingen (Borna‐Leipzig: Noske, 1905), 13–46; ample additional references are found in Lieberg, “Die ‘theologia tripertita’ in Forschung und Bezeugung,” esp. 65–80.</p>
+            </fn>
+            <fn id="fn8">
+               <label>7</label>
+               <p>On Plato and Aristotle, see the much ignored contribution by Günter Pasorek, “Eine historische Notiz zur Scheidung von ‘theologia civilis’ und ‘naturalis,’” in <italic>Symmicta Philologica Salisburgensia: Georgio Pfligersdorffer Sexagenario Oblata</italic>, ed. Joachim Dalfen et al. (Rome: Edizioni dell’Atteneo, 1980), 87–103, 102, in which he correctly notes: “Mythos, Nomos und (natur)‐philosophische Gotteserkenntnis treten hier [i.e., in Plato and Aristotle] zu jenem Dreieck zusammen, wie es später wiederholt Grundriß der Beschäftigung mit dem Religiösen wurde.”</p>
+            </fn>
+            <fn id="fn9">
+               <label>8</label>
+               <p>See 749C: passing their time with philosophical discussions; 751E: the calm sea of marriage and philosophy; see also the quotation drawn from Empedocles (756D–E), Parmenides (756E–F), Chrysippus (757B), and esp. Plato on enthusiasm (758D–E). Socrates is mentioned in 762D. The Epicureans get their fair share of criticism, as usual (765C, 766E, 767C, 769F). In 759D, we find a Cynic slogan.</p>
+            </fn>
+            <fn id="fn10">
+               <label>9</label>
+               <p>See the series of gods mentioned in 757D and 758A–B, or the description of Ares in 757A–C; see also the mention of tales about Alcestis, Orpheus, and Eurydice in 761E–F.</p>
+            </fn>
+            <fn id="fn11">
+               <label>10</label>
+               <p>See 750C; 751B: a proscription by Solon; 754D; 755D: law and order; 769A: Solon on marriage; 770A.</p>
+            </fn>
+            <fn id="fn12">
+               <label>11</label>
+               <p>See the shrine of the Muses and the festival in honor of Eros in 748F. Orgiastic oriental cults are seen with some reservation; see 756C, 758E–F, 758B. Language of the mystery cults is used prominently in 761F–762A and also in 765A and 766B.</p>
+            </fn>
+            <fn id="fn13">
+               <label>12</label>
+               <p>Hesiod is quoted in, e.g., 753A and 756F; Euripides in 756B–C; Sophocles in 757A and 761F; Homer in 759A; a not very well known poet Dionysius (of Corinth?) in 761B; and Sappho in 762F‐763A; see also the passage on poetic imagination in 759C and on the superiority of poetry compared with prose in 769C.</p>
+            </fn>
+            <fn id="fn14">
+               <label>13</label>
+               <p>Δεισιδαιμονία; see Plutarch’s early treatise <italic>De superstitione</italic> (<italic>Moralia</italic> 164E–171E).</p>
+            </fn>
+            <fn id="fn15">
+               <label>14</label>
+               <p>Compare the comment on Egyptian mythology that contains faint particles of truth scattered around, in 762A; tracking them down, which needs, still according to 762A, a clever pursuer, is of course a task that Plutarch has set himself in <italic>De Iside et Osiride</italic> (<italic>Moralia</italic> 351C‐384B).</p>
+            </fn>
+            <fn id="fn16">
+               <label>15</label>
+               <p>See, e.g., Werner Jaeger, <italic>The Theology of the Early Greek Philosophers</italic>, Gifford Lectures 1936 (Oxford: Clarendon, 1947), 2–3. That <italic>nomos</italic> connotes legislation is clear, but poets also were seen as servants of this law, transmitting it to the people and “customizing” it for them; physics and metaphysics were regarded as parts of philosophy.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc2">
+         <label>II. </label>
+         <title>Major Sources: Augustine and Varro</title>
+         <p>To fill out this basic picture we must turn to a more extended testimony. Remarkably, the main witness for the tripartite theology is Augustine in his monumental <italic>The City of God</italic>.16 He in turn relies on Marcus Terentius Varro (116–27 BCE), arguably the most learned Roman of his time, who, says Augustine with grudging admiration, “read so much that we are surprised that he found some spare time to write; he wrote so much that scarcely anybody, I believe, could read it all” (<italic>Civ.</italic> 6.2). Varro’s lost encyclopedia, <italic>Antiquitates rerum (humanorum et) divinarum</italic>, a title that we might loosely translate as “Ancient (Roman) Notions of Things Divine Reported and Explained,” can be partly reconstructed from Augustine’s extensive quotes.17</p>
+         <p>Already following Varro, Augustine in book 4 first refers to Quintus Mucius Scaevola, <italic>pontifex maximus</italic> since 89 BCE, who spoke of three kinds of gods handed down to us by the poets, the philosophers, and the statesmen (<italic>Civ.</italic> 4.27).18 Scaevola does not like the poetic variety, since the poets tell too many scandalous tales of the gods, and he is rather skeptical about the philosophical type, because it might harm the simple folks.19 He is, however, fully in favor of the civic cults, which we would expect from a high state official. Yet, <italic>simulacra</italic>, that is, images of the gods, seem to have been a problem for him even within the state cult (see also <italic>Civ.</italic> 4.30). This notion is even more explicit in Varro himself, who maintains that for the first 170 years the Romans did not use images in worship (<italic>Civ.</italic> 4.31; cf. 7.5); their cult was aniconic. For Dio Chrysostom this will become a problem of highest importance. Augustine for his part focuses almost to the point of obsession on the stage, the amphitheater, and the circus, where the mythical tales are reproduced for the audience.20 In a rhetorical apostrophe, he addresses his source authority: “O Scaevola, <italic>pontifex maximus</italic>, if you can, do away with the plays” (4.27).21</p>
+         <p>Augustine reserves books 6 and 7 for his dispute with Varro (see also <italic>Civ.</italic> 3.4). His own perspective is clear from the beginning. If the most learned (<italic>doctissimus</italic>) Varro had intended to prove that all these divine things belong not to religion but to the ridiculous, he could not have done better than he actually did (<italic>Civ.</italic> 6.2). This, unfortunately, makes it difficult to clearly distinguish between Augustine’s perspective and Varro’s own.</p>
+         <p>In book 6, we find two summaries of the <italic>theologia tripertita</italic> no longer understood as “kinds of gods” as in Scaevola but more as approaches to the teaching about gods, to their reception by different audiences, and even as ways of introducing them to humanity. The summary in 6.5 speaks of three kinds of theology, one called <italic>mythicon</italic>, one <italic>physicon</italic>, and the third one not, as we might expect, <italic>politicon</italic>, but <italic>civile</italic> (Tertullian has <italic>gentile</italic>). The second instance in 6.12 first uses Greek forms throughout: <italic>mythicen physicen politicen</italic>; but Latin translations are supplied too, namely, <italic>fabulosa naturalis civilis</italic>. Let us take a closer look at each of the three types in turn.</p>
+         <p>The mythical or fabulous theology belongs to the poets and is chiefly suited to the theater (6.5). This idea was not new. We learn from Herodotus (2.53) that Hesiod and Homer “taught the Greeks the genealogies of the gods, gave them their names, distributed honors and offices among them, and described their outward appearance.” The tales of the poets are enacted by players on stage.22 If we look for a place for visual representations of the gods, primarily in statuary, it would certainly be found here, with mythical theology.23</p>
+         <p>Physical or natural theology is done by philosophers and corresponds to the universe. This comes as no surprise either. Physics and metaphysics were carried on by philosophers since at least the days of the pre‐Socratics. Philosophy is the traditional setting for reflection on the origin and nature of the divine as well as critical reflection on these topics. On anthropomorphic representation of the deity, for example, the pre‐Socratic philosopher Xenophanes had already made the biting comment that oxen, horses, and lions, if they had hands and the ability to do it, would produce statues of gods conforming to their own image.24</p>
+         <p>Political or civil theology is used by the people through the mediation of statesmen and priests; it functions within city and state. Especially in Rome, statesmen and priests were more or less the same persons. Scaevola, whom we have already mentioned, had been quaestor, tribune, aedilis, praetor, consul, and governor of Asia Minor before he became <italic>pontifex maximus</italic>. New is the insight that civil theology deals not only with religious law but also with public cult and ritual, holidays and festivals, temple service and personnel, augury and divination, and so on; all these phenomena are given to the realm of civil theology.25 Like the law that governs it, these issues belong to the daily life of the people in the city. That is again especially true for Roman religion, with its strong focus on official orthopraxy.26</p>
+         <p>Varro, to whom we have listened so far, had done his own share of civic and military duties, as tribune, quaestor, praetor, and commander of a fleet and a legion. His main interest was in political theology. In what he saw as a time of decay, he wanted to save traditional Roman piety and its practices, for the good of the city and the state. There is more, however, to his thought (at this point we are most probably still following Varro and not yet Augustine). Varro was no special friend of mythical theology.27 His personal preference clearly lay with a philosophical approach to religion, informed by the Academy, which had undergone a fair amount of Stoic influence by his time. “God” for Varro really means the reasonable soul that governs the universe (see <italic>Civ.</italic> 4.31, 7.5). But this truth is only for the few, not for the many (6.5: it should be kept “within the walls of a school” and is not apt “for the marketplace”; cf. 4.31).</p>
+         <p>There exists only one way that leads from the mythical tales and the civic cults to a philosophically informed view of religion, and this is allegorical exegesis.28 By applying it, the myths and the rites are reduced to natural phenomena. Jupiter symbolizes light, fiery air; Juno, dark, heavy air (see <italic>Civ.</italic> 4.10); Tellus, earth; Neptune, water; and so on. Varro seems to have made ample use of this basically Stoic strategy. Book VII of <italic>The City of God</italic> is full of examples in which the Roman gods are so explained. Notably, the technical term for this kind of exegesis, “physiological,” is here employed.29 In the end, the triad is transformed into a dual structure, with poetic and civic theology, tailored for the many, on the one hand, and philosophical theology, addressing the few, on the other. Allegory serves as a kind of bridge leading from one side to the other. In this respect, Varro might well be a prime example of an educated person dealing in a sincere way with some rather troubling questions who found a personally satisfying solution.</p>
+         <p>What Augustine does with this construct, sometimes by fair, sometimes by unfair means, is pretty predictable. He accuses Varro of cheating the people (<italic>Civ.</italic> 4.27), of not being completely candid (4.31),30 and of giving in to undue pressure of custom and law (6.2). Already in Augustine, Varro becomes an enlightened philosopher before his time, with a slightly cynical attitude toward traditional religion, which he nevertheless defends in the interest of law and order as the only means of keeping the masses at bay.31 But Augustine also has a keen eye for the fact that the three theologies are finally conflated into one by Varro, that is, into a philosophically grounded view of the divine in nature that is expressed more or less adequately by the different types of theology (see <italic>Civ.</italic> 8.5).32 We cannot go any deeper into this fascinating topic, but the broader picture that we have painted so far will help us to locate more precisely Dio Chrysostom’s contribution to the topic.</p>
+         <fn-group>
+            <fn id="fn17">
+               <label>16</label>
+               <p>The Latin text used here is that of Bernard Dombart and Alfons Kalb, <italic>Sancti Aurelii Augustini Episcopi De Civitate Dei, libri I–X</italic>, Corpus Christianorum, Series Latina 47 (Turnhout: Brepols, 1955; hereafter cited in the text as <italic>Civ.</italic>). On our special topic see Albrecht Dihle, “Die Theologia tripertita bei Augustin,” in <italic>Geschichte—Tradition—Reflexion: Festschrift für Martin Hengel zum 70. Geburtstag</italic>, vol. 2, <italic>Griechische und Römische Religion</italic>, ed. Hubert Cancik (Tübingen: Mohr Siebeck, 1996), 183–202.</p>
+            </fn>
+            <fn id="fn18">
+               <label>17</label>
+               <p>See the collection of fragments by Burkart Cardauns, <italic>M. Terentius Varro: Antiquitates Rerum Divinarum, </italic>vol. 1<italic>, Die Fragmente</italic>, Abhandlungen der Akademie der Wissenschaften und der Literatur in Mainz, Geistes‐ und Sozialwissenschaftliche Klasse 1 (Wiesbaden: Franz Steiner, 1976). On the <italic>theologia tripertita</italic> in Varro, see Pierre Boyancé, “Sur la théologie de Varron,” <italic>Revue des études anciennes</italic> 57 (1955): 57–84; Jean Pépin, “La ‘théologie tripartite’ de Varron: Essai de reconstitution et recherche des sources,” in <italic>Mémorial Gustave Bardy</italic>, <italic>Revue des études augustiniennes</italic> 2 (1956): 265–94; Heinrich Dörrie, “Zu Varros Konzeption der theologia tripertita in den Antiquitates rerum divinarum,” in <italic>Beiträge zur altitalischen Geistesgeschichte: Festschrift Gerhard Radke</italic>, ed. Ruth Altheim‐Stiehl and Manfred Rosenbach, Fontes et Commentationes 2 (Münster: Aschendorff, 1986), 76–81; Yves Lehmann, <italic>Varron théologien et philosophe romain</italic>, Collection Latomus 237 (Brussels: Latomus, 1997), 193–225.</p>
+            </fn>
+            <fn id="fn19">
+               <label>18</label>
+               <p>According to Burkart Cardauns (<italic>Marcus Terentius Varro: Einführung in sein Werk</italic>, Heidelberger Studienhefte zur Altertumswissenschaft [Heidelberg: Winter, 2001], 57, 73–4), Augustine takes this reference to Scaevola from Varro’s <italic>Logistoricus Curio de culto deorum</italic>, not from his <italic>Antiquitates</italic>, the latter being the more common opinion; cf. Harald Hagendahl, <italic>Augustine and the Latin Classics</italic>, Studia Graeca et Latina Gothoburgensia 20 (Stockholm: Almqvist &amp; Wiksell, 1967), 619–20.</p>
+            </fn>
+            <fn id="fn20">
+               <label>19</label>
+               <p>Among other things by a euhemeristic explanation of the origin of gods: they were men of old, only later deified (<italic>Civ.</italic> 4.27; cf. 6.7, 7.18).</p>
+            </fn>
+            <fn id="fn21">
+               <label>20</label>
+               <p>See <italic>Civ.</italic> 4.31: <italic>ludos scaenicos</italic> in Varro.</p>
+            </fn>
+            <fn id="fn22">
+               <label>21</label>
+               <p>He does this also several times with Varro; see <italic>Civ.</italic> 6.6; 7.5, 22.</p>
+            </fn>
+            <fn id="fn23">
+               <label>22</label>
+               <p>
+                  <italic>Civ.</italic> 6.7: <italic>theologia fabulosa theatrica scaenica</italic>; cf. Dörrie, “Zu Varros Konzeption,” 79: “denn sie [i.e., mythical theology] spricht vorzugsweise aus der Tragödie. Somit wirkt sie nicht nur auf ein Lesepublikum, sondern sie kommt, eindringlicher als durch bloße Lektüre, dann zum Tragen, wenn man tragische Aufführungen miterlebt.”</p>
+            </fn>
+            <fn id="fn24">
+               <label>23</label>
+               <p>
+                  <italic>Civ.</italic> 6.7: “Quid enim aliud ostendunt illa simulacra formae aetates sexus habitus deorum?”</p>
+            </fn>
+            <fn id="fn25">
+               <label>24</label>
+               <p>
+                  <italic>Die Fragmente der Vorsokratiker</italic>, vols. 1–3, ed. H. Diels and W. Kranz, 6th ed. (Berlin: Weidmann, 1951–52), B 15, from Clement of Alexandria, <italic>Stromateis</italic> 5.109.3; see also his criticism of Homer and Hesiod on the gods in Diels and Kranz, <italic>Die Fragmente</italic>, 21 B 11–12, from Sextus Empiricus, <italic>Adversus mathematicos</italic> 9.193; 1.289; see the mention of Xenophanes by Varro in <italic>Civ.</italic> 7.17.</p>
+            </fn>
+            <fn id="fn26">
+               <label>25</label>
+               <p>
+                  <italic>Civ.</italic> 6.5: “In quo est, quos deos publice colere, quae sacra et sacrificia quemque par sit.”</p>
+            </fn>
+            <fn id="fn27">
+               <label>26</label>
+               <p>“Official orthopraxy” is the term used in Charles King, “The Organization of Roman Religious Beliefs,” <italic>Classical Antiquity</italic> 22 (2003): 275–312, 297.</p>
+            </fn>
+            <fn id="fn28">
+               <label>27</label>
+               <p>See <italic>Civ.</italic> 6.5: mythical theology, “quam libere a se putavit esse culpandam.”</p>
+            </fn>
+            <fn id="fn29">
+               <label>28</label>
+               <p>This point is forcefully made by Pépin, <italic>Mythe et allégorie</italic>, 323–65; on the following, see also the precise summary of Varro’s theology in Cardauns, <italic>M. Terentius Varro</italic>, 242–44.</p>
+            </fn>
+            <fn id="fn30">
+               <label>29</label>
+               <p>
+                  <italic>Civ.</italic> 7.5: <italic>interpretationes physicas</italic> or, somewhat later in the same chapter, <italic>physiologicas</italic>; <italic>Civ.</italic> 7.27: <italic>physiologias</italic>. It is interesting that Basil Studer (<italic>Schola christiana: Die Theologie zwischen Nizäa [325] und Chalzedon [451]</italic> [Paderborn: Ferdinand Schöningh, 1998]), who uses the <italic>theologia tripertita</italic> as a pattern for structuring his Christian material, identifies <italic>theologia naturalis</italic> (33) and <italic>theologia allegorica</italic> (316).</p>
+            </fn>
+            <fn id="fn31">
+               <label>30</label>
+               <p>In <italic>Civ.</italic> 6.10, Augustine contrasts this with the frankness of Seneca, as he perceives it.</p>
+            </fn>
+            <fn id="fn32">
+               <label>31</label>
+               <p>See the corresponding observation of Cotta in Cicero’s <italic>De Natura Deorum</italic> (hereafter <italic>Nat. Deor.</italic>) 1.77.</p>
+            </fn>
+            <fn id="fn33">
+               <label>32</label>
+               <p>Glenn W. Most (“Philosophy and Religion,” in <italic>The Cambridge Companion to Greek and Roman Philosophy</italic>, ed. David Sedley [Cambridge: Cambridge University Press, 2003], 300–322, 308) attributes a further task to Varro’s <italic>theologia tripertita</italic>, namely, to immunize the institutions of the city “against any corrosive impact which might otherwise have derived from philosophical speculation about the true nature of divinity.”</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc3">
+         <label>III. </label>
+         <title>A Special Configuration: Dio Chrysostom’s <italic>Olympic Oration</italic>
+         </title>
+         <sec id="sc3.1">
+            <label>A. </label>
+            <title>Setting the Scene</title>
+            <p>Dio’s “<italic>Olympian Oration</italic> deserves to be better known than it is”;33 this judgment of 1962 still holds true. Dio of Prusa, also called “Chrysostom,” that is, gold‐mouthed, because of his rhetorical abilities, was considered the best orator of the late first and early second century CE. He also was a philosopher in his own right, Stoic by orientation, with occasional sympathies for a Cynic style of life, which were further provoked by his experience of being exiled under Domitian.34 In 105 CE, less likely in 97 CE or 101 CE, he delivered a speech at Olympia during the Olympic Games that in the manuscripts has the title <italic>Olympic Oration</italic> (<inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+${'}\rm O $
+\end{document}</tex-math>
+               </inline-formula>λυμπικός; hereafter <italic>Or.</italic> 12);35 the subtitle reads “Or on the first knowledge of god” (ἢ περὶ τῆς πρώτης τοῦ θεοῦ ἐννοίας). Even if title and subtitle are additions by the ancient editors of Dio’s speeches, we should expect some theological reflection, and we will not be disappointed.</p>
+            <p>The scenic setting is highly relevant for the content of the speech. We should imagine Dio, the speaker, standing on the steps that lead to the temple of Zeus at Olympia. The doors are opened on this occasion, and looking from the outside into the interior, the audience can see the larger‐than‐life statue of Zeus sitting on his throne and reaching with his head to the tiles. His statue consisted of ivory and gold. It had been fashioned in the fifth century BCE by the famous Athenian sculptor Pheidias and was considered one of the Seven Wonders of the World. A contemporary of Dio, the Roman rhetorician Quintilian remarks of this statue that “its beauty even seems to have added something to the received religion, so much did the majesty of the work equal that of the god.”36 Following the completion of the statue, one’s mental image of Zeus would bear the traits provided by Pheidias (see <italic>Or.</italic> 12.53). Though devoid of a true choice concerning his subject matter on this occasion, Dio plays with the notion of a legitimate decision to be made in 12.21: Should I describe my journey to the Dacians, from which I just returned, or should I engage you in the history of this god? In this setting, with Zeus breathing down your neck, the answer is obvious, and the question of the anthropomorphic representation of the deity simply must arise.</p>
+            <fn-group>
+               <fn id="fn34">
+                  <label>33</label>
+                  <p>Bruce F. Harris, “The Olympian Oration of Dio Chrysostom,” <italic>Journal of Religious History</italic> 2 (1962): 85–97, 85; see also the praise of this speech in the groundbreaking study of Hans von Arnim, <italic>Leben und Werke des Dio von Prusa, mit einer Einleitung: Sophistik, Rhetorik, Philosophie in ihrem Kampf um die Jugendbildung</italic> (1898; repr., Berlin: Weidmann, 2004), 477: “Insofern gehört die Olympica … zu den wichtigsten Denkmälern der antiken Religionsgeschichte.”</p>
+               </fn>
+               <fn id="fn35">
+                  <label>34</label>
+                  <p>Dio’s most extensive autobiographical comments on his exile are found in his <italic>Or</italic>. 13; on this important text, see also the illuminating studies by John Moles, “The Thirteenth Oration of Dio Chrysostom: Complexity and Simplicity, Rhetoric and Moralism, Literature and Life,” <italic>Journal of Hellenic Studies</italic> 125 (2005): 112–38; and Christiane Krause, <italic>Strategie der Selbst</italic>
+                     <italic>in</italic>
+                     <italic>szenie</italic>
+                     <italic>rung: Das rhetorische Ich in den Reden Dions von Prusa</italic>, Serta Graeca 16 (Wiesbaden: Reichert, 2003), 37–59.</p>
+               </fn>
+               <fn id="fn36">
+                  <label>35</label>
+                  <p>For the Greek text, see Hans von Arnim, <italic>Dionis Prusaensis quem vocant Chrysostomum quae exstant omnia</italic>, vol. 1 (1893; repr., Berlin: Weidmann, 1962), 155–79; Donald A. Russell, <italic>Dio Chrysostom: Orations VII, XII and XXXVI</italic>, Cambridge Greek and Latin Classics (Cambridge: Cambridge University Press, 1992), 62–88; see also the text with German translation, commentary, and full bibliography in Hans‐Josef Klauck, <italic>Dion von Prusa: Olympische Rede oder Über die erste Erkenntnis Gottes</italic>, Scripta Antiquitatis Posterioris ad Ethicam Religionemque pertinentia 2, 2nd ed. (Darmstadt: Wissenschaftliche Buchgesellschaft, 2002); for an edition in Greek and English, see J. W. Cohoon, <italic>Dio Chrysostom</italic>, vol. 2, <italic>Discourses 12–30</italic>, Loeb Classical Library (Cambridge, MA: Harvard University Press, 1939), 2–87. See also the following more detailed studies: Ileana Chirassi, “Il significato religiose del XII discorso di Dione Crisostomo,” <italic>Rivista di cultura classica e medioevale</italic> 5 (1963): 266–85; Margaretha Mortenthaler, “Der Olympikos des Dion von Prusa als literarhistorisches und geistesgeschichtliches Dokument” (Diss. phil., University of Vienna, 1979); Paolo Desideri, “Religione e politica nell’Olimpico di Dione,” <italic>Quaderni Storici</italic> 15 (1980): 141–61; Andrew Sprague Becker, “The <italic>Theologia Tripertita</italic> in Dio Chrysostom’s Olympian Oration,” <italic>Classical World</italic> 87 (1993): 67–71; Giuseppina Alessandra Cellini, “La fortuna dello Zeus di Fidia: Considerazioni intorno al λόγος ὀλυμπικός di Dione Crisostomo,” <italic>Miscellanea greca e romana</italic> 19 (1995): 101–32; Hans Dieter Betz, “Paraenesis and the Concept of God According to <italic>Oratio</italic> XII (Olympikos) of Dio of Prusa,” in <italic>Early Christian Paraenesis in Context</italic>, ed. James M. Starr and Troels Engberg‐Pedersen, Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 125 (Berlin: de Gruyter, 2004), 217–34, “God Concept and Cultic Image: The Argument in Dio Chrysostom’s <italic>Oratio 12 (Olympikos)</italic>,” <italic>Illinois Classical Studies</italic> 29 (2004): 131–42.</p>
+               </fn>
+               <fn id="fn37">
+                  <label>36</label>
+                  <p>Quintilian, <italic>Institutio Oratoria</italic> 12.10.9: “cuius pulchritudo adiecisse aliquid etiam receptae religioni videtur, adeo maiestas operis deum aequavit.”</p>
+               </fn>
+            </fn-group>
+         </sec>
+         <sec id="sc3.2">
+            <label>B. </label>
+            <title>Identifying the Elements of the Tripartite Theology</title>
+            <p>Dio opens the body of his argument in 12.27 with the remarkable statement: “About the nature of the gods in general and of that of the ruler of all (i.e., Zeus) in particular, (there exist) first and above all an opinion and idea that is common to the whole human race, to Greeks and barbarians alike, necessary and implanted in every being endowed with reason, resulting from nature.”37 This then is the first knowledge of god, as announced in the subtitle of the speech. Impressive as it sounds. there is an extended footnote to it in the following paragraphs. This first, innate notion on its own is a concept without content—in Kantian terms, <italic>Begriff</italic> without <italic>Anschauung</italic>. It functioned originally as a kind of instrument for the structuring of sensual perception. The Greek philosophical term for this would be πρόληψις,38 and Dio indeed uses the related expression ὑπόληψις several times.39 At least for primordial man, the idea of god began to take full shape only in constant interaction with surrounding nature. Dio labors on this point for some time. These first human beings grew up in close contact with the divine being, which demonstrated its presence by the spectacular sights in heaven (e.g., sun, moon, and stars) and on earth (e.g., winds and woods, rivers and forests). Early humans detected the beauty of their voice and invented language (<italic>Or.</italic> 12.28). They were nourished by Mother Earth (<italic>Or.</italic> 12.29–31) and admired the perfect regularity of the seasons of the year (<italic>Or.</italic> 12.32). The résumé of this section reiterates the proposition: “The first source of the conception and perception of the divine simply is the innate idea, common to all human beings” (<italic>Or.</italic> 12.39).</p>
+            <p>The basic thesis behind this is not so novel and unheard of as it may seem. It is nothing more than the traditional axiom of the existence of the deity based on the consensus of all that is accepted by the main philosophical schools. In Cicero’s <italic>On the Nature of the Gods</italic>, Velleius, the speaker for the Epicureans, defends it, as does Balbus, the voice of the Stoics—both with words surprisingly similar to those of Dio—and Cotta, who represents the Academy, basically consents.40 This goes hand‐in‐hand with deducing the existence of the divine by contemplating the regular movements of the heavenly bodies and the forces of nature.41 Most significant for us is the fact that this form of theophany is seen in Cicero as part and parcel of philosophical discussion. Yet, up to this point in Dio’s oration he has strictly avoided connecting his first notion of god with philosophy; although in paragraph 38, still within the section on the innate notion (27–39), he does compare his digression on the mystery cults (33–34) and his invective against the Epicureans (36–37) with the unsteady course of “a philosopher’s thought and speech.”</p>
+            <p>Dio’s focus on primordial man also leaves us with the question, what about later generations? A possible answer is that they can draw on the idea once it is established. Here a second line of arguments begins. It opens at the end of 12.39 with the concession that there is a second source for the knowledge of god, this time not innate (ἔμφυτος), but acquired (ἐπίκτητος) by three means, namely, λόγοις τε καὶ μύθοις καὶ ἔθεσι, which I would translate as “by reasoning, myths, and customs.” “Myth” does not need much explanation, and “custom” is close enough to law. Thus it makes eminent sense to let λόγοις refer to the rational argument of philosophy, instead of translating it as “narrative accounts,” as Cohoon does.42 In other words, here we might find for the first time in the <italic>Olympic Oration</italic> a reference to the three parts of theology, namely, mythical tales, custom/law, and philosophical reflection.43 For the time being, however, we still have to put the last in parentheses.</p>
+            <p>Keeping track of the diverse types of theology in Dio becomes a bit confusing as one continues through the oration. He first focuses on the poets and the legislators, to whom in 12.42 he attributes the second and third input concerning the knowledge of god (i.e., second and third after the innate concept as number one in this ranking system). Therefore he can summarize in 12.44: “After having provided <italic>three</italic> sources of the perception of the divine among humans, one innate, one poetic, one legal, let us name as the <italic>fourth</italic> both plastic art and the craftsmanship of those who are experienced in the production of divine statues and images.” Here finally art comes in as a separate component, and this is followed by a very colorful description of several techniques of artisans and a list of seven big names, headed by Pheidias (44–46). We might feel that Dio completely looses the thread when he notes that in addition to the three interpreters and teachers of the knowledge about the gods we must add a fourth one, namely, the philosopher (47). But this time he counts poetry, law, and art as numbers one through three and sets the first notion of God aside for this system.44 These slight inconsistencies that have confused more than one reader are probably due to the fact that Dio uses and adapts a somewhat differently structured model. The fact that philosophy comes last does not imply a criticism. This may also be a place of honor,45 especially since Dio characterizes the philosopher as “perhaps the most reliable and perfect exegete and prophet of the divine nature” (47). That is only the more telling when we consider that Dio, in the famous <italic>Borysthenic Discourse</italic> (<italic>Or.</italic> 36.33–35), says of the poets that they are not truly initiated into the mystery rites.46 Rather, they stand outside at the doors and get some glimpses only of what is passing inside.</p>
+            <p>Before we move on to an interim assessment, we should note that Dio in 12.48 explicitly omits the legislator from further discussion. He also, curiously enough, mentions the games at Olympia and the sacrifices going on at the same time only in passing. Both would have formed part of a public, political theology. He does promise to present a foremost explanation of each of the remaining three departments: poetry, art, and philosophy. While the later parts of the speech take up art (where Pheidias is introduced) and poetry (where Homer takes the leading role), philosophy proper is not discussed (we miss, in other words, Plato). This still needs adequate explanation.</p>
+            <p>We are now in a position that allows us a preliminary summary. It should be evident that Dio knew the <italic>theologia tripertita</italic> in a form quite similar to the one that we found in Varro and Plutarch. He adapted it to his own goals by transforming it into a structure with five components or better, with one leading component and four others. To do so, he performed some surgery on the pattern. He made two major cuts. He separated poetry and art, which traditionally were both subsumed under the umbrella term “mythical theology.” He also divided religious philosophy into the fundamental construct of an innate knowledge of god and philosophy proper. The theory of an innate perception, broadly dealt with in the first part of the argument, clearly represents a fundamental form of philosophical cosmology. What then is left in Dio for philosophy in a more narrow sense? We might feel inclined to say λόγος, that is, rational argument and reasoning, yet this remains to be seen.</p>
+            <fn-group>
+               <fn id="fn38">
+                  <label>37</label>
+                  <p>On the continuation of this sentence and its textual problems, see the appendix.</p>
+               </fn>
+               <fn id="fn39">
+                  <label>38</label>
+                  <p>See Cicero, <italic>Nat. Deor.</italic> 1.43, where he speaks in Latin of “some anticipation of gods” and refers to the Greek πρόλημψις (that he is translating by <italic>anticipatio</italic>) to Epicurus.</p>
+               </fn>
+               <fn id="fn40">
+                  <label>39</label>
+                  <p>In <italic>Or.</italic> 12.39, 40, 44; cf. 17.1.</p>
+               </fn>
+               <fn id="fn41">
+                  <label>40</label>
+                  <p>See Cicero, <italic>Nat. Deor.</italic> 1.44 (Velleius): “intellegi necesse est esse deos”; 1.65 (Cotta): “concedo esse deos”; 2.12 (Balbus): “omnibus enim innatum est et in animo quasi insculptum esse deos”; cf. 3.7; see also Cicero, <italic>Tusc.</italic> 1.30: omnes tamen esse vim et naturam divinam arbitrantur … omni autem in re consensio omnium gentium lex naturae putanda est.” Compare Pierre Boyancé, “Les preuves stoïciennes de l’existence des Dieux d’après Ciceron,” <italic>Hermes</italic> 90 (1962): 45–71.</p>
+               </fn>
+               <fn id="fn42">
+                  <label>41</label>
+                  <p>Cicero, <italic>Nat. Deor.</italic> 2.4, 15; cf. Pseudo‐Aristotle, <italic>De Mundo</italic> 399a, lines 1–30.</p>
+               </fn>
+               <fn id="fn43">
+                  <label>42</label>
+                  <p>Cohoon, <italic>Dio Chrysostom</italic>, 43.</p>
+               </fn>
+               <fn id="fn44">
+                  <label>43</label>
+                  <p>This is a matter of dispute. I concur with Pépin, <italic>Mythe et allégorie</italic>, 292, who translates “au moyen de raisons, de récits et d’usages.” Lieberg (“Die ‘theologia tripertita’ in Forschung und Bezeugung,” 95) criticizes Pépin and argues for “Erzählungen der Dichter.”</p>
+               </fn>
+               <fn id="fn45">
+                  <label>44</label>
+                  <p>Becker (“The <italic>Theologia Tripertita</italic>”) is thus correct in maintaining that Dio, in this new numbering system, does not take the first notion of God into account.</p>
+               </fn>
+               <fn id="fn46">
+                  <label>45</label>
+                  <p>See Lieberg, “Die ‘theologia tripertita’ in Forschung und Bezeugung,” 73: “Es scheint, als ob für Dion die Philosophen am Ende der überschaubaren Epoche der Menschheitsgeschichte stünden und die Aufgabe hätten, die in der Urzeit spontan und intuitiv entstehende Erkenntnis des Göttlichen in rationaler Bewusstheit mit der Kraft des Logos lehrhaft zu vermitteln.”</p>
+               </fn>
+               <fn id="fn47">
+                  <label>46</label>
+                  <p>Compare Heinz‐Günther Nesselrath, Balbina Bäbler, Maximilian Forschner, and Albert de Jong, <italic>Dion von Prusa: Menschliche Gemeinschaft und göttliche Ordnung. Die Borysthenes‐Rede</italic>, Scripta Antiquitatis Posterioris ad Ethicam Religionemque pertinentia 6 (Darmstadt: Wissenschaftliche Buchgesellschaft, 2003).</p>
+               </fn>
+            </fn-group>
+         </sec>
+         <sec id="sc3.3">
+            <label>C. </label>
+            <title>Putting Pheidias on Trial</title>
+            <p>For the final parts of his argument, Dio uses an ingenious rhetorical ploy. He puts Pheidias on trial. The tribunal is formed by all Greeks (12.49). The prosecutor admits that Pheidias has produced a wonderful image. Human visitors in their distress, when confronted with this statue, will forget all their terror and suffering (51). Beyond this accolade, the accuser does have some complaints. Was it justified to give the shape of a human being to the god? Is this still πρέπον, that is, fitting (52)? This issue is a particularly pressing one in the case of Pheidias, who has created the canonical portrait of Zeus for generation after generation of the Greeks (53). It is also a philosophical challenge for Dio, since the Stoic founding figure Chrysippus is said to have taught that god does not have human shape.47</p>
+            <p>Pheidias must deliver a defense, and he does so in a spirited apologetic speech (when Dio here makes Pheidias speak, he employs the age‐old rhetorical tool of prosopopoeia or <italic>ethopoieia</italic>, “speech‐in‐character”). His first excuse is that he is not the inventor of visual representation for Zeus in anthropomorphic forms. If someone has done this, it was the poets—above all Homer—who knew how to paint in words. Pheidias has simply translated Homer’s literary description into plastic art that comes chronologically later than poetry (56–57).48 Pheidias also provides a theoretical underpinning for his project: We give this specific shape to portraits of the divine out of pure need and lack of a better paradigm. We use the human body as a visible symbol to represent what is strictly speaking invisible and cannot be portrayed (59). Representing the divine by animals, as some barbarians do—we will think of the Egyptians—or attributing the name of god to mountains, trees, and stones (61), is no real alternative. Such would border on blasphemy.</p>
+            <p>Pheidias continues with the thesis that no one seriously maintains that it would have been better not to have any statue or imagery of the gods at all (60). Here Dio, who guides Pheidias like a puppet on a string, distorts the evidence. We only have to look at his slightly earlier contemporary Pliny the Elder, who comments, “I consider the search for a likeness (<italic>effigiem</italic>) of god a sign of human imbecility. Whoever is god—if there is such a being—and in whatever part of the world, he is fully mind, fully sight, fully hearing, fully soul.”49 But this suppression of critical voices—of Stoic voices even—allows Dio to marshal through Pheidias an additional argument in favor of statues by comparison. We should look at this remarkable text in full:<disp-quote>
+                  <p>Because of the impulse towards the divine a strong desire exists in all human beings to honor and venerate the deity, by approaching and touching him, by offering sacrifices and crowning him. For just as little children, who have been torn away from father and mother and feel a terrible longing and desire, stretch often out their hands in dreams to the parents not present, thus also human beings behave towards the gods. They love them rightly because of their benefactions and our kinship with them and desire to be with them and spend time with them in every possible way. (60–61)</p>
+               </disp-quote> Stretching out your hands also is a gesture of prayer. The conclusion is that we do need some material object to fulfill this legitimate desire. By this successful comparison Dio strongly appeals to the emotions of the audience. He is arguing by pathos. But this should not lead us to ignore another implication of this moving episode. The wish to have statues at your disposition is compared to an infantile behavior (in the text, it is not just “children,” but “infant children,” νήπιοι παῖδες), not yet fully mature and somewhat dreamlike. This corresponds to the subtext of the previous paragraph: statues are only the second best option, needed in the absence of better paradigms.</p>
+            <p>Pheidias then ventures on an extended conversation with Homer, whom he even addresses directly: “O Homer, wisest of the poets, you will agree … ” (73)—a second‐level rhetorical apostrophe. Not explicitly, but implicitly he declares his own achievement superior to that of Homer. Why is this? Because some of Homer’s portraits of the god are fear inspiring and terrifying (73). Homer’s Zeus is also the god of war and thunderstorms. He flashes lightning and sends death and destruction (78). Pheidias’s statue, on the contrary, exudes pure benevolence and goodwill. His Zeus is peaceful and gentle; he serves as overseer of a united and faction‐free Greece (74). A long list of corresponding titles of Zeus is compiled from myth and poetry. He is “Father and King,” “Protector of Cities,” “Guardian of Friendship,” “Refuge of Suppliants,” and more (75). The Zeus of Pheidias, in other words, is a purer version of the Zeus than that of Homer. All traces of cruelty and harshness that are still present in some subordinate details of the canonical statue have been eliminated; only the benefactor and savior are left.50 This portrait could also stand the test of philosophical criticism of religion. No wonder that Pheidias wins the contest and his trial.</p>
+            <p>The peroration of the speech is short, but Dio has a new rhetorical device in store for us. Even the statue of Zeus is brought into action. Dio, almost imagining that Zeus is addressing the assembly, reports what he hears Zeus saying (again a clever use of prosopopoeia; according to Quintilian, “this kind of speech makes it possible to bring gods down from heaven and to raise them up from below”).51 Ironically, among other things, Zeus quotes two lines of “the very Homer who has contributed to his own conceptualization.”52 Here it is Dio, who makes “Dia” speak (“Dia” being the accusative of Zeus).53 This certainly tells us something about his self‐understanding as an itinerant orator.</p>
+            <fn-group>
+               <fn id="fn48">
+                  <label>47</label>
+                  <p>
+                     <italic>SVF</italic> II, 1021, from Diogenes Laertius 7.147: μὴ εἶναι μέντοι ἀνθρωπόμορφον; the criticism by Zeno in <italic>SVF</italic> I 264 seems more focused on buildings (ἱερά) than on statues, though the latter may be implied. The literature on this topic is immense; on Dio in particular, see Charly Clerc, <italic>Les théories relatives au culte des images chez les auteurs grecs du IIme siècle après J.‐C.</italic> (Paris: de Boccard, 1915), 194–229; Vittorio Fazzo, <italic>La giustificazione delle immagini religiose dalla tarda antichità al cristianesimo</italic>, vol. 1, <italic>La tarda antichità (con un’Appendice sull’Iconoclasmo bizantino)</italic> (Naples: Edizioni Scientifiche Italiane, 1977), 21–59; Alain Billaut, “Dion Chrysostome avait‐il une théorie de la sculpture?” <italic>Bulletin de l’Association Guillaume Budé</italic> (1999): 211–29; a valuable study on more general lines is Moshe Barasch, <italic>Icon: Studies in the History of an Idea</italic> (New York: New York University Press, 1992).</p>
+               </fn>
+               <fn id="fn49">
+                  <label>48</label>
+                  <p>See esp. <italic>Iliad</italic> 1.528–30; cf. Dio, <italic>Or</italic>. 12.26, 62.</p>
+               </fn>
+               <fn id="fn50">
+                  <label>49</label>
+                  <p>Pliny, <italic>Nat. Hist.</italic> 2.14.</p>
+               </fn>
+               <fn id="fn51">
+                  <label>50</label>
+                  <p>See Balbina Bäbler, “Der Zeus von Olympia,” in Klauck, <italic>Dion von Prusa</italic>, 222–23.</p>
+               </fn>
+               <fn id="fn52">
+                  <label>51</label>
+                  <p>Quintilian, <italic>Institutio oratoria</italic> 9.2.31.</p>
+               </fn>
+               <fn id="fn53">
+                  <label>52</label>
+                  <p>George Alexander Kennedy, <italic>The Art of Rhetoric in the Roman World, 300 B.C.–A.D. 300</italic> (Princeton, NJ: Princeton University Press, 1972), 578; for an insightful political reading of the peroration, see Simon Swain, <italic>Hellenism and Empire: Language, Classicism, and Power in the Greek World, AD 50–250</italic> (Oxford: Clarendon, 1996), 200–202.</p>
+               </fn>
+               <fn id="fn54">
+                  <label>53</label>
+                  <p>I owe this observation to John Moles, “Dio Chrysostom, Greece, and Rome,” in <italic>Ethics and Rhetoric: Classical Essays for Donald Russell on His Seventy‐fifth Birthday</italic>, ed. Doreen Innes, Harry Hine, and Christopher Pelling (Oxford: Oxford University Press, 1995), 177–192, 183 n. 23: “It is also Δίων who makes Δία speak.”</p>
+               </fn>
+            </fn-group>
+         </sec>
+         <sec id="sc3.4">
+            <label>D. </label>
+            <title>Constructing an Audience and Vindicating Philosophy</title>
+            <p>We have learned in our discussion of Plutarch and Varro that authors develop certain tendencies when using the pattern of the tripartite theology. They adapt the model to their particular contexts; they apply its components in different ways to the elite and the masses, respectively; and they reduce the triad to a dual or even unified structure. All this also holds true for Dio.</p>
+            <p>The pressures from the context of the speech’s delivery upon Dio are self‐evident. That he singles out art as a special field of theology is due to the overwhelming presence of Pheidias’s famous statue of Zeus at Olympia. Another factor is the presence of a large, pan‐Hellenic audience that even a speaker as renowned as Dio would find at the sanctuaries only on occasion of the important festivals.54 This additionally prompts him toward relevant speech and the discussion of important topics.</p>
+            <p>Dio, however, also carefully selects his own audience and constructs it by his speech.55 Often ignored is a short passage in section 43 of the <italic>Olympic Oration</italic> that is inserted just between the section on poetry and law and the section on art and philosophy:56<disp-quote>
+                  <p>Now I on my part observe that for the many (τοῖς πολλοῖς) precision is troublesome, and not the least precision in words. Their only concern is about quantity. They provide no introduction or division of the subject matter, nor do they start their speeches with any proper beginning. Instead, as the saying is, “with unwashed feet” they simply go through the obvious, bare points. Now there is no great harm in “unwashed feet” for those who go through mud and lots of filth. But an unskilled tongue becomes no small damage to those who listen. However, there is the probability that the educated persons (τοὺς πεπαιδομένους), of whom to take some notice is a worthy thing, will keep up with us and share the labour to the end, until we have settled our arguments again to a straight path, as if (coming from) some winding and rough ground.</p>
+               </disp-quote>Dio combines a sideswipe at other less skillful orators with an allusion to the apparent meandering of his own speech (see 12.16, 38). The educated few will—he adeptly maintains—follow the argument without difficulty. Dio’s performance aims at the elite, not at the vulgar crowd. This might be construed as slander, and people might take offense. Actually they do not because there is a rhetorical trick at work. Everybody in the audience is free to count himself or herself among those who are educated and understand the finer points and the subtext. Most will follow this implicit invitation. Thus the slander is turned into flattery. There is no real tension between this strategy and the final statement in 12.84 that the speech has been “fine tuned both for philosophers and for the crowd.” All listeners should be turned into philosophers by now.</p>
+            <p>This brings us to Dio’s restructuring of the tripartite theology. Dio has not only expanded it from three to five components but has also reduced it. The legislators and political theology along with them are mainly ignored. The remaining four elements fall into two pairs, with poetry and art on one side and the first knowledge of god and philosophy on the other. This leaves us in the end only with mythical theology, which is suited to the many, and natural theology as a task of philosophy, which is for the educated elite. We might ask, why did Dio split up philosophy at all? One answer might be that in his new arrangement we start and we end with philosophy.57 It lays the foundations, and it reflects on the larger more complete picture.</p>
+            <p>This also solves the other problem we had, namely, that Dio announces a leading representative of philosophy but never introduces one. The sculptor Pheidias outlines a concept of Zeus that is concordant with Stoic philosophy. His superiority compared to Homer rests on the fact that he argues the case of the philosopher. Pheidias in turn is the mouthpiece of Dio. We do not need any other top figure of philosophy when we have Dio delivering the full speech (he certainly did not suffer from false modesty). We also remember the characterization of the philosopher as “the most reliable and perfect exegete and prophet of the divine nature” in 12.47, quoted above.</p>
+            <p>This reading of the speech is confirmed by its introduction, the so‐called <italic>prolalia</italic>,58 in 12.1–15 (or 12.1–16), an entertaining piece “on a deceptively light note.”59 We hear of a drab owl and a magnificent peacock, of swans and nightingales. Dio is the owl, and he compares himself unfavorably with sophistic peacocks, poetic swans, and lyric nightingales. Yet, the birds flock to the owl, and the crowds to Dio. This strongly evokes the scenery of Athens at the times of Socrates and his battles with the sophists.60 It comes as no surprise that Socrates is mentioned by name in the <italic>prolalia</italic> in 12.14 (as is Pheidias in 12.6).</p>
+            <p>Who then is vindicated in the end, the sculptor or the philosopher, the anthropomorphic icon or serious reflection on nature and god? In some ways both are vindicated. Dio defends the icon and gives good reasons for it. This is, however, at best a half‐truth. One who wants to learn more about these sensitive issues has no choice but to turn to natural, that is, philosophical theology.</p>
+            <fn-group>
+               <fn id="fn55">
+                  <label>54</label>
+                  <p>Johannes Hahn, <italic>Der Philosoph und die Gesellschaft: Selbstverständnis, öffentliches Auftreten und populäre Erwartungen in der hohen Kaiserzeit</italic>, Heidelberger althistorische Beiträge und epigraphische Studien 7 (Stuttgart : Steiner, 1989), 144: “In der griechisch‐sprachigen Welt stellten Heiligtümer und die großen panhellenischen Festversammlungen weitere Anziehungspunkte von besonderer Ausstrahlung für etablierte Philosophen wie auch wandernde Kyniker dar.”</p>
+               </fn>
+               <fn id="fn56">
+                  <label>55</label>
+                  <p>See Martin Korenjak, <italic>Publikum und Redner: Ihre Interaktion in der sophistischen Rhetorik der Kaiserzeit</italic>, Zetemata 104 (Munich: Beck, 2000).</p>
+               </fn>
+               <fn id="fn57">
+                  <label>56</label>
+                  <p>The passage seems curious to some editors; cf. Russell, <italic>Dio Chrysostom</italic>, 190: “another methodological section, not really in place here”; he refers to Adolph Emperius (<italic>Dionis Chrysostomi opera graece</italic>, vol. 1 [Braunschweig: Westermann, 1849], 232), who transposed it to 12.26. But see H. van Herwerden (“Observationes ad novissimum textum Dionis Chrysostomi,” <italic>Mnemosyne</italic> 22 [1894]: 125–61, 141), who silently retracts his former preference of the transposing (“Ad Dionem Chrysostomum,” <italic>Hermes</italic> 7 [1873]: 72–90, 77).</p>
+               </fn>
+               <fn id="fn58">
+                  <label>57</label>
+                  <p>We find the root φιλοσοφ‐ in 12.9 (twice), 26, 38, 48, 84; comparable with the reflection in 12.43 is the remark on the true philosopher at the end of 12.48.</p>
+               </fn>
+               <fn id="fn59">
+                  <label>58</label>
+                  <p>On the genre and examples, see Mortenthaler, “Olympikos,” 9–24; Karl Mras, “Die προλαλία bei den griechischen Schriftstellern,” <italic>Wiener Studien</italic> 64 (1949): 71–81; Hans‐Günther Nesselrath, “Lucian’s Introductions,” in <italic>Antonine Literature</italic>, ed. Donald A. Russell (Oxford: Oxford University Press, 1990), 111–40.</p>
+               </fn>
+               <fn id="fn60">
+                  <label>59</label>
+                  <p>Betz, “Paraenesis and the Concept of God,” 222; see also the perceptive analysis of the <italic>prolalia</italic> in Krause, <italic>Strategie der Selbstinszenierung</italic>, 84–89.</p>
+               </fn>
+               <fn id="fn61">
+                  <label>60</label>
+                  <p>Aldo Brancacci, “Dio, Socrates, and Cynism,” in <italic>Dio Chrysostom: Politics, Letters, and Philosophy</italic>, ed. Simon Swain (Oxford: Oxford University Press, 2000), 240–60; see also Michael Trapp, “Plato in Dio,” in Swain, <italic>Dio Chrysostom</italic>, 213–39.</p>
+               </fn>
+            </fn-group>
+         </sec>
+      </sec>
+      <sec id="sc4">
+         <label>IV. </label>
+         <title>Conclusion</title>
+         <p>“They have worshipped and served the creature rather than the Creator”; this verse of Rom. 1:25 is quoted by Augustine in his lengthy argument with Varro (<italic>Civ</italic>. 4.29). Other Christian apologists, such as Tertullian61 and Eusebius,62 also interacted with this pattern. By way of conclusion, we might want to know, what about our earlier Jewish‐Christian sources?</p>
+         <p>Philo of Alexandria and the <italic>Wisdom of Solomon</italic> knew the <italic>theologia tripartita</italic>, as has recently been shown in a conclusive way.63 Both authors, Philo and the anonymous author of the book of Wisdom, contrast the tripartite theology with the first two commandments of the Decalogue: you shall not have other gods besides me and you shall not make for yourself an idol (Exod. 20:3–4; Deut. 5:7–8), which is an obvious choice. Of special interest is the long digression on pagan religion in Ws. 13–15. First the author mentions those people who mistook fire or wind or the stars of heaven for gods, amazed at their power and working (13:2–5). He concedes that they did desire to find God through their search, though they finally go astray (13:6–9). The author then offers a satirical description of the fabrication of idols of wood and clay (13:10–19; 15:7–13) and deplores the utter madness of animal worship (15:14–17). He also explains how pagan cults came into being (14:19–21) and what devastating effects they have on social, public life (14:22–31). We recognize here both the model and the logical closeness to what Paul does in Rom. 1:18–32, where the Decalogue could also form an intertextual point of reference.</p>
+         <p>When we look at the New Testament, Paul’s Areopagus speech in Acts 17 and his seminal theory of religion in Rom. 1:18–25 immediately come to mind.64 Parallels between Dio’s <italic>Olympic Oration</italic> and the Areopagus Speech, which Luke gives to Paul by prosopopoeia, have often been noted—notably by Eduard Norden in his much acclaimed study <italic>Agnostos Theos</italic>.65 In Acts 17 the Lukan Paul gets angry when confronted with a city full of idols (Acts 17:16), but then he compliments his audience for their deep religiosity (Acts 17:22) and sides with the educated among them by drawing on philosophical criticism of popular religious practice: God does not need anything (Acts 17:25), he is not like an image formed by art (Acts 17:29), and so on.</p>
+         <p>In Paul’s own voice, I quote Rom. 1:19–20: “Therefore the knowledgeable of God is manifest among them, for God has shown it to them. For the invisible things about him, that is his eternal power and divine nature, are seen from the creation of the world, when perceived intellectually through the things made, so that they are without excuse.” This should first and above all be taken at face value, though Paul in the following verses will somewhat deconstruct this concept. He also ends his invective with social vices (Rom. 1:28–32), and he has different audiences in mind, Greeks and barbarians, the wise and the foolish (Rom. 1:14). These points alone should be enough to make a comparison with our model in three parts fruitful.</p>
+         <p>I would not go so far as to maintain that Paul and Luke had a firsthand acquaintance of the tripartite theology, though this is not completely inconceivable. Yet, they do have some information about basic features of a broader religious discourse that was being carried on in several fields around them. The <italic>theologia tripertita</italic> served as a convenient tool for summarizing, ordering, and evaluating these general trends. This is a service that it can still provide for us,66 when we try to understand the multiform and colorful religious world of the first two centuries CE, in which Christianity was born.</p>
+         <fn-group>
+            <fn id="fn62">
+               <label>61</label>
+               <p>See Tertullian, <italic>Ad nationes</italic> 2.1.8‐1 and Jean‐Claude Fredouille, “La théologie tripartite, modèle apologétique (Athénagore, Théophile, Tertullien),” in <italic>Res Sacrae: Hommages à Henri Le Bonniec</italic>, ed. D. Porte and J.‐P. Néraudau, Collection Latomus 201 (Brussels: Latomus, 1988), 220–35.</p>
+            </fn>
+            <fn id="fn63">
+               <label>62</label>
+               <p>In <italic>Praeparatio evangelica</italic>, 4.1.1–4, evaluated by Pépin, <italic>Mythe et allégorie</italic>, 293–96; Lieberg, “Die theologia tripartita als Formprinzip,” 47–53; in Eusebius, mythical theology is also called ἱστορικόν and physical theology θεωρητικόν.</p>
+            </fn>
+            <fn id="fn64">
+               <label>63</label>
+               <p>Johannes Woyke, <italic>Götter, “Götzen,</italic>
+                  <italic>” Götterbilder: Aspekte einer paulinischen “Theologie der Religionen,”</italic> Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 132 (Berlin: de Gruyter, 2005), 421–27.</p>
+            </fn>
+            <fn id="fn65">
+               <label>64</label>
+               <p>On this topic I refer to the study of Hans Dieter Betz, “Christianity as Religion: Paul’s Attempt at Definition in Romans,” <italic>Journal of Religion</italic> 17 (1991): 315–44, also in <italic>Paulinische Studien: Gesammelte Aufsätze III</italic> (Tübingen: Mohr, 1994), 206–39; see also Woyke, <italic>Götter, “Götzen,</italic>
+                  <italic>” Götterbilder</italic>.</p>
+            </fn>
+            <fn id="fn66">
+               <label>65</label>
+               <p>Eduard Norden, <italic>Agnostos Theos: Untersuchungen zur Formengeschichte religiöser Rede</italic> (1913; repr., Darmstadt: Wissenschaftliche Buchgesellschaft, 1974), 18–19.</p>
+            </fn>
+            <fn id="fn67">
+               <label>66</label>
+               <p>James B. Rives (<italic>Religion in the Roman Empire</italic> [Oxford: Blackwell, 2007], 21–42), e.g., uses a fourfold scheme, based on the <italic>theologia tripertita</italic> and adapted from Dio, as a structuring device.</p>
+            </fn>
+         </fn-group>
+      </sec>
+   </body>

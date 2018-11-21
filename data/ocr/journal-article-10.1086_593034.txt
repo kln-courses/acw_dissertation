@@ -1,0 +1,185 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>Tree images remain marginal in southern African hunter‐gatherer rock art studies. This lacuna is largely a result of problematic identifications of species. Artists delineated basic arboreal forms, mainly highlighting salient features. Because of this complexity, it has also been difficult to study the psychochemical values of plants among artists’ societies on the basis of rock art imagery. This report examines common arboreal forms using a selection of images alongside a consistent range of their graphic contexts. Drawing on some anthropological accounts, I suggest a tentative cosmological exploration of their meaning as a category that symbolized a generative force unifying material and nonmaterial phenomena.</p>
+      <p>Unlike accepted animal ontology values in Kalahari hunter‐gatherer belief, much less is known about the symbolism of trees. However, their practical economic uses are widely acknowledged (e.g., Story 1958, 1964; Lee 1965; Silberbauer 1965, 44–47; Tanaka 1976, 112–113; Hitchcock 1982, 205–223, among others). Given their historical milieu, however, these studies often considered belief and symbolism as subsidiary to ecological and economic adaptation. Hence, only modest attempts have been made to seek and compile a concordance of arboreal references in belief and folklore (M. Biesele, personal communication; see Barnard 1986; Geiss and Snyman 1986; Schmidt 1989, among others). This aspect requires further research (Marshall 1999). Even as this lacuna persists, the hunter‐gatherer rock art calls for reevaluation of this theme.</p>
+      <sec id="sc1">
+         <title>Arboreal Imagery Distribution</title>
+         <p>Tree images occur mainly in Zimbabwe (Goodwin 1946, 16; Cooke 1959, 1969; Willcox 1963, 48, 1984, 142; N. J. Walker 1996, 2) and Namibia (Mason 1958, 357–368; Lenssen‐Erz 2001, 96). Leo Frobenius (1930, 338) claimed that, “[In] the northern pictures [Zimbabwe] the representation of trees and plants is almost as frequent and varied as that of animals in the southern [South Africa and Lesotho] ones.” They, however, constitute a small percentage of the ensemble of subjects (Breuil 1944, 4; Garlake 1987, 60); for example, 1.9% (<inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$n=49$
+\end{document}</tex-math>
+            </inline-formula>, in 28 sites) of images (<inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$n=2$
+\end{document}</tex-math>
+            </inline-formula>, 585) from 128 Matopo sites were plants (N. J. Walker 1996, 80). There are no more than five known tree images in northern South Africa (van Riet Lowe 1949, 37; E. Eastwood, personal communication). Sporadic reports farther south in South Africa and Lesotho suggest a similarly sparse distribution (Vinnicombe 1976, 280; N. Lee, personal communication), including engraved cases (Friede 1953, 11; Fock and Fock 1984, 22, 23; Steel 1988, 24, 27). Trees, together with termites’ nests (formerly called formlings), are generally a peculiarity of northern regions (fig. 1; Cooke 1959; Mguni 2002, 2006<italic>a</italic>). They appear entirely missing from other rock art traditions.<fig-group content-type="figgrp" id="fg1" position="float" seq="1">
+               <label>Figure 1.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Map showing southern African regional distribution of arboreal rock art with hatched circles showing past and extant distribution of foraging peoples in the north of South Africa. Two darker circles in Zimbabwe show higher occurrences of the motifs, followed by Brandberg and its surrounding districts in Namibia and then very sparse frequencies in northern, northwestern, and southern parts of South Africa. The sizes of the circles do not equate to any frequency values.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg1.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+      </sec>
+      <sec id="sc2">
+         <title>Previous Studies of Arboreal Images</title>
+         <p>The first arboreal images were reported in Matopo (Hall 1912, 593–596). Further observations followed sporadically (Frobenius 1930, 1931; Holm 1957, 8; Vinnicombe 1976, 280), yet these images remain misunderstood. That they decorated landscape scenes (Frobenius 1930, 335; Friede 1953, 11) of “earthly paradise in a ‘Promised Land’” (Breuil 1966, 24) illustrates this interpretative void. Some were even said to be species used for tannins and oils to embalm corpses (Frobenius 1930, 338) or to be “sympathetic magic” fertility symbols (Friede 1953, 11; Mason 1958, 364). These earlier views are now untenable as they incorporate ideas and practices that are alien to southern African hunter‐gatherer indigenes.</p>
+         <p>Recently, an enigmatic painting was argued to depict <italic>Brunsvigia radulosa</italic> used to induce visions (Loubser and Zietsman 1994, 611–612). This identification has been questioned (Pearce 2002, 96; Mitchell and Hudson 2004; A. Cunningham, personal communication) based on the dearth of research on ritualistic psychoactive plant use. Some recent studies (e.g., Winkelman and Dobkin de Rios 1989; Mitchell and Hudson 2004), however, point to the need for further research before we can understand arboreal images in such terms. Some writers suggest that trees represent potency concepts (Garlake 1990, 17, 22; 1995, 103, 105; N. J. Walker 1996, 71). These recent views draw on the generally accepted religious interpretation of hunter‐gatherer rock art (e.g., Lewis‐Williams 1981). Here I develop this perspective using the graphic contexts of arboreal images.</p>
+      </sec>
+      <sec id="sc3">
+         <title>Painted Contexts of Arboreal Imagery</title>
+         <p>Tree images vary in detail and clarity (fig. 2) but usually “appear as rigid, stylised diagrams” (Garlake 1987, 60) or as “conventional trees” (Taylor 1927, 1058). As for others, “the outer form and peculiarities are realistically reproduced” (Gerharz 1983, 33–34). The essential features of branches, trunks/stems, roots, and lines are depicted. Branches usually lack foliage, but they sometimes have bushy crowns connected to stalks. Similar paintings in Zimbabwe were described as palms with a “single vertical line for the trunk and two symmetrical lobes hanging down from either side of the trunk to represent the leafy crest” (Breuil 1966, 24, 116, 119). When depicted, roots are vertically or laterally accentuated at the base of the stalks. A horizontal line, often with a constant thickness, divides the roots from the stalk. Phototropic features then appear above the “ground‐level line while the geotropic elements extend below. Attribute proportions often seem distorted. Scale is intentionally not always realistic, as traits were sometimes meaningfully accentuated or downplayed (Mguni 2004, 2005).<fig-group content-type="figgrp" id="fg2" position="float" seq="2">
+               <label>Figure 2.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Common arboreal or plant depictions and associated images, mainly from Zimbabwe and a few from northern South Africa. The common thread is the emphasis of branches, roots, associations with people and animals nearby, and sometimes what appear to be figures depicted climbing. Termites and fields of flecks are occasionally shown swarming nearby or around. All the images were traced and redrawn by S. Mguni from their original sites. The six exceptions were redrawn by S. Mguni from published materials (i.e., from Frobenius 1931, row 1, column 2; row 3, columns 2; row 5, column 1, and from Parry 2000, row 3, column 3, row 5, column 2).</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg2.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Fruits or pods are sometimes included (Mason 1958, 364; Garlake 1987, 41, 60; Pager 1989, 276; Mguni 2002, 155) and, seldom, what might be blossom. This inhomogeneous typology often complicates species diagnosis, but not always: a bichrome image was identified as <italic>Kirkia acuminata</italic> (Goodall 1959, 76). In Namibia, “of the few depictions of plants quiver trees are common (<italic>Aloe dichotoma</italic>)” (Lenssen‐Erz 2001, 96). There are depictions (fig. 3) in central and southeastern Zimbabwe of what appear to be lala palms (<italic>Hyphaene natalensis</italic>). Consistent with similar arboreal associations, the example in figure 3 has a field of flecks surrounding the leafy foliage.<fig-group content-type="figgrp" id="fg3" position="float" seq="3">
+               <label>Figure 3.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Although identifications are difficult, in some cases researchers have made reasonable surmises based on a few detailed depictions, such as this image of probably <italic>Hyphaene natalensis</italic> (photo, Sonia O’Donnell).</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg3.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Engraved tree forms have been observed, some of which are similar to painted examples described above. Some—one said to be “a flower” and another a “leaf with veins” (Fock and Fock 1984, figs. 128, 270)—are not convincing. One engraving has eight thin forms forking out at acute angles to each other atop a thicker stalk. A giraffe lowers its head to browse these forms (Fock and Fock 1984, 75; see a similar giraffe browsing atop a tree in Lenssen‐Erz 2001, 137).</p>
+         <p>Two engravings depict rhinoceroses and “trees” (Mason 1969, 370; Steel 1988, 24, 27). One rhinoceros lifts its head toward a tapering stalky image that has two alternate branchlike forms on each side. Another is browsing, with its head lifted so that the snout touches a thin stem with six shorter pinnate lines at the top. Their hooked lips and upwardly held heads suggest that they are black rhinoceroses, <italic>Diceros bicornis</italic>, which are browsers (C. Walker 1996, 128). This association sustains the botanical identity of the linear engraved images.</p>
+         <p>Graphic contexts can also allow partial identification of difficult images, although the general forms of images described above focus on the botanical world. At times, these arboreal forms grow on or adjacent to images of termites’ nests while animals—especially kudu, giraffe, and other mammals—feature close by, often browsing or just resting underneath (fig. 2). The familiar union of these images with antelope and horizontal lines is also suggestive of subject. At times there are no associated images nearby.</p>
+         <p>Similar to figure 3 is a depiction of a stylized form showing the stem without roots, but with branches and branchlets (fig. 4). Some associate this form with the <italic>Hyphaene</italic> family (T. Lenssen‐Erz, personal communication). Somewhat enigmatic are the attendant streamers flowing downward and the attached white crescent‐shaped forms on the left. This blurring of natural and nonnatural features on these motifs indicates that the artists’ attention went beyond the physical environment.<fig-group content-type="figgrp" id="fg4" position="float" seq="4">
+               <label>Figure 4.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>As with images in the rock art of Zimbabwe, Namibian examples are also generally intriguing, although some depictions suggest particular species, and while the above image is stylistically different from figure 3, it has similarly been linked to the <italic>Hyphaene</italic> family (photo, Siyakha Mguni).</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg4.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>This surmise makes sense in light of panels such as one that depicts human forms, some of which have “carrotlike” and “bean‐pod‐like” shapes. In some ethnographic accounts, the association of people, animals, and plants is a strong and recurrent theme in hunter‐gatherer folklore, creation myths, and the general system of belief. The strong presence of these complex associations may indicate a facet of hunter‐gatherer cosmological belief that must be closely examined. These painted contexts cannot be explained with simple narratives or literally as ecological phenomena. Nor can these arboreal images without, at present, species diagnosis be described as depicting psychoactive specimens. In sum, the consistent arboreal associations and graphic contexts include the following: flying termites and oval flecks and fields of other types of flecks; animals, mainly kudu, giraffe, buffalo, and sometimes felines; people or grotesque hybrid human/animal creatures; the plants themselves merged with other subject matter; and semihorizontal lines with the accentuation of roots below.</p>
+         <p>Intrigued by such complexities and distributions of arboreal‐like images, Patricia Vinnicombe (1976, 280) considered that, “It is possible that a greater religious significance was attached to specific plants by the Bushmen north of the Tropic of Capricorn than by those who lived on the open grassland further south.” To investigate this significance, I integrate ethnographic accounts, image analysis, and ideas on natural modeling in hunter‐gatherer cosmological beliefs.</p>
+      </sec>
+      <sec id="sc4">
+         <title>Approaching Trees in Southern African Rock Art</title>
+         <p>Contextualizing hunter‐gatherer rock art in its graphic, social, and ritual milieu raises contentious epistemological issues on the legitimacy of hermeneutic analyses. In question is the appropriateness of modern anthropological materials and the degree to which these are relevant in interpreting ancient rituals and image making. For example, if some rock art in Zimbabwe featuring arboreal imagery is in part dated to between ca. 12,500 and 1,500 BP (Walker 1987; 1994, 126), most of it therefore predates contact between the Late Stone Age artists and immigrant groups in the last two millennia (Walker 1995, 14, 247, 255). This has been one of the key issues of contention in recent decades within the Kalahari Revisionist Debate, which raised methodological questions on the study of southern Africa’s prehistory and recent Khoesan history (e.g., Schrire 1984; Wilmsen 1989; Solway and Lee 1990; Wilmsen and Denbow 1990; Kent 1992, 2002). Revisionists dispute the traditional idea that until recent times, the Bushmen were isolated, pristine, egalitarian, and unchanging hunter‐gatherer communities, challenging the manner in which ethnographic analogies are habitually used in the region. However, other writers have argued strongly for an ethnography and rock art approach that relies on strong and demonstrable parallels in the kinds of evidence drawn from these sources for rock art interpretation. This view is inspired largely by observations of correspondences in ritual and belief among the region’s modern hunter‐gatherer populations and broad similarities in the rock art across southern Africa (Lewis‐Williams 1981). This debate has slightly abated on the rock art research front, and few today would dispute cautious deployment of anthropological analogies.</p>
+      </sec>
+      <sec id="sc5">
+         <title>Natural Modeling in Anthropomorphic Symbolic Systems</title>
+         <p>Anthropological analogies alone are not enough to offer understandings of hunter‐gatherer belief and symbolic systems. Some explanatory perspective is required to bring a sophisticated interlocution between these analogies and the graphic rock art metaphors. A useful notion concerns what archaeologist David Whitley (1994) refers to as “natural models,” which is the idea that the physical world is a rich source of models that structure symbolic systems and thought patterns in most small‐scale societies. From his study in North America, Whitley identifies three concepts at the core of anthropomorphic symbolic systems: power, liminality, and trait analogies. Similar thought patterns also occur within Kalahari hunter‐gatherer attitudes to animals. Animals are generally believed to have inherent powers to mediate between people and atmospheric forces (e.g., Biesele 1993, 88–97). There are other symbols, such as plants, which are derived from phenomena conceived as natural symbols of power through behavioral/physiological analogies. In such belief systems, a range of metaphors appear to create and conflate parallels between people and unique animal/arboreal behavior and physiology. Furthermore, those species considered liminal were believed to have the ability to move between the underground, the earth’s surface, and the sky (Whitley 1994, 24, 26), thereby moderating these spheres. Southern African hunter‐gatherer studies have, implicitly or explicitly, explored principal ideas of this model in interpreting animal metaphors in rock art and belief (see, for example, Lewis‐Williams 1981; Mguni 2002, 2006<italic>b</italic>; Hollmann 2003; Eastwood 2005, 2006, among others). Such metaphors were not restricted to animals but also applied to inanimate subjects as well, such as the arboreal world. These metaphors, articulated in religious belief and ideas, link material and spirit phenomena found in other expressive forms of graphic art and folklore.</p>
+      </sec>
+      <sec id="sc6">
+         <title>Trees in Kalahari Hunter‐Gatherer Cosmological Belief and Ritual</title>
+         <p>Facets of Kalahari hunter‐gatherer folklore and attendant religious belief, about which Vinnicombe (1976, 280) conjectured, do indeed recognize the special mystical force of the arboreal world (Biesele 1993, 81). This force, it is believed, can be automatically and mechanically released when plants are used as food or medicine (Silberbauer 1965). Although their general curative properties are thus identified, it is often their magical force that is emphasized in belief, ritual, and folklore. A unique category of trees and plants with supernatural qualities (Marshall 1999, 52, 53, 113–114, 166, 389; Katz 1982, 280–294; Thomas 1959, 155–156) is also recognized as <italic>n/om</italic> (formerly <italic>n/um</italic>) plants (Marshall 1999, 57, 201, 210). The metaphoric significance is in their latent force as a unifier of material and metaphysical domains. This conceptual trope is <italic>fundamental</italic> in the union of the spirit and arboreal‐human‐animal entities in hunter‐gatherer cosmology beliefs (fig. 5).<fig-group content-type="figgrp" id="fg5" position="float" seq="5">
+               <label>Figure 5.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>This schematic diagram summarizes the perceptual interconnections between various natural and nonnatural phenomena with a notional tree as the central “bridging conceptual pillar” in hunter‐gatherer cosmology. Notice that larger species of antelope, flying termites, and sometimes people in certain circumstances are believed to possess the state of liminality and therefore supernatural abilities to transcend the underground, earth, and sky realms (conceptualized and drawn by Siyakha Mguni, 2002).</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg5.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The convergence of these various entities of belief is realized in the liminality trait of the arboreal world as revealed by the familiar notions of trees as phenomena transcending and therefore interlinking material and nonmaterial realms (fig. 5; see, for instance, the analysis of a /Xam story by Lewis‐Williams 1997). In one Kalahari Ju/’hoan tale, /<italic>Gara</italic> (another of ≠<italic>Gao n/a</italic>’s names [Biesele 1975, 178–182; 1978<italic>a</italic>, 163; 1993, 124–131; Marshall 1999, 261)] avenges the death of his sons by calling lightning by using eland horns hung up in the tree. The metaphoric mediation between /<italic>Gara</italic> and the sky realm is made by the tree. The eland, too, is significant, as the manipulation of animal symbols and their alliance with trees is a frequent concept in hunter‐gatherer expressive thought tropes. For instance, when Hei//om healers climb up a <italic>Lebensbaum</italic> (tree of life) into God’s house, they do so via an antelope intermediary (Guenther 1999, 188). One healer’s testimony of a spirit sky sojourn is said to have been effected when a “supernatural giraffe” took him to God’s house (Biesele 1978<italic>b</italic>, 929–933). Another healer, Bo, corroborates the centrality of arboreal metaphors as liminal intercosmic unifiers by proclaiming (Keeney 2003, 44) that<disp-quote>
+               <p>We believe that the red and green horizontal lines that are above the ground are associated with what you call bad and evil. The green lines, related to the life of the green plants that help us sustain life, are good. They will take you along to the good path.</p>
+            </disp-quote>
+         </p>
+         <p>He subtly amalgamates the varied mystical phenomena of “plants”, “lines,” and “paths” (Katz, Biesele, and St. Denis 1997, 112). Another tale with variants within Khoekhoen speakers featuring similar arboreal metaphors was collected from eighteenth‐century San of the lower Orange River (South Africa) by William Coates‐Palgrave (then West Coast Administrator). In the tale (Stow 1905, 130–131), the San forebears<disp-quote>
+               <p>came out of a hole in the ground, at the roots of an enormous tree, which covered a wide extent of country. Immediately afterwards all kinds of animals came swarming out after them, some kinds by twos and threes and fours; others in great herds and flocks; and they crashed, and jostled, and pushed each other in their hurry, as if they could not get out fast enough; and they ever came out swarming thicker and thicker, and at last they came flocking out of the branches as well as the roots. But when the sun went down, fresh ones ceased making their appearance. The animals were endowed with the gift of speech, and remained quietly located under and around the big tree.</p>
+            </disp-quote>
+         </p>
+         <p>Fundamentally, people and animals were borne out of the roots and branches of this primordial tree. This recalls the G/wi tale in which the trickster <italic>Pisiboro</italic> climbs up a supernatural tree, <italic>Acacia erioloba</italic>, to join his two wives awaiting the original procreative encounter. They conceive, and when the children are born, they drop from the branches like fruit (Thomas 1959, 79). While tales such as this may be tempered with a mirthful flavor, they are resonant with the core hunter‐gatherer value system of beliefs and symbolism. They amply underline this arboreal generative metaphor and its liminality between realms. Furthermore, the roots highlight the underground, from which the plant life forms emerge. Hunter‐gatherer healers are also known to exploit this subterranean metaphor in their quest for spiritual growth: “old K’xau said his teacher in <italic>n</italic>/<italic>om</italic> told him that he would enter the earth, travel through it … in his quest for God’s house” (Biesele 1980, 56). For some Southern hunter‐gatherers, deities initiated supernatural forays by first sinking underground (Orpen 1874, 8–10). So, the artistic emphasis of trees, particularly the branches, roots, and, sometimes, people climbing, is explicable by such embedded cosmological concepts and associations with notions of divinity. I now turn to examine closely beliefs about hunter‐gatherer divinities and their tenacious union with the arboreal world.</p>
+      </sec>
+      <sec id="sc7">
+         <title>Hunter‐Gatherer Notions of the Numinous State of Trees</title>
+         <p>Metaphors of trees are frequently associated with divinities in hunter‐gatherer belief. Among the Kalahari Ju/’hoansi, the big god ≠<italic>Gao n/a</italic>’s house is said to have a mystical big tree in the middle, while the lesser god //<italic>Gauwa</italic>’s house has two smaller trees (Marshall 1999, 25). Although they are unlike any natural tree, Lorna Marshall (1999, 25) deduced from her informants’ testimonies that these trees may be camel thorn (<italic>Acacia erioloba</italic>), a sacred species also featured with another deity in the G/wi tale excerpt above. It is believed to be especially potent, hence its Ju/’hoan respect name, /<italic>gi</italic>, and less likely to create harm when used directly. Although unnamed (but possibly ≠<italic>Gao</italic>), ≠<italic>Gao n/a</italic>’s big tree is exceedingly strong (Marshall 1999, 21, 314) and is “associated with the spirits of the dead” (Thomas 1959, 144; Marshall 1962, 236; 1999, 21, 314). One healer proclaimed, “I see it with many fruit trees and green plants” (Keeney 2003, 42), referring to his revelation of God’s house. This confirms numinous associations of arboreal phenomena.</p>
+         <p>This fundamental association between trees and spirit beings is further revealed by the suggestive etymology of several names of the divinities. Such subtle connections are also widespread even among the Khoekhoen. The first syllable <italic>hi</italic> (or its other derivations <italic>hiiba</italic> [masculine singular] and <italic>hiisa</italic> [feminine singular]; Barnard 1988, 222) in the name of the Nharo god <italic>Hi</italic>∫<italic>e</italic> means “tree” or “bush” (Bleek 1928, 25; 1956, 61; Barnard 1986, 69–71). Dorothea Bleek (1928, 24) surmised that <italic>Hi</italic>∫<italic>e</italic>, who is the source of power, is the “spirit of the bush.” Similarly, the /Xam name /<italic>Kaggen</italic> is also a generic plural form for “berries” (Bleek 1956, 296). In the same way that /<italic>Kaggen</italic> was “Lord of the Animals” (Hewitt 1986, 195–196; Biesele 1993, 94; Guenther 1999, 111), <italic>Hi</italic>∫<italic>e</italic> implies “Lord of the Bushes.” Some trees were avatars of the gods, as <italic>Hi</italic>∫<italic>e</italic> and /<italic>Kaggen</italic>, and even /<italic>Xué</italic>, the /Xun god, could assume arboreal persona in folklore (Bleek and Lloyd 1911, 404–413; Bleek 1935, 266). Some Kalahari groups believe that trees have spirits residing in them, something that the name Hei//om denotes as well (Fourie 1926, 49; Schapera 1930, 34). Others in Northern Kalahari even believed that their ancestors’ spirits turned into trees (P. Vinnicombe, personal communication; see also Marshall 1962, 222; 1999, 4). This liminality and fluidity between disparate phenomena is ontologically not restricted to the folkloric narratives (Bleek 1875, 11; Bleek and Lloyd 1911; Bleek 1928; 1932, 48; 1935); for some people it also occurs in the present. In the 1970s, a Ju/’hoan woman, for example, proclaimed that she was “not a person or an animal at all, but an edible root called ≠dwa/k∂ma” (Biesele 1976, 310). It is, nonetheless, a widely held belief that in primal time, trees and animals were people until the gods commanded the present order of things. Persistent ambiguity in this worldview thus complexly intermeshes the natural and supernatural arboreal interconnections (fig. 5).</p>
+      </sec>
+      <sec id="sc8">
+         <title>Conceptual Appropriation of Arboreal Phenomena</title>
+         <p>Anthropological accounts used in this analysis show the significance of arboreal associations in hunter‐gatherer thought, belief, folklore, and rock art. These symbolic and graphic expressions lead to, and demonstrably mesh well with, the spiritual worldview, suggesting the weight of the arboreal generative force. This superlative force manifests itself in the union of material and nonmaterial worlds via trees into the otherworldly entities of God’s house and spirit divinities. Together these beliefs and concepts make up an element at the heart of hunter‐gatherer cosmology that interconnects trees and the human and animal worlds. Boundaries are fluid between people and trees or animals and vice versa. Personae of animal and arboreal subjects metaphorically connect and converge in the natural and the spirit worlds. Alongside the well‐known animal symbols, trees (as epitomes of the plant world) are striking phenomena available to hunter‐gatherers from their ecological settings, which the artists depicted “not as illustrations but as a system in which every subject was reduced to its essential components … intellectual distillations of concepts of reality” (Garlake 1995, 23). Although it may be that we lack the emic skills of diagnosing depicted tree species, which appear to have been downplayed often, we certainly can assay the importance of this general category using hunter‐gatherer concepts of metaphorically linking natural phenomena and abstract ideas. Although this article dealt with the cognitive and cosmological values of trees, the research on their psychochemical properties should not be ignored, because it can provide further useful ideas for their significance. The integration of the psychochemical research on plants with the now well‐established metaphorical focus of the southern African hunter‐gatherer rock art promises a finer understanding of this subject matter.</p>
+      </sec>
+   </body>

@@ -1,0 +1,5602 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>Anthropomorphizing, that is, seeing the human in nonhuman forms and events, pervades human judgment (Guthrie 1993). People commonly see human features in natural formations, as when they see faces in clouds, on the moon, or on the sides of mountains. They may attribute human goals, beliefs, and emotions to animals, for example, when people interpret the dynamics between two birds as reflecting the loving attention of newlyweds. As is perhaps more relevant to marketers, people see the human not just in nature but in artifacts as well. People sometimes see their cars as loyal companions, going so far as to name them. They argue with, cajole, and scold malfunctioning computers and engines. People form relationships with brands (Aaker, Fournier, and Brasel 2004; Fournier 1998).</p>
+      <p>Marketers often encourage this tendency in consumers to anthropomorphize brands and products. Brands are imbued with images and distinct personalities (Biel 2000), which may affect their perceived credibility (Keller 2002) and foster relationships (Fournier 1998). In some cases, marketers design an anthropomorphized representation of the brand, for example, Mr. Peanut, Tony the Tiger, and the Michelin Man. In other cases, marketers present the product itself in human terms. For example, a recent television ad for Cadillac shows the car “crashing” and enlivening a staid party of other luxury cars—bursting through the door, backing off its social competitors, which appear to cower, and strutting boldly about the room.</p>
+      <p>The present research is focused specifically on this last form of anthropomorphizing, that is, presenting the product itself in human terms. Our primary research questions are whether such presentations affect the evaluation of the product, and, if so, how? The frequency with which marketers rely on presentational devices to humanize their products suggests a general belief that such efforts are useful, leading not just to more salient representations but to more appealing ones as well. In the present research, however, we find that the effect of presentational devices that humanize the product does not always lead to more positive evaluations and may even lead to less positive evaluations.</p>
+      <p>Central to our studies is the hypothesis that anthropomorphizing may affect evaluations through schema‐based processing. Prior research has argued that the degree of congruity between an item and a category schema may affect the evaluation of that item (Mandler 1982). Perceived congruity resulting from a match between the features of an item and those of a schema provides a sense of satisfaction that may carry over to the evaluation of the stimulus; conversely, perceived incongruity may lead to a sense of frustration. Following this research, we propose that, when marketers encourage consumers to anthropomorphize a product, consumers bring to mind their schema for the type of person suggested and that the product is evaluated in part by how well its features fit that schema. Some objects may be more readily seen as human than others, for example, objects that resemble human form and shape (e.g., bottles) or that have features like a human face (e.g., the front of a car or a clock; Arnheim 1969). Depending on the characteristics of the object, therefore, consumers may or may not be able to see the analogy suggested by the marketer to anthropomorphize products successfully.</p>
+      <p>One goal of the present research, therefore, was to explore whether consumers’ liking of a product depends on the perceived fit between the features of the product and an activated human schema. Our first two studies were conducted to examine this question. In these studies, we assessed the perceived fit between product features and a particular human schema by measuring the extent to which participants viewed the product as being alive and belonging to that human schema. We expected that the extent to which participants saw the product as human would mediate their liking of the product. The results are consistent with prior research on schema congruity as a basis for product evaluation (Meyers‐Levy and Tybout 1989).</p>
+      <p>Degree of congruity with an evoked schema is not, however, the only source of evaluative information about a stimulus provided by an activated schema. Schema research suggests that categories are stored in memory with an associated affective tag and that when an item is perceived as having a good fit with an evoked category, people may also evaluate the item according to the affect associated with the category (Fiske 1982; Fiske and Pavelchak 1986). Hence, it is conceivable that category affect may sometimes overwhelm the more subtle effects of satisfaction due to a perceived congruity between the features of the stimulus and the schema. For example, were the product seen as a good match with the category “criminal,” consumers may evaluate it negatively despite a sense of satisfaction resulting from perceived congruity with the activated schema. Our first two studies involved human schemas for which affect was not so extreme as to overwhelm congruity effects; our third study, however, primed notably positive and negative categories and so was intended to evaluate the effect of more general category affect on product evaluation, allowing us to demonstrate conditions in which evaluations depart from those predicted solely by perceived fit with the product category.</p>
+      <p>In sum, our research follows the assumption that consumers commonly evaluate marketing stimuli by comparison to categories instead of proceeding in a piecewise attribute‐by‐attribute fashion (Goodstein 1993). We propose that efforts by marketers to anthropomorphize products may be viewed as shifting the category of evaluation from product to human and, more specifically, to particular human categories such as friends, helpers, families, or spokespeople. As a consequence, category‐based processing effects due to perceived congruity with an activated human schema and due to the application of the affect stored for that schema may affect the evaluation of products. In this research, we provide evidence for both these effects. Our research, therefore, suggests how activating a human compared to a product schema may affect consumers’ evaluation. Further, it provides a framework for understanding the conditions under which people will see their possessions as human.</p>
+      <sec id="sc1">
+         <title>Anthropomorphism</title>
+         <p>Three explanations have been offered for the tendency to anthropomorphize (see Guthrie [1993] for a review). One explanation is that doing so comforts people by providing relationships or companionship. This view sees anthropomorphism as following from wishful thinking: people who wish to have more relationships in their everyday lives use products to fill that void. A second explanation is that people anthropomorphize to make better sense of the world around them. People use what they are familiar with—their knowledge of themselves—and ascribe human‐like characteristics to events or entities to better account for outcomes and things that they know less about. Finally, Guthrie (1993) suggests that anthropomorphizing may be seen as a cognitive and perceptual strategy akin to making a bet that the world is human‐like: a bet that has more upside than downside risk. Supporting this view are findings in cognitive psychology that people may be better served by giving precedence to higher level interpretations of the world over lower level interpretations to maximize predictability of additional properties from given properties (Rosch et al. 1976). The high level complexity of the human schema may thus confer on it common precedence in interpretation of the world.</p>
+         <p>Within this view, Guthrie (1993) suggests three forms of anthropomorphism: the partial, the literal, and the accidental. Partial anthropomorphizing, which is the domain of the present research, occurs when people see objects and events as having some important human traits but do not consider the entity as a whole to be human. Partial anthropomorphizing is relevant in a product context, for example, in which consumers attribute some human traits to their possessions and interpret their objects using the schema for people but without going so far as to see the object as fully, literally human. By contrast, people literally anthropomorphize when they believe an object or animal actually is a person, usually as a consequence of some mistaken perception, for example, when someone mistakes stacked garbage bags in dim light for a person crouching in wait. Accidental anthropomorphism occurs when people see some elements of the human form in inanimate objects but consider that outcome to be coincidental, for example, when people see a person’s face in a rock or a cloud.</p>
+         <sec id="sc1.1">
+            <title>Products as People</title>
+            <p>The pervasiveness with which products are seen in at least partially human terms has long been noted by researchers. Products are seen as having consciousness or a soul (Gilmore 1919), an underlying defining essence analogous to a genetic code (McGill 1998), personality (Aaker 1997; Keller 2002), relationships (Aggarwal 2004; Fournier 1998; see also Muniz and O’Guinn 2001), and even features of their makers or owners that have been transferred during production or use (Rozin and Nemeroff 2002). In addition, research on uses and perceptions of technology has found that people often apply social norms of reciprocity in their interactions with computers (Moon 2000). Branscomb (1981) suggests that a computer that is easy to use improves its human factors and may be described as friendly and supportive. Further, as noted in the introduction, this tendency to anthropomorphize products partially is given an extra boost by marketers who often imbue a product with social and human traits as part of its overall marketing strategy. Products that can be “humanized” are often seen as stronger candidates for long‐term business success. It is no wonder that marketing communications for a number of products over the years have portrayed them as having human characteristics.</p>
+         </sec>
+         <sec id="sc1.2">
+            <title>Ease of Anthropomorphizing</title>
+            <p>Although the tendency to anthropomorphize is pervasive, people do not anthropomorphize all objects, nor are they able to anthropomorphize different objects with equal ease. The literature suggests that the ability to anthropomorphize may depend on the presence of specific features. For example, movement in an object can create the impression that it is alive (Tremoulet and Feldman 2000). Further, the timescale of this movement is important to the perception of humanity: things that dart about quickly may be seen less as human and more like insects, whereas things that move very slowly, such as clocks, may seem to lack humanity in this regard (Morewedge, Preston, and Wegner 2004). Thus, the human‐like pace with which iRobot’s Roomba vacuuming robot moves may be why some consumers dress it up in costumes and others have bought a second Roomba so that their first one would not be lonely! Further, objects that are shaped like people are more likely to be anthropomorphized (Graham and Poulin‐Dubois 1999). Thus, the shape of a Coca‐Cola bottle may be more easily anthropomorphized than a Coke can. Other features that signify humanness include facial features, sounds/voices, intentionality, imitation, and communication ability (Dennett 1996).</p>
+            <p>Marketers may thus encourage consumers to think of their products in human terms, for example, by referring to them with the personal pronouns “he” or “she” instead of “it,” by describing the product in the first person instead of the third, or by referring to their “product family” instead of their “product line,” but whether consumers see the products as human may depend on the presence or absence of features that convey a sense of humanity. Further, marketers’ efforts to anthropomorphize products may go beyond merely suggesting that the product is human to suggesting a particular type of person, for example, a spokesperson, a friend, or an old flame, and, again, the specific features of the product might affect the perceived fit of the product with that social category. The present research examines this hypothesis. Further, it posits that consumers’ ability to see a product as human or, more specifically, as belonging to a particular social category may affect their evaluation of the product. In more precise terms, this research proposes schema congruity as a theoretical basis for examining the effectiveness of marketers’ efforts to anthropomorphize their products.</p>
+         </sec>
+      </sec>
+      <sec id="sc2">
+         <title>Schema Congruity as a Basis for Product Evaluation</title>
+         <p>The term “schema” was first used to describe “an active organization of past reactions, or of past experiences” (Bartlett 1932, 201). More generally, a schema is a stored framework of cognitive knowledge that represents information about a topic, a concept, or a particular stimulus, including its attributes and the relations among the attributes (Fiske and Linville 1980). Past research suggests that evaluations of a new product may depend on the level of congruity between that product’s features and the category schema in which it is presented, whereas the level of congruity is the extent to which features of the product match those of the category schema (Fiske 1982; Meyers‐Levy and Tybout 1989). The influence of congruity has been attributed to the transfer of affect from the schema to the object (Fiske 1982) and to metacognitive experiences of satisfaction or frustration in perceiving the fit between the object and the schema that carry over to the evaluation of the object (Meyers‐Levy and Tybout 1989). Although research also suggests a “moderate incongruity effect” in which an item that is moderately incongruent with the schema is liked more than items that are highly congruent or highly incongruent with the schema (Mandler 1982), recent findings suggest that such nonmonotonic effects do not occur when consumers are knowledgeable, as they would be about common human schema (Peracchio and Tybout 1996). The present research therefore focuses on testing a simple relationship between schema congruity and product evaluation. The main prediction examined in our first two studies is that greater congruity between features of a product and an activated human schema will lead to more positive evaluations in the absence of strong category affect to the contrary. In a third study, we explore the role of category affect by examining the effect of the match of a stimulus with human schema associated with strong negative versus positive affect.</p>
+         <p>In our studies, a human or an object schema is first activated by encouraging participants to think of the product as being like a particular type of person or like an object. Next, a new product is presented to them with a feature that is more or less congruent with that particular human schema. Study 1 uses a car as the target product and manipulates the shape of the front grille to create a feature (smile or frown) that fits well or poorly with the activated human schema of a spokesperson. Study 2 replicates the results of study 1 by using a different product category, beverages, and relies on the sizing of four bottles to manipulate congruity with the activated human schema, specifically, different sizes suggesting a human family or all the same size suggesting a product line. In addition, study 2 incorporates a thought‐listing process measure to better assess the extent to which schema congruity drives the effect. In study 3 we use the sizing of two bottles instead of four to manipulate congruity with the activated human schema of twins. Further, we use a positive (twins) and a negative (evil twins) version of this human schema to examine the role of category affect versus congruity with the schema.</p>
+      </sec>
+      <sec id="sc3">
+         <title>Hypotheses for Studies 1 and 2</title>
+         <p>Our first hypothesis on the perception of the product as a person predicts an interaction of category prime and product features:<list>
+               <list-item>
+                  <label>
+                     <bold>H1: </bold>
+                  </label>
+                  <p>When primed with a human schema, participants’ perception of a product as a person will be greater when the product is endowed with a feature that is perceived to be more congruent with that human schema, but when primed with an object schema there will be no difference in perception of the product as a member of the human category across the two feature conditions.</p>
+               </list-item>
+            </list>
+         </p>
+         <p>Building on findings on schema‐congruity theory, we also predicted that fit between the activated schema and the product features would affect evaluation of the product:<list>
+               <list-item>
+                  <label>
+                     <bold>H2: </bold>
+                  </label>
+                  <p>When primed with a human schema, participants’ evaluation of the product will be more positive when the product is endowed with a feature that is perceived to be more congruent with that human schema, but when primed with an object schema there will be no difference in their evaluations across the two feature conditions.</p>
+               </list-item>
+            </list>
+         </p>
+      </sec>
+      <sec id="sc4">
+         <title>Study 1: Is That Car Smiling at Me?</title>
+         <p>Our first study explored a common form of anthropomorphism, specifically, seeing a car as having a face (Welsh 2006). In this study, we first primed a human schema by depicting the car as speaking in the first person so that it could be seen as its own spokesperson. By contrast, we primed the object schema by describing the car in the third person. Prior research suggests that a smile is more congruent with the general human schema than a frown: smiling faces are seen as more familiar (Baudouin et al. 2000), and an expectancy of a smile is part of the human face schema (Martin and Rovira 1982). In addition, a pretest conducted among 42 participants indicated that smiles but not frowns were perceived to be congruent with the spokesperson schema. In particular, when asked to indicate the extent to which a typical person (from a variety of different professions) frowned or smiled on a 1–7 scale (one being “frowns a lot,” and seven being “smiles a lot”), participants rated a spokesperson to be very likely to smile (<inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M=5.73$
+\end{document}</tex-math>
+            </inline-formula>) and significantly more so than a teacher, lawyer, actor, therapist, cop, doctor, con artist, reporter, and manager (all <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p{'}\mathrm{s}\,&lt; .01$
+\end{document}</tex-math>
+            </inline-formula>). Based on these findings, we manipulated the shape of the front grille of the car as pointing up in the shape of a smile or down in the shape of a frown to endow the car with a feature that is congruent or incongruent with the activated human schema.</p>
+         <sec id="sc4.1">
+            <title>Design, Stimuli, and Procedure</title>
+            <p>The study was a <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$2\times 2\times 2$
+\end{document}</tex-math>
+               </inline-formula> design with schema prime (human, object), facial feature (smile, frown), and car model (Lexus, Thunderbird) as the between‐participants conditions. The objective of using two car models was to ensure that any differences across conditions were not driven by any specific car brand. One hundred twenty‐two undergraduate students from the University of Toronto participated in this 20‐minute study for partial course credit.</p>
+            <p>Participants were first told that they would be shown a picture of a car that had been recently redesigned and that they would be asked to evaluate its new look. This request was presented in first person and in casual language to prime the spokesperson schema or in third person and more formal language to prime the object schema (see the appendix).</p>
+            <p>Results of a pretest conducted on a separate group of 39 participants showed that the person description was in fact successful in priming the spokesperson schema. Specifically, pretest participants indicated that the person description more readily brought to mind a spokesperson than other types of people, such as an ordinary person, an unusual person, an old flame, and members of various professions (all <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p{'}\mathrm{s}\,&lt; .001$
+\end{document}</tex-math>
+               </inline-formula>). Next, participants in the main study were shown a picture of the front of a car (Lexus or Thunderbird) that was modified by a professional computer graphics expert such that the grille of the car pointed up or down (see figs. 1 and 2). Further, to ensure that participants were constantly exposed to the car stimulus, on each subsequent page that administered the dependent variables, a miniature‐sized print of the car picture was reproduced on the right‐hand top corner.<fig-group content-type="figgrp" id="fg1" position="float" seq="1">
+                  <label>Figure 1</label>
+                  <caption>
+                     <title>Study 1 Stimuli—Lexus</title>
+                  </caption>
+                  <fig position="float" fig-type="figure">
+                     <graphic xlink:href="fg1.tiff"
+                              rotation="0"
+                              alt-version="no"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </fig>
+               </fig-group>
+               <fig-group content-type="figgrp" id="fg2" position="float" seq="2">
+                  <label>Figure 2</label>
+                  <caption>
+                     <title>Study 1 Stimuli—Thunderbird</title>
+                  </caption>
+                  <fig position="float" fig-type="figure">
+                     <graphic xlink:href="fg2.tiff"
+                              rotation="0"
+                              alt-version="no"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </fig>
+               </fig-group>
+            </p>
+         </sec>
+         <sec id="sc4.2">
+            <title>Dependent Variables</title>
+            <p>Because study 1 used stylized representations of facial features, it was important to ensure that any differences in participants’ evaluations were not driven by the differences in their mood due to exposure to a smiling or a frowning face. Participants were, thus, asked to respond to an 11‐item affect scale (e.g., the extent to which you feel happy, cheerful, angry, troubled, etc.) as an important control measure to rule out any mood‐based alternative explanation. Participants then responded to a two‐item measure on the extent to which the car was seen as human (had come alive, like a person). Next, participants evaluated the car on a 15‐item scale covering a cross section of car‐related benefits (e.g., the car is reliable, the car is appealing, this is a great car, the car is fun, the car is stylish, etc.).</p>
+         </sec>
+         <sec id="sc4.3">
+            <title>Results</title>
+            <p>Analysis of data across the two car brands showed no significant effect of car brand on any of the dependent variables. As such, we collapsed the data so that schema prime and facial features were the only conditions considered relevant for the analysis.</p>
+            <sec id="sc4.3.1">
+               <title>Affect.</title>
+               <p>The 11‐item scale was analyzed separately for positive and negative affect. As expected, an ANOVA on the six‐item positive affect measure revealed no differences across the two schema prime conditions (Cronbach’s <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.72$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{human}\,}=3.99$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{object}\,}=4.22$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 112) =2.61$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>), the two facial‐feature conditions (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{smile}\,}=4.21$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{frown}\,}=4.02$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 112) =1.83$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>), or the interaction of the two (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 112) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). Further, there were no differences on the five‐item negative affect measure (Cronbach’s <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.82$
+\end{document}</tex-math>
+                  </inline-formula>) across the two schema prime conditions (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{human}\,}=2.56$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{object}\,}=2.51$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 115) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>), the two facial‐feature conditions (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{smile}\,}=2.44$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{frown}\,}=2.63$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 115) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>), or the interaction of the two (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 115) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>).</p>
+            </sec>
+            <sec id="sc4.3.2">
+               <title>Anthropomorphizing.</title>
+               <p>We combined the two questions that were designed to assess whether participants perceived the car as a person. An ANOVA on this anthropomorphism score (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$r=.68$
+\end{document}</tex-math>
+                  </inline-formula>) revealed a significant two‐way interaction of schema prime and facial features (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 112) =4.20$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\eta ^{2}=.036$
+\end{document}</tex-math>
+                  </inline-formula>) but no main effects of schema (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 112) =1.73$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>) or facial features (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 112) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). As predicted by hypothesis 1, planned contrasts revealed that participants’ perception of the car as a person was greater in the smile than the frown condition for the human prime, although this difference was only marginally significant (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{smile}\,}=3.92$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{frown}\,}=3.29$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 112) =3.13$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .08$
+\end{document}</tex-math>
+                  </inline-formula>). We observed no difference in perception of the car as a person across the smile and frown conditions for the object prime (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{smile}\,}=3.09$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{frown}\,}=3.47$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 112) =1.23$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>).</p>
+            </sec>
+            <sec id="sc4.3.3">
+               <title>Product Evaluation.</title>
+               <p>An ANOVA conducted on the combined 15‐item overall evaluation score (Cronbach’s <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.85$
+\end{document}</tex-math>
+                  </inline-formula>) revealed a significant interaction effect of schema prime and facial features (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 110) =4.66$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\eta ^{2}=.041$
+\end{document}</tex-math>
+                  </inline-formula>) but no main effects of schema prime (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 110) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>) or facial features (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 110) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). As predicted by hypothesis 2, planned contrasts showed evaluations to be significantly higher if the car was endowed with a smile than a frown in the human prime (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{smile}\,}=4.59$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{frown}\,}=4.14$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 110) =4.00$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>) but not in the object prime (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{smile}\,}=4.38$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{frown}\,}=4.59$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 110) =1.04$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>) condition.</p>
+            </sec>
+            <sec id="sc4.3.4">
+               <title>Mediation Analysis.</title>
+               <p>Consistent with our theorizing, an analysis based on Baron and Kenny (1986) revealed that participants’ perception of the car as a person partially mediated product evaluations, as evidenced by (1) a significant correlation between the schema prime by facial‐feature interaction and product evaluations (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.201$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t=2.159$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; schema prime and facial feature were also included as simple effects in the model), (2) a significant correlation between the interaction and perceived anthropomorphism (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.189$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t=2.049$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>), (3) a significant correlation between perceived anthropomorphism and product evaluation (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.242$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t=2.528$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; simple effects were included again), and (4), in the same regression equation as step 3, a marginally significant decrease in the correlation between the schema prime by facial interaction on product evaluation compared to the model in step 1 that omitted the proposed mediating variable (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.185$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t=1.94$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.055$
+\end{document}</tex-math>
+                  </inline-formula>; Goodman test <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.09$
+\end{document}</tex-math>
+                  </inline-formula>, and Sobel test <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.10$
+\end{document}</tex-math>
+                  </inline-formula>).</p>
+            </sec>
+         </sec>
+         <sec id="sc4.4">
+            <title>Discussion</title>
+            <p>Results of study 1 support the schema‐congruity hypothesis. Participants who were presented the spokesperson prime were more likely to see the car as a person and to evaluate it more positively when the target feature was more congruent (smiling) than less congruent (frowning) with this human schema. By contrast, participants presented with the object schema prime were equally likely to see the car as a person, irrespective of the congruity of the feature with the human schema. Furthermore, mediation analysis revealed that participants’ perception of the car as a person partially mediated their product evaluations. Finally, lack of effect on positive or negative affect argues against differences in mood as an alternative explanation.</p>
+            <p>Although the results support the schema‐based hypothesis, two other explanations can be offered as alternatives. The first alternative, a contingent quality explanation, argues that participants may have evaluated the smiling car better than the frowning car not because a smile is a better fit but because a smile is a better quality feature for the spokesperson schema. Results of the anthropomorphism measure and the mediation analysis counter this account, however, because our analyses show that participants primed with human schema did not see the car as equally human in the smile and frown conditions and just preferred the smiling version. Rather, they differed in their ability to see the car as human across conditions, and this difference in ability to reconcile the feature with the schema caused the difference in evaluations.</p>
+            <p>A second explanation is that participants mimicked the facial expression of the car, but only when primed with the human schema, and in so doing adopted the underlying emotion associated with the expression (Chartrand and Bargh 1999). This behavioral mimicry and resultant emotional contagion may have then colored participants’ evaluation of the car (Howard and Gengler 2001). This explanation does not account, however, for differences in anthropomorphizing across conditions or the mediation results. Further, a process of mimicry and emotional contagion should have been revealed in a difference in feelings across conditions, but our measures of positive or negative affect indicated no such disparity. Nevertheless, given recent suggestions that people may experience emotions that are outside conscious awareness but which may still influence judgments (Winkielman, Berridge, and Wilbarger 2005), it was important to run another study ruling out behavioral mimicry as an alternative explanation.</p>
+            <p>Our study 2 was designed to address these alternative explanations while replicating the results of study 1. Hence, the product features for study 2 were selected so that neither one was inherently superior or inferior and could not be mimicked by participants. Moreover, to get deeper insights into the underlying process as well as for further validation of the schema‐congruity hypothesis, study 2 included thought protocols as an additional dependent variable to the ones used in study 1.</p>
+         </sec>
+      </sec>
+      <sec id="sc5">
+         <title>Study 2: The Four‐Pack with a Difference</title>
+         <p>In study 2, participants were first primed with a schema for either a person or an object by telling participants to look at the “product family” or the “product line” of a new beverage being introduced in the market. The visual of the beverage product showed four bottles that either were identical in size and varied only in shades of gray to suggest different flavors (much like different options in a product line) or differed in size as well and were placed in a way so as to suggest different individuals (much like four different members of a family; see fig. 3). To gauge the underlying premise of this manipulation, a pretest sample of 76 participants was presented four simple “circle and line” figures of people, like the logo used for the Association for Consumer Research, and asked to rate on a 1–7 scale the extent to which the figures appeared related, unrelated, representative of a typical family, and not a typical family. Participants who saw four different‐sized figures provided higher ratings on the combined measure (Cronbach’s <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.88$
+\end{document}</tex-math>
+            </inline-formula>, two items reverse scored) than those who saw four same‐sized figures (<inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=5.80$
+\end{document}</tex-math>
+            </inline-formula>, <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=4.31$
+\end{document}</tex-math>
+            </inline-formula>; <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 75) =26.32$
+\end{document}</tex-math>
+            </inline-formula>, <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .001$
+\end{document}</tex-math>
+            </inline-formula>), supporting the premise that different sizes would be congruent with the human family schema. We did not expect the different‐ and same‐sized bottles to vary in degree of congruity with the object schema. Hence, we expected results of study 2 to replicate those of study 1 for hypotheses 1 and 2.<fig-group content-type="figgrp" id="fg3" position="float" seq="3">
+               <label>Figure 3</label>
+               <caption>
+                  <title>Study 2 Stimuli—Beverage Bottles</title>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg3.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>In addition, study 2 was intended to gather greater evidence for the schema‐congruity hypothesis by examining the underlying mechanism for the differences observed in the effects across conditions. Prior research on schema congruity has shown that an appropriate coding of participants’ thoughts can give valuable insights about the underlying process mechanisms (Meyers‐Levy and Tybout 1989). Following Mandler (1982), these authors suggest that evaluation of alternatives that are highly congruent with the relevant schema should lead to a greater proportion of positive and a lower proportion of negative thoughts, compared to a highly incongruent alternative. As such, we hypothesize the following:<list>
+               <list-item>
+                  <label>
+                     <bold>H3: </bold>
+                  </label>
+                  <p>When primed with a human rather than an object schema, the proportion of participants’ net positive thoughts will be relatively higher when the bottles are different sizes compared to when they are all the same size.</p>
+               </list-item>
+            </list>
+         </p>
+         <sec id="sc5.1">
+            <title>Design, Stimuli, and Procedure</title>
+            <p>The study was a <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$2\times 2$
+\end{document}</tex-math>
+               </inline-formula> design with schema prime (human, object) and bottle sizes (same, different) as the between‐participants conditions. Ninety‐two undergraduate students from the University of Toronto participated in this study for partial course credit. Participants were first shown a brief write‐up about a new beverage being introduced in the market. As in study 1, the description was written in first person to prime the human schema of a (product) family (the description used phrases such as “we are family” and “different bottles … part of one family”) or written in third person to prime the object (product line) schema (the description used phrases such as “our product line,” “line of beverages,” and “different bottles … indicating a different product”). Next, participants were shown a picture of four different bottles such that the sizes of the bottles were the same (suggesting a product line) or different (suggesting different members of a family; see fig. 3). As before, a miniature‐sized visual of the bottles was reproduced in the right‐hand top corner on each subsequent page.</p>
+         </sec>
+         <sec id="sc5.2">
+            <title>Dependent Variables</title>
+            <p>The dependent variables were similar to those used in study 1, except that as a measure of anthropomorphism, participants were asked to indicate the extent to which the bottles reminded them of a family (like a group of people, like a family/person, and alive). Participants were presented with 18 product evaluation items that were modified to be more appropriate for a beverage (e.g., tasty, fresh, nourishing, etc.). In addition, participants were requested to write down all their thoughts as they examined the picture of the bottles of the new beverage. Finally, participants were also administered the affect measures.</p>
+         </sec>
+         <sec id="sc5.3">
+            <title>Results</title>
+            <sec id="sc5.3.1">
+               <title>Affect.</title>
+               <p>Replicating the results of study 1, there were no significant effects on the 11‐item scale tapping into participants’ positive and negative affect. For purposes of brevity, the detailed results are not being reported here but can be made available on request.</p>
+            </sec>
+            <sec id="sc5.3.2">
+               <title>Anthropomorphizing.</title>
+               <p>The three items assessing whether the participants perceived the bottles like a family were combined to form an overall anthropomorphism score (Cronbach’s <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.66$
+\end{document}</tex-math>
+                  </inline-formula>). An ANOVA revealed a marginally significant two‐way interaction of schema prime and bottle sizes (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 85) =2.87$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.09$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\eta ^{2}=.033$
+\end{document}</tex-math>
+                  </inline-formula>) but no main effects of schema prime (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 85) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>) or bottle sizes (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 85) =1.05$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>). As expected, contrast analysis showed a marginally significant effect with the bottles more likely to be seen as a person when they were different rather than the same size in the human schema (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=4.88$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=4.26$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 85) =3.74$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.056$
+\end{document}</tex-math>
+                  </inline-formula>) but not in the object schema (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=4.30$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=4.45$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 85) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>) condition.</p>
+            </sec>
+            <sec id="sc5.3.3">
+               <title>Product Evaluation.</title>
+               <p>Analysis of the combined 18‐item overall evaluation score (Cronbach’s <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.89$
+\end{document}</tex-math>
+                  </inline-formula>) revealed a significant interaction of schema prime and bottle sizes (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 79) =5.58$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\eta ^{2}=.066$
+\end{document}</tex-math>
+                  </inline-formula>) but no main effects of schema prime (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 79) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>) or bottle sizes (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 79) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). As predicted by hypothesis 2, planned contrasts revealed that participants evaluated the different‐sized bottles significantly more positively than the same‐sized bottles in the human schema prime (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=4.30$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=3.78$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 79) =4.27$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>) but not in the object prime condition (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=3.91$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=4.24$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 79) =1.64$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>).</p>
+            </sec>
+            <sec id="sc5.3.4">
+               <title>Mediation Analysis.</title>
+               <p>Analysis revealed (1) a significant correlation between the schema prime by bottle size interaction and product evaluations (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.256$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t=2.362$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; schema prime and bottle size were also included as simple effects in the model), (2) a marginally significant correlation between the interaction and perceived anthropomorphism (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.179$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t=1.693$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.094$
+\end{document}</tex-math>
+                  </inline-formula>), (3) a significant correlation between perceived anthropomorphism and product evaluation (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.541$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t=5.646$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; simple effects were included again), and (4), in the same regression equation as step 3, a marginally significant decrease in the correlation between the schema prime by bottle size interaction on product evaluation compared to the model in step 1 that omitted the proposed mediating variable (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.147$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t=1.555$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.124$
+\end{document}</tex-math>
+                  </inline-formula>; Goodman test <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.10$
+\end{document}</tex-math>
+                  </inline-formula>, and Sobel test <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.10$
+\end{document}</tex-math>
+                  </inline-formula>). As in study 1, the marginally significant Goodman and Sobel tests indicate that the decrease in predictive power of the interaction term that results from adding the mediator to the model is reliable. The correlation between the interaction term and product evaluations is at a borderline level of significance (.124), suggesting full to partial mediation.</p>
+            </sec>
+            <sec id="sc5.3.5">
+               <title>Thought Protocols.</title>
+               <p>Coding of the thought protocols was done first to examine the extent to which participants were able to anthropomorphize the bottles. Thus, participants’ thoughts were coded for successfully “seeing” the bottles as a family or a person, for example, commenting that “they look like a family of father and mother on the sides and the two children in the middle,” “[they look like] mom, dad, child, and younger child,” “they make me think of a group of people,” and “they reminded me of a family.” Results showed that there was a significant effect of prime with participants anthropomorphizing the bottles more when asked to think of it as a person than an object (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) =6.55$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>). Further, there was a marginally significant effect of bottle size, with different‐sized bottles more likely than same‐sized bottles to lead to thoughts relating to anthropomorphism (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) =2.99$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.09$
+\end{document}</tex-math>
+                  </inline-formula>). More important, there was a significant two‐way interaction of prime and bottle sizes (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) =4.40$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\eta ^{2}=.048$
+\end{document}</tex-math>
+                  </inline-formula>). Contrast analysis showed that participants provided a greater proportion of thoughts about anthropomorphized bottles when exposed to different‐ rather than same‐sized bottles in the human prime condition (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=.52$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=.13$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) =7.33$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .01$
+\end{document}</tex-math>
+                  </inline-formula>) but not in the object prime condition (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=.04$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=.08$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). These results offer additional support for the premise that the extent of anthropomorphism of a product will be the greatest when participants are able to “see” the congruity between the product features and the human prime.</p>
+               <p>Additionally, following prior work (Meyers‐Levy and Tybout 1989), participants’ thoughts were coded by two independent judges in three different ways: total number of thoughts (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$r=.83$
+\end{document}</tex-math>
+                  </inline-formula>), total number of positive thoughts (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$r=.87$
+\end{document}</tex-math>
+                  </inline-formula>), and total number of negative thoughts (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$r=.80$
+\end{document}</tex-math>
+                  </inline-formula>). The number of positive thoughts less the number of negative thoughts was divided by the total number of thoughts to get a measure of net positive thoughts. Consistent with hypothesis 3, analysis of this net score revealed a significant two‐way interaction of schema prime and bottle sizes (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) =5.34$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\eta ^{2}=.057$
+\end{document}</tex-math>
+                  </inline-formula>) but no main effects of schema (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>) or bottle sizes (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). Contrast analysis showed that participants provided a relatively lower proportion of net positive thoughts when they were presented same‐ rather than different‐sized bottles after being primed with an object schema (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=-.19$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=.04$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) =4.14$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>) but a relatively greater ratio when primed with the human schema, although this difference was not significant (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=-.02$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=-.17$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 88) =1.50$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>).</p>
+            </sec>
+         </sec>
+         <sec id="sc5.4">
+            <title>Discussion</title>
+            <p>Results of study 2 replicate those of study 1 on the effects of schema‐congruent features on the evaluation of anthropomorphized products. In study 2, however, the product feature used to create a match or mismatch with the human prime involved different‐ versus same‐sized bottles instead of a smile versus a frown. Because bottle size cannot be behaviorally mimicked, the results of study 2 rule out the mimicry‐based alternative explanation. Further, unlike facial expression, bottle sizes do not differ in inherent appeal, helping to rule out an explanation based on feature quality. The thought protocol analysis in study 2 also offers greater support for the schema‐congruity hypothesis by providing confirmatory evidence of the underlying process.</p>
+            <p>An alternative explanation for the results of studies 1 and 2 also comes from research on schema‐based processing, which has shown that people often evaluate a stimulus based on the affect associated with the overall category to which the stimulus belongs (Fiske 1982; Fiske and Pavelchak 1986). These researchers suggest that categories are stored in memory with an associated affective assessment. When a new stimulus is seen as belonging to a particular schema, the affective tag associated with that schema is used to evaluate the stimulus. Hence, it is conceivable that the results of studies 1 and 2 were not driven exclusively by the feeling of satisfaction due to perceived congruity between the stimulus and the category (in the match condition) but were also driven by positive affect associated with the spokesperson and family schema. We explore this alternative account in study 3 by presenting human schema that have both positive and negative affective tags. This study therefore allows us to examine conditions in which successful anthropomorphizing due do schema congruity may not lead to higher evaluations.</p>
+         </sec>
+      </sec>
+      <sec id="sc6">
+         <title>Study 3: Two of a Kind yet Poles Apart</title>
+         <p>Stimuli for study 3 were very similar to study 2, except that instead of four different bottles signifying a “family” we used two bottles and primed the human schema of “twins.” In this case, same‐sized bottles were congruent with the human (twins) schema, while different sizes were incongruent. Hence, in contrast to study 2, we predicted greater anthropomorphism when the bottles were the same rather than different sized. By changing schemas and hence the perceived congruity of the same‐ and different‐sized bottles, we can rule out a possible alternative explanation for study 2 that preference for the different‐sized bottles resulted not from congruity but rather from preference for variety. This manipulation also underscores the point that it is not a specific feature (same vs. different size) that is human‐like but rather its match with the particular human schema (twin vs. family) being primed.</p>
+         <p>More important, the purpose of study 3 differed from that of studies 1 and 2. Instead of examining differences in the effect of human and object primes, study 3 examined the influence of category affect and explored conditions in which greater perceived congruity with a human schema would not necessarily lead to more positive product evaluations. In this study, we primed two different human schema, good twins (e.g., using phrases such as “we are the beverage twins who will do any parents proud,” “we are both equally good,” etc.) and evil twins (e.g., using phrases such as “we are the evil twins,” “begin our reign of terror … conquer your city,” “you will be sorry if you don’t choose one of us,” etc.). We expected no difference in participants’ ability to anthropomorphize the product across the positive (good twins) and negative (bad twins) schema conditions when presented with the congruent feature (i.e., same‐sized bottles). We did, however, expect differences in the evaluation of the product depending on the affect associated with the schema:<list>
+               <list-item>
+                  <label>
+                     <bold>H4: </bold>
+                  </label>
+                  <p>Participants’ evaluation of the product will be more positive when they are primed with a positive human schema and the feature is congruent with that schema but not when they are primed with a negative human schema.</p>
+               </list-item>
+            </list>
+         </p>
+         <sec id="sc6.1">
+            <title>Design, Stimuli, Procedure, and Dependent Variables</title>
+            <p>The study was a <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$2\times 2$
+\end{document}</tex-math>
+               </inline-formula> design with schema prime (twin, evil twin) and bottle sizes (same, different) as the between‐participants conditions. One hundred seventy‐two undergraduate students from the University of Toronto participated in this study for partial course credit. Stimuli, procedure, and dependent variables were similar to study 2, except that the anthropomorphism items were modified to tap into the twin schema instead of the family schema. Further, we employed a six‐item anthropomorphism score for a more comprehensive assessment (seemed like two people, beverages seemed like a pair, an ideal pair, seemed odd as a pair [reverse], combination seemed a pair, and looked like a pair).</p>
+            <p>To assess the associations with the two schemas, a pretest was conducted. A separate group of 85 participants from the same pool rated the two categories on a seven‐point four‐item semantic differential scale assessing the affect associated with the two schemas (anchored on bad‐good, unattractive‐attractive, negative‐positive, and unappealing‐appealing). Further, these participants also indicated the extent to which they associated twins and evil twins with human beings and products and with members who are identical in size and different in size. Results show a significantly more positive affect associated with twins relative to evil twins on the four‐item affect score (Cronbach’s <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.88$
+\end{document}</tex-math>
+               </inline-formula>; <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{twin}\,}=4.54$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{evil}\,\,\mathrm{tw}\,}=2.80$
+\end{document}</tex-math>
+               </inline-formula>; <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t( 1,\, 83) =8.52$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .001$
+\end{document}</tex-math>
+               </inline-formula>). Further, there was greater association with humans rather than products for the twin (<inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{human}\,}=5.68$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{prod}\,}=3.86$
+\end{document}</tex-math>
+               </inline-formula>; <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t( 1,\, 84) =7.44$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .001$
+\end{document}</tex-math>
+               </inline-formula>) and the evil‐twin schema (<inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{human}\,}=4.87$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{prod}\,}=2.89$
+\end{document}</tex-math>
+               </inline-formula>; <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t( 1,\, 84) =7.65$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .001$
+\end{document}</tex-math>
+               </inline-formula>). Finally, category members were more likely to be identical in size than different for twin (<inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{ident}\,}=6.01$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=2.25$
+\end{document}</tex-math>
+               </inline-formula>; <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t( 1,\, 84) =15.04$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .001$
+\end{document}</tex-math>
+               </inline-formula>) and for evil‐twin (<inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{ident}\,}=4.94$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=2.68$
+\end{document}</tex-math>
+               </inline-formula>; <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t( 1,\, 84) =8.06$
+\end{document}</tex-math>
+               </inline-formula>, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .001$
+\end{document}</tex-math>
+               </inline-formula>) schemas.</p>
+         </sec>
+         <sec id="sc6.2">
+            <title>Results and Discussion</title>
+            <sec id="sc6.2.1">
+               <title>Affect.</title>
+               <p>Replicating the results of studies 1 and 2, there were no significant effects on the 11‐item positive and negative affect scale. Again, details are available from the authors.</p>
+            </sec>
+            <sec id="sc6.2.2">
+               <title>Anthropomorphizing.</title>
+               <p>An analysis on the six‐item anthropomorphism score showed no main effect of schema prime (Cronbach’s <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.83$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). However, in keeping with the results of the pretest, there was a significant effect of bottle sizes with participants more likely to anthropomorphize the bottles when they were the same rather than different (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) =20.47$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .001$
+\end{document}</tex-math>
+                  </inline-formula>). Further, there was a significant two‐way interaction of schema prime and bottle sizes (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) =4.91$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\eta ^{2}=.029$
+\end{document}</tex-math>
+                  </inline-formula>). Contrast analysis showed that participants were more likely to anthropomorphize the same‐ rather than different‐sized bottles in the evil‐twin condition (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=3.98$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=5.11$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) =23.01$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .001$
+\end{document}</tex-math>
+                  </inline-formula>), and this effect was marginal in the twin condition (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=4.24$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=4.63$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) =2.61$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.10$
+\end{document}</tex-math>
+                  </inline-formula>).</p>
+            </sec>
+            <sec id="sc6.2.3">
+               <title>Product Evaluation.</title>
+               <p>Consistent with hypothesis 4, an ANOVA on the 18‐item overall evaluation score showed a significant interaction of schema prime and bottle size (Cronbach’s <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =.90$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) =4.09$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\eta ^{2}=.024$
+\end{document}</tex-math>
+                  </inline-formula>) but no main effects for schema (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166&lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>) or bottle size (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). Planned contrasts revealed that when primed with a positive (good twin) schema, participants evaluated the beverages more positively when the bottles were the same compared to different sized, although this difference was only marginally significant (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=3.30$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=3.64$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) =3.12$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p=.08$
+\end{document}</tex-math>
+                  </inline-formula>), but when primed with the negative (evil twin) schema, there was no difference in the beverage evaluation when the bottles were same sized relative to different sized (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{diff}\,}=3.44$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$M_{\mathrm{same}\,}=3.23$
+\end{document}</tex-math>
+                  </inline-formula>; <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) =1.18$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&gt; .10$
+\end{document}</tex-math>
+                  </inline-formula>). The other set of contrasts revealed that participants evaluated the same‐sized bottles more positively when primed with the positive compared to the negative human schema (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) =4.62$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p&lt; .05$
+\end{document}</tex-math>
+                  </inline-formula>), but there were no differences across the two primes when the bottle sizes were different (<inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$F( 1,\, 166) &lt; 1$
+\end{document}</tex-math>
+                  </inline-formula>). Hence, as predicted, participants liked the beverages more when the target feature was congruent with the human schema but only when the primed human schema was positive.</p>
+            </sec>
+            <sec id="sc6.2.4">
+               <title>Mediation Analysis.</title>
+               <p>We did not expect perceived anthropomorphism to mediate the product evaluations in this case. Participants were expected to anthropomorphize the products when presented with the same‐ compared to different‐sized bottles for both the positive and negative human schema primes. However, we expected the evaluations to be more positive as a consequence of this anthropomorphism only in the positive prime condition. Results of a mediation analysis support this view. In particular, the coefficient for the interaction of schema prime and bottle size did not decrease when perceived anthropomorphism was added to the model (simple model <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.154$
+\end{document}</tex-math>
+                  </inline-formula>; full model <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b=.193$
+\end{document}</tex-math>
+                  </inline-formula>), suggesting that perceived anthropomorphism did not mediate the effect on product evaluations.</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="sc7">
+         <title>General Discussion and Conclusion</title>
+         <p>Marketers frequently encourage consumers to think of their products in human terms, and prior research shows that in many cases consumers do anthropomorphize their possessions. Nevertheless, the process by which consumers come to see their products as people and the effect of anthropomorphizing on product evaluation have received very limited attention in the consumer research literature. Researchers have addressed factors that make for more likeable and effective spokes‐characters (e.g., the Keebler Elves; see Callcott and Phillips 1996), but they have not, to our knowledge, addressed anthropomorphizing of the product itself.</p>
+         <p>Our research offers a framework to understand this phenomenon and identifies specific conditions in which marketers’ efforts to present their products as people will lead to higher or lower evaluations. Specifically, results of the first two studies provide support for schema‐congruity theory as the underlying theoretical basis for explaining consumers’ evaluations of anthropomorphized products. Although the schema‐congruity model was proposed first by researchers in the early 1980s to offer insight into the match between products and their categories (Fiske 1982; Mandler 1982), this current research finds an application for the model in a very new context: to understand the complex phenomenon of product anthropomorphism. Consistent with this theory, studies 1 and 2 find converging evidence that the ease with which products can be anthropomorphized by consumers depends on the schema in which products are presented and the presence or absence of product features that are human‐like. And this ability on behalf of consumers to see the products as human in turn affects their evaluation of that product. Products that are presented as human but which lack human features are evaluated less positively than products that are presented as human and which have human‐like features.</p>
+         <p>Results of our third study provide an additional nuance to our understanding by showing the two different ways in which schema‐based processing might influence consumers’ evaluations of a product. Consistent with studies 1 and 2, participants in the third study were also more likely to anthropomorphize the product when its features were congruent with an activated human schema. In keeping with prior work on schema‐based processing, findings for this study also support the view that the overall evaluation of the product may be influenced both by the degree of satisfaction from seeing the fit between the product feature and the activated human schema as well as by the “affective tag” associated with that schema (Fiske 1982). Hence, this study provides evidence of conditions in which anthropomorphizing the product does not lead to higher evaluations—participants evaluated the product that was anthropomorphized as “evil twins” less favorably than the product anthropomorphized as “twins.” This result reinforces the cautionary point that anthropomorphizing a product may lead to more positive evaluations only when the type of person brought to mind is associated with positive feelings. It is interesting to note that despite the heavy‐handed nature of this manipulation, characterizing the products as “evil” only muted the positive influence of schema congruity; it did not result in evaluations that were significantly lower in the congruent than incongruent feature conditions. Perhaps presentational devices that humanize objects in marketing contexts are more likely to be interpreted in a positive way, as when products are “killers” (of bad breath or bathroom germs) or bullies (as in tough‐guy cars). As these studies are among the first on the effects of product anthropomorphism, future work is called for to further examine the relative influence of an affective tag.</p>
+         <p>An additional avenue for future research might be to explore potential differences in memory depending on whether consumers successfully anthropomorphized the product. Prior research suggests that schemas facilitate inaccurate recall of information that is schema consistent (Fiske and Linville 1980). In other words, categorizing the stimulus as belonging to a particular category means that consumers are more likely to recall schema‐consistent features even if the features are actually absent from the stimulus. This effect could either benefit or harm the position of a product, depending on whether the inferred features are positive or negative. Hence, efforts to anthropomorphize a product may lead to a “person” whose perceived actions and traits are not fully under the marketers’ control.</p>
+         <p>In sum, this research takes an important first step to understand the process by which products are anthropomorphized. We examine the interplay of the schema through which products are examined (human or object), the specific human schemas used for product anthropomorphizing (spokesperson, family, and twin) and the specific features endowed to the product (being readily associated with the human schemas or not). We find that products may be evaluated more or less positively depending on the fit of the feature to the human schema as well as the valence of the affect associated with the schema. Future research may delve more deeply into the evaluation of anthropomorphized products by considering, for example, issues of trust and credibility; the effects of stereotypes, which may be more powerful influences for products seen in human‐like terms; the potential for mimicry, as when one assumes the posture of an imposing sport‐utility vehicle; and variety seeking and loyalty, which may differ depending on whether one is seen as abandoning a person or merely switching objects. Researchers may also wish to examine whether, in fact, the effects of anthropomorphizing may depend on not just the presence or absence of human‐like features but also the type of anthropomorphism. For example, literal anthropomorphizing, which involves mistaking an object for a real person, may produce relatively lower evaluations if subsequent realization of the mistaken perception leads to negative affect and self‐admonishment. By contrast, accidental anthropomorphism, which involves seeing parts of the product as being human‐like due to a chance configuration of components, as in seeing a face in the clouds, may raise the evaluation of the product merely because the feature is perceived as unique or cute. Further, the positive effect of these components might become even stronger if people’s attention is drawn to these surprising, human‐like features. By contrast, calling attention to the design features that lead to partial anthropomorphism, the type of anthropomorphism that we examine in this article, may undermine the positive evaluation by changing the evaluative schema from human to an engineered object. Finally, our findings have implications for research on analogical reasoning by highlighting the effect and the underlying process of the application of the human analogy for product evaluation.</p>
+      </sec>
+   </body>

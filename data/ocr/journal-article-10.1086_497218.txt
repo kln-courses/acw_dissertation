@@ -1,0 +1,15 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>“The air trembles with the movement of wings. The approach of a White Admiral. The aerial dance of sulfurs” (p 1). These words introduce Sharman Apt Russell’s refreshingly informal style of writing and her obsession with butterflies. This book, intended for a general audience, is an entertaining and charming look at our love for butterflies, their biology, their conservation, and even butterfly ranches that raise specimens to sell to collectors: morphos from Costa Rica and birdwings from New Guinea.</p>
+      <p>Although it may add little to an entomologist’s knowledge and may seem irrelevant to molecular biologists, all scientists could profit from reading this small book. Rarely does a writer so nicely blend views of the natural world by both science and art. For example, Russell sees the beauty of the colors and patterns of butterfly wings and views these as art while, at the same time, recognizes that they were designed by natural selection to bring the sexes together to help territorial males protect their turf against intruding males.</p>
+      <p>The author’s anthropomorphism may disturb some biologists. But keep in mind that anthropomorphic wording—if viewed with tolerance and not taken literally by readers—is useful in biological writing, often as shorthand for cumbersome “scientific” wording. Her anthropomorphism may offend some purists, but she does put across her thoughts. For example, she says of a male tiger swallowtail searching for a mate, “he is most interested in those trees and bushes he remembers from childhood, the plants he ate as a caterpillar … [and] females looking for a place to lay their eggs are likely to be nearby” (p 80). This is graphically put but, unfortunately, it refers to the dubious hypothesis that adult insects remember and prefer the plants they ate as larvae (see A B Barron. 2001. <italic>Journal of Insect Behavior</italic> 14(6):725–737).</p>
+      <p>Chapter Thirteen, Timeline, is a wonderful story of the race to preserve a remnant of the El Segundo Blue’s dune habitat on the California coast in Los Angeles. Interwoven with the account of that decade‐long struggle is the heartwarming story of a young man who became a respected and responsible member of the El Segundo Blue team and thereby escaped his involvement with street gangs and crime.</p>
+      <p>In the final chapter, Air and Angels, Russell asks why we love butterflies, and concludes with the following (p 207):  <disp-quote>
+            <p>Butterflies bring the spring.</p>
+            <p>A man in love has butterflies in his belly.</p>
+            <p>Butterflies are stray, familiar thoughts.</p>
+            <p>Butterflies are air and angels.</p>
+         </disp-quote>
+      </p>
+   </body>

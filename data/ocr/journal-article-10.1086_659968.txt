@@ -1,0 +1,28 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/658070">Intuitive Biases in Choice versus Estimation: Implications for the Wisdom of Crowds</uri> Joseph P. Simmons, Leif D. Nelson, Jeff Galak, and Shane Frederick</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/657998">The Zero-Comparison Effect</uri> Mauricio M. Palmeira</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/658165">Getting Ahead of the Joneses: When Equality Increases Conspicuous Consumption among Bottom-Tier Consumers</uri> Nailya Ordabayeva and Pierre Chandon</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/658220">Marketplace Tensions in Extraordinary Experiences</uri> Gülnur Tumbat and Russell W. Belk</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/658469">When Your World Must Be Defended: Choosing Products to Justify the System</uri> Keisha M. Cutright, Eugenia C. Wu, Jillian C. Banfield, Aaron C. Kay, and Gavan J. Fitzsimons</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/657605">Been There, Done That: The Impact of Effort Investment on Goal Value and Consumer Motivation</uri> Ying Zhang, Jing Xu, Zixi Jiang, and Szu-Chi Huang</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/658148">Gaming with Mr. Slot or Gaming the Slot Machine? Power, Anthropomorphism, and Risk Perception</uri> Sara Kim and Ann L. McGill</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/657924">A Coal in the Heart: Self-Relevance as a Post-Exit Predictor of Consumer Anti-Brand Actions</uri> Allison R. Johnson, Maggie Matear, and Matthew Thomson</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/657331">How Credit Card Payments Increase Unhealthy Food Purchases: Visceral Regulation of Vices</uri> Manoj Thomas, Kalpesh Kaushik Desai, and Satheeshkumar Seenivasan</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/658883">Safety First? The Role of Emotion in Safety Product Betrayal Aversion</uri> Andrew D. Gershoff and Jonathan J. Koehler</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/657606">Indulgence or Self-Control: A Dual Process Model of the Effect of Incidental Pride on Indulgent Choice</uri> Keith Wilcox, Thomas Kramer, and Sankar Sen</p>
+      <p>
+         <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1086/658166">It’s Not Me, It’s You: How Gift Giving Creates Giver Identity Threat as a Function of Social Closeness</uri> Morgan K. Ward and Susan M. Broniarczyk</p>
+   </body>

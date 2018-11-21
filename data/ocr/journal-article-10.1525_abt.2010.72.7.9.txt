@@ -1,0 +1,614 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>There are logistical and conceptual challenges to teaching the techniques of behavioral observation that are fundamental to the field of behavioral ecology. Logistical obstacles, such as housing captive animals or observing wild animals, can prevent instructors from implementing the many published laboratory exercises designed to teach students to observe, describe, and quantify animal behavior (e.g., Ploger, 2003). Conceptually, the complexity of behavioral repertoires often leads inexperienced students to inappropriately confound their observations through vague and subjective descriptions. Thus, teaching objectivity in the observation of animal behavior is a cornerstone of behavioral ecology with at least three components: understanding sources of observational bias, gaining familiarity with observational techniques, and developing proficient skills to accurately define and quantify observations.</p>
+      <p>We designed an introductory, college-level animal behavior laboratory to overcome these conceptual and logistical obstacles to teaching quantification of animal behavior. The exercise uses time-lapse photography in a free, online citizen-science project (CamClickr) developed and maintained by Cornell University's Lab of Ornithology. In this lesson, students learn about multiple ways to describe behavior, create ethograms from observations gathered while participating in CamClickr, and use their ethograms to generate and test hypotheses about the evolution of observed behaviors. By using series of still images of behavior at discrete periods, the students are limited to structural descriptions of behavior. This limit is useful in learning fundamentals, as it averts the students' attention from the initial distraction of attempting to determine the consequences of observed behaviors. The exercise teaches them, through experience, the concepts of structure, consequence, and relational descriptions of behavior. The time-lapse images are also a useful way to illustrate the differences between scan sampling and focal-subject sampling, two common methods used to obtain standardized observations.</p>
+      <p>Although we have structured this exercise for an introductory college course, its scope and content are also appropriate for the ecology unit of a high school biology class. Ethograms depict patterns of animal behavior; as such, they are useful tools to permit students to generate – and, with appropriate replication, test – hypotheses about their observations. For example, students in our classes often notice differences in nestling provisioning rates between bird species. They then hypothesize about why provisioning rates might differ between species. Their hypotheses often focus on differences in the types of food delivered to the nestlings, the time of year the nestlings are hatching (late spring vs. early summer), and the body size of the species observed. In some cases, the students narrowly define hypotheses that can be tested by further examination of the time-lapse data combined with a little background research on the species in question (e.g., nestling provisioning rates for insectivores that specialize on aerial prey are much higher than those for insectivores that specialize on terrestrial prey). In all cases, the students' observations generate further inquiry and independent research. This inquiry-based approach fits nicely with both the standard of developing the ‘skills necessary to become independent inquirers about the natural world’ (National Research Council, 1996) and the benchmark of developing critical-response skills (American Association for the Advancement of Science, 2009).</p>
+      <sec id="div1">
+         <title>The Activity</title>
+         <sec id="div1-div1">
+            <title>Materials</title>
+            <list list-type="bull">
+               <list-item>
+                  <p>• 1 computer per 1–3 students</p>
+               </list-item>
+               <list-item>
+                  <p>• Internet access</p>
+               </list-item>
+               <list-item>
+                  <p>• Example observation data sheet (provided)</p>
+               </list-item>
+               <list-item>
+                  <p>• Spreadsheet and graphing software such as MS Excel</p>
+               </list-item>
+            </list>
+         </sec>
+      </sec>
+      <sec id="div2">
+         <title>Time Required</title>
+         <p>The activity is done over two 3-hour laboratory sessions to allow enough time for the students to (1) engage in class discussion of key concepts in behavioral observations, (2) become familiar with the CamClickr project, (3) generate testable hypotheses, and (4) collect observations from CamClickr and create and use ethograms. </p>
+      </sec>
+      <sec id="div3">
+         <title>Objectives</title>
+         <p>Students will</p>
+         <list list-type="bull">
+            <list-item>
+               <p>• develop skills to objectively study animal behavior</p>
+            </list-item>
+            <list-item>
+               <p>• learn about bias in observations in animal behaviorM</p>
+            </list-item>
+            <list-item>
+               <p>• learn the differences among structural, consequential, and relational descriptions of behaviors</p>
+            </list-item>
+            <list-item>
+               <p>• learn the difference between focal and scan sampling and their uses</p>
+            </list-item>
+            <list-item>
+               <p>• learn to create ethograms</p>
+            </list-item>
+            <list-item>
+               <p>• use ethograms to construct and test hypotheses about the evolution of behavior</p>
+            </list-item>
+            <list-item>
+               <p>• become familiar with the structure of scientific papers</p>
+            </list-item>
+         </list>
+      </sec>
+      <sec id="div4">
+         <title>Overview</title>
+         <p>The lab begins with discussions intended to help the students understand the sources of observational bias and become familiar with observational techniques. The students then register with CamClickr and participate in two levels of this citizen-science project to get acquainted with common nestling behaviors using a premade data-collection sheet. The discussion continues with instruction on creating ethograms with the data they collect, as well as drawing on examples referenced in the primary scientific literature. The discussion of ethograms should emphasize their utility in constructing hypotheses about the evolution of behavior. After the students construct plausible, testable hypotheses about avian nesting behavior based on their initial ethogram, they design data sheets, continue to use CamClickr, and create ethograms that could test their hypotheses. Through discussion and the activity, the students will develop proficient skills to accurately define and quantify observations.</p>
+      </sec>
+      <sec id="div5">
+         <title>Concepts to Introduce before the Activity</title>
+         <p>
+            <bold>Bias from sensory modality</bold>. The laboratory exercise should be introduced by an in-depth discussion that begins with a series of student-generated, ‘brainstormed’ lists, the first on the rich array of sensory modalities that animals use to interpret and interact with their worlds. The brainstorming can be seeded with examples: the bat's world is interpreted through its dependence on ‘seeing’ by echolocation, the catfish ‘tastes’ the landscape, and the bee's ability to sense ultraviolet light makes it aware of colors and patterns that are invisible to us. The instructor should emphasize that humans are biased by our own sensory modalities and the inherent limitations of our language when we interpret animal behavior. Can we legitimately describe a bat's ability to sense prey through echolocation as ‘seeing’ or ‘hearing’? </p>
+         <p>To address this question, instructors can introduce the ideas of Jakob Johann von Uexküll, a German biologist at the turn of the 20th century, as reviewed by Gould (1982). Von Uexküll understood that the sensory world of each animal shaped its behavior in a unique way and that our limited human senses, as well as our understanding of time and space, would be very different from that of the animals we observe. One example von Uexküll used to illustrate this concept (the implications of studying organisms with different sensory modalities) is the female tick. Just as von Uexküll would have done, instructors can encourage students to enter the female tick's ‘mind,’ view the world through her sensory window, and consider the activities the female tick needs to accomplish in order to be a successful tick. Next, the instructor guides another class-generated list of tick behaviors, the stimuli that release the behaviors, and the contexts in which the tick should exhibit the behaviors appropriately (for an example, see Table 1). Once the list is complete, the students should be encouraged to critically examine the words they used to describe the behavioral repertoire of the tick. Most likely, many or all of the words will be related to human sensory systems. An awareness of this sensory bias is an important component of objective observation.</p>
+         <table-wrap id="abt.2010.72.7.9-t01" position="float">
+            <label>
+               <bold>Table 1.</bold>
+            </label>
+            <caption>
+               <p>
+                  <bold>Categories and descriptions of the behavioral repertoire of a female tick as described by Jakob Johann von Uexküll and reviewed by Gould (1982).</bold>
+               </p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Category</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Description</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Stimulus</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Context</bold>
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Search</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">Waving pedipalps</td>
+                     <td rowspan="1" colspan="1">Light</td>
+                     <td rowspan="1" colspan="1">On tip of leaf</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Drop</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">Drops from leaf surface</td>
+                     <td rowspan="1" colspan="1">Butyric acid</td>
+                     <td rowspan="1" colspan="1">Mammal has passed leaf</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Burrow</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">Embeds head in mammalian skin</td>
+                     <td rowspan="1" colspan="1">Heat</td>
+                     <td rowspan="1" colspan="1">Has found hairless region of mammal</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Drink</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">Sucks blood</td>
+                     <td rowspan="1" colspan="1">Liquid at appropriate temperature</td>
+                     <td rowspan="1" colspan="1">Head has perforated a membrane with liquid on the other side</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Oviposit</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">Lays eggs</td>
+                     <td rowspan="1" colspan="1">Abdomen filled with blood</td>
+                     <td rowspan="1" colspan="1">On ground, in dirt</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>
+            <bold>Define &amp; quantify</bold>. Behavior, by its simplest definition, is movement (Ridley, 1995). Discrete units of movement linked together create patterns of locomotion, sound, and subtle actions. Thus, the ideal description of a given behavior would include a list of all its component postures, movements, and sounds. It would also be instructive to record all contexts in which the behavior might occur and all responses it might elicit from other animals (Brooks &amp; Yasukawa, 2009). Two well-recognized ways to describe behavior are based on (1) the structure of a particular behavior and (2) the consequences of the observed behavior. A structural description of a given behavior is a characterization of its physical form, including a description of the subject's posture, movement, and sound. Conversely, a consequence description depicts the behavior only with respect to its presumed consequences. Consequences are the effects of the subject's behavior on itself, its environment, or other organisms (Brooks &amp; Yasukawa, 2009).</p>
+         <p>The common behavior of nestling birds is useful for illustrating structure and consequence. If we describe nestling behavior as ‘vocalize with their necks extended and mouths open,’ we have used a structural description. If we describe it as ‘beg for food,’ we have used a consequence description. Instructors should encourage students to think critically about the importance of being able to characterize behavior in these two ways. A nestling bird vocalizing to solicit food from its parent will also vocalize to warn about impending predation in a structurally identical manner. Yet the contexts in which the vocalizations occur and the responses they elicit from the parent are very different. The structural description permits students to ask, ‘Are the nestlings begging for food? Are the nestlings warning a parent of their danger?’ The consequence description precludes these questions, perhaps leading to premature and incorrect conclusions. For example, a student observing a nestling's vocalization may be tempted to construct a consequence description of ‘nestling vocalizing because it is hungry and wants food.’ This description implies that vocalization is a consequence of hunger, an anthropomorphic (and teleological) assumption framed in a way that precludes testing. However, using simple structural descriptions coupled with some form of probability analysis (e.g., a transition matrix) would allow the student to answer the question ‘Are nestlings begging for food?’ When correct, consequence descriptions are useful and lead to relational descriptions of behavior; that is, descriptions of the spatial relationship between organisms or between an organism and something in the environment. With both consequence and relational descriptions of behavior, the focus is on where, or with whom, the organism is, rather than what it is doing. Instructors should emphasize that there is not necessarily a single ‘right’ way to describe behavior. Different descriptions of animal behavior might be necessary to test different types of hypotheses. Until students gain experience in observational techniques, they should understand that they can avoid errors and pitfalls by starting with structural descriptions of behavior.</p>
+         <p>An ethogram is a catalogue of discrete behaviors. Table 1 and Figure 1 depict two different forms of ethograms for the behavioral inventory of a female tick. The structure and organization of the ethogram make it a useful tool for generating and testing hypotheses about the significance of animal behaviors for survival and reproduction. Zoological breeding programs, for example, depend on accurate, species-specific ethograms to test hypotheses about maximizing reproduction in captive populations. To assist scientists and zookeepers in this and other behavioral research, the Behavioral Advisory Group of the American Zoo and Aquarium Association maintains a Web site devoted to cataloguing species-specific ethograms (<ext-link ext-link-type="url"
+                      xlink:href="http://www.ethograms.org"
+                      xlink:type="simple">http://www.ethograms.org</ext-link>). However, it is generally necessary for behavioral scientists to make reconnaissance observations to become familiar with a given species before generating their own ethograms and testable hypotheses about animal behavior. An interesting example of the process of reconnaissance observation leading to a testable hypothesis based on ethograms can be found in Scheer et al.'s (2004) work on whales' interactions with swimming humans. That study also provides a basis for student discussion about the problems of inappropriately comparing structural descriptions to consequence descriptions of animal behavior. A similar study on human interactions with bottlenose dolphins by Constantine (2001) models the way in which ethograms can be used to quantitatively test specific hypotheses. Both papers are available online and are appropriate for both the high school and college levels.</p>
+         <fig id="abt.2010.72.7.9-f01" position="float">
+            <label>
+               <bold>Figure 1.</bold>
+            </label>
+            <caption>
+               <p>A hypothetical pictorial ethogram depicting the behavioral repertoire of the female tick as described by Jakob Johann von Uexküll (Table 1) and reviewed by Gould (1982).</p>
+            </caption>
+            <graphic xlink:href="abt.2010.72.7.9-f01.tif"
+                     alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"/>
+         </fig>
+         <p>
+            <bold>Sampling techniques</bold>. The CamClickr exercise can be useful for illustrating focal sampling and scan sampling. Focal sampling involves recording a continuous inventory of behavioral observations of a focal individual to produce a detailed and temporally accurate account of a single individual's behavior. Focal sampling can be useful for studies of uncommon behaviors (behaviors that occur at low frequencies) and for observations in an unfamiliar system (Lehner, 1987). Scan sampling involves watching several individuals interact and noting what each individual does at a precise point in time (e.g, at equal time intervals; Lehner, 1987). This type of sampling can provide a snapshot of group dynamics and interactions. Since CamClickr presents ‘snapshots,’ students can use images of nestlings as scan samples. Even though individual nestlings are not uniquely marked, in most cases the snapshots are frequent enough in relation to nestling movements (particularly those of young nestlings) that students can take notes of the behavior of each individual during each scan sample.</p>
+      </sec>
+      <sec id="div6">
+         <title>Procedure</title>
+         <p>The students work individually or in groups of up to three. They begin by registering new accounts with CamClickr (<ext-link ext-link-type="url"
+                      xlink:href="http://www.camclickr.org"
+                      xlink:type="simple">http://www.camclickr.org</ext-link>). CamClickr harnesses the collective power of Internet visitors to sort and tag archived images of a wide range of bird species during nesting. When students process images, they are helping prepare data for professional ecologists studying avian nesting behavior. The students work through Level 1 of CamClickr, which involves sorting, dragging, and dropping 99 photos into appropriately labeled photo albums. Level 1 is a rudimentary level that ensures that students can distinguish nest occupants based on presence or absence of eggs, nestlings, and adults. Next, the students process the same 99 photos through Level 2, which involves assigning one or more behavior tags to each individual photo. The first round of working through Levels 1 and 2 is comparable to reconnaissance observation and helps the students become familiar with the program and with bird behaviors they are likely to encounter in subsequent nests. Each photo contains a unique time stamp and location information. The students should tally behaviors on a premade data sheet (for an example, see Table 2) and make an ethogram. In a discussion of creating testable hypotheses, the instructor should prompt the students to develop ecologically relevant questions that they might address by collecting observations from CamClickr. After the students select a research question, using their new familiarity with CamClickr images they create a data sheet to organize their subsequent data collection. While they can modify their sample data sheet, the students should aim to organize their notes in the manner they feel will be best for summary and interpretation later. The students should consider several types of comparisons they could make in completing Levels 1 and 2, such as between at least two species, and/or single species in different locations, and/or single species during different nesting phases.</p>
+         <table-wrap id="abt.2010.72.7.9-t02" position="float">
+            <label>
+               <bold>Table 2.</bold>
+            </label>
+            <caption>
+               <p>
+                  <bold>Suggested sample data sheet to organize behavioral categories observed in the CamClickr program, Level 2. This data sheet should be designed to reflect student-designed hypotheses.</bold>
+               </p>
+               <p>DATE: <underline>15 SEPTEMBER 2010</underline> SPECIES: <underline>Tachycineta bicolor</underline>
+               </p>
+               <p>OBSERVERS: <underline>M. Wuenschel and S. Schlueter</underline> TIME OF OBSERVATION: <underline>1400–1500</underline>
+               </p>
+               <p>COMMENTS: 5 nestlings present, pinfeathers, time-lapse images recorded every 2 minutes</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th colspan="1to6" align="center" rowspan="1">
+                        <bold>Category of Behavior</bold>
+                     </th>
+                  </tr>
+                  <tr>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Time</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Sleeping</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Mouth Open</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Eating</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Preening</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Peeking out of Box</bold>
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1">Individual 1 2 3 4 5</td>
+                     <td rowspan="1" colspan="1">Individual 1 2 3 4 5</td>
+                     <td rowspan="1" colspan="1">Individual 1 2 3 4 5</td>
+                     <td rowspan="1" colspan="1">Individual 1 2 3 4 5</td>
+                     <td rowspan="1" colspan="1">Individual 1 2 3 4 5</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1402</td>
+                     <td rowspan="1" colspan="1">X X X X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1404</td>
+                     <td rowspan="1" colspan="1">X X X X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1406</td>
+                     <td rowspan="1" colspan="1">X X</td>
+                     <td rowspan="1" colspan="1">X X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1408</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1">X X X X</td>
+                     <td rowspan="1" colspan="1">X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1410</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1">X X X X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1412</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1">X X X</td>
+                     <td rowspan="1" colspan="1">X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1414</td>
+                     <td rowspan="1" colspan="1">X X X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1">X</td>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1400</td>
+                     <td rowspan="1" colspan="1">X X X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1">X</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1418</td>
+                     <td rowspan="1" colspan="1">X X X X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1420</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1">X X X X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">1422</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1">X X X</td>
+                     <td rowspan="1" colspan="1">X X</td>
+                     <td rowspan="1" colspan="1"/>
+                     <td rowspan="1" colspan="1"/>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="div7">
+         <title>Data Analysis: Constructing Ethograms</title>
+         <p>Before beginning analyses, the students should review their data and, if necessary, reorganize their notes into more meaningful tables. Ethogram data are easily summarized in bar graphs documenting the frequency of each behavior, as shown in Figure 2. Another option is to construct a transition matrix (Table 3), if behaviors were recorded in repeating sequences. The students can use a transition matrix to compute the associated probabilities of one behavior following another (Table 4). Specific instructions are included in the table legend above each matrix. The students can use the probabilities to develop a pictorial ethogram depicting the behavioral transitions (Figure 3). After organizing and graphing the data, the students should draw conclusions about the frequency (how often) and sequences (in what order) of the behaviors they observed.</p>
+         <fig id="abt.2010.72.7.9-f02" position="float">
+            <label>
+               <bold>Figure 2.</bold>
+            </label>
+            <caption>
+               <p>A graphic ethogram for nestling tree swallows (Tachycineta bicolor) developed from time-lapse photography recorded in a CamClikr participant nestbox. The ethogram illustrates the frequencies of observations across all the categories of behavior reported in Table 3.</p>
+            </caption>
+            <graphic xlink:href="abt.2010.72.7.9-f02.tif"
+                     alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"/>
+         </fig>
+         <fig id="abt.2010.72.7.9-f03" position="float">
+            <label>
+               <bold>Figure 3.</bold>
+            </label>
+            <caption>
+               <p>Transition diagram for nestling tree swallows (Tachycineta bicolor). Arrows represent the order in which behaviors normally occur. Values in parentheses are probabilities that behaviors will occur in the order depicted by arrows. Data are for individual nestlings observed from time-lapse photography of CamClikr participant nestbox. This ethogram was constructed from the transition probabilities reported in Table 4.</p>
+            </caption>
+            <graphic xlink:href="abt.2010.72.7.9-f03.tif"
+                     alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"/>
+         </fig>
+         <table-wrap id="abt.2010.72.7.9-t03" position="float">
+            <label>
+               <bold>Table 3.</bold>
+            </label>
+            <caption>
+               <p>
+                  <bold>Observed frequencies of behaviors that occur immediately before or after each other in nestling tree swallows (<italic>Tachycineta bicolor</italic>).<sup>*</sup>
+                  </bold>
+               </p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold/>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Peeking out of Box</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Mouth Open</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Eating</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Sleeping</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Preening</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Row Total</bold>
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Peeking out of Box</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">1</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">1</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Mouth Open</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">14</td>
+                     <td rowspan="1" colspan="1">5</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">19</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Eating</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">2</td>
+                     <td rowspan="1" colspan="1">1</td>
+                     <td rowspan="1" colspan="1">3</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Sleeping</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">8</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">16</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">24</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Preening</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">1</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">1</td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">1</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Column Total</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0</td>
+                     <td rowspan="1" colspan="1">22</td>
+                     <td rowspan="1" colspan="1">5</td>
+                     <td rowspan="1" colspan="1">20</td>
+                     <td rowspan="1" colspan="1">1</td>
+                     <td rowspan="1" colspan="1">48</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="abt.2010.72.7.9-t04" position="float">
+            <label>
+               <bold>Table 4.</bold>
+            </label>
+            <caption>
+               <p>
+                  <bold>A transitional probability matrix based on the observed behavior frequencies in tree swallows (<italic>Tachycineta bicolor</italic>) reported in Table 3.<sup>*</sup>
+                  </bold>
+               </p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold/>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Peeking out of Box</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Mouth Open</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Eating</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Sleeping</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Preening</bold>
+                     </th>
+                     <th align="left" rowspan="1" colspan="1">
+                        <bold>Row Total</bold>
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Peeking out of Box</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">1.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">1.00</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Mouth Open</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.74</td>
+                     <td rowspan="1" colspan="1">0.26</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">1.00</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Eating</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.67</td>
+                     <td rowspan="1" colspan="1">0.33</td>
+                     <td rowspan="1" colspan="1">1.00</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Sleeping</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.33</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.67</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">1.00</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Preening</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">1.00</td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">1.00</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">
+                        <bold>Column Total</bold>
+                     </td>
+                     <td rowspan="1" colspan="1">0.00</td>
+                     <td rowspan="1" colspan="1">1.07</td>
+                     <td rowspan="1" colspan="1">0.26</td>
+                     <td rowspan="1" colspan="1">3.33</td>
+                     <td rowspan="1" colspan="1">0.33</td>
+                     <td rowspan="1" colspan="1">5.00</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="div8">
+         <title>Student Inquiry &amp; Discussion</title>
+         <p>One of the primary goals of this activity is to teach students to use ethograms to construct and test hypotheses about animal behavior. Once students have worked through Level 1 of the CamClikr program, they should have a solid understanding of the types of questions they can explore. A common example follows. Students realize they can use the time stamps on the images to follow the rate of food delivery to nestlings across the day. Next, they might discuss what would be more interesting; comparing feeding rates across multiple species or within a single species. Should they decide to focus on a single species, there are several questions they can pursue. Usually, they follow an inductive reasoning process to develop their hypotheses. They may have noticed variation in the rate at which nestlings gape for food. They might then ask what triggers the gaping behavior. Discussion of their observations might lead to the following general hypotheses:</p>
+         <list list-type="order">
+            <list-item>
+               <p>Nestling gaping behavior is triggered by an internal physiological cue – hunger.</p>
+            </list-item>
+            <list-item>
+               <p>Nestling gaping behavior is triggered by an external visual cue – a shadow at the nestbox door.</p>
+            </list-item>
+         </list>
+         <p>Alternatively, they could ask questions about the function of gaping behavior:</p>
+         <list list-type="order">
+            <list-item>
+               <p>(1) Nestling gaping behavior may advertise internal physiological state (hunger) to the parent bird.</p>
+            </list-item>
+            <list-item>
+               <p>(2) Nestling gaping behavior may advertise nestling health or individual quality to the parent.</p>
+            </list-item>
+            <list-item>
+               <p>(3) Nestling gaping behavior may establish dominance or rank among siblings.</p>
+            </list-item>
+         </list>
+         <p>Functional questions will be difficult for students to work with; however, it is important that they ask a range of questions, some of which cannot be answered, to understand how to construct testable hypotheses. The instructor should assist in identifying student-generated hypotheses that can be appropriately tested. In the example above, the students must decide if they are able to collect data to falsify hypotheses about cues (what triggers the behavior) or function (who receives information or benefits from the behavior). To make this decision (cues vs. function), they will have to address the following questions:</p>
+         <list list-type="order">
+            <list-item>
+               <p>(1) Can you quantify another organism's internal state? Can you really develop a testable hypothesis about whether an individual feels hunger from information contained in the photographic data?</p>
+            </list-item>
+            <list-item>
+               <p>(2) Can you test ideas about nestling dominance or behaviors that function to establish rank among siblings? What data would you collect? Would the frequency of gape with respect to nestling size be appropriate?</p>
+            </list-item>
+            <list-item>
+               <p>(3) Could you test hypotheses about whether or not gaping behavior conveys information to a parent about individual quality or health? What data would you need? If you decide to test this idea by quantifying whether or not the largest chick gapes more often than others, how would you distinguish this hypothesis from the one above that asks if the function of gaping behavior is a signal to siblings?</p>
+            </list-item>
+         </list>
+         <p>At this point, the students should be encouraged to discuss the strategy of developing and testing multiple, mutually exclusive hypotheses. It is likely that they will need to construct a hierarchy of related hypotheses, as demonstrated above, to arrive at a conclusive test for their question of interest. Alternatively, they may wish to simplify and narrow their line of inquiry to construct a single falsifiable hypothesis. In the gaping-behavior example, students could easily test the hypothesis that gaping is a fixed action pattern – a stereotypical behavior released by a definable external cue. That hypothesis does not make untestable assumptions about internal state, nor does it attempt to draw conclusions about relational information between siblings or parents. It is a relatively straightforward hypothesis to test, requiring only an examination of the photographs for possible cues that trigger an immediate response.</p>
+         <p>The analysis of gaping behavior is only one of many lines of inquiry that students can follow using the CamClikr program. Other examples include the following:</p>
+         <list list-type="bull">
+            <list-item>
+               <p>When do females leave the nest during incubation? Why?</p>
+            </list-item>
+            <list-item>
+               <p>Do male and female birds devote equal time and effort to raising their young? Why might natural selection favor male birds that invest less in offspring than their female counterparts?</p>
+            </list-item>
+            <list-item>
+               <p>Does parental time at the nest change as the young develop?</p>
+            </list-item>
+            <list-item>
+               <p>Do males of different species assist during incubation? If so, what form does this assistance take (e.g., feeding the female, direct incubation of eggs)? Why might it be beneficial for some species to engage in male incubation whereas others do not?</p>
+            </list-item>
+            <list-item>
+               <p>Does incubation begin at different times during the egg-laying sequence in different species? Why?</p>
+            </list-item>
+         </list>
+         <p>Students should be encouraged to seek ecological information through library research to better inform their questions. This will be crucial if students want to explore ‘why’ questions. In all cases, exploring and comparing the ecology of different species will lead to additional insights and hypotheses to explain the observed variations in behavior. For some students, this process will begin an interest in natural history that will extend far beyond the biology classroom.</p>
+         <p>By working through the hypothesis-testing process as structured in this exercise, students develop the ability to reduce complex behaviors to simple components that are easily quantified and analyzed. The utility of constructing multiple, mutually exclusive hypotheses is an abstract concept, even for upper-division college students. By working through the process in a structured environment, they gain a deeper understanding of the power of the falsifiable hypothesis. This is useful in our college-level animal behavior course, as we ask our students to explore evidence for so-called ‘just-so-story’ explanations of animal behavior. However, the exercise would also be useful to middle school or high school teachers trying to teach hypothetico-deductive methods of hypothesis testing in any science class. Although the exercise requires access to a computer, students can work in groups to maximize resources. Group work is actually preferable, as it promotes scientific discussion and debate while the students attempt to determine the feasibility of their hypotheses and data-collection protocols. The exercise is, however, simple enough that it can also be done as an independent take-home project. In the independent format, it would be necessary for the teacher to set aside several class sessions for discussion before and after the assignment. Scientific discourse is an interactive, creative activity; it is best learned through discussion and collaboration.</p>
+      </sec>
+      <sec id="div9">
+         <title>Assessment Strategy</title>
+         <p>Teachers can evaluate students based on their data sheets, ethograms, and hypotheses. With this exercise, students have the basic content to write a short research paper about their hypotheses, observations in the form of ethograms, and their interpretation of what the ethograms reveal about nestling behavior.</p>
+      </sec>
+      <sec id="div10">
+         <title>Acknowledgments</title>
+         <p>We thank Tina Phillips for comments on an early version of the CamClikr-Ethogram lesson plan, Meghan Dibble of Villa Maria Academy, Erie, PA, for perspectives from a high school biology teacher, and the participants and organizers of the 2009 American Ornithologists' Union's Workshop on Innovative Teaching in Ornithology for valuable feedback on the final exercise.</p>
+      </sec>
+   </body>

@@ -1,0 +1,1181 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <sec id="sc1">
+         <title/>
+         <p>When Charles Darwin first published <italic>The Expression of the
+Emotions in Man and Animals</italic> his purpose was to show continuity
+in emotional expression across species and thereby strengthen his
+theory of evolution. Surrounding the book's illustrations, therefore,
+one finds descriptions of animal emotion designed to elicit our recognition
+as members of a universal audience. In this case our charm instantiates
+Darwin's argument for emotional continuity across species at
+the same time that we as members of a historical audience may miss
+the sly provocation of contemporaries with which the passage concludes
+(fig. 1).</p>
+         <fig-group content-type="figgrp" id="fg1" position="float" seq="1">
+            <label>F<sc>igure</sc> 1<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p>“Chimpanzee disappointed and sulky. Drawn from life by Mr.
+Wood” (<italic>E</italic>, p. 139).</p>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg1.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <disp-quote>
+            <p>The lips of young orangs and chimpanzees are protruded, sometimes
+to a wonderful degree, under various circumstances. They act thus,
+not only when slightly angered, sulky, or disappointed, but when alarmed
+at anything—in one instance, at the sight of a turtle—and
+likewise when pleased. … The accompanying drawing represents
+a chimpanzee made sulky by an orange having been offered him, and
+then taken away. A similar protrusion or pouting of the lips, though
+to a much slighter degree, may be seen in sulky children.1</p>
+         </disp-quote>
+         <p>Like many others, this moment in the <italic>Expression</italic> (as Darwin called it) is both rhetorical and inseparable from its
+science, which we sometimes imagine transcends the material that binds
+it to accidents of medium, occasion, and person. In this essay I recall
+how Darwin's <italic>Expression</italic> foregrounds the inherent
+rhetoricity of emotion, thereby outstripping Paul Ekman's science
+of emotion that claims to follow in its wake and which has recently
+infiltrated the humanities like a Trojan horse settling in the new
+critical subfield of Cognitive Approaches to Literature (CAL). Instead
+I will argue that Darwin's rhetoric of emotion is remarkably
+skeptical and humanistic, which does not diminish its scientific piquancy
+but rather aligns it with our “situated” theories in the
+science of cognition recently mobilized, for example, by the philosopher
+of biology Alva Noë in his academic bestseller <italic>Out of
+Our Heads: Why You Are Not Your Brain and Other Lessons from the Biology
+of Consciousness</italic>.2 Thus
+realigned, I conclude, Darwin's <italic>Expression</italic> helps
+us understand anew how an adequate model of consciousness must be
+able to account for literary emotion—a claim I illustrate by
+reading a canonic passage on fellow feeling from Laurence Sterne's <italic>A Sentimental Journey through France and Italy</italic>.</p>
+         <p>Though initially a bestseller, the <italic>Expression</italic> lapsed
+into relative obscurity during the next century as Darwin's evolutionary
+theory established itself primarily on other terms, including, most
+importantly, the fossil record, homologies across related life-forms,
+geographic distribution of related species, and artificial selection
+like dog breeding. Meanwhile the ambiguities of studying emotion rendered
+it a difficult and even suspect science for the next century, especially
+insofar as the mechanics of our emotional life lacked the reliable
+metric promised by a rational life that might be reconstructed in
+the spirit of logical positivism or tracked, for instance, through
+idealized behaviors such as rational choice in the marketplace.3 “It's raining” seemed
+the kind of thought that might reliably link the mind and the real
+world, but the experience of fear suffered from all sorts of semantic
+and practical ambiguities that made any experimental project difficult
+to realize, even after Darwin's evolutionary argument.4 Recently, however, the <italic>Expression</italic> has made a dramatic comeback as the study of emotion mushrooms across
+academic disciplines and in applied fields such as homeland security5 or in a popular arena such as the
+TV drama <italic>Lie to Me</italic>, which is built around expert
+analysis of emotional microexpressions à la Ekman.6 Now considered wrong about certain
+facts, such as the Lamarckian inheritance of acquired characteristics
+and the emotional primitivism of the insane,7 Darwin's <italic>Expression</italic> has recently reemerged
+as the foundational work in the science of emotion, both in terms
+of methodology and theory. In 1998, nearly a full century after the
+second edition, Ekman introduced and provided a running commentary
+on the third edition, underscoring how passages such as the following
+grounded the methodology for studying emotion still followed today
+across the social and natural sciences.</p>
+         <disp-quote>
+            <p>Dr. Duchenne galvanized, as we have already seen [figs. 2–4], certain muscles in the face of an old man, whose skin was little
+sensitive, and thus produced various expressions which were photographed
+on a large scale. It fortunately occurred to me to show several of
+the best plates [fig. 3, bottom],
+without a word of explanation, to above twenty educated persons of
+various ages and both sexes, asking them, in each case, by what emotion
+or feeling the old man was supposed to be agitated; and I recorded
+their answers in the words which they used. Several of the expressions
+were instantly recognized by almost every one, though described in
+not exactly the same terms; and these may, I think, be relied on as
+truthful, and will hereafter be specified. [<italic>E</italic>, p.
+21]8</p>
+         </disp-quote>
+         <fig-group content-type="figgrp" id="fg2" position="float" seq="2">
+            <label>F<sc>igure</sc> 2<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p>Horror and Agony. Copied from a photograph by Dr. Duchenne (<italic>E</italic>, p. 307). “An expression of terror mixed with extreme
+pain [une expression d'effroi mêlé de douleur extreme]
+. . . the harmful pain of torture has been added to the expression
+of this terrible emotion. This expression must be that of the damned”
+(Duchenne, <italic>The Mechanism of Human Facial Expression: Studies
+in Emotion and Social Interaction</italic>, trans. R. Andrew Cuthbertson
+[Cambridge, 1990], p. 92).</p>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg2.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <fig-group content-type="figgrp" id="fg3" position="float" seq="3">
+            <label>F<sc>igure</sc> 3<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p>“The original photograph was shown to twenty-four persons,
+and they were separately asked, without any explanation being given,
+what expression was intended: twenty instantly answered, ‘intense
+fright’ or ‘horror’; three said pain, and one extreme
+discomfort” (<italic>E</italic>, p. 299). The top image, which
+also appeared in the first edition of <italic>Expression</italic>,
+is of the famous London photographer Oscar Gustav Rejlander representing
+the emotion of “astonishment.”.</p>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg3.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <fig-group content-type="figgrp" id="fg4" position="float" seq="4">
+            <label>F<sc>igure</sc> 4<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p>The uncropped Duchenne photograph.</p>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg4.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <p>Then Ekman abruptly inserts the following comment in the 1998 edition: “Darwin
+describes here his use of a method to find out what information is
+conveyed by an expression: asking people to judge the emotion shown
+in a photograph without any information about the situation in which
+the expression occurred, and determining whether or not they agree.
+This has become the most commonly used method for studying facial
+expression, although Darwin is rarely cited as the first to use it.”9 Indeed, Ekman himself has applied
+what he considers essentially the same methodology over the last thirty-five
+years as he developed his influential work on the basic pancultural
+emotions displayed in the following image set. Can you name them (fig. 5)? Relying on this image set
+and others like it, Ekman has produced a methodology for studying
+emotion scientifically, and from this work he has developed the Facial
+Action Coding System (FACS) used widely in cognitive science designed
+to locate emotional centers in the brain by correlating brain activity
+with exposure to carefully selected photographs. Of the cognitive
+scientists who rely upon FACS, Antonio Damasio is the most influential
+in the humanities, as we will see below.</p>
+         <fig-group content-type="figgrp" id="fg5" position="float" seq="5">
+            <label>F<sc>igure</sc> 5<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p>The facial expressions of the six (now seven) basic emotions. Anger,
+fear, disgust, surprise, joy, sadness, contempt (slight pressing of
+the lips and a raising of the corners on one side). Reproduced with
+permission of Paul Ekman.</p>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg5.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <p>In an article in <italic>Nature</italic>, Damasio describes an
+experiment where amygdala-damaged patients judge faces on a trustworthiness
+and approachability scale.10 The faces had been previously selected by “normal individuals”
+who were asked: “How would you rate this face on the scale of
+one to five, relative to the trustworthiness and approachability that
+the owner of the face inspires? Or, in other words, how eager would
+you be to approach the person with this particular face if you needed
+help?” As it turns out, Damasio reports, the amygdala-damaged
+patients judged faces “you or I” would consider suspicious
+and try to avoid as trustworthy and approachable.11 Then based on this experiment Damasio and his
+colleagues located the relevant emotion in the brain while bracketing
+pressing questions about what counts as a trustworthy and approachable
+face, to whom, under what circumstances, and why. Technical issues
+abound.</p>
+         <p>In a section of his book provocatively titled “The New Phrenology?”
+No|$$|Ade outlines a debilitating set of problems faced by researchers
+who try to locate us in our brains, including most importantly (1)
+the impossibility of eliminating feedback produced by the two-directionality
+of the brain-senses loop; (2) normalizing imperatives that produce
+results against a stock brain; and (3) the impossibility of eliciting
+direct information about consciousness or cognition through PET and
+fMRI technologies that have to correlate physical magnitudes to blood
+flow, blood flow to neural activity, and finally neural activity to
+mental activity, like feeling suspicious (see <italic>O</italic>,
+pp. 19–24). Though a brain-scan image may contain important
+information about neural activity related to a cognitive process,
+cautions Noë, “we need to take care not to be misled by
+the visual, pictorial character of these images. Brain scans are not
+pictures of cognitive processes in the brain in action” (<italic>O</italic>, p. 24).</p>
+         <p>But for our purposes the shortcoming that matters most is methodological.
+Emotions cannot be broken down into basic units—whether that
+means molecules,12 brain images,
+or facial expressions—without losing track of the phenomenon
+at hand. Psychologist Jerome Kagan points out the category mistake
+involved when the amygdala is activated by exposure to a photograph
+of an angry face and the resulting image is called an emotion. Kagan
+argues that the neuroscientist who insists that a particular brain
+state represents an emotion resembles the physicist who denies the
+reality of my pen because the mathematical interpretation of quantum
+mechanics rejects the existence of stable objects.13 Though it may be useful to look for the elementary
+foundations of both psychological and physical phenomena, Kagan concludes,
+complex phenomena possess distinct properties and therefore require
+distinct metrics and principles.14 That Kagan's valedictorian address to his students and colleagues
+requires this reminder is not surprising.15 Surprising is that cautionary tales about parsimony in
+human affairs speak to a growing number of humanities scholars who
+overlook precisely the situational nuances that would seem most amenable
+to their indigenous methodologies, as we will see below.</p>
+         <p>So what does an evolutionary psychologist like Ekman mean by basic
+emotions? Ekman applies the word <italic>basic</italic> to emotions
+evolved for their adaptive value in dealing with fundamental life
+tasks such as achievements, losses, frustrations, and so on. According
+to Ekman, each emotion “prompts us in a direction which, in
+the course of evolution, has done better than other solutions in recurring
+circumstances that are relevant to goals,” and “innate
+factors play a role in accounting for the characteristics they share,
+not species-constant or species-variable learning” (“C,”
+p. 46). Thus his commentary on Darwin's <italic>Expression</italic> winds down with the following strong program: “Although the
+specific event may vary—the type of food, the general theme—ingesting
+something repulsive as a cause for disgust, or ingesting something
+attractive as a cause of enjoyment—is universal. <italic>I think
+this is a good model for all the emotions</italic>.”16 However, this is also where Ekman
+and his legions leave Darwin behind, with a sleight of hand that obfuscates
+the subtlety of Darwin's work at the same time that it nudges
+to the periphery of serious science the emotions that escape this
+expressivist model of evolutionary biophysiology. In fact, as we will
+see below, Ekman doesn't consider anything beyond the basic emotions
+to be emotions at all.</p>
+         <p>Among other things, this impoverished Darwinian model suggests
+we investigate how a novel might serve as an emotionally competent
+object where certain formal features elicit from the reader a sympathetic
+or antipathetic response divorced from immediate action.17 An early example of such criticism
+would be June Howard's <italic>American Literary History</italic> article “What Is Sentimentality?” which mobilizes Ekman
+and Damasio in an effort to undermine debates about whether sentimentality
+is a good or bad thing. More important than this evaluation, argues
+Howard, citing Karen Sanchez-Eppler, is a transdisciplinary investigation
+of sentimentality that would better explain how reading sentimental
+fiction is a bodily act where the words that produce “pulse,
+beats and sobs … radically contracts the distance between narrated
+events and the moment of their reading, as the feelings in the story
+are made tangibly present in the flesh of the reader.”18 Likewise in <italic>Shakespeare's
+Brain: Reading with Cognitive Theory</italic>, Mary Thomas Crane draws
+from Ekman and Damasio to argue for a reading of literature that grounds
+the mind—including conscious and unconscious mental experiences
+of perception, thought, and language—in the brain and other
+bodily systems.19 In Jane F.
+Thrailkill's <italic>Affecting Fictions: Mind, Body, and Emotion
+in American Literary Realism</italic>, Ekman and Damasio are mobilized
+throughout, particularly where the novel is described as an aesthetic
+technology of the human organism.20 “In the relatively recent field known as Cognitive Approaches
+to Literary Studies,” summarizes Suzanne Keen in her study of
+empathy and the novel, the work of Ekman, Damasio, and Joseph LeDoux
+have “virtually canonical status” insofar as matters of
+affect are generally considered under the umbrella term “<italic>cognitive</italic>.”21 And that's where the impoverished Darwinian model promoted
+by Ekman and Damasio obscures more than it reveals. A robust account
+of the social world is essential for our understanding of emotion,
+and therefore we are led astray by any parsimonious account of the
+social world where cognition is reduced to a bodily function. Instead,
+with Darwin I want to foreground a more appropriate rhetorical model
+of cognition where consciousness is situated in the brain-body-world
+nexus.</p>
+         <p>That's not to say CAL are impossible; indeed I will conclude
+this essay with an approach of my own, and I hope to see more of a
+certain sort. The issue is which cognitive approach and which model
+of cognition. The critical works just mentioned and others like them
+might provide sensitive readings despite the impoverished model of
+consciousness at their core, but the returns are diminishing. In her
+lexical analysis of Shakespeare's plays (for instance, <italic>house</italic> and <italic>home</italic> in <italic>The Comedy of
+Errors</italic>), Crane mobilizes the cognitive rhetorics of George
+Lakoff and Mark Turner while offering “a possible background”
+for Patricia Parker's cultural criticism of Shakespearean figures
+(<italic>SB</italic>, p. 33).22 But it is precisely at the point where Crane situates such familiar
+linguistic analyses against a cognitive science background that the
+argument fails. Though a critic like Gail Kern Paster might productively
+scrutinize bodily experience in relation to discourse, she has, according
+to Crane, paid relatively little attention to the brain, “the
+material place within the body where discourse is processed and therefore
+where discursive construction, if it occurs, must be located”
+(<italic>SB</italic>, p. 7). But then everything humans do can be
+located in the brain at some point, so the observation does not help
+us read Shakespeare any more than it helps us drive to the movie theater,
+which we also do thanks, in part, to our brain. Crane explains far
+too much with the brain: it is the “material site where discourse
+enters the body, where entry into the symbolic occurs, and therefore
+where the subject is constructed” (<italic>SB</italic>, p. 7).
+It “is a material basis for a limited sense of ‘essential’
+human attributes as well a space for individual arrangements of neurons”
+(<italic>SB</italic>, p. 23). So when it comes time to discuss Timothy
+Bright and Shakespeare on the processes behind emotional expression,
+for instance, Ekman lurks predictably in the background (see <italic>SB</italic>, p. 244 n. 19) foreclosing cultural criticism, except
+as a supplement. And what does literature do for us? The brain, according
+to Crane, “constitutes the material site where biology <italic>engages</italic> culture to produce the mind and its manifestation,
+the text” (<italic>SB</italic>, p. 35; emphasis added). Mind
+is thereby sequestered in a brain that recedes from culture to the
+point where a chasm must be bridged—hence the palliative work
+of literature and its criticism.</p>
+         <p>This brain-world dichotomy is typical in CAL, which provides the
+ostensible cure. After her insightful analysis of the circus scene
+from <italic>The Adventures of Huckleberry Finn</italic>, which argues
+that Mark Twain invites the reader to reflect unsentimentally on his
+or her emotional experience (the work of “realism”), Thrailkill
+concludes with a metaphor of integrity assured by the surgical work
+of literature and its criticism: “Works of literary realism
+help us to realize that, when we read, we are all like Narcissus staring
+into a puddle: delighting in that ‘extra you’ who, far
+from being a solipsistic allusion, is a neurologically nested affective
+companion keeping us from our isolation by suturing us, body and mind,
+firmly to ourselves and to the world in which we live.”23 And, not surprisingly for Thrailkill,
+this affective-cognitive achievement of literature relies explicitly
+on biological stability according to Darwin's <italic>Expression</italic> as filtered through Ekman: “Drawing on evolutionary theory,
+these emerging accounts suggest that while the cultural significance
+of feelings, along with rules about displaying them, may fluctuate
+over time, the actual corporeal architecture of emotional experience—almost
+universal to members of a species—has evolved so slowly over
+the course of millennia as to be, in a limited time frame of human
+history, practically stable.”24 This, in turn, means that a literary critic like Thrailkill
+can acknowledge cultural criticism as important but secondary and
+then trump it with biological criticism with ostensibly wider reach.
+But the problem is that Darwin himself is an equivocal ally in this
+project.</p>
+         <p>In this case Darwin's genius lies partially in his comparative
+study of emotion across culture and species that avoids the dramatic
+reductions Ekman and other scientists of emotion rely upon to make
+their work acceptable within protocol defined too narrowly—reductions
+that later justify scientistic conclusions drawn too broadly. Though
+these humanistic commitments to scientific responsibility typically
+recognize some contributions of critical theory, they tip the balance
+by taking seriously advances in evolutionary psychology and cognitive
+science of the particular sort I have briefly outlined. But in reducing
+the domain of cultural explanation they achieve, whether intentionally
+or not, a dubious political end of the sort critiqued by Lauren Berlant
+in the introduction to her collection of essays <italic>Compassion:
+The Culture and Politics of Emotion</italic>. When emotion is reduced
+to a basic unit such as the face we should always ask about the institutional
+consequences; in Berlant's case she tracks the trade-off when
+compassionate conservatism relocates a particular zone of intimacy.</p>
+         <disp-quote>
+            <p>Compassionate conservatism advocates a sense of dignity to be derived
+from labor itself—of a particular sort. No longer casting a
+living wage, public education, affordable housing, and universal access
+to economic resources as the foundation of the individual and collective
+good life in the United States, the current state ideology sanctifies
+the personal labor of reproducing life at work, at home, and in communities.
+That is, income-producing labor is deemed valuable chiefly in the
+context of its part in making smaller-scale, face-to-face publics.25</p>
+         </disp-quote>
+         <p>In other words, face-to-face and other sorts of emotional encounters
+that we might attribute to our biologically grounded intuitions must
+always be considered in a larger political context where the status
+of social institutions are at stake. And this cautionary tale supported
+by Darwin's <italic>Expression</italic> applies, I believe, equally
+to scholars in the humanities who might reject the politics of compassionate
+conservatism. No matter what the desired outcome, a model that squeezes
+culture between the pincers of a brain-world divide hampers our facility
+in cultural work and criticism.</p>
+         <p>In contrast, Darwin's rhetoric is essential to his nonreductive
+scientific project because emotions are themselves fundamentally rhetorical,
+which is to say Darwin's methodology accounts for the emotion's
+medium, occasion, and social situation. Consider again the word-image
+relationship, which was of crucial importance in Darwin's study
+of emotion and remains so to this day. Early in the <italic>Expression</italic>, Darwin describes his methodology while introducing an important
+caveat now typically sidelined: persuasive examples notwithstanding
+(for example, our Ekman exercise above), Darwin does not assume word-image
+identity because he recognizes how interpretation shapes each point
+in the equation.</p>
+         <p>Upon viewing the now-famous Duchenne photographs “several
+of the expressions were instantly recognised by almost everyone,”
+notes Darwin, while others were subject to the most widely different
+judgments and pronouncements. But rather than explaining away this
+divergence like Ekman by way of an emotional hierarchy, or “display
+rules” (<italic>E</italic>, p. 383), or stipulative definition,
+Darwin cautiously introduces the role of imagination:  <disp-quote>
+               <p>This exhibition was of use in another way, by convincing me <italic>how easily we may be misguided by our imagination</italic>; for when
+I first looked through Dr. Duchenne's photographs, reading at
+the same time the text, and thus learning what was intended, I was
+struck with admiration at the truthfulness of all, with only a few
+exceptions. Nevertheless, if I had examined them without any explanation,
+no doubt I should have been as much perplexed, in some cases, as other
+persons have been. [<italic>E</italic>, p. 21; emphasis added]</p>
+            </disp-quote>  Here Darwin draws positive attention to the interpretive
+relationship between word and image rather than justifying a reduction.
+Among other things this means drawing attention to the medium itself,
+which in this case is a set of photographs. Or more precisely it is
+a report and discussion of an experiment designed around a set of
+photographs. And what about that photograph of horror as it appears
+in the book? It does not display horror as the woodcut might since
+in this case horror is obviously extorted by way of galvanism, and
+thus the photograph draws attention to its own staging. But don't
+all of these images, including those in the described experiments,
+stage emotion rather than instantiate some unmediated, face-to-face
+emotional event of the sort considered paradigmatic by Ekman? At the
+same time that Darwin exploits the reader's immediate reaction
+to a woodcut of an orangutan or a photograph of galvanized horror,
+he foregrounds by way of narrative the emotion's mediation and
+thereby brackets the claim to some pure, face-to-face emotional experience.</p>
+         <p>This digression into imagination also allows Darwin to discuss
+emotions Ekman leaves off of his basic list, including love, sympathy,
+hatred, suspicion, envy, jealousy, avarice, revenge, deceit, devotion,
+slyness, guilt, vanity, conceit, ambition, pride, humility, and so
+on. Indeed the antiquation we may find in Darwin's list, where
+deceit and devotion are considered emotions, would suggest that human
+and not just evolutionary history is essential to Darwin's science.
+Witness Darwin on devotion:  <disp-quote>
+               <p>A humble kneeling posture, with the hands upturned and palms joined
+appears to us, from long habit, a gesture so appropriate to devotion,
+that it might be thought to be innate; but I have not met with any
+evidence to this effect with the various extra-European races of mankind.
+During the classical period of Roman history it does not appear, as
+I hear from an excellent classic[ist], that the hands were thus joined
+during prayer. Mr. Hensleigh Wedgwood has apparently given the true
+explanation, though this implies that the attitude is one of slavish
+subjection. “When the suppliant kneels and holds up his hands
+with the palms joined, he represents a captive who proves the completeness
+of his submission by offering up his hands to be bound by the victor.
+It is the pictorial representation of the Latin <italic>dare manus</italic>, to signify submission.” Hence it is not probable that either
+the uplifting of the eyes or the joining of the open hands, under
+the influence of devotional feelings, are innate or truly expressive
+actions; and this could hardly have been expected, for it is very
+doubtful whether <italic>feelings, such as we should now rank as devotional</italic>, affected the hearts of men, whilst they remained during past ages
+in an uncivilized condition. [<italic>E</italic>, p. 217; emphasis
+added]</p>
+            </disp-quote>  Civilization entails, apparently, a distinct emotional
+regime that separates it from the uncivilized, thereby contradicting
+an evolutionary theory that sees our continuity with Pleistocene hunter-gatherers
+but doesn't see the distortions inevitably imposed by our interpretive
+lens. According to Darwin we need historical narratives (however dubious
+in this instance), first, to denaturalize what might appear to be
+an innate feeling such as devotion, and, second, to explain in positive
+terms a feeling that we might experience and observe as universal.
+This is Darwin's skeptical work. Darwin's historical work
+is part and parcel of his careful scientific observation; without
+it the we of his first audience would naturalize some particular posture
+and thereby see the emotional phenomenon poorly. Meanwhile the we
+of his universal audience fails to recognize a particular posture
+at all, which is itself crucial data revealed by way of comparative
+anthropology and human history. In his microstudy of devotion and
+other emotions, Darwin takes into account the emotion's linguistic
+and visual mediation, its occasion in the service of a pointed argument,
+and personal perspectives of varying historical immediacy. That is
+to say, again, that Darwin's scientific theory of emotion is
+inherently rhetorical, which is a methodological strength instead
+of a weakness. Of course, Ekman would ignore a phenomenon like devotion
+altogether.</p>
+         <p>And what about love? We can return to Darwin in our effort to expose
+the sleight of hand where Ekman offers the feeling of disgust as the
+model for all emotions while elsewhere he defines “all emotions”
+so narrowly that the list excludes love and hate amongst others. “No
+emotion is stronger than maternal love,” qualifies Darwin in
+a Victorian mood, “but a mother may feel deepest love for her
+helpless infant, and yet not show it any outward sign” (<italic>E</italic>, p. 82). Indeed, Darwin doubts whether a long list of
+what he calls complex states of mind are revealed by any fixed expression
+and are sufficiently distinct to be described or delineated in strictly
+scientific terms. But unlike Ekman, Darwin turns to the literary humanities
+for a demonstration of how any science of emotion must ultimately
+make room for interpretation. “When Shakespeare speaks of envy
+as <italic>lean-faced</italic>, or <italic>black</italic>, or <italic>pale</italic>, and jealousy as “<italic>the green-eyed monster</italic>”; and when Spenser describes suspicion as “<italic>foul
+ill-favoured</italic>, <italic>and grim</italic>,” they must
+have felt this difficulty. Nevertheless, the above feelings—at
+least many of them—can be detected by the eye; for instance,
+conceit; but we are often guided in a much greater degree than we
+suppose by our previous knowledge of the persons or circumstances”
+(<italic>E</italic>, p. 260).</p>
+         <p>Ekman recognizes this complication but circumvents the implications
+by relabeling everything beyond his seven basic emotions “affective
+commitments.” “Emotions are brief and episodic, lasting
+seconds or minutes” explains Ekman. “Parental love, romantic
+love, hatred, envy or jealousy last for much longer periods—months,
+years, a lifetime for love and hatred, and at least hours or days
+for envy and jealousy. In each of these there is a strong commitment,
+an important attachment (negatively in the case of hatred, envy and
+jealousy). They also differ from emotions in specifying something
+about the cast of characters involved” (“C,” p.
+83).</p>
+         <p>Of course, in noting how the cast of characters is essential to
+the composition of supposed nonemotions Ekman seems to invoke Aristotle's
+famous discussion of the emotions in book 2 of the <italic>Rhetoric</italic>. Darwin, by contrast, writes long and fascinating Aristotelian passages
+where the cast of characters that compose an emotion are specified
+in their complex sociopolitical relations. Take, for instance, Darwin
+on hatred:  <disp-quote>
+               <p>If we have suffered or expect to suffer some wilful injury from
+a man, or if he is in any way offensive to us, we dislike him; and
+dislike easily rises into hatred. Such feelings, if experienced in
+a moderate degree, are not clearly expressed by any movement of the
+body or features, excepting perhaps by a certain gravity of behaviour,
+or by some ill-temper. Few individuals, however, can long reflect
+about a hated person, without feeling and exhibiting signs of indignation
+or rage. But if the offending person be quite insignificant, we experience
+merely disdain or contempt. If, on the other hand, he is all-powerful,
+then hatred passes into terror, as when a slave thinks about a cruel
+master, or a savage about a bloodthirsty malignant deity. [<italic>E</italic>, p. 234]</p>
+            </disp-quote>  So in this case and others like it the very experience
+of an emotion, according to Darwin, depends upon the social and not
+the biological situation, namely, the relative significance of the
+characters involved—including the subjective perception of such—which
+can be systematically distorted, of course, by hegemonic constructs
+including racism and patriarchy.26 By way of grammatically loaded micronarratives Darwin, like Aristotle,
+takes into account the uneven social relationships that instantiate
+an occasion for hatred (having suffered), the phenomenological time
+of hatred (expecting to suffer), and the intentionality of hatred
+(as a function of willful injury not accident). There is no way a
+facial expression or brain scan can adequately represent an emotion
+like hatred, and simply defining it like Ekman as nonemotional begs
+the question.</p>
+         <p>Finally, when Darwin wishes to discuss these so-called inactive
+emotions he again finds recourse in the visual arts and literature,
+and not just as a repository for accidental wisdom in the manner of
+Damasio, who also likes to quote Shakespeare, but rather as a necessary
+component of a larger theory. Consider the famous first-century sculpture
+(fig. 6) where Laocoön
+has been variously considered “bellowing” like a bull <italic>(mugitus)</italic> by Virgil,27 “noble” <italic>(edle)</italic> by J. J. Winckelmann,28 “groaning” by G. E.
+Lessing,29 and silently struggling
+by Charles Bell, whose book <italic>The Anatomy and Philosophy of
+Expression as Connected with the Fine Arts</italic> served as Darwin's
+polemical foil.30 In Bell's <italic>Anatomy</italic>, Darwin found a sketch that he relies on to invoke
+Lessing's famous argument that the visual arts must disperse
+violent emotions (fig. 7). Visual
+arts provide an insufficient venue for the scientific study of emotion,
+warns Darwin, because just as Lessing suggested, contracted facial
+muscles destroy beauty.</p>
+         <fig-group content-type="figgrp" id="fg6" position="float" seq="6">
+            <label>F<sc>igure</sc> 6<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p/>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg6.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <fig-group content-type="figgrp" id="fg7" position="float" seq="7">
+            <label>F<sc>igure</sc> 7<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p/>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg7.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <p>Insufficient, yes, but still necessary in a rich research program
+where one is obligated to analyze emotion beyond measurable facial
+expressions. As in literary narrative, where an emotion such as hatred
+can only emerge through a cast of characters, in the visual arts “the
+story of the composition is generally told with wonderful force and
+truth by skillfully given accessories” both human and nonhuman,
+animate and inanimate, foregrounded and backgrounded (<italic>E</italic>, p. 22).31 In this case the
+skillfully given accessory of the sea serpent is crucial for any justifiable
+interpretation of the emotion represented, for we are not talking
+about orgasmic ecstasy after all.32 Other key accessories that tell this emotional tale “truthfully”
+include Laocoön's two sons perishing beside him, who thereby
+force the scene beyond the emotions of noble self-sacrifice that otherwise
+might make the figure look resolute. And ultimately these immediate
+characters and accessories offered up to the eye emerge only against
+the receding background of mythical characters that include the vengeful
+Apollo, who is punishing his disobedient priest, and the Trojan people
+for whom Laocoön sacrificed himself by warning them of gift-bearing
+Greeks.</p>
+         <p>So where is the emotion (fig. 8)? Is it simply in that first face as the Ekman experiment insists?
+I offer the joystick in case you are thrown by the anthropomorphism
+of a smile on the middle image, but in fact I think the McDonald's
+Happy Meal provides an efficient countermodel to Ekman's pseudo-Darwinian
+program. After all, the Happy Meal is much more than a burger, fries,
+drink, and plastic toy, more than simply an emotionally competent
+object (like Ekman's delicacy) triggering happy faces like the
+one next to it. Rather the Happy Meal is an emotional artifact seemingly
+untethered to—Marx would say alienated from—the complex
+social transactions that produced it. So instead of turning toward
+Ekman as the supposed champion in our day, I heretically prefer to
+imagine Darwin turning toward his contemporary Marx as he says in
+this case an accessory that tells the emotional tale that has apparently
+taken on a life of its own. I think revisiting Darwin's work
+on emotion suggests this turn to sociorhetorical analysis is at least
+as plausible as the other.</p>
+         <fig-group content-type="figgrp" id="fg8" position="float" seq="8">
+            <label>F<sc>igure</sc> 8<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p/>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg8.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <p>In his recent foreword to Andy Clark's <italic>Supersizing
+the Mind: Embodiment, Action, and Cognitive Extension</italic>, David
+Chalmers suggests we might also research extended desires, extended
+reasoning, extended perception, extended imagination, and “extended
+emotions.”33 “One
+might have something akin to an extended mood, if not an extended
+emotion, when one's environment is always nudging one toward
+happiness or sadness,” offers Chalmers by way of example,34 and certain Extended Mind (EM)
+theorists such as No|$$|Ade have begun to work in this direction. “In
+the Beginning Was the Situation” offers Noë, “not
+some Cartesian computing machine that builds up internal pictures
+of the scene, makes plans, and executes them” (<italic>O</italic>, p. 101). Moreover these “situations” are profoundly
+characterized by emotion according to Noë. If, for instance,
+a psychologist is trying to understand why an infant will become distressed
+when his or her mother becomes still or impassive, that psychologist
+would go astray in positing the infant as a separate individual observing
+the mother. Instead we should consider the mother as “literally
+one of the structures constituting a child's psychological landscape.”
+The baby's relation to the other unfolds in “an emotional
+setting” (<italic>O</italic>, p. 31). Likewise, Hubert Dreyfus—an
+influential EM theorist in the tradition of philosophical phenomenology—argues
+that any artificial intelligence project designed to approach humanness
+must account for emotional settings, and to do so it would need “a
+model of <italic>our particular way of being embedded and embodied</italic> such that what we experience is significant for us in the particular
+way that it is. That is, we would have to include in our program a
+model of a body very much like ours with our needs, desires, pleasures,
+pains, ways of moving, cultural background, etc.”35 But for all this interest in emotional
+and cognitive settings and situations, EM theorists like Dreyfus,
+Chalmers, Clark, Wheeler, Thompson, and Noë come up short when
+describing this worldly side of the brain-body-world nexus. To put
+it bluntly, in the spirit of Darwin they too need the arts and literature.
+Since sentimental literature is ground zero for the Cognitive Approaches
+movement, I conclude by reading a passage from Sterne's <italic>A Sentimental Journey through France and Italy</italic>, which is
+a masterful study of emotional situations of a certain sort.</p>
+         <p>As Sterne's character Yorick travels through the treacherous
+mountains between Turin and Savoy, he reports how a journey that is
+potentially horrible fares better with unhurried sentiments giving
+way to this observation of peasants encountered en route:  <disp-quote>
+               <p>Poor, patient, quiet, honest people! fear not: your poverty, the
+treasury of your simple virtues, will not be envied you by the world,
+nor will your valleys be invaded by it.—Nature! in the midst
+of thy disorders, thou art still friendly to the scantiness thou hast
+created—with all thy great works about thee, little hast thou
+left to give, either to the scythe or to the sickle—but to that
+little thou grantest safety and protection; and sweet … dwellings
+which stand so shelter'd.36</p>
+            </disp-quote>  Nowhere in this scene do we find suggestive documentation
+of face-to-face encounters; in fact, the pathos of this scene thrives
+on a variety of distancing mechanisms familiar to the landscape artist
+and the critical theorist, respectively. At the very least Yorick's
+pity for the peasants must be understood in contrast to the geographical
+horror it supersedes, exceeding thereby Steven Pinker's literary
+Darwinism where the novel is “cheesecake for the mind”
+and novelistic fear provides an opportunity for a virtual experience
+of a situation better avoided in real life.37 Immediately following upon a “feast of love”
+at the table of a large and respectful French peasant family (<italic>S</italic>, p. 119), this scene of partial spectatorship restages
+the classically tragic sequence that moves from horror to pity as
+a critical opportunity (as we will see below), not as a virtual experience.
+Yorick's pitiful perspective can only be understood against a
+romanticized landscape that includes—along with sweet dwellings—“poor,
+patient, quiet, honest people” who would no doubt have a very
+different perspective on the situation, if asked. And I imagine most
+of this situational complexity, including its class element, is not
+lost on the ingenious author, who earlier outlines the terms of a “sentimental
+commerce” in which sentiment is produced not by natural immediacy
+but by the imbalance of social exchange (<italic>S</italic>, p. 9).</p>
+         <p>Certainly knowing “<italic>whose sentiment it is</italic>” constitutes a crucial aspect of our understanding of the
+psychological dynamics of this particular scene and the novel as a
+whole, as another cognitivist Lisa Zunshine might insist.38 But if, like Zunshine, we assume
+that our own reading mind and the “mind behind the sentiment”
+functions like a Cartesian computing machine “managing information
+and generating metarepresentations” then we desensitize ourselves
+to the relevant cultural institutions of language and perception,
+and a scene like this can be reduced to “imagined landscapes
+with their pathetic fallacies, personifications, and anthropomorphizing.”39 Contra Howard, these words on the
+page do not produce in the reader “pulse, beats and sobs”
+that radically contract the distance between narrated events and the
+moment of their reading (though some of Sterne's racier moments
+admittedly do, for this reader at least). Quite the opposite; by way
+of negation Sterne stages the empathic moment with his typical irony
+that suggests we take no emotion at face value.</p>
+         <p>Fear <italic>not</italic>, envied <italic>not</italic>. What do
+negated emotions feel like after all? Look like? Where might they
+be mapped in the brain? It turns out that the most emotionally pregnant
+words in the passage—<italic>fear</italic> and <italic>envy</italic>—appear only in negation, which blocks the royal road to experience
+we might very well expect on a sentimental journey. The straightforward
+injunction, “Poor, patient, quiet, honest people! <italic>rejoice</italic>” would have been the more immediate solution Sterne avoids
+in favor of his negation that invokes a particular “world”
+at the same time that it forces us (in Darwinian fashion) to account
+for our own perspective in the effort to map the emotional terrain. “Poor
+people,” “scythe” or “sickle,” “sweet …
+dwellings,” “valleys,” “an unenvious world.”
+In our Darwinian account emotion maps these relationships (character,
+tool, dwelling, landscape, world), always considering the framework
+itself as a factor in the equation: from rhetorical criticism to critical
+ecology.</p>
+         <p>Where is the mind in this passage and how does it work? As an EM
+theorist might say, the mind is a critical component of the world,
+composed in particular (but not infinitely variable) ways. Here the “world”
+does not envy the poor; it disregards the simple virtues and avoids
+the valley, as does Yorick himself. So this passage characterizes
+Yorick's mind-world, which he shares (in part) with certain others
+like the lady he next encounters (see <italic>S</italic>, p. 121),
+but less so with the poor. However, Yorick explicitly disavows such
+characterization—a world of brutal gentrification after all—instead
+throwing in his lot with friendly “Nature,” before passing
+by the scene untouched, relieved of the geographical terror he faced
+on high. Hypocrisy yes, but that's not the end of it. The mind
+of this scene is never comfortably embedded in the scenery (pace EM
+theory) nor is it detached (pace CAL); it is practically situated
+but <italic>uncomfortably</italic> so, which points us to another
+order of the emotional phenomenon, where the author and reader appear
+on the scene. This is the critical moment, essential for reading literature
+and for reading faces, as Darwin insisted. Emotional phenomena do
+not announce themselves unequivocally. Indeterminacy (but not radical
+indeterminacy) must be in-built for the phenomenon to emerge as emotional
+in the first place.</p>
+         <p>What might this story look like from the perspective of evolutionary
+biology? Would it not be advantageous if we all wore our emotions
+on our sleeves, so to speak, or plastered to our foreheads so anyone
+could read them without equivocation, like the Ekman fantasy, or if
+they were available by way of Vulcan mind meld, which would eradicate
+the need for emotions at all, as the creators of Star Trek so cleverly
+realized? Isn't emotional indeterminacy maladaptive, as evolutionary
+biologists might say, a species trait that should have been selected
+against over the long term in favor of more direct and ostensibly
+more practical communication? Though here I cannot make the case in
+detail, I can point out how Joan Roughgarden and others working on
+biodiversity provide an alternative perspective more amenable to our
+skeptical Darwin and the revised conciliance he can offer. Instead
+of selecting sexually for ideal types, argues Roughgarden, a species
+needs “a balanced portfolio” of genes to survive over
+the long term,40 and sex, which
+entails a very wide (but not indefinite)41 range of behaviors—reproductive and otherwise—is
+the <italic>social</italic> activity that continually rebalances a
+species's overall genetic portfolio in the context of dynamic
+environments. Instead of offering only background noise, indeterminacy
+of the sign (as we might call it from the semiotic perspective, where
+X is somewhere between attractive or repellent, pro- or antisocial,
+praise or blameworthy, and so on) is compatible with biodiversity
+precisely insofar as it constitutes the social. Antisocial eugenics
+or cloning are Roughgarden's counterexamples; just like the computer
+scientist knows that focusing only on the code while ignoring the
+execution environment is a mistake, cloning biologists who focus on
+the nucleus of the cell while ignoring the cytoplasm make the same
+mistake insofar as they have ceased to work ecologically.42</p>
+         <p>Consider, finally, one of Darwin's favorite subjects in <italic>Expression</italic>, the infant displaying “mental distress”
+(fig. 9).43 He might be hungry, sleepy, gassy. Perhaps there
+are a few more possibilities but not an infinite number, or at least
+that's what we like to think. But wouldn't it be more practical,
+more adaptive, if the label “hungry!” appeared on the
+forehead of an emotional infant or if we could reliably read the infant's
+mind? Why aren't we permanently sequestered in utero so that
+all of these communication problems might be avoided in the first
+place? In the spirit of Roughgarden we might observe that the semiotic
+indeterminacy of emotional expression is a corollate of biodiversity
+precisely because it necessitates communication; the work of triangulating
+is never done nor should it be.</p>
+         <fig-group content-type="figgrp" id="fg9" position="float" seq="9">
+            <label>F<sc>igure</sc> 9<x xml:space="preserve">. </x>
+            </label>
+            <caption>
+               <p>From <italic>E</italic>, p. 149.</p>
+            </caption>
+            <fig fig-type="figure" position="float">
+               <graphic xlink:href="fg9.tif"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <p>We need the arts and literature to study emotion because they transpire
+on the appropriate phenomenological level where experiences happen,
+on the one hand, and where experience is characterized, on the other.
+Just as we cannot understand bird flight by studying only feathers,
+to cite Noë's example, we cannot understand emotional experience
+by studying only the face, the eyeball, the ear, the brain (see <italic>O</italic>, p. 157). To understand experience beyond having it we
+need human beings in the world characterized, which is to say we need
+people in situations. And not just people in situations isolated for
+the purpose of answering isolated questions in the mode of social
+scientific inquiry, though this approach also has its limited utility.
+Our people in situations should be subject to the maximum degree of
+manipulation and critical scrutiny, reflection from inside and outside,
+and subjected to all sorts of imaginative possibilities so that even
+the complexities of experience that shimmer just beyond our immediate
+grasp still can make their presence felt by way of tropes, like irony,
+that help define our humanistic disciplines. As Darwin understood
+over a century ago we need the arts and humanities for many reasons,
+including for a science that can account both for the basic ways we
+are and the ways we can be.</p>
+         <fn-group>
+            <fn id="fn1">
+               <label>1</label>
+               <p>Charles Darwin, <italic>The Expression of the Emotions in Man and
+Animals</italic> (1872; Oxford, 1998), pp. 139–40; hereafter
+abbreviated <italic>E</italic>. For reasons that will become obvious,
+I cite the third edition throughout this essay.</p>
+            </fn>
+            <fn id="fn2">
+               <label>2</label>
+               <p>See Alva Noë, <italic>Out of Our Heads: Why You Are Not Your
+Brain and Other Lessons from the Biology of Consciousness</italic> (New York, 2009); hereafter abbreviated <italic>O</italic>.</p>
+            </fn>
+            <fn id="fn3">
+               <label>3</label>
+               <p>Ian Hacking's 1998 <italic>Times Literary Supplement</italic> review is prescient; among other things he notes how efforts in
+psychology to eliminate emotion as a natural class recalls the young
+logical positivist A. J. Ayer's efforts to eliminate metaphysics.
+Before the location of emotion in recent advances in brain-imaging
+techniques, it seemed faculties of our rational animal (including
+knowledge, perception, judgment) held out more promise for scientific
+study. See Ian Hacking, “By What Links Are the Organs Excited?” <italic>Times Literary Supplement</italic>, 17 July 1998, pp. 11–12.
+For a review of recent books in behavioral economics, see Benjamin
+M. Friedman, “The Failure of the Economy and the Economists,”
+review of <italic>Animal Spirits: How Human Psychology Drives the
+Economy and Why It Matters for Global Capitalism</italic> by George
+A. Akerlof and Robert J. Shiller, and <italic>The Subprime Solution:
+How Today's Global Financial Crisis Happened and What to Do about
+It</italic> by Shiller, <italic>New York Review of Books</italic>,
+28 May 2009, <ext-link ext-link-type="uri"
+                            xlink:href="http://www.nybooks.com/articles/archives/2009/may/28/the-failure-of-the-economy-the-economists/"
+                            xlink:type="simple">www.nybooks.com/articles/archives/2009/may/28/the-failure-of-the-economy-the-economists/</ext-link>.</p>
+            </fn>
+            <fn id="fn4">
+               <label>4</label>
+               <p>For a post-Darwinian history of faces in the psychology of emotion,
+see John McClain Watson, “From Interpretation to Identification:
+A History of Facial Images in the Sciences of Emotion,” <italic>History of the Human Sciences</italic> 17 (Feb. 2004): 29–51.</p>
+            </fn>
+            <fn id="fn5">
+               <label>5</label>
+               <p>See Paul Ekman, “How to Spot a Terrorist on the Fly,” <italic>Washington Post</italic>, 29 Oct. 2006, <ext-link ext-link-type="uri"
+                            xlink:href="http://www.washingtonpost.com/wp-dyn/content/article/2006/10/27/AR2006102701478.html"
+                            xlink:type="simple">www.washingtonpost.com/wp-dyn/content/article/2006/10/27/AR2006102701478.html</ext-link>.</p>
+            </fn>
+            <fn id="fn6">
+               <label>6</label>
+               <p>For Ekman's blog on the show, see <ext-link ext-link-type="uri"
+                            xlink:href="http://www.paulekman.com"
+                            xlink:type="simple">www.paulekman.com</ext-link>.</p>
+            </fn>
+            <fn id="fn7">
+               <label>7</label>
+               <p>The outstanding critical work on this topic is Sander L. Gilman, <italic>Seeing the Insane</italic> (1982; Lincoln, Nebr., 1996). Among other
+things, Gilman tracks, through Darwin's correspondence with the
+psychiatric physician James Crichton Browne, Darwin's increasing
+skepticism about the utility of photographs expected to deliver stable
+referents for the scientific study of emotion, especially insofar
+as they might provide evidence for the insane and idiotic as the missing
+link to our emotional past.</p>
+            </fn>
+            <fn id="fn8">
+               <label>8</label>
+               <p>For detailed treatment of Darwin's groundbreaking use of photography
+in the <italic>Expression</italic>, see Phillip Prodger, <italic>Darwin's
+Camera: Art and Photography in the Theory of Evolution</italic> (Oxford,
+2009). Prodger underscores Darwin's “rhetorical abilities”
+(p. 30), which extended to his incorporation of photographs in the <italic>Expression</italic>. Though like Ekman we tend to read the history
+of photography retroactively, Prodger underscores how evidence and
+illustration are blurred in the <italic>Expression</italic> because
+there was essentially no precedent for the acceptance of photography
+as scientific data. Like neighboring printed illustrations that recalled
+earlier physiognomic and expressivist traditions (for example, Johann
+Kaspar Lavater and Charles Le Brun respectively), photographs in the <italic>Expression</italic> “had to seem reasonable according to experience”
+(p. 221) and therefore could be, implausibly, staged by an actor like
+Oscar Gustav Rejlander himself. So instead of building the case for
+their uncontaminated conditions of production as we now might expect,
+Darwin instead focused his discussion of photography around the context
+of reception, including his readers—a canonic rhetorical concern.</p>
+            </fn>
+            <fn id="fn9">
+               <label>9</label>
+               <p>Ekman, “Commentaries,” in <italic>E</italic>, p. 21;
+hereafter abbreviated “C.”.</p>
+            </fn>
+            <fn id="fn10">
+               <label>10</label>
+               <p>See Ralph Adolphs, Daniel Tranel, and Antonio R. Damasio, “The
+Human Amygdala in Social Judgment,” <italic>Nature</italic>,
+4 June 1998, pp. 470–74. These results are summarized in Damasio, <italic>The Feeling of What Happens: Body and Emotion in the Making of Consciousness</italic> (New York, 1999). For an extended critique, see Daniel M. Gross, <italic>The Secret History of Emotion: From Aristotle's “Rhetoric”
+to Modern Brain Science</italic> (Chicago, 2006), pp. 21–50.</p>
+            </fn>
+            <fn id="fn11">
+               <label>11</label>
+               <p>See Damasio, <italic>The Feeling of What Happens</italic>, pp.
+66–67.</p>
+            </fn>
+            <fn id="fn12">
+               <label>12</label>
+               <p>See Candace B. Pert, <italic>Molecules of Emotion: Why You Feel
+the Way You Feel</italic> (New York, 1997).</p>
+            </fn>
+            <fn id="fn13">
+               <label>13</label>
+               <p>See Jerome Kagan, <italic>What Is Emotion? History, Measures, and
+Meanings</italic> (New Haven, Conn., 2007), p. 23. Kagan's quarrel
+with the brain science of emotion in the tradition of Damasio/Ekman
+highlights the irreducible relevance of personal expectation. Kagan
+cites, for example, adults judging whether the facial expression of
+a male or female face was happy or fearful. Their judgment took longer
+because they did not expect to see photos of fearful men; see p. 63.
+Also, like other brain structures the amygdala serves many functions,
+so when scientists label the amygdala's response to the unexpected
+appearance of faces with fearful expressions they must account for
+the response uncertainty created by the cognitive effort needed to
+classify the face or to understand why it was presented; see p. 70.
+It is impossible to create in the laboratory human emotions as they
+occur in “ecologically natural settings” summarizes Kagan
+(p. 81), and therefore we have good reason to doubt conclusions about
+the latter that depend on evidence produced in the former. For an
+excellent and generously footnoted review of the Ekman controversy
+with special attention to the critique of Ekman within the natural
+and social scientific literature, see Ruth Leys, “How Did Fear
+Become a Scientific Object and What Kind of Object Is It?” <italic>Representations</italic>, no. 110 (Spring 2010): 66–104. Another
+good summary article on the emotional turn in history is William Reddy,
+Barbara Rosenwein, and Peter Stearns, “The History of Emotions,”
+interview by Jan Plamper, <italic>History and Theory</italic> 45 (May
+2010): 237–65.</p>
+            </fn>
+            <fn id="fn14">
+               <label>14</label>
+               <p>See Kagan, <italic>What Is Emotion?</italic> p. 214.</p>
+            </fn>
+            <fn id="fn15">
+               <label>15</label>
+               <p>The apt description of this book as “valedictorian”
+comes from an article on the positive psychology movement that includes
+some of Kagan's Harvard colleagues. See Sue Halpern, “Are
+You Happy?” review of <italic>The How of Happiness: A Scientific
+Approach to Getting the Life You Want</italic> by Sonja Lyubomirsky; <italic>Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment</italic> by Tal Ben-Shahar; <italic>Stumbling on Happiness</italic> by Daniel
+Gilbert; <italic>Against Happiness: In Praise of Melancholy</italic> by Eric G. Wilson; and <italic>What Is Emotion? History, Measures,
+and Meanings</italic> by Kagan, <italic>New York Review of Books</italic>, 3 Apr. 2008, <ext-link ext-link-type="uri"
+                            xlink:href="http://www.nybooks.com/articles/archives/2008/apr/03/are-you-happy/"
+                            xlink:type="simple">www.nybooks.com/articles/archives/2008/apr/03/are-you-happy/</ext-link>
+               </p>
+            </fn>
+            <fn id="fn16">
+               <label>16</label>
+               <p>Ekman, “Afterword: Universality of Emotional Expression?
+A Personal History of the Dispute,” in <italic>E</italic>, p.
+392; emphasis added. In 1999 Ekman offered this revision: <disp-quote>
+                     <p>I propose the following list of emotions: amusement, anger, contempt,
+contentment, disgust, embarrassment, excitement, fear, guilt, pride
+in achievement, relief, sadness/distress, satisfaction, sensory pleasure,
+and shame. When it is remembered that each of these words denotes
+a family of related emotions, then this list of 15 emotions is quite
+expanded. Clearly, it omits some affective phenomena which others
+have considered to be emotions. Guilt is a likely candidate, and I
+have no reason to make a guess one way or another.</p>
+                  </disp-quote> [Ekman, “Basic Emotions,” in <italic>Handbook
+of Cognition and Emotion</italic>, ed. Tim Dalgleish and Mick J. Power
+(Sussex, 1999), p. 55].</p>
+            </fn>
+            <fn id="fn17">
+               <label>17</label>
+               <p>Although I focus on CAL, a similar project is underway in art history
+and criticism. See especially David Freedberg, “Empathy, Motion,
+and Emotion,” in <italic>Wie sich Gefühle Ausdruck verschaffen:
+Emotionen in Nahsicht</italic>, ed. Klaus Herding and Antje Krause-Wahl
+(Berlin, 2007), pp. 17–51, and Freedberg and Vittorio Gallese, “Motion,
+Emotion, and Empathy in Esthetic Experience,” <italic>Trends
+in Cognitive Sciences</italic> 11, no. 5 (2007): 197–203. In
+Freedberg's work, as in the CAL material examined here, Darwin's
+complex understanding of emotional situations is restricted by placing
+the <italic>Expression</italic> in the Ekman/Damasio trajectory along
+with two other familiar touchpoints—primatologist Frans B. M.
+de Waal's work on bonobo empathy and the recent discovery of
+mirror neurons. Freedberg can thus reach the unlikely conclusion that
+in Aby Warburg's <italic>Pathosformel</italic> “the outward
+forms of movement in a work revealed the inner emotions of the figure
+concerned” (Freedberg, “Empathy, Motion, and Emotion,”
+p. 25). In fact the opposite is true; Warburg's <italic>Pathosformel</italic> is about the “accessory in motion” <italic>(bewegtes
+Beiwerk)</italic>, like the wind-hair-draperies of Botticelli's <italic>Primavera</italic>, as a dynamic historical formula. For a discussion
+of this latter view, see Georges Didi-Huberman, “The Imaginary
+Breeze: Remarks on the Air of the Quattrocento,” trans. John
+Zeimbekis, <italic>Journal of Visual Culture</italic> 2 (Dec. 2003):
+275–89.</p>
+            </fn>
+            <fn id="fn18">
+               <label>18</label>
+               <p>Karen Sanchez-Eppler, quoted in June Howard, “What Is Sentimentality?” <italic>American Literary History</italic> 11 (Spring 1999): 64. The trendiness
+of CAL is evident in Patricia Cohen, “The Next Big Thing in
+English: Knowing They Know That You Know,” <italic>New York
+Times</italic>, 1 Apr. 2010, p. C1, and readers' comments published
+online as “Can ‘Neuro Lit Crit’ Save the Humanities?” <ext-link ext-link-type="uri"
+                            xlink:href="http://community.nytimes.com/comments/roomfordebate.blogs.nytimes.com/2010/04/05/can-neuro-lit-crit-save-the-humanities/"
+                            xlink:type="simple">community.nytimes.com/comments/roomfordebate.blogs.nytimes.com/2010/04/05/can-neuro-lit-crit-save-the-humanities/</ext-link>.</p>
+            </fn>
+            <fn id="fn19">
+               <label>19</label>
+               <p>See Mary Thomas Crane, <italic>Shakespeare's Brain: Reading
+with Cognitive Theory</italic> (Princeton, N.J., 2000), p. 4; hereafter
+abbreviated <italic>SB</italic>.</p>
+            </fn>
+            <fn id="fn20">
+               <label>20</label>
+               <p>See Jane F. Thrailkill, <italic>Affecting Fictions: Mind, Body,
+and Emotion in American Literary Realism</italic> (Cambridge, Mass.,
+2007), p. 250.</p>
+            </fn>
+            <fn id="fn21">
+               <label>21</label>
+               <p>Suzanne Keen, <italic>Empathy and the Novel</italic> (Oxford, 2007),
+p. 27.</p>
+            </fn>
+            <fn id="fn22">
+               <label>22</label>
+               <p>Though distinct from extended-mind philosophers who typically cite
+artificial intelligence research, not linguistic research, practitioners
+of “cognitive rhetoric” drawing on the work of Lakoff,
+Turner, and others have produced some interesting lexical analyses
+of literature and a perspective in some ways sympathetic with mine
+insofar as it would endorse this passage from Turner: <disp-quote>
+                     <p>What can be recruited to mental work depends on social and cultural
+location. Parts of the repertoire are common and can be assumed for
+any audience, while other parts are special to special communities
+or special situations. Consequently, it is a basic principle of rhetorical
+theory that what works in one situation may not work in another. One
+of Aristotle's definitions of rhetoric is: “the mental
+ability to see the available means of persuasion <italic>in any particular
+situation.</italic>” [Mark Turner, “Toward the Founding
+of Cognitive Social Science,” <italic>Chronicle of Higher Education</italic>, 5 Oct. 2001, <ext-link ext-link-type="uri"
+                                  xlink:href="http://markturner.org/checss.html"
+                                  xlink:type="simple">markturner.org/checss.html</ext-link>]</p>
+                  </disp-quote> The foundational book is Turner, <italic>Reading Minds:
+The Study of English in the Age of Cognitive Science</italic> (Princeton,
+N.J., 1991).</p>
+            </fn>
+            <fn id="fn23">
+               <label>23</label>
+               <p>Thrailkill, <italic>Affecting Fictions</italic>, pp. 51, 53.</p>
+            </fn>
+            <fn id="fn24">
+               <label>24</label>
+               <p>Ibid., p. 15.</p>
+            </fn>
+            <fn id="fn25">
+               <label>25</label>
+               <p>Lauren Berlant, “Introduction: Compassion (and Witholding),”
+in <italic>Compassion: The Culture and Politics of an Emotion</italic>, ed. Berlant (London, 2004), p. 3.</p>
+            </fn>
+            <fn id="fn26">
+               <label>26</label>
+               <p>Patron saint of universal emotion, Adam Smith gives us this charming
+formulation: a sudden fall into disease may deserve sympathy, whereas
+being jilted by one's mistress or henpecked by one's wife
+doesn't. See Adam Smith, <italic>The Theory of Moral Sentiments</italic> (1759; Amherst, N.Y., 2000), p. 59.</p>
+            </fn>
+            <fn id="fn27">
+               <label>27</label>
+               <p>Virgil, <italic>The Aeneid</italic>, trans. Frederick Ahl (Oxford,
+2007), 2.1.223, p. 35.</p>
+            </fn>
+            <fn id="fn28">
+               <label>28</label>
+               <p>“The last and most eminent characteristic of the Greek works
+is a noble simplicity and sedate grandeur in Gesture and Expression. … 'Tis
+in the face of Laoco|f-n this soul shines with full luster, not confined
+however to the face, amidst the most violent sufferings. Pangs piercing
+every muscle, every labouring nerve; pangs which we almost feel ourselves,
+while we consider—not the face, nor the most expressive parts—only
+the belly contracted by excruciating pains” (J. J. Winckelmann, <italic>Reflections on the Painting and Sculpture of the Greeks</italic>,
+trans. Henri Fuseli [London, 1767], p. 30).</p>
+            </fn>
+            <fn id="fn29">
+               <label>29</label>
+               <p>Darwin's discussion of artistic expression footnotes Lessing's <italic>Laoco|f-n</italic>; see <italic>E</italic>, p. 436 n. 16. I thank
+William Schupbach of the Wellcome Library for the History and Understanding
+of Medicine for notes on Laoco|f-n and the history of pain.</p>
+            </fn>
+            <fn id="fn30">
+               <label>30</label>
+               <p>See Charles Bell, <italic>The Anatomy and Philosophy of Expression
+as Connected with the Fine Arts</italic> (1844; London, 2006), pp.
+174–75.</p>
+            </fn>
+            <fn id="fn31">
+               <label>31</label>
+               <p>See note 17 above on Aby Warburg's <italic>Pathosformel</italic> and the skillfully given accessory.</p>
+            </fn>
+            <fn id="fn32">
+               <label>32</label>
+               <p>It is worth noting that the threatening snake has been considered
+the quintessential “emotionally competent object” in the
+tradition running from René Descartes's <italic>The Passions
+of the Soul</italic> through the brain science of Ledoux and Damasio.</p>
+            </fn>
+            <fn id="fn33">
+               <label>33</label>
+               <p>David Chalmers, foreword to Andy Clark, <italic>Supersizing the
+Mind: Embodiment, Action, and Cognitive Extension</italic> (New York,
+2008), p. xiv. As well as works cited below, see Michael Wheeler, <italic>Reconstructing the Cognitive World: The Next Step</italic> (Cambridge,
+Mass., 2005), and Evan Thompson, <italic>Mind in Life: Biology, Phenomenology,
+and the Sciences of Mind</italic> (Cambridge, Mass., 2007). To date
+the most developed critique of the situated cognition movement can
+be found in Frederick Adams and Kenneth Aizawa, <italic>The Bounds
+of Cognition</italic> (Malden, Mass., 2008). For a negative review,
+see Sven Walter and Miriam Kyselo, review of <italic>The Bounds of
+Cognition</italic> by Adams and Aizawa, <italic>Erkenntnis</italic> 71 (Sept. 2009): 277–81.</p>
+            </fn>
+            <fn id="fn34">
+               <label>34</label>
+               <p>Chalmers, p. xiv.</p>
+            </fn>
+            <fn id="fn35">
+               <label>35</label>
+               <p>Hubert L. Dreyfus, “Why Heideggerian AI Failed and How Fixing
+It Would Require Making It More Heideggerian,” <italic>Artificial
+Intelligence</italic> 171 (Dec. 2007): 1160.</p>
+            </fn>
+            <fn id="fn36">
+               <label>36</label>
+               <p>Laurence Sterne, “<italic>A Sentimental Journey through France
+and Italy” and Other Writings</italic> (1768; Oxford, 1968),
+p. 120; hereafter abbreviated <italic>S</italic>.</p>
+            </fn>
+            <fn id="fn37">
+               <label>37</label>
+               <p>See Steven Pinker, “Toward a Consilient Study of Literature,” <italic>Philosophy and Literature</italic> 31 (Apr. 2007): 162–78.</p>
+            </fn>
+            <fn id="fn38">
+               <label>38</label>
+               <p>Lisa Zunshine, <italic>Why We Read Fiction: Theory of Mind and
+the Novel</italic> (Columbus, Ohio, 2006), p. 47.</p>
+            </fn>
+            <fn id="fn39">
+               <label>39</label>
+               <p>Ibid., pp. 47, 63, 27.</p>
+            </fn>
+            <fn id="fn40">
+               <label>40</label>
+               <p>Joan Roughgarden, <italic>Evolution's Rainbow: Diversity,
+Gender, and Sexuality in Nature and People</italic> (2004; Berkeley,
+2009), p. 5.</p>
+            </fn>
+            <fn id="fn41">
+               <label>41</label>
+               <p>See ibid., p. 177.</p>
+            </fn>
+            <fn id="fn42">
+               <label>42</label>
+               <p>See ibid., p. 311.</p>
+            </fn>
+            <fn id="fn43">
+               <label>43</label>
+               <p>Prodger discusses at length the first of these images, best known
+as <italic>Ginx's Baby</italic>. Though considered a technical
+tour de force because Rejlander had supposedly captured body and facial
+muscles in vigorous movement, the picture was not a true photograph
+but a drawing made to look like an original photograph. Among other
+things, Prodger discusses how, by adding details like a large padded
+chair to support the crying baby, Rejlander's “corrections”
+convey “a tangible moment in everyday life readers could mentally
+verify, and with which they could sympathize” (Prodger, <italic>Darwin's Camera</italic>, p. 125).</p>
+            </fn>
+         </fn-group>
+      </sec>
+   </body>

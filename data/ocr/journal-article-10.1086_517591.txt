@@ -1,0 +1,408 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>Human sacrifice is well documented in many ancient Andean societies, and historical accounts, iconography, and physical remains attest to the central role in sacrifice of decapitation. The Inca preserved and modified the heads of enemies and recognized the head as the most essential part of the body (Benson 2001, 5; Verano 1995, 219). The head was viewed by some Andean cultures as a source of power that ensured good harvests and symbolized rebirth (Proulx 2001, 135). Depictions of decapitation and disembodied heads are common in the region’s iconography. Much of the decapitation imagery involves supernatural beings. “Indeed, decapitation at the hands of supernaturals appears to be the most pervasive Andean metaphor for ritual death” (Verano 1995, 219).</p>
+      <p>The severed heads of pre‐Columbian art are known as “trophy heads.” Many pre‐Hispanic cultures have trophy‐head iconography, but fewer have physical evidence of the practice. Burials of heads have been found at many sites in the Andes, including the Preceramic site of Asia, the Early Horizon temple site of Chavin, a Formative‐period site in northern Chile, the Moche capital, and two large Wari administrative sites (Burger 1984; Engel 1963; McEwan 1987; Rivera 1991; Verano 1995; Verano et al. 1999). Nowhere have more trophy heads been found than in the Nasca culture (AD 1–750) of the south coast of Peru, but few examples have been found of decapitated bodies. A headless body from the site of La Tiza provides important new data on decapitation and its relationship to ancient ideas of death and regeneration.</p>
+      <sec id="sc1">
+         <title>The Nasca Culture</title>
+         <p>The south coast of Peru is very arid, and settlement was concentrated in the many small river valleys. The Nasca drainage was first permanently inhabited in the Early Horizon (table 1) by settlers of the Paracas culture who migrated south from the Ica Valley (Schreiber 1998; Silverman 1994; Van Gijseghem 2004). By AD 1 a new culture had developed with a distinctive art style, settlement patterns, and ritual practices. Known as the Nasca culture, it was concentrated in the Ica and Nasca Valleys (fig. 1).<table-wrap id="tb1" position="float" seq="1">
+               <label>Table 1.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <title>Settlement in the Nasca Drainage</title>
+               </caption>
+               <graphic xlink:href="tb1.eps"
+                        position="float"
+                        alt-version="no"
+                        mimetype="image"
+                        xlink:type="simple"/>
+               <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                              xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                              frame="topbot"
+                              colsep="0"
+                              rowsep="1"
+                              pgwide="1"
+                              orient="port">
+                  <oasis_0:tgroup cols="4" align="left">
+                     <oasis_0:colspec colnum="1" colname="1" colwidth="8.25pi"/>
+                     <oasis_0:colspec colnum="2" colname="2" colwidth="8.25pi"/>
+                     <oasis_0:colspec colnum="3" colname="3" colwidth="8.25pi"/>
+                     <oasis_0:colspec colnum="4" colname="4" colwidth="8.25pi"/>
+                     <oasis_0:tbody valign="top">
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="left"
+                                          valign="bottom">Horizon or Period</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="center"
+                                          valign="bottom">Culture Name</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="center"
+                                          valign="bottom">Phase</oasis_0:entry>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="center"
+                                          valign="bottom">Approximate Date</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Late Horizon</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Inca</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">AD 1476–1532</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Late Intermediate Period</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Tiza</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">AD 1000–1476</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Middle Horizon</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Wari, Loro</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">8, 9</oasis_0:entry>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">AD 750–1000</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Early Intermediate Period</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Late Nasca</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">6, 7</oasis_0:entry>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">AD 550–750</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Middle Nasca</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">5</oasis_0:entry>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">AD 450–550</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Early Nasca</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">2, 3, 4</oasis_0:entry>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">AD 1–450</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Early Horizon</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Proto‐Nasca</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">1</oasis_0:entry>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">100 BC–AD 1</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Paracas</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">800–100 BC</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">Initial Period</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="0"
+                                          align="left"
+                                          valign="bottom">1800–800 BC</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="left"
+                                          valign="bottom">Archaic</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="left"
+                                          valign="bottom"/>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="left"
+                                          valign="bottom">9000–1800 BC</oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:tbody>
+                  </oasis_0:tgroup>
+               </oasis_0:table>
+            </table-wrap>
+            <fig-group content-type="figgrp" id="fg1" position="float" seq="1">
+               <label>Figure 1.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>The south coast of Peru showing the heartland of the Nasca culture and the site of La Tiza.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg1.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Most scholars agree that during Early Nasca (AD 1–450) a politically complex regional polity developed (Reindel and Isla 1999; Schreiber 1999; Schreiber and Lancho 2003; Silverman 2002; Vaughn 2004). The large ceremonial site of Cahuachi was constructed in this period, and ritual gatherings and feasts were conducted there by elite religious leaders (Orefici 1993; Silverman 1993; Valdez 1994; Vaughn 2005). Polychrome pottery and textiles with elaborate iconography were a hallmark of Early Nasca. The ceramics of this period have been divided into three phases, Nasca 2–4, and display natural and supernatural images. This was also the period when large numbers of geoglyphs (Nasca Lines) were constructed, many of which mirror the images on the pottery.</p>
+         <p>Middle Nasca (AD 450–550) consists of one ceramic phase (Nasca 5), during which underground aqueducts called <italic>puquios</italic> were constructed in the southern drainage and there was movement of people into the middle parts of the valley (Schreiber and Lancho 2003). It has been hypothesized that this was a period of severe drought that may have created stress in the region and led to innovation (Schreiber and Lancho 2003; Silverman and Proulx 2002; Thompson et al. 1985). Ceramic designs became more abstract (Proulx 1968). Construction stopped at Cahauchi, and it was no longer a major pilgrimage center.</p>
+         <p>In Late Nasca (AD 550–750) sites decreased in number but grew in size (Reindel and Isla 1998; Schreiber 1999; Schreiber and Lancho 2003; Silverman 2002). Depictions of warfare and warriors on ceramics became more common, implying that conflict increased (Proulx 1983; Silverman and Proulx 2002). Overall, Late Nasca was a time of reorganization and increasing political complexity (Schreiber and Lancho 2003).</p>
+         <sec id="sc1.1">
+            <title>Nasca Trophy Heads</title>
+            <p>Iconography on Nasca textiles and ceramics commonly includes images of heads without bodies. Although the disembodied heads have been termed “trophy heads,” whether they were actually taken in warfare or used in rituals such as ceremonies in honor of the dead, they clearly had an important ritual function. Often associated with trophy heads in Nasca art are agricultural and fertility motifs, including images of plants and seeds (Carmichael 1994; DeLeonardis 2000; Proulx 1989, 2001; Roark 1965; Sawyer 1966). Sometimes plants or trees are shown sprouting from the head itself. It is apparent that the heads were tied to fertility and regeneration. The supernatural beings in Nasca art depicting decapitation, called “decapitators,” are considered integral to Nasca cosmology and related to violence, death, and fertility (e.g., Carmichael 1995; DeLeonardis 2000; Proulx 1989; Verano 1995). Imagery depicting humans decapitating other humans becomes more common in Late Nasca. In these depictions the victim is without clothing, in the process of losing his clothing, or with only a loincloth or belt, while the decapitator is dressed (sometimes quite elaborately) and depicted with objects such as spears, knives, or standards (DeLeonardis 2000).</p>
+            <p>In the Nasca region, trophy heads have been found alone or in caches of up to 48 in both cemeteries and domestic contexts (Baraybar 1987; Browne, Silverman, and García 1993; Carmichael 1988; Kroeber and Collier 1998; Neira and Penteado 1972–73; Verano 1995). They were prepared by removing the tissue and muscle, stuffing the openings with cloth, securing the eyes and mouth shut, and inserting a rope through a hole in the forehead (e.g., Browne, Silverman, and García 1993). Carmichael (1988) found only four Nasca graves with trophy heads, one of them buried with a headless body. Trophy heads may not have been considered normal grave goods and may have been viewed as the property of the community (Verano 1995, 218). In Early Nasca trophy heads were frequently buried in cemeteries, but by Middle Nasca (Nasca 5) caches outside of cemetery contexts were more common (DeLeonardis 2000, 367). Some scholars suggest that in Late Nasca trophy heads were used to enhance the status and power of the elites (Browne, Silverman, and García 1993; Silverman and Proulx 2002). Heads dating to earlier in the Nasca culture come from men, women, and children, while later more young men are represented in the sample (Forgey and Williams 2005). There is an increase in the number of trophy heads in Middle and Late Nasca and changes in the way they were buried (Browne, Silverman, and García 1993; DeLeonardis 2000; Silverman 1993; Verano 1995). Their uses and meanings likely changed over time, and they may have been prepared and buried differently in different ritual contexts (DeLeonardis 2000; Forgey and Williams 2005; Williams, Forgey, and Klarich 2001).</p>
+         </sec>
+         <sec id="sc1.2">
+            <title>Headless Burials and Mortuary Practices</title>
+            <p>Most Nasca people were buried in tombs within cemeteries and placed in a seated flexed position with the knees drawn up to the chest. Less common types of burial during this period included placement in large ceramic vessels, extended and side‐flexed burials, multiple interments, and secondary interments (Carmichael 1988, 1995). Nearly every one was buried with some type of offering (DeLeonardis 2000, 366), among them pottery, gourds, textiles, feathers, raw cotton, plant remains, and baskets (Carmichael 1995, 168). People who appear to have had “bad deaths” (Bloch and Parry 1982) were buried in pits without offerings (Silverman 1993, 215). The number of Nasca burials indicates a small population, and women and children are underrepresented, suggesting that not everyone was being buried and/or not everyone was being buried in the same way or in the same place (Dillehay 1995, 13). Carmichael (1988, 1995) reports that, while burial form and offering type were consistent throughout, Middle Nasca tombs were deeper, had heavier roofs, and contained more pottery, especially in the highest‐status burials (Carmichael 1995, 175). In the northern Nasca drainage there was a significant change in mortuary practices in Middle Nasca; the site of La Muña contained very large, elaborate burial chambers (Reindel and Isla 1999), indicating an increased complexity in burial ritual (Silverman and Proulx 2002, 253).</p>
+            <p>Many “partial‐body burials,” consisting of articulated skeletons missing a body part, disarticulated skeletons, or body parts buried separately or in caches, have been found in Nasca (Carmichael 1988; DeLeonardis 2000; Kroeber and Collier 1998). While trophy heads are fairly common, few headless bodies have been found. DeLeonardis (2000, 373), working from various sources, identified eight headless bodies from the Nasca region with evidence of decapitation. Additional headless bodies have been found, but few of these have evidence for decapitation; instead, the head was removed after death. DeLeonardis distinguished three burial forms of headless bodies. The first and most common is a seated, flexed individual with burial goods such as pottery or textiles and head‐replacement objects including jars with the image of a human head and face, turbans, and gourds. Head jars are relatively common in burials and habitation areas but only occasionally found with headless burials. Five headless burials of the first type are reported from the Nasca and Ica Valleys and date to Early Nasca, and one additional burial dates to Late Nasca. Less common (with only one known example of each, both dating to Early Nasca) are the second type, a flexed, seated individual without burial goods, and the third type, an individual in extended position with burial goods and a head‐replacement object. As DeLeonardis points out, the scarcity of headless burials is probably related to extensive looting in the region, but bodies may have been disposed of differently in later times. Their scarcity contrasts with the greater numbers of trophy heads reported in Middle and Late Nasca. Middle Nasca is a critical period of transformation after the decline of Cahuachi and coincides with climatic shifts and new settlement patterns. Iconography suggests that this was a time of increased competition and warfare. Mortuary practices were altered with an increase in the number of trophy heads taken, greater energy investment in the southern drainage, and the establishment of elaborate chamber tombs in the northern drainage. It is in this cultural context that the individual found at La Tiza was decapitated and buried.</p>
+         </sec>
+      </sec>
+      <sec id="sc2">
+         <title>Decapitated Burial From La Tiza</title>
+         <sec id="sc2.1">
+            <title>The Excavation Context</title>
+            <p>La Tiza is located near the modern town of Nasca, where the Aja and Tierras Blancas River valleys merge into the Nasca Valley (fig. 1). This large settlement extends over 28 hectares on a steep, rocky hillside next to the Aja riverbed. It faces south and has an unobstructed view of the sacred white‐sand mountain Cerro Blanco. It contains five distinct sectors dating from the Early Horizon through the Late Horizon, with approximately 12 hectares of Nasca cemetery and habitation (fig. 2).<fig-group content-type="figgrp" id="fg2" position="float" seq="2">
+                  <label>Figure 2.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>La Tiza with sectors I and II, Unit 6, which had Early Nasca habitation, and Unit 8, which contained the decapitated burial.</p>
+                  </caption>
+                  <fig position="float" fig-type="figure">
+                     <graphic xlink:href="fg2.tiff"
+                              rotation="0"
+                              alt-version="no"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </fig>
+               </fig-group>
+            </p>
+            <p>In 2004, when the burial was excavated, the project goals were to conduct test excavations in all sectors to determine the temporal occupation and use of different areas and to plan more extensive future excavations (Conlee and Noriega 2004). Twenty‐two test units were excavated in domestic contexts, while cemetery areas were intentionally avoided. Sector II is one of the largest sectors at La Tiza and contains cemeteries, Early Nasca habitation, and later Late Intermediate Period habitation. A distinctive feature of the lower portion of this sector is an area of round, stone‐lined tombs surrounded on three sides by a wall. This area, interpreted as a cemetery that was partially walled off to demarcate it, is surrounded by domestic structures. Excavations in Unit 6, in the lower southern area, contained domestic remains and storage features that date to Nasca 3.</p>
+            <p>Unit 8 was just outside the northern wall in an ovoid structure. The upper levels of the unit were very disturbed and contained diagnostic ceramics from Early Nasca, Late Nasca, and the Late Intermediate Period. At approximately 50 cm below the surface a semicircular wall was encountered. The unit was expanded to the west to reveal the structure, which turned out to be a circular stone‐lined tomb 1.15 m in diameter and 1.1 m deep. It appears as if there may have been an upper portion to the tomb that was looted prehistorically. Below the top of the wall there was a hard, compacted surface with a small broken area through which a vertebra protruded from below. Beneath this surface was loose, clean sand containing skeletal remains.</p>
+         </sec>
+         <sec id="sc2.2">
+            <title>The Burial</title>
+            <p>The skeleton in the tomb was a headless body in a seated position with crossed legs and facing east (fig. 3). A ceramic head jar was placed to the left of the body. No other intact artifacts were associated with the burial, although a few plant remains and evidence of deteriorated textiles were present. Analysis of the skeletal material by Michele Buzon reveals that the individual was a male who was approximately 20–25 years old when he died. The upper two vertebrae (C1 and C2) were missing and the third vertebra (C3) had cut marks that strongly indicate that he was decapitated (fig. 4). The cut marks were determined to be perimortem because they are darker than the surrounding bone, whereas excavation and other postmortem damage results in a darker surface and lighter cut marks (Walker 2001). In addition, they have rounded edges, indicating that the bone was fresh, and there is no evidence of the flaking or breakage that is common in postmortem cut marks. It is probable that the person was killed and then someone spent quite a bit of effort cutting off the head (Phillip Walker, personal communication). The tool used was most likely a sharp obsidian knife.<fig-group content-type="figgrp" id="fg3" position="float" seq="3">
+                  <label>Figure 3.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>The decapitated burial with the head jar placed next to the body.</p>
+                  </caption>
+                  <fig position="float" fig-type="figure">
+                     <graphic xlink:href="fg3_online.eps"
+                              rotation="0"
+                              alt-version="no"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </fig>
+               </fig-group>
+               <fig-group content-type="figgrp" id="fg4" position="float" seq="4">
+                  <label>Figure 4.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>Cut marks found on the third cervical vertebra.</p>
+                  </caption>
+                  <fig position="float" fig-type="figure">
+                     <graphic xlink:href="fg4_online.eps"
+                              rotation="0"
+                              alt-version="no"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </fig>
+               </fig-group>
+            </p>
+            <p>The head jar dates to Nasca 5 and contains the image of a head with a tree growing out of the top and branches extending around the vessel (figs. 5 and 6). The tree has eyes, and tassels hang from its branches. The nose is placed high on the forehead, and when the vessel is turned upside down a different face is represented with the nose in the correct anatomical position. The jar has repair holes along a crack in the back and small chips indicating that it was used before being placed in the tomb. It also has holes that are not along a crack or area of stress, suggesting that they were not used for keeping the vessel together with cord. These may have been used to attach some type of ornament, or perhaps they were something done ritually to the vessel.<fig-group content-type="figgrp" id="fg5" position="float" seq="5">
+                  <label>Figure 5.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>Front view of the head jar.</p>
+                  </caption>
+                  <fig position="float" fig-type="figure">
+                     <graphic xlink:href="fg5_online.eps"
+                              rotation="0"
+                              alt-version="no"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </fig>
+               </fig-group>
+               <fig-group content-type="figgrp" id="fg6" position="float" seq="6">
+                  <label>Figure 6.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>Back view of the head jar.</p>
+                  </caption>
+                  <fig position="float" fig-type="figure">
+                     <graphic xlink:href="fg6_online.eps"
+                              rotation="0"
+                              alt-version="no"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </fig>
+               </fig-group>
+            </p>
+            <p>This burial is of DeLeonardis's first type. A very similar headless burial was found by Kroeber in 1926 in Grave 7 at the site of Aja B, approximately 7 km west of La Tiza (Kroeber and Collier 1998, 67). The tomb was described as having a cane‐and‐stick roof at 40 cm below the surface and was 160 cm in depth. The buried individual was an adult male with a skeleton in “good condition” but lacking a head. In place of the head was a Nasca 3 head jar with a turban or hair mass (1998:fig. 154). There were two other vessels with the burial and some hair braids. No analysis was conducted on the skeletal material to determine whether the individual was decapitated, but there was no evidence to indicate that the tomb had been disturbed and the head removed after death.</p>
+            <p>Another headless burial with a head jar, dating to Nasca 7, was found in Chaviña, south of Nasca in Acari (Lothrop and Mahler 1957). The body was flexed and lying on its right side. This burial had a large gourd wrapped in textiles placed where the head would have been and was enclosed in a textile covered with yellow and blue feathers. The burial also contained a jar with bands of trophy heads and several other objects (1957, 6). This burial was associated with five others and was interpreted as that of a retainer of a high‐status person in an adjacent tomb. The high‐status burial consisted of only a fragmented skull and a rare type of head ornament considered to signify higher rank. However, the headless individual was buried with more grave goods, including the feather‐covered textile, which was probably a high‐status item. No in‐depth analysis was done of the skeletal material.</p>
+            <p>The function and meaning of Nasca head jars are unclear (Blasco and Ramos 1980). Head jars have been found at Nasca domestic sites, often associated with high‐status households, and in burials, but, after the Aja B and Chaviña burials, the La Tiza burial contains only the third known head jar found with a decapitated individual. Head jars come in a range of sizes and shapes; some mirror trophy heads, with pinned lips, rope, etc., while others resemble live human beings (Proulx 2001, 30). The La Tiza head jar falls into the second category. The head jar found at Aja B is also of a living person, while the Chaviña head jar is of a trophy head. The head jars found at an Early Nasca village were all “alive,” and Vaughn (2004, 82–83) concludes that they represented high‐status individuals and were used to drink from, probably in connection with fertility rituals. The diverse contexts in which head jars are found and their different depictions indicate that they had multiple meanings. The head jar from La Tiza served as a head‐replacement object, although it had been used before its interment and probably had a different function before its inclusion in the tomb.</p>
+         </sec>
+      </sec>
+      <sec id="sc3">
+         <title>Decapitation and Rebirth in Ancient Nasca Society</title>
+         <p>The tree and plant images commonly associated with trophy heads in Nasca play prominent roles in rituals throughout the Andes. Ritual battles often take place just before plowing for potato planting, and trees and unripened fruit figure in these rituals, in which the shedding of blood is necessary to nourish the earth to produce a good harvest (Benson 2001, 14; Carmichael 1994; Urton 1993). The presence of scalp cuts on Nasca trophy heads suggests that the letting of blood was an important part of the ritual that resulted in decapitation (Baraybar 1987). The ancestors are also associated with agricultural fertility and are important in rituals associated with planting (Allen 1988; Harris 1982; Proulx 1994).</p>
+         <p>The placement of the La Tiza decapitated individual in a stone‐lined tomb with a head jar indicates that care was taken in this burial and suggests that it was not a “bad death.” The purposeful burial also suggests that this person was not an enemy combatant, but he does appear to have had a relatively low status. Carmichael categorized burials with one or two pots and a light roof as low‐status (1995, 179), and the La Tiza burial falls into this category. A seated, flexed position is one of rest for a living individual (Rowe 1995, 28) and the same could be argued for a seated position with crossed legs. Rowe considers this an awake position as opposed to the extended or side‐flexed position of sleep. There may be a connection between the seated position and the “live” head jars of La Tiza and Aja B and the sleeping side‐flexed position at Chaviña and the trophy‐head jar.</p>
+         <p>The La Tiza head jar was a rather literal replacement and reflects the Nasca belief that a person needed to have a head when he entered the afterlife. If the head jar was used to drink from during fertility rituals, then its inclusion in the burial further strengthens the relationship between decapitation and rebirth. The image on the jar of a tree growing out of the head suggests a transformation between the human and the mythical world. Drawing on her analysis of images on pre‐Nasca Paracas textiles from the region, Frame (2001) stresses the interconnectedness of blood, fertility, and the transformation of the dead into sacred ancestors and eventually into mythical animal creatures. Donald Proulx (personal communication) notes that on the La Tiza head jar “the artist has cleverly used the traditional striped tunic found on Anthropomorphic Mythical Beings as his model for the ‘tree.’ ” The Anthropomorphic Mythical Being is a common supernatural image on Nasca pottery associated with trophy heads. Proulx also remarks, “Instead of the tunic having an ‘eye’ form of navel, the artist has added a second eye to turn the tunic into a living creature. It has an almost spooky appearance, and the theme seems to reinforce the link between decapitation, plants, and regeneration.”</p>
+         <p>The decapitation of the La Tiza individual appears to have been part of a ritual associated with ensuring agricultural fertility and the continuation of life and rebirth of the community. He may have been captured in territorial or ritual warfare (or a combination of the two), sacrificed at the site or someplace else, and then buried at La Tiza. Alternatively, he may have come from La Tiza or nearby and willingly or unwillingly been sacrificed, or he may have been decapitated by another group and brought back home for burial. However, there is no conclusive evidence of Middle Nasca habitation at La Tiza. All of the Nasca domestic areas that have been excavated date to Early Nasca, although, given the degree of looting and the size of the site, a Middle Nasca component cannot be ruled out. Also, some very preliminary data from strontium analysis of the skeletal remains suggest the possibility that the decapitated man was not from the local area. In any of these scenarios, human sacrifice was performed, blood was spilled, a person was decapitated, and presumably the head was taken somewhere else, where it may have been transformed into a trophy head, incorporated into other rituals, and eventually buried.</p>
+         <p>The placement of the burial next to the cemetery suggests that decapitation was a ritual linked with the dead. The habitation around this Middle Nasca burial was Early Nasca, and although the tombs in the cemetery are not conclusively dated, the associated ceramics date primarily to Early Nasca. DeLeonardis (2000) reports the burial of a headless individual dating to Nasca 3 in an earlier Paracas site in the Ica Valley. Since the ancestors figure prominently in Andean religion and play a role in agricultural fertility, it is not surprising that rituals involving decapitation are associated with places where the ancestors reside. The burial of the decapitated La Tiza individual among earlier habitation and next to a cemetery reflects the involvement of the ancestors in rituals of rebirth and/or a tradition of honoring them with the death of the living. Middle Nasca was a time of change and also probably stress throughout the region. Human sacrifice and decapitation were part of powerful rituals that would have allayed fears by invoking the ancestors to ensure fertility and the continuation of Nasca society.</p>
+      </sec>
+   </body>

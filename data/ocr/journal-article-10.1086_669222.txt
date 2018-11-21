@@ -1,0 +1,309 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>
+         <fig id="fg1" position="float" fig-type="figure">
+            <caption>
+               <p>Mathew Brady, <italic>Wounded Trees at Gettysburg</italic> (detail), 1863. Left half of glass plate stereo negative. Library of Congress, Prints and Photographs Division, LC-DIG-cwpb-01646</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg1.tiff"/>
+         </fig>
+      </p>
+      <p>In mid-July 1863 Mathew Brady arrived at Gettysburg with a team of photographic assistants, less than two weeks after the ferocious Civil War battle there. One of the images resulting from the visit was the stereograph <italic>Wounded Trees at Gettysburg</italic> (fig. 1).<sup>1</sup> It was taken at Culp’s Hill, located southeast of the town of Gettysburg. A wooded and rocky hill—actually two connected peaks named after the farming family who owned it—Culp’s Hill was strategically significant as the right flank of the Union line. Although the hill was quiet when Brady visited it, it had been the target of waves of Confederate attacks during the night of July 2 and the morning of July 3 (fig. 2). Confederates hoped to take the hill, thereby encircling the enemy, disrupting its vital supply lines along the Baltimore Pike, and contributing to General Robert E. Lee’s overarching plan to crush the entire Union line. Large numbers of Union and Confederate soldiers fought at Culp’s Hill, navigating its difficult terrain, sometimes in the dark. Although Confederates were able to occupy Union positions on the lower slopes of the hill, they never took control of the higher ground, despite repeated advances. The fighting at Culp’s Hill ended in thousands of casualties; dead and wounded bodies would have littered every portion of the hill.<sup>2</sup>
+         <fig id="fg2" position="float" fig-type="figure">
+            <label>1.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>Mathew Brady, <italic>Wounded Trees at Gettysburg</italic>, ca. 1880s. Stereograph. Library of Congress, Prints and Photographs Division, LC-DIG-stereo-2s02672</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg2.tiff"/>
+         </fig>
+         <fig id="fg3" position="float" fig-type="figure">
+            <label>2.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>Map of Culp’s Hill, Gettysburg, showing troop positions on the evening of July 2, 1863. Map by Hal Jespersen, <uri xlink:type="simple" xlink:href="http://www.posix.com/CW">www.posix.com/CW</uri>
+               </p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg3.tiff"/>
+         </fig>
+      </p>
+      <p>In addition to the heavy loss of life, the destruction of the woods on Culp’s Hill became a major part of narratives of the battle. A representative Northern account describes the Confederate advance and its consequences: “The enemy came up under cover of the forest and approaching darkness, as if to the accomplishment of an easy task. With desperate courage [General George S.] Greene’s brigade received them, literally covering the hills, in front of our works, with the wounded and dead. The scarred timber in the vicinity well attests to the obstinacy and effectiveness with which our men fought.” This recounting highlights both human and tree casualties. A correspondent for the <italic>New York Herald</italic>, who visited the battlefield shortly before Brady, delineated the natural destruction in even more detail: “I find tree after tree scarred from base to limbs so thickly that it would have been impossible to place one’s hand upon their trunks without covering the mark of a bullet. One tree was stripped of more than half its leaves by the effect of the bullets alone, and many of the twigs were cut half off, and were hanging wilted and ready to drop to the ground.” Culp’s Hill would have been in this condition when Brady and his assistants arrived.<sup>3</sup>
+      </p>
+      <p>Brady’s stereograph explicitly draws an equivalence between wounded trees and wounded human bodies, thereby serving as an early example of visual interplay between trees and bodies on the battlefield. The stereograph was taken looking down the eastern slope of Culp’s Hill in the space between the Union defensive works built along its crest and the Confederate lines at its base, an area that saw some of the fiercest fighting. Two elements demand attention in Brady’s three-dimensional image: the figure of a man, wearing a light shirt and dark pants, lying on the ground with his knees bent and his left arm resting above his head; and the dark, gaping holes on the trunks of many of the trees that surround him. Although an 1869 catalogue entry for the stereograph identified the figure as a dead soldier, the historian William Frassanito has determined that the man was in fact one of Brady’s assistants, lying on the ground. Brady, by inserting a human figure to reference the now-removed human casualties, orchestrated one of the main features of the image to compensate for arriving at the battlefield after the fact. In <italic>Wounded Trees</italic>, Brady’s pairing of human and nonhuman victims presents a broad view of destruction. The stereograph underlines the vulnerability of all organic matter to injury and death, more particularly, premature death caused by human action.<sup>4</sup>
+      </p>
+      <p>The stereograph’s conflation of tree and human would have been meaningful to many nineteenth-century audiences. They were willing to see the landscape as literally embodied, its elements analogous to the forms of a human body. Consequently, photographers and illustrators, as well as veterans designing regimental monuments at Gettysburg later in the century, embraced the image of the wounded tree as an echo of soldiers’ wounded bodies. The cultural historian Alan Trachtenberg has suggested that “Images become history, more than traces of a specific event in the past, when they are used to interpret the present in light of the past, when they are presented and received as explanatory accounts of collective reality. They become history when they are conceived as symbolic events in a shared culture.”<sup>5</sup> Because the <italic>Wounded Trees</italic> stereograph came to convey the magnitude of the battle and the larger war, it is a prime example of an image becoming history.</p>
+      <p>Brady’s stereograph accomplished the task of linking past and present in visual terms by alluding to, yet altering, earlier conventions of romantic art in an attempt to comprehend the battle of Gettysburg. Borrowing cues familiar from early nineteenth-century imagery, it forged charged symbolic relationships between human beings and nature. This correspondence took multiple forms in the age of romanticism, including the use of human figures as witnesses to nature and the practice of embedding human forms in landscape elements. Rather than making human concerns dominant, however, Brady’s stereograph creates an equivalence between the human and the nonhuman that distinguishes it from earlier representations.</p>
+      <p>While today we might be tempted to interpret Brady’s stereograph as a classic example of psychological transference—projecting anxieties about human casualties onto the trees—the photograph’s act of pointing to long-term environmental loss as the legacy of the battle at Gettysburg suggests a different, more complex interpretation. Popular audiences accustomed to reading a range of symbolic meanings into landscapes, including religious and nationalistic associations, would not have seen the woods at Culp’s Hill as a neutral setting. Instead, the destruction of nature at Gettysburg, along with the loss of human life, signaled the gravity of the battle. Earlier the same year, Jedediah Hotchkiss, a topographical engineer for the Confederate Army, wrote to his wife about the destruction caused by his army’s encampment in Caroline County, Virginia: <disp-quote>
+            <p>Things have changed much since we came here, one large forest covered the crest of the chain of hills running along from one to two miles from the river … but we have had our camps along these hilltops, and the trees have disappeared &amp; houses that never looked at each other in the almost century they have been standing stare each other impudently in the face—having barely the trees that surround them left to tell of the lordly race from whose destructions they are spared—so it is here—but across the river they too are gone and whatever new generation shall live in that land they cannot sit under the trees their fathers planted.<sup>6</sup>
+            </p>
+         </disp-quote> Hotchkiss’s letter, like Brady’s stereograph, emphasizes the multigenerational gaps caused by the war.</p>
+      <p>Brady’s positioning of the “dead” soldier amid the shelled trees also explicitly links natural and human loss. In doing so, the stereograph rejects a unilateral flow of meaning from nature to humans. Instead, it creates a dynamic visual circuit oscillating between man and trees that heightens their entanglement and increases the viewer’s sympathy for both. The presence of the trees in the photograph makes it clear that human beings are part of nature rather than separate from it, while the presence of the human body makes the point that individual trees are distinct, living forms. Additionally, such imagery builds on the traditional association of trees with longevity and with continuity between generations. In many cultures, trees symbolize the unity of the universe, a residence for or conduit to the divine, fertility, as well as cycles of life, death, rebirth, and the possibility of future descendants.<sup>7</sup> Photographs such as <italic>Wounded Trees at Gettysburg</italic> conveyed the pessimistic vision that the war was creating long-term losses that would never be fully repaired. I therefore disagree with some scholars who read the landscape elements in Civil War photographs as softening the harshness of the war and alluding to the promise of future regeneration.<sup>8</sup> Instead, the stereograph and related images from Gettysburg suggest that promising futures for both humans and trees were equally denied. By juxtaposing damaged trees and a damaged man, the photograph indicates that the lives of both, and their potential for procreation, have been artificially cut short. In the aftermath of the battle, the trees in the stereograph appear not as collateral damage but as additional casualties.</p>
+      <sec id="sc1">
+         <title>The Stereograph</title>
+         <p>
+            <italic>Wounded Trees at Gettysburg</italic> immerses the viewer in an intimate scene instead of focusing on generalized topography. The human figure lies in a small clearing in dense woods. Evidence of the battle is visible in every direction, including the pile of branches behind him, presumably detached from the trees during the battle. In August 1863, when <italic>Harper’s Weekly</italic> reproduced eight of Brady’s photographs from Gettysburg as wood engravings, including <italic>Wounded Trees</italic> (fig. 3), the accompanying text noted of the Culp’s Hill images: “We see the rough breastworks thrown up in the woods behind which the troops crouched to repel the enemy’s charges, with the trees above and around them scarred and furrowed every where by round shot, shell, and rifle-ball.” More visible in the stereograph than the wood engraving are the compositional elements that deliberately link trees and man. The fallen branch that extends diagonally from the upper left draws the eye to the centralized figure; the line is continued closer to the figure by means of another branch on top of the pile directly behind him. Similarly, the man’s dark hair and pants attract renewed attention to the gouges in the tree trunks caused by ballistic weapons. These details would have resolved themselves even more quickly for those looking at the stereograph through a stereoscope.<sup>9</sup>
+            <fig id="fg4" position="float" fig-type="figure">
+               <label>3.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>
+                     <italic>Woods on the Right of the Battle-field</italic>. Wood engraving. From <italic>Harper’s Weekly</italic>, August 22, 1863, 532. Photo, courtesy of The Newberry Library, Chicago</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg4.tiff"/>
+            </fig>
+         </p>
+         <p>The stereograph presents trees and man as equally vulnerable bodies. For example, Brady chose an angle looking down Culp’s Hill that emphasizes the consequence of heavy fire unleashed by the federal soldiers stationed at the top of the hill. The gaping marks on the trees record the number of volleys. If we read the trunks of the trees as analogues to human bodies, it is clear they have been hit so many times that survival is virtually impossible. A Gettysburg guidebook from 1873 noted the impact of the battle on the woods: “But here there is no mistaking the fact that some great and unusual event has occurred. The destruction of the forest is perhaps the most marked characteristic. In the midst of a healthy growth of fine old oak and hickory, many of the trees are battered and dying from the effects of the terrible musketry fire. Indeed, over acres they have already gone to decay, and are being blown to the ground by every storm.”<sup>10</sup> The marks on the trees also indicate a tragic outcome for the figure, despite his lack of visible wounds. His position and location render him incapable of defense: his pose is open rather than closed, he lies in an unprotected space without a weapon, and his small scale in relation to his environment increases his seeming vulnerability. His solitariness also implies that he has been separated from or left behind by his comrades.</p>
+         <p>Because the stereograph contains both human and nonhuman victims of the battle, it has been assigned various titles. An early title—<italic>Woods on the Left Wing, Battle of Gettysburgh; in the Middle Ground a Dead Soldier</italic>—focused attention on the man. What might at first be taken as relaxed repose is identified as death. In making this fictional addition to the landscape, Brady alluded indirectly to the notoriety his own studio had achieved the previous year as a result of graphic casualty photographs taken at Antietam. These images, displayed at Brady’s New York gallery and published in <italic>Harper’s Weekly</italic> as wood engravings, shocked audiences. Perhaps because of objections to the fabrication of a dead soldier at Gettysburg, later editions of the stereograph received the title <italic>Wounded Trees at Gettysburg</italic>, shifting the focus to the fate of the trees.<sup>11</sup> There is no mention of a human presence in the later title, yet the choice of the term “wounded”—rather than “damaged” or “destroyed”—makes the connection to human casualties clear. It is also impossible to imagine a viewer observing the trees in the photograph without correlating them to the visible body, since Brady creates visual correspondences between them.</p>
+         <p>Comparison with other images from Culp’s Hill created shortly after the battle helps reveal more of the decisions Brady made when making the stereograph. For example, Edwin Forbes, an artist correspondent for <italic>Frank Leslie’s Illustrated Newspaper</italic>, was inspired by the site to sketch one of the Confederate assaults on Culp’s Hill (fig. 4). The drawing shows Confederate forces advancing up the hill; a U.S. flag at the upper left marks the federal position. It depicts the same area as the stereograph but from the opposite angle. Another similarity: the sketch highlights the distinctiveness of the terrain, as attested by one of Forbes’s inscriptions: “Thick woods on the hill behind the works, / Twigs and limbs hanging down cut by bullets.” Both Forbes and Brady were accustomed to directing their war imagery to a popular audience; Forbes worked for one of the illustrated weeklies with the highest circulation in the United States, whereas Brady maintained public galleries and sold his photographs in multiple formats to suit different budgets. Yet the two men made different decisions in their reconstructions of the battle at Culp’s Hill and its aftermath. Forbes’s drawing composes a narrative of the battle; viewers could imagine its larger scope.<sup>12</sup> Another inscription reconstructs the context: “The rebels made a most desperate attack on this [position] / for six hours and a half they hurled the veterans of [Stonewall] Jackson’s old corps against the breastworks / they were defeated in every attempt with terrible slaughter.” Forbes emphasized dynamism and placed his audience in the midst of the battle as it unfolded, while Brady underscored stillness and condensed the impact of the battle to the wounded trees and a single human figure. If the stasis in Brady’s stereograph was the result of the technical limitations of photography, it also related to his larger ambitions. As the photographic historian Mary Panzer argues in her comprehensive study of Brady, his aspirations most closely matched those of such contemporary history painters as Emanuel Leutze (best known today for <italic>Washington Crossing the Delaware</italic>, 1851). Panzer describes how Brady used a new medium to revive a languishing genre of art: “By infusing old-fashioned romantic vistas with the precision, detail, and documentary authority of photographic images, Brady’s images gave their [the history painters’] constructed artistic history new life.”<sup>13</sup> In <italic>Wounded Trees at Gettysburg</italic>, Brady created a representative statement of loss rather than a reportorial dispatch. He harnessed the ability of the camera to record small details and the stereograph’s illusion of three-dimensionality to put the viewer on the spot, but he relied on his viewers to read symbolic cues familiar to them from landscape paintings in order to create a narrative.<fig id="fg5" position="float" fig-type="figure">
+               <label>4.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Edwin Forbes, <italic>Attack of Genl. Ewell’s Corps (Johnston’s Division), Formerly under Stonewall Jackson, on the Right Flank of the Union Army on Culp’s Hill Held by the 12th Corps (Gen. Slocum) during the Battle of Gettysburg</italic>, July 1863. Pencil, 9 ⅝ × 13¼ in. Library of Congress, Prints and Photographs Division, Gift of J. P. Morgan, 1919, LC-DIG-ppmsca-50553</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg5.tiff"/>
+            </fig>
+         </p>
+         <p>A second stereograph of Culp’s Hill (fig. 5) that Brady took during his 1863 trip to Gettysburg establishes an expanded framework for <italic>Wounded Trees at Gettysburg</italic>. It depicts a tree that has been blasted down to its stump in front of other trees that show battle damage, but, unlike Brady’s other images from the area, it has no human presence.<sup>14</sup> Instead, an arborial casualty is the focus, emphasized by its central position within the frame. The splintered wood and absence of the rest of the trunk shock the viewer. The concentration on the central tree’s wound, again even more palpable when seen in stereograph form, is frank in a way that would not have been acceptable for public circulation if the subject were a human wound.<sup>15</sup>
+            <fig id="fg6" position="float" fig-type="figure">
+               <label>5.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Mathew Brady, <italic>Gettysburg, Pennsylvania. Woods on Culp’s Hill Showing the Effect of Musket Fire</italic>, 1863. Left half of stereograph. Library of Congress, Prints and Photographs Division, LC-DIG-cwpb-01634</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg6.tiff"/>
+            </fig>
+         </p>
+         <p>Both the image of the blasted tree and the tree stump, however, were staples of earlier American art, a visual tradition with which Brady and his audience would have been familiar. As I will explore in the next section, the photographer drew on a preexisting visual vocabulary when conceiving the new subject of Culp’s Hill. If viewed as a pair, the image of the tree stump and the reclining man in <italic>Wounded Trees</italic> make wounded trees and wounded men their respective focus. The latter, however, required that the photographer intervene more actively in his creation of a condensed symbol of the battle.</p>
+      </sec>
+      <sec id="sc2">
+         <title>Romantic Notions of Nature/the Body</title>
+         <p>As suggested earlier, Brady drew on established visual conventions of romantic landscapes from the beginning of the nineteenth century when creating <italic>Wounded Trees at Gettysburg</italic>, while simultaneously adjusting those conventions. A comparison of Brady’s stereograph to antebellum landscape paintings by Thomas Cole and George Inness reveals the extent of the photographer’s debt to visual precedents and his desire to put his own stamp on the landscape genre. For example, the strategy of anthropomorphizing landscape elements was a frequent feature of romantic art. Painters used rocks, water, and trees to dramatize human concerns. The art historian J. Gray Sweeney has shown how the coded references to human forms in American landscape paintings grew out of the European emblematic tradition, which expressed abstract ideas through the juxtaposition of text and image. Another model was eighteenth-century associationist philosophy, which proposed that ever-more complex thought processes took place as a result of the linkages among ideas. These two sources allowed artists to use visual correspondences to carry important messages. Cole was an early creator of “emblematic personifications,” in Sweeney’s words, and his example influenced many others. For instance, rock forms in many of Cole’s paintings contain disguised human profiles. In some artworks, such as his Voyage of Life series, these anthropomorphized natural forms accompany a narrative driven by figures, while in others they exist without an overt human presence. According to Sweeney, Cole employed such doubling of natural forms and human features to invoke the presence of the divine and demonstrate the vitalism of nature.<sup>16</sup>
+         </p>
+         <p>Cole also frequently enlisted trees in his campaign to anthropomorphize nature. Ravaged, writhing trees in his drawings and paintings act as markers of past natural upheavals as well as symbols of human turmoil.<sup>17</sup> In a particularly explicit example (fig. 6), Cole uses an animated tree rather than the tiny human figure reclining below it to create drama. The tree’s trunk terminates in an area that resembles a head, complete with wild hair, and its branches look like arms. In a similar reversal, Cole’s <italic>Landscape</italic> (fig. 7) gives much more prominence to the storm-damaged tree in the right foreground than to the minuscule figure of the Native American barely visible in the middle distance. The artist accorded trees an expressiveness that the European academic tradition typically reserved for the human body. In his “Essay on American Scenery,” Cole compared the characters of trees and humans when each was in its “natural” state: “Trees are like men, differing widely in character; in sheltered spots, or under the influence of culture, they show few contrasting points; peculiarities are pruned and trained away, until there is a general resemblance. But in exposed situations, wild and uncultivated, battling with the elements and with one another for the possession of a morsel of soil, or a favoring rock to which they may cling—they exhibit striking peculiarities, and sometimes grand originality.” Cole found virtue in the external forces acting on both trees and men, expressing a romantic preference for wildness versus cultivation. This passage also restates the powerful anthropomorphism visible in his artwork; it is through observations of society that we can understand the trees (although Cole also implants the vivid image of a pruned man in his reader’s mind).<sup>18</sup>
+            <fig id="fg7" position="float" fig-type="figure">
+               <label>6.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Thomas Cole, <italic>Large Gnarled Tree with Bearded Man Seated Below</italic>, n.d. Pen and ink over pencil on paper, 12 ½ × 19 ⅛ in. Detroit Institute of Arts, Founders Society Purchase, William H. Murphy Fund. Photo, Bridgeman Art Library</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg7.tiff"/>
+            </fig>
+            <fig id="fg8" position="float" fig-type="figure">
+               <label>7.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Thomas Cole, <italic>Landscape</italic>, 1828. Oil on canvas, 26 ⅛ × 32 ¼ in. Museum of Art, Rhode Island School of Design, Providence, Walter H. Kimball Fund. Photo, Erik Gould</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg8.tiff"/>
+            </fig>
+         </p>
+         <p>Brady drew on a continuing strain of romanticism represented by Cole when making photographs at Gettysburg, yet he added new dimensions to that tradition. He was not the only image maker at midcentury to build on a romantic legacy. The art historian Sarah Burns has demonstrated that artists willing to tackle issues of violence, irrationality, and death—what she calls the “dark side” of American art—provided an alternative tradition to artworks that equated landscapes of American scenery with undisputed progress or that staged lighthearted genre scenes.<sup>19</sup> In one sense, Brady’s battlefield photographs can be seen as meditations on the dark side of the war. However, it is also important to note the ways that an image such as <italic>Wounded Trees</italic> departs from romanticism. For example, Brady found alternative means to collapse the distance between human beings and trees. Relationships between human and nonhuman nature that Cole and his contemporaries disguised in their landscape paintings become visible in the stereograph.<sup>20</sup> Unlike a rock form that doubles as a human profile, the figure of the man in the stereograph is not hidden in the photographed landscape but openly shares space with the trees, creating a continuous symbolic exchange. What was coded in romantic painting becomes explicit in the photograph. Brady’s stereograph communicates the long-term break in the continuity of generations caused by the battle rather than expressing an interior reality. The photographer allowed the human figure and the trees to stand for themselves, while insisting on their reciprocity.</p>
+         <p>In another departure from romantic landscape painting, the stereograph depicts damage undoubtedly inflicted by human beings rather than by storms or other cataclysmic natural events. The trees altered by humans in battlefield photographs actually have more in common with another ubiquitous nineteenth-century landscape symbol: the tree stump. Although this symbol is not usually identified specifically as romantic, it fits squarely within this broad ideological framework. As the curator and scholar Nicolai Cikovsky Jr. has argued, the tree stump evoked complex meanings related to progress. While many nineteenth-century Americans identified the stump with the clearing of the wilderness to make way for civilization, for others it had more ambivalent connotations.<sup>21</sup> To return to the example of Cole, the artist alluded to the human removal of trees in some paintings and featured it strongly in his poetry and his “Essay on American Scenery.” The motif of the felled tree had a different set of associations for Cole than did the blasted tree. Most famously, in the conclusion of the “Essay,” the artist noted with dismay the large-scale clearing of trees, warning, “the ravages of the axe are daily increasing—the most noble scenes are made desolate, and oftentimes with a wantonness and barbarism scarcely credible in a civilized nation.” In his analysis of the artist’s <italic>River in the Catskills</italic> (fig. 8) the art historian Alan Wallach has provided additional evidence of Cole’s misgivings about the development of the town of Catskill, New York, and the artist’s hatred of the railroad. Wallach argues that the 1843 painting represents a critique of development, contending that the man with the axe and the dramatic “tree massacre” in the foreground foreshadow the cleared land and railroad depicted across the river. Seen in this light, Cole’s example reinforces the interpretation of Brady’s photographs at Culp’s Hill as antipastoral images.<sup>22</sup>
+            <fig id="fg9" position="float" fig-type="figure">
+               <label>8.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Thomas Cole, <italic>River in the Catskills</italic>, 1843. Oil on canvas, 27 ½ × 40 ⅜ in. Museum of Fine Arts, Boston, Gift of Martha C. Karolik for the M. and M. Karolik Collection of American Paintings, 1815–1865. Photograph © 2012 Museum of Fine Arts, Boston</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg9.tiff"/>
+            </fig>
+         </p>
+         <p>The best-known antebellum artwork depicting a field of tree stumps is George Inness’s <italic>The Lackawanna Valley</italic> (fig. 9). Art historians have debated the symbolic role of the stumps that dominate the painting’s foreground and middle ground for years.<sup>23</sup> Does Inness’s painting valorize or lament the clearing of trees to make way for the railroad, or does it do both? The tension inherent in <italic>The Lackawanna Valley</italic> makes it a pointed comparison for the <italic>Wounded Trees</italic> stereograph. Both images feature a solitary, reclining figure amid a landscape filled with human-altered trees. The differences between them are more striking than their similarities, however. The reclining figure in Inness’s painting does not exhibit the vulnerable pose of the man in the stereograph, notwithstanding his small scale. Instead, he plays the role of attentive witness, another romantic trope, becoming a model for the viewer of the painting by surveying the scene. Nor does he appear as a defenseless victim. In fact, a plausible reading would be that his relaxed pose lying amid the tree stumps signifies his satisfaction at seeing the transformed landscape.<sup>24</sup>
+            <fig id="fg10" position="float" fig-type="figure">
+               <label>9.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>George Inness, <italic>The Lackawanna Valley</italic>, ca. 1856. Oil on canvas, 33 ⅞ × 50 3/16 in. National Gallery of Art, Washington, Gift of Mrs. Huttleston Rogers. Image courtesy of the National Gallery of Art, Washington</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg10.tiff"/>
+            </fig>
+         </p>
+         <p>Unlike Inness’s painting, neither Brady’s stereograph nor its attached caption invites a reading of the trees’ alteration as positive. The status of the figure may be ambiguous, but the violence to the trees is not. The sympathetic identification between human and nonhuman is intensified in the photograph in a way that exceeds the relationship in <italic>The Lackawanna Valley</italic>. What is shocking in the stereograph is the realization that the battle has subdued trees and man equally; the human figure has no special status. This serves as another example of the ways in which Brady adjusted the conventions of romanticism.</p>
+         <p>In the end, Brady harnessed the ability of the landscape genre, and trees in particular, to represent a continuum of time—past, present, and future. Through their associations with cycles of death and rebirth, representations of nature exist in time. Some landscape images even communicate duration through their compositional structure, establishing a sequence of receding planes that also allude to the passage of time. Like romantic landscapes, the <italic>Wounded Trees</italic> stereograph links the history of nonhuman nature intimately with that of humans. It points directly to the shared vulnerability of all organic life, and the disruption to the continuity between current and future generations caused by wounding and premature death.</p>
+      </sec>
+      <sec id="sc3">
+         <title>Postwar Trees/Bodies at Gettysburg: Two-Dimensional Examples</title>
+         <p>Visual connections between human and tree casualties continued to be drawn in representations of Gettysburg made after the Civil War, revealing that such links resonated for late nineteenth-century viewers. Examples can be found in a variety of media, including prints, photographs, and sculptural monuments. A representative print example is a wood engraving that appeared in <italic>Frank Leslie’s Illustrated Newspaper</italic> in the summer of 1869 (fig. 10). It depicts tourists visiting Culp’s Hill and notes the still-visible effects of the battle, including what remained of the Union breastworks.<sup>25</sup> As in the <italic>Wounded Trees</italic> stereograph, the artist drew parallels between the wounded veteran, at right, who acts as a guide for a group of visitors, and the scarred trees that populate the area. The veteran’s wounds—he has clearly lost part of his left leg—and the toppled and pockmarked trees echo and reinforce each other.<sup>26</sup> The engraving depicts Culp’s Hill as a place of almost sacred wonder. A tourist in the middle distance reaches up to touch one of the “battle wounds” of a tree, making physical contact part of the experience of the site. In addition, the solemnity and downcast eyes of the women surrounding the veteran emphasize the reverence and respect due to the site and to the guide who presumably participated in the battle. The print suggests that the veteran and the trees, by virtue of their wounds, still have lessons to impart to visitors.<fig id="fg11" position="float" fig-type="figure">
+               <label>10.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>
+                     <italic>Culp’s Hill, Battle-Ground of Gettysburg, on the Extreme Right of the Federal Line</italic>. Wood engraving. From <italic>Frank Leslie’s Illustrated Newspaper</italic>, July 24, 1869, 297. Photo, Courtesy of The Newberry Library, Chicago</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg11.tiff"/>
+            </fig>
+         </p>
+         <p>Photographers made images of Culp’s Hill through the turn of the century. Although showing human-inflicted destruction to the woods, many of these images have no human subjects. The damaged trees alone are deemed capable of symbolizing the long-term impact of the war. One such example is a stereograph titled <italic>Battle-field of Gettysburg—Effect of Union Shot and Shell on the Trees on Culp’s Hill</italic> (fig. 11), taken by the Gettysburg photographer C. J. Tyson. Tyson catered to the tourist trade at the battlefield, and his firm created many dramatic photographs of the destruction at Culp’s Hill.<sup>27</sup> Following the early example of Brady, Tyson made manifest the power of the battle fire. He cropped the image so that the felled tree spans its width. Only fragments of inner and outer bark maintain the tenuous connection between the stump and the trunk, which appears to rest on a large boulder. The surface of the tree trunk shows further evidence of artillery damage. The horizontal orientation of the fallen tree contrasts with the vertical lines of the trees in the background. As with Brady’s photograph of the blasted stump, Tyson’s focus on a single felled tree embodying the violence of the battle calls to mind individual human casualties.<fig id="fg12" position="float" fig-type="figure">
+               <label>11.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Tipton &amp; Myers, publishers, <italic>Battle-field of Gettysburg–Effect of Union Shot and Shell on the Trees on Culp’s Hill</italic>, 1868–80, from a stereograph by C. J. Tyson. Library of Congress, Prints and Photographs Division, LC-USZ62–117889</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg12.tiff"/>
+            </fig>
+         </p>
+         <p>The Detroit Publishing Company issued a photograph in about 1903 whose title, <italic>Battle-scarred Veteran</italic> (fig. 12), posits the equivalence of human and nonhuman survivors of the battle. Pictured forty years after the event occurred, the tree has outlasted many of its human counterparts. Framed so as to appear in the center of the photograph, the gouges, pockmarks, and deep grooves in the tree’s trunk emphasize its singularity. Cole’s comment about the variety of humans and trees that results from being subjected to stress seems relevant here. With its “striking peculiarities,” this tree, and many others that survived the battle at Gettysburg, would have been “in exposed situations … battling with the elements and with one another for the possession of a morsel of soil.” The circumstances of war created the conditions for trees to become individual but also for them to be damaged. Photographed during a period in which there was renewed interest in defining the legacy of the Civil War, <italic>Battle-scarred Veteran</italic> accords respect to a tree made venerable by the battle.<fig id="fg13" position="float" fig-type="figure">
+               <label>12.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Detroit Publishing Company, <italic>Battle-scarred Veteran</italic>, ca. 1903. Dry plate negative. Library of Congress, Prints and Photographs Division, Detroit Publishing Company Collection, Gift of State Historical Society of Colorado, LC-D4–16617</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg13.tiff"/>
+            </fig>
+         </p>
+         <p>A third postwar photograph from Gettysburg (not of Culp’s Hill) documents another variation of the persistent relationship between trees and human war casualties (fig. 13). This work depicts a tree to which a hand-lettered sign has been attached. The text indicates that John F. Reynolds, a Union general, was killed at this site on the first day of battle. This image documents a practice undertaken at many battlegrounds, wherein a tree identifies the place where a high-ranking Union officer was wounded or died. In this instance, the tree assumes the traditional role of a geographic marker. It thus serves a utilitarian purpose, yet its function as the placeholder for a notable, if absent, body also evokes broader associations of trees with humans. Both the sign, thought to have been erected in the 1880s, and the photograph ensure that this connection remains visible.<sup>28</sup>
+            <fig id="fg14" position="float" fig-type="figure">
+               <label>13.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>
+                     <italic>Place Where Gen. Reynolds Was Killed</italic>, 1880s. Glass negative. Library of Congress, Prints and Photographs Division, LC-DIG-cwpb-03524</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg14.tiff"/>
+            </fig>
+         </p>
+      </sec>
+      <sec id="sc4">
+         <title>Postwar Trees/Bodies at Gettysburg: Three-dimensional Examples</title>
+         <p>Union veterans who approved designs for postwar regimental monuments erected at Gettysburg also embraced the connections between trees and humans. Four monuments in particular honor regimental veterans and casualties through the image of a truncated tree, a traditional symbol of premature death.<sup>29</sup> These memorials parallel the romantic tradition of anthropomorphism in that they treat trees as if they were human bodies. The translation of tree/bodies into the material of granite reveals a desire to ensure permanent commemoration of the shared fates of human and tree casualties.</p>
+         <p>One example, dedicated to the 102nd Pennsylvania Infantry in 1889 (fig. 14), was erected in an area between the Union and Confederate lines, north of the so-called Valley of Death. The sculptor signaled the tree’s resemblance to a human body by “dressing” it with a number of objects, including a cap placed at the top of the trunk. Items that were part of an average soldier’s equipment, such as a canteen, belt, rifle, and cartridge box, join more symbolic objects including a laurel wreath and flag. The sculptural arrangement recalls the ancient Roman trophaeum (<italic>tropaion</italic> in Greek), a victory trophy in the form of a tree trunk or vertical post hung with the helmet, battle dress, and arms of the enemy. Similar to the trophaeum, the 102nd Pennsylvania monument links a soldier’s upright body and a tree, although the monument is a tribute to a fallen regimental soldier rather than the symbol of a defeated foe. The monument’s sympathetic use of accumulated objects to conjure the body of a Union soldier can also be found in contemporary still-life paintings, including Alexander Pope’s <italic>Emblems of the Civil War</italic> (fig. 15), which served as a memorial to a specific Union general. Many of the same items present in the granite monuments—canteen, cartridge box, rifle, flag, cape—are depicted with a high degree of illusion in Pope’s oil painting. Yet, unlike the trophy-like organization of the painting, the monument to the 102nd Pennsylvania uses the verticality of the tree trunk to evoke a human body. For a physical marker on the battlefield, the monument draws on the actual presence and long-standing symbolic associations of trees. However, the material of the monument—stone—defies the life span of both trees and men.<sup>30</sup>
+            <fig id="fg15" position="float" fig-type="figure">
+               <label>14.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>H. Oursler &amp; Sons, <italic>102nd Pennsylvania Infantry Monument</italic>, 1889, Gettysburg National Military Park. Granite, with bronze adornment, 5 ft. 1 in. sq. (base); 4 ft. 2 in. sq. (die); 8 ft. high (shaft). Photo, Mark Vitha</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg15.tiff"/>
+            </fig>
+            <fig id="fg16" position="float" fig-type="figure">
+               <label>15.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Alexander Pope, <italic>Emblems of the Civil War</italic>, 1888. Oil on canvas, 51⅛ × 54 3/16 in. Brooklyn Museum, Dick S. Ramsay Fund, Governing Committee of the Brooklyn Museum, and Anonymous Donors</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg16.tiff"/>
+            </fig>
+         </p>
+         <p>A second example, located north of the battlefield area known as Little Round Top, also depicts a partial tree trunk carved in the round, complete with severed branches. This work commemorates the 37th Massachusetts Infantry (fig. 16). Life-size objects that would have accompanied a soldier in battle are carved in relief as if they were propped against the tree trunk or draped over the stumps of the branches. A pamphlet published at the time of its dedication in 1886 enumerates the Massachusetts monument’s iconographic elements: “The shaft represents the trunk of a tree, against which lean a brace of muskets and a stand of colors, the folds of the flag enwrapping a portion of the trunk, while from a branch hangs a knapsack; the whole finely chiseled from a single block of granite.”<sup>31</sup> For a postwar audience, the resemblance between the severed branches and the limbs lost by soldiers would have been palpable.<fig id="fg17" position="float" fig-type="figure">
+               <label>16.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Milles and Luce, <italic>37th Massachusetts Infantry Monument</italic>, 1886, Gettysburg National Military Park. Granite, 4 ft. sq. (base); 2 ft. 2 in. sq. (die); 9 ft. high (shaft). Photo, Mark Vitha</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg17.tiff"/>
+            </fig>
+         </p>
+         <p>Other regimental monuments at Gettysburg are similar to the Brady stereograph in that they show humans and trees in counterpoint rather than fused. The monument to the 13th New Jersey Infantry (fig. 17), designed by survivors and dedicated in 1887, has an illusionistic relief of a soldier kneeling in a wooded area, his rifle drawn.<sup>32</sup> The care given to the depiction of the trees signals their importance within the regiment’s memories of the battle. The monument’s location in a wooded area connects the visitor’s experience of viewing the sculpture to that of the soldiers on the field at the time of the battle. The irregular top edge of the monument adds to the visual effect by blurring the distinction between carved and actual trees. Similarly, the monument to the 1st Eastern Shore Maryland Infantry (fig. 18), designed by Frederick and Field, depicts an infantryman holding a fortified position. This life-size figure lies behind a boulder with his rifle poised, alluding to the regiment’s role in relieving the portion of the Union line held by the 111th Pennsylvania at a critical point in the battle for Culp’s Hill. A veteran of the Maryland regiment recalled the horrors of the day: “Had our appearance been delayed 15 minutes, the weak line we relieved, exhausted, could not have withstood the charge. … The ground in front and rear was strewn with corpses. … Leaves and twigs fell from the trees in showers.”<sup>33</sup> The monument distills the woods into one symbolic reference, the miniaturized tree stump in the lower right, just as the star at the upper right represents the 12th Union Corps to which the regiment belonged.<fig id="fg18" position="float" fig-type="figure">
+               <label>17.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Smith Granite Company, <italic>13th New Jersey Infantry Monument</italic>, 1887, Gettysburg National Military Park. Granite, 5 ft. 10 in. × 3 ft. 4 in. (base); 12 ft. 8 in. high (shaft). Photo, Mark Vitha</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg18.tiff"/>
+            </fig>
+            <fig id="fg19" position="float" fig-type="figure">
+               <label>18.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Frederick and Field, <italic>1st Eastern Shore Maryland Infantry Monument</italic>, 1888, Gettysburg National Military Park. Granite, 7 ft. 8 in. × 2 ft. (base); 5 ft. high (shaft). Photo, Mark Vitha</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg19.tiff"/>
+            </fig>
+         </p>
+         <p>The accumulated evidence of these monuments suggests that soldiers participating in the battle found symbolic force in the associations of trees and bodies and thought that others would do the same. The war iconography that Brady helped to create in the immediate aftermath of the battle had lasting explanatory power. It served as a bridge between the tradition of romantic landscape painting and the commemorative tree monuments of the late nineteenth century.</p>
+      </sec>
+      <sec id="sc5">
+         <title>Conclusion</title>
+         <p>Recent events show that the motif of the wounded tree still has significance at Gettysburg. A news item from the summer of 2011, posted on the Gettysburg National Military Park’s website, reported the discovery of bullets embedded in a fallen oak tree on Culp’s Hill.<sup>34</sup> When a park crew began to cut up the tree, they found conical bullets known as Minie balls, standard ammunition for Civil War rifles, and determined that the tree had been standing at the time of the battle. After the Minie balls were removed, the park museum added two sections of the tree to its collections (fig. 19). A number of these so-called Witness Trees, living trees that predate the battle, still stand at Gettysburg; their assigned title plays once again on the relationship between humans and trees. Unlike trees that died as a result of the battle, the Witness Trees offer cultural memories of Gettysburg in the absence of living veterans. In keeping with the traditional symbolism of trees, these living “witnesses” connote continuity. They are monitored closely by park officials and honored for providing a connection to the events of 1863. Such trees also suggest the permanently transformative effect of the battle on the Gettysburg landscape. Because of the legacy of Brady’s stereograph and other images like it, a fallen tree at Gettysburg can still evoke the violence and magnitude of the battle, calling to mind the soldiers who were wounded and died there.<fig id="fg20" position="float" fig-type="figure">
+               <label>19.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Section of Witness Tree recovered from Culp’s Hill, Gettysburg, 2011, with embedded Minie ball. Photo, Gettysburg National Military Park</p>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="fg20.tiff"/>
+            </fig>
+         </p>
+         <p>Although not singular in its iconography, Brady’s <italic>Wounded Trees at Gettysburg</italic> is a particularly cogent articulation of the struggle of nineteenth-century Americans to grapple with the unfolding events of the Civil War and to gauge their significance. The stereograph drew on the emerging cultural status of photographs as firsthand documents at the same time that it offered manipulations of long-standing visual symbolism. Its focus on the equivalence of tree and human battle casualties revived the romantic tradition of an embodied landscape while provocatively leveling the human/nonhuman divide. Depending on an association of trees with longevity, the image also predicted a long-term reckoning with the damage done to future generations of humans and nature by the war. This reckoning played out in the subsequent commemorative landscape at Gettysburg, which continues in the twenty-first century to draw on the metaphoric power of wounded trees.</p>
+      </sec>
+   </body>

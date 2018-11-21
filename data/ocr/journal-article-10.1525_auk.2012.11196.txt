@@ -1,0 +1,529 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink">
+      <sec id="s1">
+         <p>T<sc>he periodic inundation</sc> of shoreline habitat by high water levels (hereafter “flooding” ) along rivers and lakes scours shorelines of vegetation and creates preferred nesting substrates for many waterbirds, including Piping Plovers (<italic>Charadrius melodus</italic>) and Least Terns (<italic>Sterna antillarum athalasso</italic>) (Sidle et al. 1992). However, flooding of unvegetated shoreline habitat during the breeding season can reduce reproductive success by drowning nests and young (North 1986, Schwalbach 1988, Dirks 1990, Sidle et al. 1992, Espie et al. 1998). Because wide beaches are associated with increased reproductive success in Piping Plovers (Gaines and Ryan 1988, Harris et al. 2005), reductions in beach width because of high water levels may reduce breeding success even if nests are not directly flooded. This may lead to decreases in the number of nesting pairs through time if birds disperse elsewhere in response to lowered prospects of breeding success (Paton and Edwards 1996, Haig et al. 1998, Rioux et al. 2011). Although birds nesting in flood-prone environments presumably evolved behavior to function within this highly dynamic system, anthropogenic floods and decreased availability of nesting habitat may present these species with novel conditions that they are ill-equipped to handle. If flooding causes increased abandonment of traditional nesting habitat by breeding adults, and if the distribution of habitat is limited compared with historical patterns, it could affect the long-term viability of populations in these breeding areas (Sæther and Bakke 2000). Here, we examine whether flooding and reproductive success are associated with changes in breeding dispersal among three breeding areas of Piping Plovers in Saskatchewan.</p>
+         <p>Despite substantial efforts toward mitigating the effect of water management on the reproductive success of Piping Plovers (U.S. Fish and Wildlife Service [USFWS] 2003, White 2005, Catlin et al. 2011), there has been little work to determine the influence of flooding on breeding-area fidelity. Given that Piping Plovers seem to preferentially nest at lower elevations that place their nests at risk of inundation (Anteau et al. 2012) and that high water levels are known to decrease reproductive success in Piping Plovers (Sidle et al. 1992, Espie et al. 1998), we believe that flooding may also affect their population dynamics by inducing breeding dispersal from areas where flood-related reproductive failure has occurred (Renken and Smith 1995, Haig et al. 1998, Sæther and Bakke 2000). There is ample evidence that unsuccessful nesters are more likely to disperse to new breeding areas (Greenwood and Harvey 1982, Haas 1998, Rioux et al. 2011) and that birds respond not only to their own reproductive success but also to that of conspecifics (Brown et al. 2000, Boulinier et al. 2008, Redmond et al. 2009, Rioux et al. 2011). However, dispersal into unfamiliar habitats can also be a gamble because it may result in lowered reproduction (Pärt 1991) or survival (Yoder et. al 2004, Brown et al. 2008). Thus far, the consequences of breeding dispersal on population dynamics have not been extensively studied (but see Drake and Alisauskas 2004, Devlin et al. 2008).</p>
+         <p>Lake Diefenbaker, Big Quill Lake, and the Missouri Coteau (Fig. 1) support &gt;60% of all Piping Plovers breeding in Saskatchewan (Haig et al. 2005, Elliot-Smith et al. 2009). Piping Plovers are capable of considerable within- and between-year dispersal, which suggests that they may seek new nesting habitat when necessary (Haig and Oring 1988a). However, although some unoccupied nesting habitat is available, it has significantly decreased over the past 100 years; 40% of wetlands in Saskatchewan have been drained, and in some areas up to 90% of wetlands have been lost for wildlife use (Environment Canada 1986, Saskatchewan Watershed Authority 2002, Watmough and Schmoll 2007). Although historical information on habitat use by Saskatchewan Piping Plovers is extremely sparse, they currently nest at both alkali and freshwater wetlands.</p>
+         <fig position="float" id="F1">
+            <label>Fig. 1.</label>
+            <caption>
+               <p>Map of the three Piping Plover breeding-population study areas in Saskatchewan: Lake Diefenbaker, Big Quill Lake, and the Missouri Coteau (composed of Chaplin Lake and multiple small alkali wetlands in the Coteau).</p>
+            </caption>
+            <graphic xlink:href="auk.2012.11196-f01.tif"/>
+         </fig>
+         <p>Many Saskatchewan wetlands are susceptible to high intra-annual fluctuations in water levels. However, some Piping Plover nesting sites have water-control structures for the benefit of human use (e.g., hydroelectric power or mining). In the case of Lake Diefenbaker, the lake itself is a relatively recent manmade creation (Goossen et al. 2011). In such reservoirs, although water levels in early spring are typically low enough to expose suitable nesting habitat and attract nesting shorebirds, human-induced floods routinely occur during the breeding season (i.e., June) when the reservoir is allowed to fill from snow runoff and summer precipitation, often causing widespread reproductive failure. This situation is not unique to Saskatchewan. The U.S. Missouri and Platte rivers experience similar dynamics and host breeding Piping Plovers (USFWS 2009, Catlin et al. 2010). A better understanding of the frequency of breeding dispersal in Piping Plovers, and of the factors involved, will help guide management of this species, particularly at locations where flooding is under human control. Our objectives were to (1) estimate the between-year movement (i.e., likelihood of breeding-season dispersal) of after-hatch-year (AHY) Piping Plovers among three breeding areas (within-year movement among areas was very rare), (2) determine whether breeding dispersal differed by sex and with variation in reproductive success, and (3) assess the role of flooding on breeding dispersal.</p>
+      </sec>
+      <sec id="s2" sec-type="methods">
+         <title>Methods</title>
+         <sec id="s2a">
+            <title>Study Area</title>
+            <p>Piping Plovers were banded and resighted during 2002–2009 at three breeding areas in Saskatchewan: Lake Diefenbaker, the Missouri Coteau, and Big Quill Lake (Fig. 1). Lake Diefenbaker (50˚43΄N, 107˚30΄W) is a 43,000-ha reservoir on the South Saskatchewan and Qu'Appelle rivers that is used for hydroelectricity generation, irrigation, municipal water supplies, recreation, flood control, and wildlife habitat (Espie et al. 1998). Water levels fluctuate markedly (3–9 m year<sup>–1</sup>) because of spring runoff from the Rocky Mountains and rainstorms in Alberta. Nesting beaches were flooded during the summers of 2002, 2005, 2006, 2007, and 2008, but Piping Plover breeding habitat was always available in the spring of a year following a flood year.</p>
+            <p>Chaplin Lake is a large (11,777-ha) alkali wetland (50˚22΄N, 106˚36΄W) located ~80 km south of Lake Diefenbaker. This lake is used for the commercial extraction of sodium sulfate and brine shrimp (<italic>Artemia franciscana</italic>) and is an important staging and breeding area for shorebirds (Schmutz 2003). Chaplin Lake, along with 15 relatively small alkali wetlands (30 to 3,000 ha in size), is in the Missouri Coteau (44˚44΄N, 105˚23΄W) in southern Saskatchewan. Most of the smaller coteau wetlands were located within a 600-km<sup>2</sup> area centered around Ormiston, Saskatchewan (for a description of these wetlands, see Gratto-Trevor et al. 2010, Roche et al. 2010). Water levels were highly variable within and between years in these shallow wetlands, depending on spring runoff and summer precipitation.</p>
+            <p>Big Quill Lake is a 30,700-ha alkali wetland (51˚55΄N, 104˚22΄W) (Harris et al. 2005). Our study area there consisted of the areas of the lake where Piping Plovers nested most densely (W. Harris unpubl. data): a 10-km-long section on the west side of the lake and a 7.5-km section on the east side of the lake. Between 2003 and 2006 (before water levels increased markedly and unvegetated shoreline habitat was flooded), the entire lake was searched for marked birds once a year. During this study, from 2002 through 2005, beach width (potential breeding habitat) was ~1,000 m. Lake levels began to rise from local spring runoff and precipitation in 2006, and by the middle of the 2007 breeding season the lake was completely full, which made beach nesting impossible. As of 2011, water levels were still at a more than 50-year high (Environment Canada; see Acknowledgments), and no nesting beaches have been available to Piping Plovers since midsummer 2007.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>Field Methods</title>
+         <p>At each area from 2002 through 2006, we captured incubating adult Piping Plovers with modified bow-net traps (Gratto-Trevor 2004). Birds were marked with a unique band combination, including a white (2002–2003) or black (2004–2006) flag (band with a tab protruding slightly from the leg) and a federal band on an upper leg, and three ultraviolet-stable color bands on the lower legs. Sex was determined for each bird with 98% accuracy by using a combination of territorial, courtship, and copulation behavior, plumage and bill coloration, and vent measurement (Elliott-Smith and Haig 2004, Gratto-Trevor et al. 2010). During 2002–2009, study areas were visited one to two times per week from early May through the end of July to resight marked birds.</p>
+         <p>At Big Quill during 2002–2006, we searched for nests and chicks from early June through July and checked nests at least once a week for success or failure. In 2007, we conducted only three surveys, aimed at resighting marked adults and counting chicks and fledglings. By the end of 2007, there was no breeding habitat available at Big Quill because the lake extended &gt;1 km into surrounding pastures. Water levels were even higher the following spring and no breeding habitat was available, so we did not survey this area in 2008–2009. Big Quill Lake was the only area where flooding and high water levels persisted into the spring and summer of the following year and thus eliminated potential nesting habitat throughout the year. In the Missouri Coteau, we searched for nests, chicks, and individually marked birds from early June through July of 2002–2006 and visited nests or broods at least once a week to measure nesting and fledging success. In 2007–2009, as at Big Quill Lake, we switched to one to three surveys per season to look for marked birds and count numbers of fledged young. At Lake Diefenbaker, we searched for nests and chicks from early June through July, and monitored nests at least once a week for success or failure from 2002 to 2009. Most nests were protected with predator exclosures to decrease depredation of eggs. In flood years, we attempted to move most nests that were at risk of flooding to higher ground (Table 1); nest translocation had no effect on subsequent breeding-area movement (χ<sup>2</sup> = 0.52, df = 1, <italic>P</italic> = 0.47).</p>
+         <table-wrap id="T1" position="float">
+            <label>Table 1.</label>
+            <caption>
+               <p>Total number of Piping Plover nests initiated, flooded, and moved in three Saskatchewan breeding areas. Piping Plover nests at risk of flooding were moved (translocated) out of reach of high water levels at Lake Diefenbaker. Nest searching was not conducted at Big Quill Lake and the Missouri Coteau after 2006.</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th align="left">Location</th>
+                     <th align="left">Year</th>
+                     <th align="left">Total nests</th>
+                     <th align="left">Number flooded</th>
+                     <th align="left">Percentage flooded</th>
+                     <th align="left">Number moved</th>
+                  </tr>
+               </thead>
+               <tbody align="left">
+                  <tr>
+                     <td>Lake Diefenbaker</td>
+                     <td>2002</td>
+                     <td>139</td>
+                     <td>49</td>
+                     <td>35</td>
+                     <td>12</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2003</td>
+                     <td>95</td>
+                     <td>8</td>
+                     <td>8</td>
+                     <td>22</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2004</td>
+                     <td>100</td>
+                     <td>2</td>
+                     <td>2</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2005</td>
+                     <td>150</td>
+                     <td>90</td>
+                     <td>60</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2006</td>
+                     <td>104</td>
+                     <td>4</td>
+                     <td>4</td>
+                     <td>30</td>
+                  </tr>
+
+                  <tr>
+                     <td/>
+                     <td>2007</td>
+                     <td>97</td>
+                     <td>8</td>
+                     <td>8</td>
+                     <td>55</td>
+                  </tr>
+
+                  <tr>
+                     <td/>
+                     <td>2008</td>
+                     <td>95</td>
+                     <td>17</td>
+                     <td>18</td>
+                     <td>50</td>
+                  </tr>
+
+                  <tr>
+                     <td>Big Quill Lake</td>
+                     <td>2002</td>
+                     <td>30</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>—</td>
+                  </tr>
+
+                  <tr>
+                     <td/>
+                     <td>2003</td>
+                     <td>33</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>—</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2004</td>
+                     <td>43</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>—</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2005</td>
+                     <td>40</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>—</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2006</td>
+                     <td>39</td>
+                     <td>2</td>
+                     <td>5</td>
+                     <td>—</td>
+                  </tr>
+                  <tr>
+                     <td>Missouri Coteau</td>
+                     <td>2002</td>
+                     <td>55</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>—</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2003</td>
+                     <td>66</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>—</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2004</td>
+                     <td>57</td>
+                     <td>2</td>
+                     <td>4</td>
+                     <td>—</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2005</td>
+                     <td>54</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>—</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>2006</td>
+                     <td>56</td>
+                     <td>2</td>
+                     <td>4</td>
+                     <td>—</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="s4">
+         <title>Statistical Analysis</title>
+         <p>
+            <italic>Estimation of movement probabilities</italic>.—Our principal objective was to estimate the probability of breeding dispersal by breeding adult Piping Plovers among the Saskatchewan breeding areas in relation to sex, flooding, and reproductive success. Only three Piping Plovers were observed nesting at more than one breeding area in a given year, and we assigned those Piping Plovers to the breeding area at which they were originally observed nesting that year. We used mark–recapture data collected during 2002–2009 and a multistate recaptures-only model in Program MARK (White and Burnham 1999) to estimate movement probabilities among Big Quill Lake, Lake Diefenbaker, and the Missouri Coteau. Of 782 adult Piping Plovers used in this analysis, 241 were originally marked at Big Quill Lake, 330 at Lake Diefenbaker, and 211 in the Missouri Coteau. We considered Piping Plovers banded and resighted at Chaplin Lake as part of the Missouri Coteau because data were insufficient to justify a separate population (for sample sizes by location, see Table 2).</p>
+         <table-wrap id="T2" position="float">
+            <label>Table 2.</label>
+            <caption>
+               <p>Movement among breeding areas for 782 individually marked Piping Plovers in Saskatchewan, 2002–2009. The category “Origin”  designates the population from which an individual Piping Plover emigrated, and “Destination”  the population it immigrated to (e.g., there were 364 cases in which a Piping Plover “moved”  between Big Quill Lake and Big Quill Lake, and 10 in which a Piping Plover moved between Big Quill Lake and Lake Diefenbaker). Each integer value represents the number of interannual movements that occurred between two areas; values in parentheses represent the percentage of total interannual movements per transition.</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th/>
+                     <th colspan="4" align="center">Origin</th>
+                  </tr>
+                  <tr>
+                     <th align="left">Destination</th>
+                     <th align="left">Big Quill Lake</th>
+                     <th align="left">Chaplin Lake</th>
+                     <th align="left">Missouri Coteau</th>
+                     <th align="left">Lake Diefenbaker</th>
+                  </tr>
+               </thead>
+               <tbody align="left">
+                  <tr>
+                     <td>Big Quill Lake</td>
+                     <td>364 (95%)</td>
+                     <td>2 (1%)</td>
+                     <td>2 (0.5%)</td>
+                     <td>8 (1%)</td>
+                  </tr>
+                  <tr>
+                     <td>Chaplin Lake</td>
+                     <td>6 (2%)</td>
+                     <td>140 (84%)</td>
+                     <td>6 (1%)</td>
+                     <td>57 (8%)</td>
+                  </tr>
+                  <tr>
+                     <td>Missouri Coteau</td>
+                     <td>2 (1%)</td>
+                     <td>2 (1%)</td>
+                     <td>398 (98%)</td>
+                     <td>8 (1%)</td>
+                  </tr>
+                  <tr>
+                     <td>Lake Diefenbaker</td>
+                     <td>10 (3%)</td>
+                     <td>22 (13%)</td>
+                     <td>2 (0.5%)</td>
+                     <td>651 (90%)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Multistate models allow animals to move between states with transition probabilities (hereafter “movement”  probabilities, ψ), conditional on survival (<italic>S</italic>) and adjusted for detection probability (<italic>p</italic>) (Hestbeck et al. 1991, Brownie et al. 1993). Multistate models are an extension of Cormack-Jolly-Seber (CJS) models in which “apparent survival”  is decomposed into its dual components: (1) the probability that an animal survives from time <italic>t</italic> to time <italic>t</italic> + 1, given that it is in state <italic>r</italic> at time <italic>t</italic>; and (2) the conditional probability that an animal in stratum <italic>r</italic> at time <italic>t</italic> is in stratum <italic>s</italic> (i.e., the animal has moved to a new stratum) at time <italic>t</italic> + 1, given that the animal is still alive at time <italic>t</italic> + 1. As with CJS models, mortality and permanent emigration (in this case from the monitored state) are confounded, but between-state emigration is accounted for. In addition to standard CJS assumptions (Lebreton et al. 1992), multistate models assume that annual mortality occurs prior to movement (ψ) and that all individuals move at the same time (herein we assume that movement occurs when individuals select breeding areas in May, and that negligible mortality occurs between breeding dispersal and re-observation of Piping Plovers on the breeding grounds). As noted above, within-season movement among areas was negligible.</p>
+         <p>We created individual and annual covariates to assess the influence of sex, individual fledging success, and spring floods on movement of AHY Piping Plovers among the three breeding areas. We assigned a covariate (sex; male = 0, female = 1) to each Piping Plover. In addition, we assigned to each an annually varying covariate (fledge) based on the number of chicks it fledged that year. Only 8% (162/1,995) of movement-year data had missing values for fledging success, and most “missing values”  consisted of years before individuals had been marked or after they went missing. Mean fledging success, calculated over all years, was used when individual reproductive values were missing (Cooch and White 2011).</p>
+         <p>Floods typically occurred during June, after most nests had been initiated, so we hypothesized that flooding would cause Piping Plovers to move in the subsequent year. We used a dummy variable (flood) to classify years as flood years if there was, at some point during the breeding season, limited or no nesting–brood habitat at the study area (e.g., flooding during 2002 would potentially influence movement probabilities between the 2002 and 2003 nesting seasons). For Big Quill Lake, this flooding index was assessed at the beginning of the nesting season; during 2007–2009, lake levels were high enough to inundate all suitable nesting beaches. For Lake Diefenbaker, flooding was assessed on the basis of hydrological records of water-level increases during May–July (Table 3). For each population, we standardized flooding index values (mean = 0, SD ± 1) and used these values (values &gt;0) to designate flood years (Table 3). We created a categorical covariate in MARK and classified the years of our study period as either “flood”  (1) years or “nonflood”  (0) years, based on water level (Big Quill Lake; Environment Canada), changes in water level over the breeding season (Lake Diefenbaker), and raw spring pond counts (USFWS, Stratum 32, Missouri Coteau; see Acknowledgments). We used spring pond counts as an index of flooding in the Missouri Coteau because hydrological measurements are seldom taken at small Saskatchewan wetlands. Vegetation encroachment and variable water levels at the Lake Diefenbaker reservoir made change in water level during a breeding season (rather than actual water level) a better measure of flood risk.</p>
+         <table-wrap id="T3" position="float">
+            <label>Table 3.</label>
+            <caption>
+               <p>Flood years, fledging rates, and flood indices used to designate flood years for Piping Plover breeding areas in Saskatchewan, 2002–2008. At Big Quill Lake, the flood index was the Environment Canada water level (see Acknowledgments) at the beginning of the breeding season (1 May); at Lake Diefenbaker, the flood index was change in lake water level between the beginning (1 May) and end (1 July) of the breeding season (C. White pers. comm.); and in the Missouri Coteau (because hydrological measurements of small wetlands are not systematically collected), raw spring pond counts from the Waterfowl Breeding Survey (SK Missouri Coteau state) were used as an index of flooding events (see Acknowledgments). For each population, we standardized flooding index values (mean = 0, SD ± 1) and used these values (&gt;0) to designate flood years. Fledging rates are the mean number of chicks fledged per individual used in our mark–recapture analysis by state and year combination; we report the sample size in parentheses.</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th/>
+                     <th colspan="3" align="center">Big Quill Lake</th>
+                     <th colspan="3" align="center">Lake Diefenbaker</th>
+                     <th colspan="3" align="center">Missouri Coteau</th>
+                  </tr>
+                  <tr>
+                     <th align="left">Year</th>
+                     <th/>
+                     <th align="left">Fledge rate</th>
+                     <th align="left">Meters above sea level</th>
+                     <th/>
+                     <th align="left">Fledge rate</th>
+                     <th align="left">Change (m)</th>
+                     <th/>
+                     <th align="left">Fledge rate</th>
+                     <th align="left">Number of ponds</th>
+                  </tr>
+               </thead>
+               <tbody align="left">
+                  <tr>
+                     <td>2002</td>
+                     <td/>
+                     <td>1.30 (<italic>n</italic> = 54)</td>
+                     <td>514.1</td>
+                     <td>Flood</td>
+                     <td>0.17 (<italic>n</italic> = 104)</td>
+                     <td>4.6</td>
+                     <td/>
+                     <td>0.83 (<italic>n</italic> = 63)</td>
+                     <td>193,792</td>
+                  </tr>
+                  <tr>
+                     <td>2003</td>
+                     <td/>
+                     <td>1.71 (<italic>n</italic> = 82)</td>
+                     <td>514.3</td>
+                     <td/>
+                     <td>1.00 (<italic>n</italic> = 122)</td>
+                     <td>1.0</td>
+                     <td>Flood</td>
+                     <td>0.51 (<italic>n</italic> = 108)</td>
+                     <td>851,096</td>
+                  </tr>
+                  <tr>
+                     <td>2004</td>
+                     <td/>
+                     <td>0.47 (<italic>n</italic> = 106)</td>
+                     <td>514.0</td>
+                     <td/>
+                     <td>0.89 (<italic>n</italic> = 149)</td>
+                     <td>1.2</td>
+                     <td/>
+                     <td>0.57 (<italic>n</italic> = 135)</td>
+                     <td>372,215</td>
+                  </tr>
+                  <tr>
+                     <td>2005</td>
+                     <td/>
+                     <td>1.10 (<italic>n</italic> = 115)</td>
+                     <td>513.9</td>
+                     <td>Flood</td>
+                     <td>0.03 (<italic>n</italic> = 172)</td>
+                     <td>4.0</td>
+                     <td/>
+                     <td>0.55 (<italic>n</italic> = 132)</td>
+                     <td>550,857</td>
+                  </tr>
+                  <tr>
+                     <td>2006</td>
+                     <td>Flood</td>
+                     <td>0.25 (<italic>n</italic> = 128)</td>
+                     <td>515.1</td>
+                     <td>Flood</td>
+                     <td>0.37 (<italic>n</italic> = 131)</td>
+                     <td>2.8</td>
+                     <td/>
+                     <td>0.58 (<italic>n</italic> =110)</td>
+                     <td>636,964</td>
+                  </tr>
+                  <tr>
+                     <td>2007</td>
+                     <td>Flood</td>
+                     <td>0.30 (<italic>n</italic> = 20)</td>
+                     <td>516.3</td>
+                     <td>Flood</td>
+                     <td>0.17 (<italic>n</italic> = 77)</td>
+                     <td>3.1</td>
+                     <td/>
+                     <td>0.00 (<italic>n</italic> = 65)</td>
+                     <td>600,079</td>
+                  </tr>
+                  <tr>
+                     <td>2008</td>
+                     <td>Flood</td>
+                     <td>NA</td>
+                     <td>516.8</td>
+                     <td>Flood</td>
+                     <td>0.07 (<italic>n</italic> = 69)</td>
+                     <td>4.3</td>
+                     <td/>
+                     <td>0.00 (<italic>n</italic> = 46)</td>
+                     <td>251,415</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Our global model (Table 4, model 6) included 45 parameters: 18 survival rates, 18 detection rates, 6 movement rates, and 3 confounded estimates of final-period survival * final-period resighting rate (i.e., Фt – 1*pt; Lebreton et al. 1992). No parameters were constrained, but we did not interpret estimates from Big Quill Lake for 2007–2009 because flooding had eliminated nearly all breeding habitat. We estimated the amount of overdispersion (<italic>ĉ</italic> = 1.17) using the median <italic>ĉ</italic> method (Cooch and White 2011). Modeling all possible subsets of this complex model was not computationally feasible, especially after adding the covariates for effects of sex, reproduction, and flooding on movement. Because we were primarily interested in testing biological hypotheses in reference to movement probabilities, we first attempted to simplify models for <italic>S</italic> and <italic>p</italic> to obtain reduced-parameter, yet still biologically reasonable, representations of the survival and resighting processes (Lebreton et al. 1992). We accepted a simplified model as having greater support (i.e., more parsimonious) if QAIC<sub>c</sub> was reduced in relation to the more complex model. We then sought to identify reduced-parameter models for movement that provided greater support than the most complex model. We used the multinomial logit-link to estimate all movement probabilities.</p>
+         <table-wrap id="T4" position="float">
+            <label>Table 4.</label>
+            <caption>
+               <p>Set of models used to estimate apparent survival (<italic>S</italic>), detection (<italic>p</italic>), and movement probabilities (ψ) of 782 after-hatch-year Piping Plovers in Saskatchewan, 2002–2009 (effective sample size = 1,988). Parameters that have independent (i.e., factorial) relationships are joined by an asterisk; parameters that have parallel (additive) relationships are joined by a plus sign; “t”  specifies that survival–detection–movement varies by year, and a period indicates a time-constant model. The designation “g”  represents grouping by breeding population (BQL = Big Quill Lake, LD = Lake Diefenbaker, and MC = Missouri Coteau). Akaike's information criterion (AIC) values were corrected for small sample size and overdispersion (<italic>ĉ</italic> = 1.17), yielding quasi-AIC (QAIC<sub>c</sub>) values. DQAIC<sub>c</sub> values and model weights (<italic>w<sub>i</sub>
+                  </italic>) were used to rank best-supported models.</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th/>
+                     <th align="left">
+                        <italic>S</italic>
+                     </th>
+                     <th align="left">
+                        <italic>p</italic>
+                     </th>
+                     <th align="left">ψ</th>
+                     <th align="left">ΔQAIC<sub>c</sub>
+                     </th>
+                     <th align="left">
+                        <italic>w<sub>i</sub>
+                        </italic>
+                     </th>
+                     <th align="left">
+                        <italic>K</italic>
+                     </th>
+                     <th align="left">QDev</th>
+                  </tr>
+               </thead>
+               <tbody align="left">
+                  <tr>
+                     <td>1<sup>a</sup>
+                     </td>
+                     <td>g*t</td>
+                     <td>g*t + sex</td>
+                     <td>g. + sex + flood + fledge</td>
+                     <td>0.00</td>
+                     <td>0.50</td>
+                     <td>49</td>
+                     <td>3,266.41</td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td>g*t</td>
+                     <td>g*t + sex</td>
+                     <td>g. + sex + fledge</td>
+                     <td>0.01</td>
+                     <td>0.50</td>
+                     <td>48</td>
+                     <td>3,268.53</td>
+                  </tr>
+                  <tr>
+                     <td>3</td>
+                     <td>g*t</td>
+                     <td>g*t + sex</td>
+                     <td>g. + sex + flood</td>
+                     <td>12.72</td>
+                     <td>0.00</td>
+                     <td>47</td>
+                     <td>3,278.40</td>
+                  </tr>
+                  <tr>
+                     <td>4</td>
+                     <td>g*t</td>
+                     <td>g*t + sex</td>
+                     <td>g. + sex</td>
+                     <td>14.43</td>
+                     <td>0.00</td>
+                     <td>48</td>
+                     <td>3,283.34</td>
+                  </tr>
+                  <tr>
+                     <td>5</td>
+                     <td>g*t + sex</td>
+                     <td>g*t + sex</td>
+                     <td>g. + sex</td>
+                     <td>16.19</td>
+                     <td>0.00</td>
+                     <td>51</td>
+                     <td>3,282.95</td>
+                  </tr>
+                  <tr>
+                     <td>6</td>
+                     <td>g*t</td>
+                     <td>g*t</td>
+                     <td>g.</td>
+                     <td>42.89</td>
+                     <td>0.00</td>
+                     <td>45</td>
+                     <td>3,317.70</td>
+                  </tr>
+                  <tr>
+                     <td>7</td>
+                     <td>g.</td>
+                     <td>g*t</td>
+                     <td>g.</td>
+                     <td>54.29</td>
+                     <td>0.00</td>
+                     <td>30</td>
+                     <td>3,360.29</td>
+                  </tr>
+                  <tr>
+                     <td>8</td>
+                     <td>g*t</td>
+                     <td>g.</td>
+                     <td>g.</td>
+                     <td>105.52</td>
+                     <td>0.00</td>
+                     <td>30</td>
+                     <td>3,411.51</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <fn id="t4n1">
+                  <label>
+                     <sup>a</sup>
+                  </label>
+                  <p>QAIC<sub>c</sub> = 3,373.26.</p>
+               </fn>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>We fit models in which detection probability of each population (<italic>g</italic>) varied independently by year (p(g*t)) or remained constant throughout the study period (p(g.)). We fit models in which apparent survival probability of each population varied independently by year (ϕ(g*t)) or remained constant throughout the study period (ϕ(g.)). Because we have already explored sources of variation in detection and survival probabilities (Roche et al. 2010), our primary emphasis in this analysis was to obtain a parsimonious model structure for examining sources of variation in movement probabilities (Table 4, models 6–8).</p>
+         <p>We were primarily interested in investigating the effect of sex on movement probabilities, but we reasoned that sex could also potentially influence detection probability and survival rates. As a result, we added the “sex”  covariate to the <italic>S</italic>, <italic>p</italic>, and ψ parameters concurrently and chose to retain the sex covariate on a parameter only if there was a reduction in QAICc and if the 85% confidence intervals of the β estimates did not overlap zero (Table 4, models 4–5) (Arnold 2010).</p>
+         <p>After we identified simplified parameterizations for <italic>S</italic> and <italic>p</italic>, we built models to estimate the probability of movement among the three breeding areas in relation to flooding, fledging success, and sex. Covariates were modeled as having a linear additive effect over all areas and years (i.e., if females had greater movement probabilities than males, they would have greater movement probabilities in all areas and all years). Although this resulted in constant odds ratios, effect sizes varied among areas and years when they were back-transformed into estimates of movement probabilities. Following Arnold (2010), we included covariates in our model only if they led to reduced QAICc, and reported 85% confidence intervals for the β estimates. We first built separate models including the fledge and flood covariates in our parameterization for movement probability (Table 4, models 2–3). However, we reasoned that one mechanism by which flooding could induce movement would be through reduced reproductive success (i.e., this would be captured by the fledge covariate) and thus built a final model that estimated an effect of flood while controlling for reproductive success (Table 4, model 1).</p>
+      </sec>
+      <sec id="s5" sec-type="results">
+         <title>Results</title>
+         <p>Detection probabilities were high and generally constant on Lake Diefenbaker and in the Missouri Coteau through 2009, although they declined slightly through time at Lake Diefenbaker (Fig. 2A). However, intensive flooding beginning in 2006 eliminated nesting habitat for Piping Plovers at Big Quill Lake in the later years of the study, and detection probabilities declined strongly for this region. Sex affected detection probability: males were more likely to be detected (<italic>p</italic> = 0.88; 85% CI: 0.82–0.92) than females (<italic>p</italic> = 0.76; 85% CI: 0.66–0.87). Although many sites outside our three study areas were thoroughly searched by us and others, only 5% (30/542) of Piping Plovers were observed elsewhere during the breeding seasons of 2003–2009, including 8 resighted in the U.S. Great Plains, 7 in Alberta, and 15 elsewhere in Saskatchewan. As previously reported (Roche et al. 2010), survival of Piping Plovers breeding at Lake Diefenbaker, Big Quill Lake, and the Missouri Coteau varied annually (Fig. 2B), and we found no evidence for an effect of sex on apparent survival.</p>
+         <fig position="float" id="F2">
+            <label>Fig. 2.</label>
+            <caption>
+               <p>(A) Detection probability and (B) apparent survival for 782 after-hatch-year Piping Plovers breeding in Saskatchewan (2002–2009). Solid dark-gray line represents probabilities for Big Quill Lake; solid medium-gray lines represent probabilities for Lake Diefenbaker; and solid light-gray lines represent probabilities for the Missouri Coteau. Vertical lines represent the 85% confidence intervals for these estimates.</p>
+            </caption>
+            <graphic xlink:href="auk.2012.11196-f02.tif"/>
+         </fig>
+         <p>Most interannual movement of Piping Plovers occurred between Lake Diefenbaker and Lake Chaplin in the Missouri Coteau (Table 2), with more Piping Plovers moving from Lake Diefenbaker to the Missouri Coteau than the converse. Females were 2–3× more likely than males to disperse to a new breeding population between years, depending on the population they were emigrating from (β<sub>sex</sub> = 1.52; 85% CI: 0.84–2.20) (Fig. 3). Both sexes were 1.3–1.6× more likely to change breeding areas following flood years, depending on the population they were emigrating from (β<sub>flood</sub> = 0.39; 85% CI: 0.00–0.79) (Fig. 3). Plovers were ~3× more likely to emigrate from a breeding population following a year of poor fledging success (fledging no chicks), compared with a year of moderate fledging success (fledging two chicks) (β<sub>fledge</sub> = –0.77; 85% CI: –1.17 to –0.38) (Fig. 4).</p>
+         <fig position="float" id="F3">
+            <label>Fig. 3.</label>
+            <caption>
+               <p>Probability of interannual breeding-season movement (ψ) following flood and nonflood years among three Piping Plover breeding areas in Saskatchewan (BQL = Big Quill Lake, LD = Lake Diefenbaker, and MC = Missouri Coteau) (2002–2009). See Table 1 for movement-specific sample sizes. Diamonds represent movement following nonflood years; circles represent movement following flood years. Movement probabilities for male Piping Plovers are represented by dark gray markers and those of females by light gray. Vertical lines represent 85% confidence intervals. Estimates were generated from the top-supported model solved at the annual mean covariate value for “fledge,”  using a sample of 782 marked after-hatch-year Piping Plovers [S(g*t),p(g*t + sex),ψ(g. + sex + flood + fledge)].</p>
+            </caption>
+            <graphic xlink:href="auk.2012.11196-f03.tif"/>
+         </fig>
+         <fig position="float" id="F4">
+            <label>Fig. 4.</label>
+            <caption>
+               <p>Probability of interannual breeding-season movement (ψ) following flood and nonflood years among three Piping Plover breeding areas in Saskatchewan (BQL = Big Quill Lake, LD = Lake Diefenbaker, and MC = Missouri Coteau) (2002–2009). See Table 1 for movement-specific sample sizes. Diamonds represent movement following nonflood years; circles represent movement following flood years. Vertical lines represent 85% confidence intervals. Estimates were generated from the top-supported model solved at the annual mean covariate value for “fledge,”  using a sample of 782 marked after-hatch-year Piping Plovers [S(g*t),p(g*t + sex),ψ(g. + sex + flood + fledge)].</p>
+            </caption>
+            <graphic xlink:href="auk.2012.11196-f04.tif"/>
+         </fig>
+         <p>The addition of the flood covariate to our parameterization of movement decreased QAIC<sub>c</sub> by 1.71 in relation to a model without it (Table 4, model 3 vs. model 4), which suggests that flooding helped explain Piping Plover movement. As stated above, we reasoned that one mechanism by which floods might induce movement was through decreased reproductive success (for annual mean fledging rates, see Table 3). As predicted, the addition of the fledge covariate decreased QAIC<sub>c</sub> by 14.42 in relation to a model without it (Table 4, model 2 vs. model 4). However, we found a modest effect of flooding on movement probability while controlling for reproductive success (Table 4, model 1). The addition of the flood covariate decreased model deviance by 2 in relation to a model with the fledge covariate only (Table 4, model 2), an amount that was almost exactly compensated by the 2-point penalty for one additional parameter. Following Arnold (2010), we interpret the flood parameter as being supported by QAIC<sub>c</sub> at the 85% confidence level.</p>
+      </sec>
+      <sec id="s6" sec-type="discussion">
+         <title>Discussion</title>
+         <p>Although female Piping Plovers in Saskatchewan were generally more likely than males to disperse to a new breeding location, dispersal in both sexes was influenced by individual fledging success and the occurrence of flooding in the previous year. Breeding-site-specific movement probabilities were best explained by the level of flooding and fledging success experienced in the previous breeding season. Piping Plovers were more likely to abandon a breeding area if it had experienced flooding in a previous year (i.e., flooding that had occurred at the breeding location in year <italic>t</italic> – 1). At our study areas (except for Big Quill), flooding typically occurred in June, and lower water levels by early spring of the following year exposed suitable nesting habitat. As a result, Piping Plover dispersal, except at Big Quill, could not be explained by a lack of suitable habitat in the early spring. We reasoned that flooding might be related to increased movement because flood events generally lead to decreased reproductive success (North 1986, Schwalbach 1988, Dirks 1990, Sidle et al. 1992, Espie et al. 1998), which is why we originally included the “fledge”  covariate in our analysis. However, while controlling for the effect of reproductive success on movement, we found evidence for an additional increase in the likelihood of movement following flood years that was not explained by reproductive success.</p>
+         <p>
+            <italic>Female-biased dispersal</italic>.—In avian species that form pair-bonds on the breeding grounds, females typically disperse farther than males, although in shorebirds there are some deviations from this pattern (Greenwood 1980). In a study of Snowy Plovers (<italic>C. alexandrinus</italic>), Paton and Edwards (1996) found that male dispersal increased with decreasing nesting habitat availability, whereas females were more likely to disperse from a breeding area following reproductive failure. Recent work on Semipalmated Plovers (<italic>C. semipalmatus</italic>) and Mountain Plovers (<italic>C. montanus</italic>) likewise found that females dispersed farther between breeding seasons than males (Lishman et al. 2010, Skrade and Dinsmore 2010). However, Robinson and Oring (1997) found that only male American Avocets (<italic>Recurvirostra americana</italic>) were more likely to disperse following reproductive failure. Although there was no significant difference between the sexes in return rates of adult Semipalmated Sandpipers (<italic>Calidris pusilla</italic>), females nested significantly farther from previous nests than males (Gratto et al. 1985). For other species, including the Long-billed Curlew (<italic>Numenius americanus</italic>) and Spotted Sandpiper (<italic>Actitis macularius</italic>), there was no significant difference between the sexes in dispersal of adults (Redmond and Jenni 1982, Reed and Oring 1993), although, in the case of Spotted Sandpipers, sex-role reversal may explain this result.</p>
+         <p>We found that female Piping Plovers were more than twice as likely to exhibit breeding dispersal than males following both flood and nonflood years. No previous evidence exists for sex-biased breeding-season dispersal in Piping Plovers. In his 20-year study of Atlantic Coast Piping Plovers, Wilcox (1959) concluded that individuals of both sexes first trapped as nesting adults returned to nest where they had first been trapped, and Haig and Oring (1988b) found no difference in return rates or distance dispersed from natal areas between first-year male and female Piping Plovers. Similarly, Rioux et al. (2011) found no support for an effect of sex on dispersal distances in Piping Plovers. Unlike the results of these studies, our inferences were not based on return rates. We used resighting data collected from a large area made up of multiple breeding locations to estimate movement probabilities while controlling for variation due to survival and detection probabilities. This method results in estimates of breeding dispersal that are more robust than conclusions based on return rates where movement, survival, and detection are confounded (Sandercock 2006). Thus, we demonstrate conclusive evidence of female-biased breeding dispersal for the first time in this species.</p>
+         <p>
+            <italic>Individual reproductive success and postflood dispersal</italic>.—Increased dispersal following reproductive failure is common in a wide variety of bird species (Pärt and Gustafsson 1989, Brown and Brown 1996, Serrano et al. 2001, Skrade and Dinsmore 2010). Piping Plovers are more likely to exhibit breeding dispersal following low reproductive success, particularly when there is also low reproductive success among neighbors (Rioux et al. 2011). Our results support this “individual success”  effect, suggesting that Piping Plovers were far more likely to move among the study areas following years of poor reproductive success (i.e., no chicks fledged) than following years of moderate reproductive success (i.e., two chicks fledged).</p>
+         <p>Birds may abandon breeding areas in the years following either their own reproductive failure or reproductive failure among neighboring conspecifics (Boulinier and Danchin 1997, Danchin et al. 1998, Brown et al. 2000, Rioux et al. 2011). In a study that investigated return rates of American Robins (<italic>Turdus migratorius</italic>) and Brown Thrashers (<italic>Toxostoma rufum</italic>) in relation to reproductive effort, Haas (1998) found that individuals that experienced complete reproductive failure were less likely to return in subsequent years, regardless of reproductive effort. These results suggest that individuals that experienced reproductive failure sought out new nesting locations rather than having suffered greater mortality (Haas 1998).</p>
+         <p>Solely on the basis of individual reproductive success, Piping Plovers should be less likely to disperse if they experience moderate to high fledging success. However, although we found a strong association between poor reproductive success and breeding dispersal, we also found an independent effect of flooding on breeding dispersal. This meant that although individuals might be predisposed to return to a breeding location at which they were reproductively successful in a previous year, this predisposition was partially offset by a flooding event at their nesting lake the previous year. For example, in some cases the probability of dispersal following moderate success in a flood year approached the probability of dispersal following reproductive failure in a nonflood year (Fig. 4). Moreover, Piping Plovers that experienced poor reproductive success during a flood year were even more likely to disperse in a subsequent year than following reproductive failure in a nonflood year. Piping Plovers thus seemed more likely to abandon a breeding location if there was widespread reproductive failure (Rioux et al. 2011), which suggests that public information on the local success of conspecifics influenced dispersal decisions.</p>
+         <p>We believe that reduced fledging success associated with flooding events may explain, in part, why Saskatchewan Piping Plovers were more likely to move between breeding areas following a flood year. Mounting evidence indicates that birds, particularly colonial species, are aware of the reproductive success of their neighbors. Brown et al. (2000) demonstrated that colonies of Cliff Swallows (<italic>Petrochelidon pyrrhonota</italic>) with high reproductive success were more likely to exhibit colony growth and greater influxes of immigrants in a subsequent year. Individual Black-legged Kittiwakes (<italic>Rissa tridactyla</italic>) were less likely to abandon a nesting location if they experienced reproductive failure but their neighbors did not, and were highly likely to abandon a nesting location if both they and their neighbors experienced reproductive failure (Danchin et al. 1998, Boulinier et al. 2008). In addition, this behavior has been observed in territorial species such as the Eastern Kingbird (<italic>Tyrannus tyrannus</italic>), in which dispersing individuals are more likely to settle in areas that had relatively high fledging success in a previous year (Redmond et al. 2009). Floods that occur after Piping Plover nest initiation can result in widespread reproductive failure by washing away unhatched eggs, increasing egg predation rate, or reducing chicks' foraging opportunities (Sidle et al. 1992, Espie et al. 1998, Harris et al. 2005). This was common at Lake Diefenbaker, and rising water levels throughout the breeding season eliminated any successful renesting. However, at Big Quill Lake, declines in reproductive success with increasing water levels were due primarily to increased nest predation and not nest inundation (C. L. Gratto-Trevor unpubl. data).</p>
+         <p>
+            <italic>Conclusion</italic>.—Breeding-season dispersal of Saskatchewan Piping Plovers during 2002–2009 was strongly associated with flooding and individual reproductive success in the previous year. Female Piping Plovers were also twice as likely as males to exhibit breeding dispersal. Our results illustrate that flooding can induce increased interannual dispersal among breeding Piping Plovers, even among reproductively successful individuals, and that these effects may persist even after previously flooded breeding habitats re-emerge. However, we did not investigate whether Piping Plovers account for their cumulative reproductive success at a breeding area prior to dispersal. It is possible that Piping Plovers might postpone dispersal following a single year of poor reproductive success if they had fledged chicks in an area in previous years. Historically, movement from flooded areas may have been evolutionarily advantageous, given that water levels are highly variable in this region both within and between years. However, with anthropomorphic changes in flooding regimes, predator communities, and habitat availability, interannual dispersal into novel breeding areas becomes an increasingly risky strategy as Piping Plover breeding habitat becomes more limited. These processes, induced by multiple flood years, could lead to localized extirpation of Piping Plover breeding areas, shifts in population dynamics, and nesting at artificially high densities or in nontraditional and potentially less suitable nesting habitat.</p>
+      </sec>
+   </body>

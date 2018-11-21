@@ -1,0 +1,903 @@
+<body>
+      <p>
+         <disp-quote>
+            <p>In Thebais it is said that an angel gave knowledge of a mystical
+tongue to Pachomius, Cornelius, and Syrus (who is said to be alive
+right up to the present day and more than one hundred and ten years
+old) in order that they might write to each other and speak by means
+of a secret alphabet, concealing profound ideas with certain signs
+and symbols. ( J<sc>EROME</sc>, <italic>Preface to the Rule
+of St. Pachomius</italic>)1</p>
+         </disp-quote>
+      </p>
+      <p>The Old English poem <italic>Solomon and Saturn I</italic>, probably
+composed in the ninth century, is best known for a marvelous scene
+in which the animated letters of the Lord's Prayer engage in battle
+with the devil.2 The letters
+of the words “Pater Noster” are both jumbled and represented
+by English runes as the poem describes a battle, reminiscent of Prudentius's <italic>Psychomachia</italic> (ca. 405 CE), in which these letters attack
+the fiend. As has been observed, the poem thus thematizes the physical
+manifestation of power in writing.3 In light of this theme, a word like <italic>gebregdstafas</italic> (line 2b), literally rendered “skill-letters,” takes
+on particular importance. Yet this unique and obscure word has not
+received close scrutiny. The semantic field of this word creates a
+crucial symbolic subtext for the poem: it weaves together ideas about
+writing and embodiedness, and power and deception, that occur repeatedly
+in Anglo-Saxon literature and its late antique precursors. Although
+a literate Anglo-Saxon view of signs was undoubtedly affected by forces
+in folk culture like runic literacy and charms, a mystical view of
+alphabetic writing was also a part of Latin literacy. Anglo-Saxon
+discourse about letters is encoded in grammatical commonplaces and
+applies beyond the letters of prayer and scripture. Such discourse
+represents a semiotic whereby all letters are divinatory signs and
+symbols that (to paraphrase Jerome) conceal profound secrets.4 In pursuing this semiotic through
+the connotations of the compound word <italic>gebregdstafas</italic>, I do not mean to suggest that Anglo-Saxon literati were credulous
+alphabet-mystics nor that they derived their ideas directly from esoteric
+eastern sources. Neither do I wish to imply that they were fully conscious
+of the etymological connections I describe. I do wish to assert that
+Anglo-Saxons were attuned to a mythic discourse about writing that
+inflected their literacy in ways that are rarely considered. The semantic
+associations of <italic>gebregdstafas</italic>, drawn out by the poem's
+depiction of letters and demons as competing polymorphic bodies, connect <italic>gebregdstafas</italic> to various legitimized forms of mystic writing
+and also evoke ancient discourses about deceit and magic.</p>
+      <p>The poem begins as follows: <verse-group>
+            <verse-line>Saturnus cwæð:</verse-line>
+            <verse-line>Hwæt, ic iglanda  eallra hæbbe</verse-line>
+            <verse-line>Boca onbyrged  þurh gebregdstafas,</verse-line>
+            <verse-line>Larcræftas onlocen   Libia and Greca,</verse-line>
+            <verse-line>Swycle eac istoriam  Indea rices.5</verse-line>
+         </verse-group> 
+         <disp-quote>
+            <p>[Saturn said: Listen! I have sampled the books of all islands by
+means of “skill-letters,” unlocked the crafts of Libya
+and Greece, as well as the stories of the Indian Kingdom.]</p>
+         </disp-quote>
+      </p>
+      <p>The compound noun <italic>gebregdstafas</italic> is conventionally
+rendered “skill in letters.” Although basically accurate,
+this conventional translation does little justice to the semantic
+complexity of the compound. “Skill in letters” neglects
+the “right-hand head rule”—the basic linguistic
+expectation of an English compound that the right-hand element constitutes
+the morphological and semantic core of a nominal compound—by
+rendering the left-hand element (<italic>gebregd</italic> )
+as the head of the noun and thereby provoking the insertion of the
+particle “in” to postulate the relationship between the
+two nouns.6 By supplying this
+relation, the translation implies a morphology of the compound, namely,
+that the first element is a noun and that the whole is a copulative
+compound. However, apt meanings for this compound can be discovered
+if we observe the right-hand head rule, accept the slightly obscure
+result, “skill-letters,” and then examine the elements
+of the compound closely to determine what such letters might be.</p>
+      <p>The first part of this essay considers <italic>gebregdstafas</italic> as an Old English compound. Drawing on the semantic implications
+of inflected forms of the verb <italic>bregdan</italic> that occur
+elsewhere in the poem, I interpret <italic>gebregdstafas</italic> as
+a determinative compound in which the semantic range of the first
+element broadens to include motion and change, and deception and seduction,
+in its characterization of “skill.” Although analogous
+Old English -<italic>stafas</italic> compounds suggest that this element
+should remain mute, and that <italic>gebregdstafas</italic> could
+simply beconstrued “deceit” or “trickery,”
+the prominence of “letters” in the poem forces <italic>stafas</italic> back into the foreground, reminding readers of the
+connection between ancient verbal arts and dissimulation. The compound
+refers simultaneously to an abstracted “treacherous arts”
+and to a more literal understanding of these arts as being founded
+in the suspicious materiality of writing.</p>
+      <p>The second part of this essay explores a literary-semantic context
+for understanding the literal reference of <italic>gebregdstafas</italic> to “shifting” or “deceitful” letters. Anglo-Saxon
+culture had no shortage of referents for a word that refers to strange,
+suspicious writing. <italic>Solomon and Saturn I</italic> 
+itself, for example, draws attention to other forms of dangerous writing.
+As the description of the Pater Noster letters ends, the poem goes
+on to describe how the devil uses insidious forms of writing to harm
+men:<disp-quote>
+            <verse-group>
+               <verse-line>Hwilum he gefeterað  fæges mannes,</verse-line>
+               <verse-line>handa gehefað,   ðonne he æ hilde
+sceall</verse-line>
+               <verse-line>wið lað werud  lifes tiligan;</verse-line>
+               <verse-line>awriteð he on his wæpne   wællnota
+heap,</verse-line>
+               <verse-line>bealwe bocstafas,   bill forscrifeð,</verse-line>
+               <verse-line>meces mærðo. </verse-line>
+               <attrib>(Lines 158–63a) </attrib>
+            </verse-group>
+         </disp-quote> 
+         <disp-quote>
+            <p>[At other times he binds the doomed man, his hands inhibits, when
+he struggles for his life against the evil host. He writes on his
+weapon a group of deadly marks, evil letters, inscribes the blade,
+the glory of the sword.]</p>
+         </disp-quote>
+      </p>
+      <p>This passage clearly depicts the inscription of runes on weapons
+as a way to enhance or inhibit their potency. It is thus easy to suggest,
+as Robert Menner did, that the interpretation of Pater Noster letters
+as powerful signs derives from the superposition of Germanic folk
+beliefs on the instruments of Latin literacy because “the magic
+power of the rune was a deep-seated belief of the Germanic peoples.”7 Although the poem certainly depicts <italic>wælnotas</italic> (harmful marks) as having magical power,
+the association between runes and rune magic remains a matter of debate.
+Many experts believe that runic writing was never seriously believed
+to have magical properties in much of the ancient North.8 R. I. Page has argued that the word <italic>rūn</italic> (which means “mystery” or “secret”),
+although often used in compounds associated with magic, never refers
+to inscribed characters themselves.9 Without attempting to solve this problem, we can nonetheless suggest
+that Anglo-Saxon literati saw in runes a semiotic principle of secrecy
+that also drove their fascination with other forms of secret writing.</p>
+      <p>Their interest in alphabets and ciphers is evident. Stretching
+from the Venerable Bede in the late seventh century to Byrhtferth
+of Ramsey in the late tenth century, the works of learned Anglo-Saxons
+contain examples and explanations of what Byrhtferth called the “mysteries
+of the alphabet” (þæra stafena gerena).10 In book 3 of his <italic>Enchiridion</italic> (988–96 CE), Byrhtferth explains the significance of Latin,
+Greek, and Hebrew letters as well as the meanings of accent marks
+and various paratextual <italic>notae sententiarum</italic> derived
+from Isidore.11 Runic, Greek,
+Hebrew, and other exotic alphabets can be found everywhere in Old
+English manuscripts, although Greek and Hebrew were languages barely
+known to Anglo-Saxon scholars. Old English riddles and their Latin
+counterparts linger not only on objects from the material culture
+of monastic writing, like pens and parchment, but on the alphabet
+and in some cases on the shapes of the specific letters themselves.
+Such apparent curiosities represent a widespread academic tradition
+exploring the symbolic complexities of the alphabet. The Continental <italic>Versus de nominibus litterarum</italic>, or <italic>Versus de alphabeto</italic>, for example, contains verse descriptions of each letter of the
+alphabet.12 In <italic>De tempore
+rationum</italic> (ca. 725 CE), Bede describes a letter-substitution
+encryption by which, as he claims, monks might pass secret messages
+to each other “or else fool the uninitiated as if by magic.”13 This same code is demonstrated
+in a fragmentary vernacular riddle, which points out that it is “lytel
+cræft” (not difficult) even if one lives with many men.14 Such works demonstrate that Anglo-Saxon
+linguistic self-consciousness took a particularly graphic, and indeed
+cryptographic, form. Anglo-Saxons like Bede and Byrhtferth were fascinated
+by signs. They readily perceived the semiotic and mythic resonances
+of alphabetic forms.</p>
+      <p> 
+         <italic>Gebregdstafas</italic> could refer to cryptographic systems
+like that described by Bede, the Atbash code or <italic>scinderatio
+fonorum</italic>, a method of encryption by scrambling letters used
+by Cicero and explained (in an insular context) by Virgilius Maro
+Grammaticus.15 It could also
+describe multicolored letters like those drawn on the hand of God
+on folio 49r of the Leofric Missal, or exotic alphabets like that
+recorded in the <italic>Cosmographia</italic> of Aethicus Ister (seventh
+century CE). It could likewise refer to the mystic alphabet reputedly
+known to the Egyptian abbot Pachomius (d. 346 CE), and perhaps even
+to the mystical writing systems of late antique Judaism with which
+Solomon was associated. One might argue that <italic>gebregdstafas</italic>, if not a loan translation, represents an Old English attempt to
+characterize mystical or otherwise secret writing that is expressed
+in such Latin phrases as <italic>mysticae linguae</italic>, <italic>alphabetum speciale</italic>, <italic>litterae altiores</italic>,
+or <italic>litterae permolesta</italic>. The main purpose of the second
+part of this essay, however, is to show how the two elements of <italic>gebregdstafas</italic> evoke the semantic field of their respective
+Latin equivalents <italic>fallacia</italic> and <italic>elementa</italic>. Influential texts such as Isidore of Seville's <italic>Etymologies</italic> (ca. 630 CE) and Prudentius's <italic>Contra Symmachum</italic> (ca.
+403 CE) use these terms to construct a Christian discourse about magic
+that implicates writing in the fallacies of pagan animism. Thus, I
+suggest, <italic>gebregdstafas</italic> evokes a Christian rhetoric
+against pagan wisdom that associates verbal deception with sorcery.</p>
+      <p>Marie Nelson has already argued that the poem is intimately concerned
+with magic, since it describes “a context for the performance
+of a charm [i.e., the Pater Noster sequence]” and that it is
+thus a “fictional representation of an oral performance.”16 In her reading, Solomon is the
+magician who by means of the Pater Noster provides a remedy for Saturn's
+troubled mind. This reading depends in part on misconstruing the preposition
+in line 61a, “bysig æfter bocum,” as an adverb of
+time. Saturn is “restless after [reading] books” and thus
+seeks Solomon's aid. There is no need to interpolate the verb here
+if we recognize that <italic>æfter</italic> is a preposition
+indicating purpose or direction toward a goal. This prepositional
+use is common in descriptions of hunting animals or of desiring God's
+love, which casts Saturn's “illness” more as an intellectual
+and moral failing than a medical condition. Nelson clearly shows,
+nonetheless, how <italic>Solomon and Saturn I</italic> suggests that
+letters are magically “spoken into life.”17</p>
+      <p>These anthropomorphized letters suggest an anxiety about the materiality
+of writing and the ability to discern spiritual reality through this
+medium. As Katherine O'Brien O'Keeffe contends, the tension between
+speech and writing in the poem “speaks to a consciousness which
+accords writing its own power: to objectify, to hold, to fix, to hide.”18 Yet <italic>Solomon and Saturn
+I</italic> is also preoccupied with metamorphosis, and the anthropomorphism
+of the Pater Noster letters is a corollary to the deceptive fluidity
+of demonic forms. The demons of the poem are characterized by no specific
+shape but rather by their uncanny fluidity; they can take the form
+of a snake, change in shape or color, or grow wings. The general expression
+of this shifting appears in line 110a, where the letters <italic>N</italic> and <italic>O</italic> take their turn to confront the devil and
+scourge what the poet describes as his “fræmde flæschoman”
+(strange body) (line 110). While strangeness of body is meant to depict
+the deception of devils—their supernatural perversion of material
+order—by analogy, strangeness infects the implicitly human forms
+of the Pater Noster letters. The power of writing to fix and to hide
+is a power to deceive. This anxiety is captured in the semantic depths
+of <italic>gebregdstafas</italic>.</p>
+      <sec>
+         <title>THE SEMANTICS OF <italic>GEBREGDSTAFAS</italic> AS AN OLD ENGLISH
+COMPOUND</title>
+         <p>The first difficulty in considering line 2b is that the spacing
+of the manuscript allows alternative word divisions. <italic>Solomon
+and Saturn I</italic> is imperfectly attested in two manuscripts:
+Cambridge Corpus Christi College 41 (CCCC 41), in which the first
+ninety-four lines of the poem are written in the margin of a copy
+of the Old English Bede and thankfully therefore supply lines 1–30,
+which are illegible in the otherwise more complete Corpus Christi
+MS 422. In CCCC 41, <italic>gebregdstafas</italic> is broken over
+the first two lines of the manuscript: <italic>gebregd</italic> ends
+line 1, and <italic>stafas</italic> is the first word of line 2. The
+poem's first editor, John Mitchell Kemble, located the word boundary
+between an adverb + verb compound and a noun, presumably allowing
+the line break to influence his interpretation of the word boundaries.
+He thus renders the half-line “þurhgebregd stafas”
+and translates “thoroughly turned over the letters.”19 Menner's edition, which superseded
+Kemble's in 1941, attaches <italic>gebregd</italic>- to <italic>stafas</italic> as the first element in what is now a nominal compound and thus
+renders <italic>þurh</italic> a preposition marking means or
+instrument,20 and the syntax
+is thus organized (as O'Neill notes) by rhetorical <italic>apo koinu</italic> as the phrase “þurh gebregdstafas” modifies both
+the verb phrase that precedes and that which follows (lines 2a and
+3a).21 Menner makes this shift
+without reference to Kemble's reading, but he explains that he understands
+the word to be a noun + noun compound meaning “literally skill-letters,”
+which he then rationalizes as “skill in letters.”22 Elliot Van Kirk Dobbie's edition
+for the Anglo-Saxon Poetic Records series concurs with Menner's edition
+of these lines. Though Dobbie's notes suggest that <italic>gebregdstafas</italic> literally means “letters of cunning,”23 subsequent definitions and translations have
+adhered closely to Menner's. The Bosworth-Toller dictionary defines <italic>gebregdstafas</italic> with the abstract phrase “literary arts,”
+while the <italic>Dictionary of Old English</italic> keeps closer
+to the sense of the individual elements, rendering <italic>gebregdstafas</italic> “skill in letters” as Menner does.24 Among recent essays on <italic>Solomon and Saturn</italic> 
+            <italic>I</italic>  only O'Neill and Wilcox translate this
+part of the poem. O'Neill follows the <italic>Dictionary of Old English</italic> in his appendix, although in another part of his essay he paraphrases
+this passage as “skill in deciphering different alphabets”25—a translation that approaches
+my understanding of the word since, though it still makes skill the
+head of the noun, it interprets <italic>stafas</italic> as a reference
+to actual letters rather than literary arts. Jonathan Wilcox also
+accepts the <italic>Dictionary of Old English </italic> definition
+but additionally represents the lurking negative potential of <italic>gebregd</italic>  by translating “cunning skills in
+letters.”26</p>
+         <p>The first element of the compound, typically treated as a variant
+spelling of the strong masculine noun <italic>gebrægd</italic> (<italic>gebregd</italic> 1: “deceitfulness,” “cunning”)
+is indistinguishable from another noun, <italic>gebregd</italic>,
+meaning “sudden movement” or “woven material”
+(<italic>gebregd</italic> 2). The appearance of two words as separate
+heads in the <italic>Dictionary of Old English</italic> suggests that
+they are etymologically distinct. However, these two words are easily
+confused since the loss of the palatal /g/ and concomitant lengthening
+of the preceding vowel is a systematic occurrence, especially in West
+Saxon and especially before /d/.27 The mutually variant spellings of <italic>gebregd</italic> 1 and <italic>gebregd</italic> 2 suggest that these words were perceived as homonyms.
+If they did not coalesce, their meanings very likely were reflected
+in the perception of a literate Anglo-Saxon. In Old Norse, the two
+senses coalesce that are recorded as separate words in Old English.
+The Old Norse noun <italic>bragð</italic> includes among its meanings “sudden
+or brisk movement” and “embroidered figure” just
+as those two separate senses are ascribed to <italic>gebregd</italic> 2 in Old English.28 However,
+the selfsame Old Norse noun means “trick, scheme, device,”
+a meaning attributed to <italic>gebregd</italic> 1 in the <italic>Dictionary of Old English</italic>. Within the semantic range of
+this one Norse word it is easy to see “trickery” as a
+connotation extending the basic meaning of “sudden movement.”
+We should not, of course, expect Old English words to reflect precisely
+their Old Norse cognates, but the consistency of the semantic range
+in this particular word across both languages suggests that the meanings
+were already established in the Germanic stock or that the Norse and
+Old English words exerted some influence on each other. The related
+Norse verb <italic>bregða</italic>, for example, is attested with
+many of the same senses as <italic>bregdan</italic>: to cause to move
+suddenly, to draw a sword, to change in shape or color.29 The inclusion of both meanings
+in a single Norse noun, coupled with the similarity in meaning between
+Old Norse and Old English, suggests the strength of semantic connection
+between the two Old English nouns. As a result of this connection,
+the noun that forms the first element of the compound <italic>gebregdstafas</italic> is susceptible to a variety of overlapping interpretations: referring
+in various stages of abstraction to sudden movement, weaving, shape
+shifting, and deceit, this word is a “lexical intertext”
+that expresses Anglo-Saxon concern about the signifying capacities
+of writing.30 While it certainly
+refers to cunning or trickery, this cunning is an abstraction based
+on the swift and intricate motions of weaving. The deceitful arts
+that Saturn uses to unlock the secrets of the ancients are associated
+with a kind of textual magic, letters whose form is obfuscated or
+impossible to fix. Such associations are drawn out through the semantic
+play of the poetic <italic>Solomon and Saturn</italic> 
+            <italic>I</italic>  itself, which uses derivatives of the verb <italic>bregdan</italic> frequently.</p>
+         <p> 
+            <italic>Bregdan</italic> and its derivatives are favored words
+in the vocabulary of this poem, which demonstrates a different shade
+of its semantic field with each use. <italic>Bregdan</italic> occurs
+four times in <italic>Solomon and Saturn</italic>, three of them during
+the “Pater Noster Battle Sequence.” First, that “bocstafa
+brego,” the letter <italic>R</italic>, “bregdað”
+(drags) the devil by his hair (lines 97a–100a). Second, <italic>bregdan</italic> appears as part of the formula “bleoum bregdað”
+as the poet describes how the word of God will always triumph over
+the fiend “næfre hi þæs syllice bleoum bregdað”
+(no matter how he changes his appearance) (lines 155b–56a).
+Third, in the conclusion to the Pater Noster battle scene <italic>abredan</italic> is the verb that describes drawing out a sword.
+Finally, in <italic>Solomon and Saturn II</italic>, Saturn recalls
+how he sat in conversation with the wise men of the Philistines and <italic>boca tobræddon</italic>, “laid out” or perhaps “picked
+apart” books (lines 421a–23a). <italic>Gebregdan</italic> also has paranomastic, and possibly etymological, relations with
+the similarly unique verb of line 16b of <italic>Solomon and Saturn
+I</italic> that Dobbie emends to <italic>gebryrded</italic> where
+Menner reads <italic>gebrydded</italic>.31</p>
+         <p>Accumulating through the text of <italic>Solomon and Saturn I</italic>, these various uses of the verb create an extended paranomasia that
+overlays the compound noun of line 2b with the semantic field of the
+verb, signifying shape shifting, speed, and violence. The word could
+be considered a verbal + noun compound formed on <italic>gebregdan</italic>. This type of compound is not common in Old English, and there are
+a number in which the first element is ambiguously either nominal
+or verbal.32 Nonetheless, Carr's
+study of <italic>Nominal Compounds in Germanic</italic> lists several
+instances in which the verbal interpretation is more obligatory: <italic>weaxgeorn</italic>, <italic>ceorfæx</italic>, and perhaps especially
+worth comparing to <italic>gebregdstafas</italic> are those formed
+on <italic>wrītan</italic>: <italic>wrītbred</italic>, <italic>wrītīren</italic>, and <italic>wrītseax</italic>. These compounds are sensibly rendered using a modern English present
+participle: “writing tablet,” “writing tool,”
+and “writing sword.” By analogy to these <italic>writ</italic> - compounds, and considering the meaning of <italic>gebregd</italic> 2discussed above, we might translate <italic>gebregdstafas</italic> as “weaving” or “shifting” letters.</p>
+         <p>The complexities of <italic>gebregd</italic> suggest pertinent
+determinative functions for that element in the compound by demonstrating
+a wider semantic sphere than that indicated by “skill.”
+Perhaps the best evidence of the meaning of <italic>gebregdstafas</italic>, however, lies in the comparison to similar -<italic>stafas</italic> compounds. This comparison suggests that <italic>gebregdstafas</italic> is a pleonastic or “poetic” compound.33 One of the key functions of poetic compounds
+is to provide appropriate metrical and alliterative components. Thus
+it is usual to find poetic compounds in groups of synonyms that substitute
+the first element with words that alliterate differently. Other -<italic>stafas</italic> compounds in which <italic>stafas</italic> is translated “works”
+or “arts,” or not translated at all, constitute potential
+synonyms for <italic>gebregdstafas</italic>. Taken together these
+compounds display some patterns pertinent to <italic>gebregdstafas</italic>: <italic>-stæf</italic>  forms compounds readily and
+frequently with words that are adjectival or easily construed as modifying
+the head. Furthermore, these first elements are overwhelmingly negative,
+involving blame, deceit, trickery, and harm. <italic>Edwitstafas</italic> (rendering <italic>opprobrium</italic> in the Paris Psalter), <italic>wrohtstafas</italic> (<italic>Elene</italic>, line 924), <italic>hearmstafas</italic> (<italic>Genesis</italic>, line 939; <italic>Guthlac</italic>, line 226), and <italic>facenstafas</italic> (<italic>Beowulf</italic>, line 1017) are all compound nouns attested specifically
+in poetry and meaning “reproach,” “accusations,”
+and “malice,” respectively.34 The first element in each of these compounds helps elucidate
+the morphology and meaning of <italic>-stafas</italic> compounds. <italic>Edwitan</italic> is attested behaving as both a strong and a weak
+verb and occurs almost exclusively in glosses, reflecting the particular
+need to coin compounds in rendering foreign texts. <italic>Hearmian</italic> is a weak verb derived from the noun <italic>hearm</italic>, which
+is further attested as an adjective; which allows us to construe <italic>hearmstafas</italic> as an adjective + noun compound in which the
+first element is of a clear semantic type denoting a kind of or a
+quality of the head. <italic>Facen</italic>, though a noun, frequently
+forms adjectival phrases, and has an equivalent adjective <italic>facne</italic>. The compound <italic>facenstafas</italic> occurs
+only in <italic>Beowulf</italic> (line 1017) and has been translated “false
+treacheries” and “treacherous arts.”35 Each of these compounds, that is, conforms to
+the expectation that the left-hand element should modify the right.
+Comparison to these similar compounds is suggestive evidence that <italic>gebregdstafas</italic> is part of a lexicon of synonymous poetic
+compounds intended to relay suspicious and harmful behavior.</p>
+         <p>However, there seems to be some ambivalence in deciding how to
+treat <italic>stafas</italic> in such compounds. Bosworth-Toller renders <italic>hearmstafas</italic> as simply synonymous with its first element,
+reducing the <italic>stafas</italic> to silence: the acts, or perhaps “arts”
+of treachery are not differentiated from treachery as a concept, and
+the first element appears to be the core of the compound in direct
+opposition to the usual behavior of English compounds. The <italic>facenstafas</italic> of <italic>Beowulf</italic> are particularly
+worth comparing to <italic>gebregdstafas</italic> because of a clear
+semantic overlap: as nouns both <italic>facen</italic> and <italic>gebregd</italic> denote deceitfulness and guile. If <italic>gebregdstafas</italic> is translated according to the same logic that elides the “art”
+denoted by <italic>stafas</italic> we might thus consider it simply
+to mean “craft.” We can, in fact, consider both elements
+of the compound to mean “craft” or “art” and
+thus understand <italic>gebregdstafas</italic> to function as a conventional
+poetic compound, translated literally “skill-art” and
+meaning something like “erudition” or “deceit.”
+In Old English as in Latin, the plural word for “letters”
+commonly refers metonymically to writing or even more generally to
+learning. But there is a danger in overapplying this metonym. <italic>Solomon and Saturn I</italic> insists that we acknowledge the <italic>stafas</italic> in <italic>gebregdstafas</italic>. The violent letters
+of the Pater Noster that dominate the action of the poem suggest a
+referent for suddenly moving or changing letters, as do other textual
+objects and legendary alphabets in Anglo-Saxon literature.</p>
+         <p>Further evidence of the semantic depths of both elements of <italic>gebregdstafas</italic> can be gleaned from common Latin equivalents.
+Old English glosses on the Gospels use <italic>gebregd</italic> to
+gloss <italic>fallacia</italic>, and supporting evidence suggests
+that this gloss represents a very close equivalence across the two
+languages. The description of letters as elements (<italic>elementa</italic>) was a grammatical commonplace, and the cosmological analogy it
+implied was readily perceived by Anglo-Saxon grammarians. Combined,
+the ideas evoked by both elements of the compound express a great
+deal about the untrustworthy materiality of writing.</p>
+         <p>The cosmological depiction of letters as “atoms” figures
+clearly in Anglo-Saxon grammatical culture. Following Priscian, both
+Ælfric of Eynsham and Byrhtferth of Ramsey define the letter
+as an “atom” (<italic>athomis</italic>, <italic>untodælednys</italic>) and an elementum “ad similitudinem elementorum mundi”
+(because of its similarity with natural elements), as Ælfric
+writes.36 The cosmological analogy
+to <italic>elementa</italic> mythologized letters, associating them
+with suspicious pagan knowledge and magic. The “elements”
+were a central concept in the “atomist” cosmology of several
+strains of ancient Greek thought, and the analogy between physical
+particles and letters of the alphabet is the basic analogy of ancient
+alphabet mysticism.37 In a later
+antique tradition Democritus, one of the founding atomist philosophers,
+was imagined as a “great sage with magical powers.”38 This notion of Democritus was reinforced
+by Pliny, who claimed that Democritus was the author of a treatise
+concerning the magical herbology of the Magi, a herbology that described
+the plants used to summon their gods.39 This legendary view of Democritus is presumably based on
+an obfuscation of his atomist physics, but in important Christian
+texts the “elements” continued to be identified with supernatural
+forces.</p>
+         <p>In Ælfric's use of the phrase “elementorum mundi”
+we may perceive an allusion to Paul's epistle to the Galatians in
+which he characterizes ignorance of God's law as servitude “sub
+elementis mundi” (Gal. 4:3).40 This passage has provoked conflicting commentary. While both John
+Chrysostom and Jerome treat it quite literally, Augustine explains
+this as a reference both to the heavenly bodies (stars created from
+the physical elements earth, air, fire, and water) and to the demonic
+spirits that controlled them.41 Augustine's identification of <italic>elementa</italic> with mystic
+forces is fantastically and emphatically dramatized in the pseudoepigraphical
+tradition of Solomon. In the <italic>Testament of Solomon</italic>, a Greek text of the second or third century, Solomon learns how
+to subdue demons with the aid of a magic ring given to him by God.
+In the <italic>Testament</italic>, the word <italic>stoicheia</italic> (elements) first describes the “seven demonic stars”
+and later the thirty-six spirits, various animal-human hybrids who
+describe themselves as “heavenly bodies” (<italic>stoicheia</italic>).42 These “world rulers
+of the darkness of this age” are revealed to be “decans,”
+each of whom rules over one tenth of the three-hundred and sixty degrees
+of the zodiac. According to Origen, the decans have also divided among
+themselves the various regions of the human body.43 The very analogy that elevated letters to cosmological
+significance also thereby—in the pseudoepigraphical tradition
+of Solomon—connected them to the same suspicious corporeality
+that characterizes the “fræmde flæschoman”
+of demons.</p>
+         <p>The importance of this cosmic imagery to the purpose of the poem
+is demonstrated by the prose section that has been marginalized by
+modern editions. In the context of mystical ideas about elements,
+this prose can be seen as quite fully integrated with the verse. Occupying
+pages 7–12 of CCCC 422, the prose constitutes a considerable
+proportion of the manuscript. Both Elliot Van Kirk Dobbie and Robert
+Menner (whose editions were published in 1941 and 1942, respectively)
+ignore the prose, and as a result it has largely been lost to critical
+view. Even Kemble, who did edit and translate the prose in his 1848
+edition, describes it as a fragment and an “insertion,”
+as though it were a supplementary, or simply mistaken, addition to
+the verse. Yet themes and images clearly link this prose to the first
+poem. The prose describes a symbolic shape-changing conflict between
+Satan and the Pater Noster. The combatants take various opposed forms,
+some of them abstract and others more concrete. When the devil is
+wrath, the Pater Noster will be peace; when the devil is in the likeness
+of a sword, the Pater Noster will be like a golden breastplate; when
+the devil is in the likeness of a wolf, the Pater Noster will be a
+golden chain.44 The Pater Noster
+finally emerges as a cosmic demigod with “golden fingers and
+each of them is individually thirty thousand times longer than all
+the world or earth; and in the Pater Noster's right hand is the likeness
+of a golden sword . . . its gleam is brighter than all the constellations
+of the heavens.”45 This
+passage demonstrates the consonance of the prose imagery with that
+of the verse: the shape-shifting motif recalls the poem's characterization
+of demons as “fræmde flæschoman” unstable
+in form, taking the shape of snakes or sprouting wings; the swords
+and breastplates of spiritual battle occur here as in the poem. The
+imagery of giant cosmic bodies evokes the depictions of constellations
+in astrological works like Cicero's <italic>Aratea</italic>, which
+can be found in Anglo-Saxon manuscripts.46 It also recalls Augustine's interpretation of the “elements”
+as stars or the demonic entities they represent.</p>
+         <p>Other grammatical conceits connect writing with corporeality directly.
+According to grammarians like Donatus and Priscian, relayed in Isidore's <italic>Etymologies</italic> 1.4.16, letters have three aspects: <italic>nomen</italic>, <italic>potestas</italic>, and <italic>figura</italic> (shape or character). The Old English vocabulary of shape and color
+is overlapping. When <italic>Solomon and Saturn I</italic> describes
+how demons change their form, the poet writes they “bleom bregdað,”
+which can mean changing in shape or color.47 Similarly, <italic>hīw</italic>, a word whose modern
+reflex “hue” refers only to color, could mean either color
+or shape in Old English. Byrhtferth of Ramsey uses it to refer to
+diacritics and other textual signs when he writes that “bōceras
+habbað on heora cræfte wurðfulle hī w and tacna”
+(scholars have in their discipline worthy figures and signs).48</p>
+         <p>Recognizing that letters have shapes and associating them with “shapes”
+summoned by magic are two different things. Just as they theorized
+that letters were analogous to “atoms,” however, insular
+grammarians perceived the form of letters as analogous to human bodies.
+To Virgilius Maro Grammaticus, the three aspects of the letter suggest
+an analogy to the nature of man, who has a body, a spirit, and a soul.49 Ælfric of Eynsham writes,
+following Priscian, “Just as a combination [of elements] makes
+up a complete body, so do these when joined together make an utterance
+that can be expressed in letters, almost as a type of body—or
+rather as an actual body.”50 The motif of embodiment that casts the materiality of letters as
+of a kind with human bodies was already established in the both the
+work of Virgilius and in Ælfric's far more traditional epitome.
+This conceptual conflation is, furthermore, evident in Anglo-Saxon
+visual art where the anthropomorphic and zoomorphic decoration of
+Gospel books expresses an equation of the matter of letters with human
+and animal bodies. Laura Kendrick has shown that “the equation
+of the body of Christ with the letter of scripture became a venerable
+formula,” the orthodoxy of which was secured by its incorporation
+in the <italic>Glossa ordinaria</italic> and, moreover, that this
+model effected the “mythologizing of alphabetic writing as a
+bodily trace.”51 Such
+well-established symbolic conceits and grammatical metaphors emphasized
+the materiality of letters, both their function as the indivisible
+units or “elements” of discourse and their embodiedness.
+These metaphors provided the cosmological associations that lie behind
+the animation of Pater Noster letters in <italic>Solomon and Saturn
+I</italic>, but these metaphors also suggest an unfavorable parallel
+with the similarly embodied, form-shifting demons against which those
+anthropomorphized letters struggle.</p>
+         <p>The association of the physical elements with anthropomorphized
+spirits is, according to Prudentius, a naïve pagan habit. John
+Hermann has already pointed out the many parallels between the depictions
+of spiritual battle in Prudentius's <italic>Psychomachia</italic> and
+the Pater Noster's battle against demons in the poetic <italic>Solomon
+and Saturn I</italic>. In <italic>Contra Symmachum</italic>, too,
+we find images that reappear in the Old English poem. The Latin poem
+demonstrates the inappropriate attribution of shape and body to nature
+and suggests that to serve under the elements of the world, as Galatians
+intimates (Gal. 4:3), is not only to have a naïve commitment
+to worldly life but, more specifically, to draw pagan conclusions
+about the forces that structure the universe. <italic>Contra Symmachum</italic> mocks foolish pagans who “make a divinity out of unreal shapes”
+and adjures them to desist in “[modeling] incorporeal things
+in counterfeit bodies” (desine, si pudor est, gentilis ineptia,
+tandem res incorpores simulates fingere membris). Prudentius's characterization
+of pagan belief reinforces Augustine's interpretation of Galatians
+4:3. Directly after Prudentius lodges his general accusation at silly
+pagans, he adjures specifically that they “desine terga hominis
+plumis obducere” (cease to cover a human back with feathers).52 This image is another detail of <italic>Solomon and Saturn</italic>'s depiction of demonic shape shifting,
+in which a demon “æfter bancofan feðerhoman onfoð”
+(grows wings on its back) (lines 151b–152a). The analogous imagery
+suggests that <italic>Solomon and Saturn I</italic> 's depiction
+of demons draws on a conventional Christian critique of pagan animism,
+namely, that they make “bodies” out of what are merely
+elements.</p>
+         <p>Isidore's examples of magic are drawn in part from Prudentius and
+also characterize magic predominantly as shape shifting. The word <italic>elementa</italic> plays an important role in this discourse too,
+as it refers both to the matter of the physical world and implies,
+as we saw, the supernatural forces that govern that world in pagan
+belief. According to Isidore, magic consists primarily of the perversion
+of natural forms by illicit human will: changing men into the form
+of animals (in bestiarum formas convertebantur) or “agitating
+the elements” (elementa concutiant).53 In its Isidorian context the phrase “elementa concutiant”
+does not refer to letters, but no grammatically trained Anglo-Saxon
+author would have missed the connotation. Isidore's verb <italic>concutio</italic> also seems to confirm Grein's suggestion that “agitation”
+is another potential meaning of <italic>gebregd</italic>.54 Ælfric's <italic>Glossary</italic> (ca. 995 CE) shows that <italic>concutio</italic> was part of his
+vocabulary; he explains that it means “ic sceace oððe
+ic samod slea” (I shake or I knock together).55 Old English <italic>sceacan</italic> is synonymous
+with <italic>bregdan</italic> insofar as the meanings of both with
+regard to physical objects generally indicate rapid movement and,
+more specifically, insofar as they both can mean “to weave.”56 Although its denotative reference
+is to a kind of writing, <italic>gebregdstafas</italic> could have
+more abstractly connoted “agitated elements,” drawing
+on a well-established cosmological analogy to import the Christian
+discourse about pagan animism into <italic>Solomon and Saturn I</italic>. The “agitation of elements” describes the manipulation
+of the physical universe—either by controlling the weather or
+by magically interfering with subatomic structures. The magic that
+Isidore thus defines is associated with the pagan desire to “animate”
+the elements by imagining them to be gods. The constituents of the
+Old English compound <italic>gebregdstafas</italic> mirror the notion
+of “agitated elements” and, in the context of <italic>Solomon and Saturn I,</italic> turn this connotation toward the characterization
+of dangerous, deceptive text.</p>
+         <p>Just as the cosmological implications of the grammatical term <italic>elementum</italic> reflect on the implications of <italic>stafas</italic>, so the purpose of <italic>gebregd</italic> may be elucidated by
+considering its Latin equivalent, <italic>fallacia</italic>. One key
+clue to the semantic field of <italic>gebregd</italic> is its appearance
+as a gloss in the Lindisfarne Gospels (Matt. 13:22) where <italic>fallacia divitiarum</italic> (deceitfulness of riches) is rendered “gebregdas
+&amp; leasunga þara wlenca.”57 Ealdred, the glossator of the Lindisfarne Gospels, added
+his Old English toward the end of the tenth century, much later than
+the Gospels themselves, which date to the end of the seventh century.
+He is apparently alone in using <italic>gebregd</italic> as such a
+gloss, yet the semantic connection of this word to <italic>fallacia</italic> is reinforced by similar glosses. <italic>Fallacia</italic> is very
+commonly glossed with <italic>leas</italic>, a synonym of <italic>gebregd</italic>, meaning deceit, trick, or illusion. This synonym,
+furthermore, combines with <italic>bregd</italic> in what seems to
+be another pleonastic compound: <italic>leasbregd</italic>, which
+Wulfstan uses in his prose to describe tricks performed by a magician
+who “hiwode þurh drycræft fela leasbregda”
+(shaped many deceits by means of sorcery).58 While these examples suggest the identity of <italic>fallacia</italic> and <italic>gebregd</italic>, other examples demonstrate the association
+of <italic>fallacia</italic> with moral deception, pagan belief, and
+magic. This kind of association is reflected in various figurative
+meanings of <italic>bregdan</italic>—to weave a malicious net,
+to lure or seduce the mind, or to pretend or assume an appearance.59</p>
+         <p> 
+            <italic>Fallacia</italic>, “deceit,” is the concept
+that characterizes both classical philosophy and sorcery in the Bible.
+Solomon's suggestion, in <italic>Solomon and Saturn I</italic> , that
+he has sought wisdom in Greek crafts (lines 4, 201b) associates his
+use of <italic>gebregdstafas</italic> with the precisely the kind
+of sophistry derided by Paul as vain deceit or “inanem fallaciam”
+(Col. 2:8). The term is taken up in Christian apologetics in the work
+of Tertullian and Justin Martyr, who were concerned to distinguish
+Christianity from pagan philosophy and to defend Christianity from
+charges of sorcery. In <italic>De praescriptione hereticorum</italic>, Tertullian characterizes Greek thought as a divided, sectarian
+affair, citing scriptural passages from Timothy, Wisdom, and Colossians
+to oppose worldly knowledge with the knowledge that comes from the “porch
+of Solomon” and which is “sought in simplicity of heart”
+(Wisd. 1:1). The classical verbal arts, rhetoric and dialectic, are “vain
+deceit” and “words which spread like cancer” (2
+Tim. 2:17). In of light this, it may be that <italic>gebregdstafas</italic> refers specifically to the evasive arts of rhetoric and dialectic.
+With the exception of Alcuin of York, who echoes Tertullian's rhetorical
+question from this very chapter of the <italic>praescriptione</italic> in his letter to Higbald of Lindisfarne (793 CE), Tertullian seems
+to have been little known to Anglo-Saxons.60 The assault on Greek learning in Tertullian's text nevertheless
+contributes to a Christian discourse against pagan knowledge that
+was spread through more popular texts and the key terms of which are
+found in the Vulgate. Although Augustine would ultimately rescue classical
+learning from blanket rejection, his <italic>Confessions</italic> frequently
+repeat the accusation that rhetoric is a morally suspicious practice.
+Isidore blames Greek philosophy for the introduction of heresy into
+Christianity, suggesting ideas from specific philosophies that generated
+heretical thought (<italic>Etym</italic>. 8.6.22).</p>
+         <p>A second biblical use of <italic>fallacia</italic> suggests that “deceit”
+is an accusation of duplicity that specifically encompasses magic.
+In the Acts of the Apostles, Paul blinds the magician Elymas, addressing
+him thus: “O full of all guile, and of all deceit, child of
+the devil” (O plene omni dolo et omni fallacia fili diaboli)
+(Acts 13:10). Isidore, too, uses <italic>fallacia</italic> to explain
+the deceptive or illusory nature of magic when he describes how the
+pythoness in 1 Kings (Vulgate) 28:7–19 summoned the shade of
+the prophet Samuel. Can we believe, he asks, that this was really
+Samuel or was it “a fantastic illusion created by the deception
+of Satan?” (si tamen animam prophetae fuisse credamus, et non
+aliquam phantasmaticam inlusionem Satanae fallacia factam?) (<italic>Etym</italic>. 8.9.7).</p>
+         <p>Further examples demonstrate the figuration of classical verbal
+deception as a kind of sorcery rooted in deception about form. In
+Martianus Capella's <italic>De nuptiis Philologii et Mercurii</italic>, Bacchus suggests that Dialectica must be a “Marsian sorceress”
+because her argumentative power is symbolized by a venomous snake;
+she is likewise an “alluring charlatan” (circulatrix pellacissima),
+so vicious rumor would have it, “devoted to deceitful trickery”
+(versipellis studii).61 Martianus's
+word for “deceitful trickery” is <italic>versipellis</italic>, a noun whose predominantly figurative meanings “dissimulation”
+and “craftiness” derive from its literal reference to “skin
+changing.” This noun occurs once in the Vulgate (Prov. 14:25)
+where the Douay-Rheims Version renders it “double dealing,”
+but in book 8, chapter 34 of his <italic>Natural History</italic> (ca.
+77 CE) Pliny explains in some detail how the legends of lycanthropy,
+though apocryphal in themselves, captured the credulous imagination
+enough to convert <italic>versipellis</italic> into a common accusation
+of duplicity.62 One Anglo-Saxon
+source uses this accusation to characterize the Antichrist. In a passage
+about Æthelwold explaining the private offices he offered to
+supplement the regular liturgy, the author recommends petitioning
+for the assistance of the saints “so that protected by their
+merciful intercession we may be found worthy to conquer the manifold
+trickery of the shape-shifting Antichrist” (ut eorum pia intercession
+protecti multiformem uersipellis Antichristi et memborrorum eius fallaciam
+expugnare).63 This passage—in
+a collection of texts compiled at Winchester and which may have been
+written by Æthelwold's biographer—demonstrates the close
+association of ideas represented by <italic>fallacia</italic> and <italic>versipellis</italic>, deceit and shape shifting, in the depiction
+of the Antichrist. <italic>Versipellis</italic> manifests a conceptual
+overlap between its literal and figurative senses and suggests, as
+does <italic>fallacia</italic>, an almost necessary connection between
+physical, intellectual, and moral deception. Just as <italic>versipellis</italic> refers literally to skin changing and figuratively to deception,
+so <italic>gebregdstafas</italic> refers to literally changing “bodies”
+of letters and simultaneously insinuates more sinister forms of deception.</p>
+      </sec>
+      <sec>
+         <title>PAGAN MAGIC AND ANCIENT ALPHABET MYSTICISM</title>
+         <p>If <italic>gebregdstafas</italic> can be rendered “shifting,” “weaving,”
+or “deceptive” letters, it remains to discover a referent
+for that word. Some possibilities are suggested in both the practices
+of and lore about writing that Anglo-Saxons learned from antiquity.
+One suggestive Latin example indicates that a phrase like “literary
+arts,” to revert momentarily to the conventional interpretation
+of <italic>gebregdstafas</italic>, could indeed have been understood
+to connote magic. Pliny's <italic>Natural History</italic>, a text
+whose influence in the medieval encyclopedia tradition was perhaps
+second only to Isidore's <italic>Etymologies</italic>, is especially
+identified as a source of charms and remedies and is thus already
+imbricated in the Anglo-Saxon discourse on magic.64 In book 14, chapter 5 of the <italic>Historia</italic>, Pliny recounts Rhemmius Palaemon's near miraculous feats of husbandry
+on his estate near Rome. The productivity of this estate was such
+that Palaemon's neighbors could only assume that it was a result of <italic>litterus eius altioribus</italic>. Rackham translates this “exceedingly
+profound studies,” extending the “depth” of <italic>altus</italic> to metaphor and taking <italic>litterae</italic> to
+encompass the entire field of literary learnedness (as the plural
+frequently did in both classical and medieval Latin).65 Referring to this passage in Pliny, the <italic>Oxford Latin Dictionary</italic> lists “magic” as the
+meaning of <italic>litterae altiores</italic> and other senses of <italic>altus</italic> demonstrate how this meaning might be derived.66 <italic>Altus</italic> means both “high”
+and “deep” and therefore figuratively not only “ancient”
+or “profound” but also “secret.” Rendering
+Pliny's phrase as “most ancient knowledge” or “deeply
+secret learning” begins to demonstrate the mystical valences
+suggested both by the context of the <italic>Natural History</italic> and by the dictionary definition but that is passed over by Rackham's
+more cautious translation. Dictionaries that concur in this interpretation
+of <italic>litterae altiores</italic>, however, all cite only this
+example from the <italic>Natural History</italic>. There is no other
+evidence that “profound learning” was necessarily understood
+by ancient or medieval authors as an insinuation of magical knowledge.</p>
+         <p>As I suggested above, however, <italic>gebregdstafas</italic> might
+refer to the various forms of cryptography that involved transposing
+letters but whose simple method nonetheless implied something far
+more mysterious. Rendered literally as “weaving” or “woven”
+letters, <italic>gebregdstafas</italic> links the “jumbling”
+of letters with insinuations of magic. The idea that letters themselves
+were the locus of mystical power was very familiar to Anglo-Saxons
+not only through their runic legacy but through the conventional texts
+that disseminated classical ideas about writing. Many strains of alphabet
+mysticism derive from venerable Hellenistic and Judaic mystical traditions,
+but aspects of these traditions had already been absorbed by grammar
+and disseminated in Anglo-Saxon England by means of traditional grammar
+books as well as the ubiquitous <italic>Etymologies</italic> of Isidore.
+E. R. Curtius notes that Isidore's acceptance and transmission of “a
+magico-mystical concept of the very elements of writing . . . was
+of great moment for succeeding times.”67</p>
+         <p>The synopsis of Latin grammar that constitutes book 1 of the <italic>Etymologies</italic> mingles grammatical, historical, and mythical
+knowledge about letters, noting where different alphabets originated
+and who invented them. Here, in the most influential of medieval encyclopedias,
+we find, as Curtius suggests, clear if unsystematic evidence of mysticism.
+The Egyptians, Isidore reports, had two kinds of writing: one for
+common people and also “priestly letters” known in Greek
+as sacred letters (<italic>Etym</italic>. 1.3.4). He also explains
+how Pythagoras saw the letter <italic>upsilon</italic> as a “symbol
+of human life” by decoding the symbolic purpose of each part
+of the letter's shape. The Greeks had “five mystical letters,”
+which included alpha and omega, “so that the Lord might show
+himself in the movement from the beginning to the end, and the movement
+of the end to the beginning” (<italic>Etym</italic>. 1.3.7–9).
+These examples demonstrate the polysemous capacities of letters; they
+signify linguistically by standing for sounds, but they also signify
+symbolically according to their shape. In the case of Greek letters
+their mystical capacity appears to derive from this symbolism, but
+the symbolism of alpha and omega derives also from their position
+in the alphabetical system so that alphabetical order becomes a cosmological
+metaphor revealing the presence of God in a dialectic of divine time.
+Thus, Isidore's sketches of alphabetical writing transmit the complexity
+of letters as signs that overflow their phonetic function and that
+can be “read” symbolically and ideographically. This kind
+of reading is possible even for common letters of the Latin alphabet,
+but it takes on mystic significance with regard to the specially designated
+letters of Greek and, apparently, to distinct “sacred”
+alphabets known only to priests. Isidore's “priestly letters”
+presumably refer to the use of hieroglyphics, but they elicit comparison
+to similar secret writing systems more familiar to Anglo-Saxons, like
+the secret alphabet of Pachomius described by Jerome or the “strange
+letters” of Aethicus Ister. While the former is mystical and
+divinely sanctioned and the other is exotic and somewhat uncanny,
+both suggest a concrete referent for <italic>gebregdstafas</italic>.</p>
+      </sec>
+      <sec>
+         <title>THE ALPHABETS OF PACHOMIUS AND AETHICUS</title>
+         <p>Solomon was legendarily associated with alphabet magic. The <italic>Clavicula Salomonis</italic>, for example, a magical treatise attributed
+to Solomon, composes incantations from “names of power”
+and combinations of letters.68 As Joseph Dan explains, a “belief that the force within letters
+of the Hebrew alphabet is the source of the creation of the cosmos”
+is apparent in more conventional rabbinic literature, as well as in
+the practices of mystics that depended on the divine significance
+of numbers, names, and letters. These mystics used “a special
+way of writing the Hebrew characters, intended to be secret and mystifying,
+sometimes called the ‘alphabet of angels' or the ‘alphabet
+of Metatron.’”69 Within the Christian tradition, the knowledge of a similar mystic
+alphabet was imputed to the Egyptian abbot Pachomius. In the early
+fourth-century Egypt of Pachomius, the boundaries between Christianity,
+Gnosticism, and the Hellenistic-Jewish esotericism associated with
+Alexandria were fluid.70 Although
+Pachomius certainly rejected Gnosticism, and presumably also rejected
+the more esoteric alphabetism associated with Gnostics, his use of
+the Greek alphabet as the organizing principle at his own monastery—as
+described in his monastic rule—is a key example of the “alphabetic
+thinking” that shaped medieval grammatical discourse.71 Although no copy of Saint Jerome's
+preface to his Latin translation of the <italic>Rule of St. Pachomius</italic> survives in Anglo-Saxon manuscripts, the legend of Pachomius appears
+to have been well known.72 Pachomius
+is quite prominently figured in Anglo-Saxon art; his reception of
+a divine message is depicted, for example, in the important Leofric
+Missal. Just as his reception of divine knowledge of monastic origins
+from an angel appears to be a moment of fascination to Anglo-Saxon
+illustrators, so the esoteric reaches of late antique Judaism are
+firmly echoed in apocryphal and pseudoepigraphical literature, especially
+in the Book of Enoch's “the scribe of righteousness,”
+which exercises well-attested influence in Anglo-Saxon culture.73</p>
+         <p>The figure of Pachomius combines divinely inspired messages and
+the knowledge of secret alphabets. The story of his reception of his
+monastic rule is told in Gennadius's continuations to Jerome's <italic>De viris illustribus</italic> (ca. 392 CE). Gennadius reports that
+Pachomius communicated with his bishops Cornelius and Cyrus “in
+an alphabet concealed by mystic sacraments so as to surpass customary
+human knowledge and only manifest to those of special grace or desert.”74 Gennadius's language reflects Jerome's
+preface to his Latin translation of the Pachomian rule, where Jerome
+explains that Pachomius and his associate bishops communicated <italic>per alphabetum speciale</italic>. Jerome's Latin construction mirrors
+precisely <italic>Solomon and Saturn I</italic> 's <italic>þurh gebregdstafas</italic>. This is not to say that Jerome's
+phrase exerted a direct influence on the native poem. It does, however,
+demonstrate how we can understand the letters of <italic>gebregdstafas</italic> to be the instrument through which Solmon “unlocks”
+the learning of the ancient world. Jerome's prior characterization
+of Pachomius's knowledge of a divinely delivered <italic>linguae mysticae</italic> and the following description of the purpose of this “special
+alphabet” to “[conceal] profound ideas with certain signs
+and symbols” mystifies this alphabet, conflating the relatively
+mundane capacity of encryption with the “secrecy” of divine
+language.</p>
+         <p>Byrhtferth of Ramsey gives a vernacular account of Pachomius's
+divine inspiration in his <italic>Enchiridion</italic>, with the notable
+difference that in Byrhtferth's version Pachomius receives a method
+for calculating the Paschal feast rather than a monastic rule; he
+received this Paschal rule in a message delivered by an angel and
+written in “gyldenan stafas” (golden letters).75 The Leofric Missal illustrates
+this divine transmission of Easter calculations, depicting Pachomius
+beneath the giant hand of God that reaches down with a mnemonic verse
+in multicolored letters written along the length of each finger. The
+title on this folio describes the picture, how “the dextera
+nam domini fulget cum floribus paschae” (God's right hand “shines”
+with many colored letters)76 and might accurately be described in Old English as “bregdan
+on bleom,”77 if the many
+colors of the inscription on God's hand represent letters in the process
+of shifting through a sequence of colors necessarily frozen by the
+exigencies of art, rather than a set of letters each of which has
+its own color.78 The meaning
+of “sudden movement” attested by Old English <italic>gebregd</italic> and Old Norse <italic>bragð</italic> ultimately referred to “shining”
+or a “bright brown” color.79 Among its many uses the verb <italic>gebregdan</italic> retained some vestige of this origin—the flash of a suddenly
+drawn sword also recorded in <italic>Solomon</italic> 
+            <italic>and
+Saturn I</italic> (line 164; cf. “heorogrim hringmæl gebræd”
+[<italic>Beowulf</italic>, line 1564]) or the flash of lightning described
+in Ælfric's “Life of St. Thomas” (line 226).80 The colorful letters drawn on the
+hand of God in this image are, in other words, a potential referent
+for <italic>gebregdstafas</italic> : writing whose mysterious
+power is signified by letters shining or shifting in color.</p>
+         <p>The secret alphabet associated with Pachomius, and the shining
+letters that signify divinely empowered writing, are positive models.
+A second “secret alphabet” that piqued the curiosity of
+learned Anglo-Saxons suggests an earthly, and perhaps more suspicious,
+alternative. This alphabet, appearing in the eccentric <italic>Cosmographia</italic> of Aethicus Ister, stands out among the many alphabets found in
+Anglo-Saxon manuscripts chiefly because of its enigmatic, fantastical
+character.81 O'Brien O'Keeffe
+has shown the connection between <italic>Solomon and Saturn II</italic> and the <italic>Cosmographia</italic>.82 Recent scholarship, furthermore, increasingly associates
+the <italic>Cosmography</italic> with England: Michael Herren has
+shown the extensive Greek influence in the Latin of Aethicus, and
+Richard Pollard argues that this Greek influence and some specific
+sources of the <italic>Cosmography</italic> connect Aethicus with
+Theodore's Canterbury School, one of the only western centers where
+Greek was likely to be known.83</p>
+         <p>Toward the end of the eighth century, Koena, archbishop of York
+(also known as Ælbert or Æthelbert) wrote a letter to
+Lullus, the Anglo-Saxon archbishop of Mainz, who had inquired about
+certain books. Lullus's letter has not survived, but Koena's reply
+describes Aethicus's strange alphabet as <italic>litterae permolesta</italic> (most troublesome letters).84 The <italic>Cosmography</italic>, which claims to be a translation
+by Jerome of a Greek treatise by an original Istrian author called
+Aethicus, is well known to scholars as an elaborate literary fraud,
+filled with difficult punning in Latin as well as a high proportion
+of Grecisms and transparently owing a good deal of its geography to
+other sources. The fraudulent author of the Aethicus treatise would
+have seen Jerome as a convincing attribution for his work (given his
+authority as a church father and also his fame as a translator of
+the Bible), but this author perhaps also perceived Jerome to have
+an interest in the mystical properties of writing that would lend
+further credence to the “troublesome alphabet” that stood
+out to Koena. That Jerome had such an interest may be gleaned from
+his preface to the <italic>Rule of St. Pachomius</italic> as well
+as from his correspondence and treatises explaining the meaning of
+Hebrew letters.85 In the preface,
+Jerome indicates that wherever he found evidence of Pachomius's secret
+writings, he copied them down. To a learned reader who knew Jerome's
+preface, the “secret alphabet” at the end of the pseudo-Jeromian
+cosmography of Aethicus would certainly seem an example of this diligence.
+The “secret alphabet” of Aethicus endured to pique the
+interest of Hrabanus Maurus, who included it among the alphabets in
+his <italic>De inventione linguarum</italic>.86 Hrabanus's interest in ciphers is famously manifest
+in the encrypted poems of <italic>De laudibus sanctae crucis</italic>.87 These poems visually connect
+the symbolism of letter forms and the mystical capacities of ciphers.
+Such visual poems, which lay letters out in a grid pattern, are perhaps
+another example of what “weaving letters” might be.</p>
+         <p>Despite the title, which Wilhelm Levison suggests must be an error
+for <italic>litterarum</italic>,88 Hrabanus's <italic>De inventione linguarum</italic> is in fact a
+brief catalog explaining the origin of alphabets: from Hebrew and
+Greek to cryptographic monograms and a rather fanciful runic alphabet “cum
+quibus carmina sua incantationes que ac divinationes significare procurant
+qui adhuc paganis ritibus involvuntur” (with which charms they
+attempt to show their magic or predictions who are still involved
+in pagan rites).89 Hrabanus
+seems to have believed Aethicus to have been a real person, or he
+saw fit to perpetuate the joke, when he provided biographical details
+such as that the Istrian philosopher was of a noble family. Hrabanus
+notes that Jerome has “magnificently and diligently explained”
+these letters, but nonetheless at this point in his treatise Hrabanus
+appears to grow nervous: he defends his inclusion of Aethicus's alphabet
+by asserting that even Jerome wished to spread the knowledge of it
+(“ideo et ejus litteras maluit promulgare”). Furthermore,
+Hrabanus invites correction, if he has been led astray (“si
+in istis adhuc litteris fallimur”).90 These were still to Hrabanus, as they were to Koena, “troublesome
+letters.” Their shapes, familiar enough to be recognized as
+letters and yet including complex curves reminiscent of astrological
+symbols, seem to have left an uncanny impression.91</p>
+         <p>Koena was Alcuin's teacher at York, Alcuin taught Hrabanus at Tours,
+and Hrabanus in turn would eventually accede to Lullus's archepiscopal
+see of Mainz. The shared offices and personal relationships between
+these learned men suggest a clear path for the transmission of knowledge
+about the Aethicus treatise, which we could imagine was more familiar
+to them than its eccentricity suggests. Their responses to these “troublesome
+letters,” like the legendary secret alphabet of Pachomius and
+the letters shining forth on the hand of God, demonstrate an underlying
+concern about the materiality of letters. Letters are “elements”
+and bodies, and as such they are thoroughly and directly implicated
+in a Christian discourse about the relationships between spirit and
+matter.</p>
+         <p>The complex semantic field associated with <italic>gebregstafas</italic> suggests that the literate Anglo-Saxon fascination with runes, exotic
+alphabets, and cryptography results from seeing these forms of writing
+as manifestations of the occult semiotic properties of all writing.
+Like their ancient predecessors, learned Anglo-Saxons perceived in
+writing the ability to make knowledge secret by transposing one thing
+into another. This secrecy might be created by using encryption, by
+jumbling or substituting letters, but it also evokes wariness in a
+Christian discourse that stigmatized pagan erudition as a form of
+deceit by associating it with the false transformations of magicians. <italic>Gebregdstafas</italic> refers simultaneously on abstract and concrete
+levels. The compound refers to letters that are jumbled like secret
+codes or that, like the demons of the poem, have shifting and untrustworthy
+material forms. It also connotes a kind of deceit that is associated
+at best with pagan literacy and at worst with the shape shifting of
+demons—a deceit semantically rooted in rapid motion.</p>
+         <p>Thinking of <italic>gebgregdstafas</italic> in this way, we can
+see how <italic>Solomon and Saturn I</italic>, strange as it is, nonetheless
+dramatizes the conventional cosmological tropes of grammar, taking
+the idea that letters are both elements and bodies to a logical but
+bizarre scene of animation. When Saturn claims in the opening lines
+of the poem that he has unlocked the wisdom of the ancient world “þurh
+gebregdstafas,” we can see his claim as something both more
+concrete and more sinister than that suggested by the conventional
+translation. It is not simply through his own “literary arts”
+that Saturn understood these books but through a particular kind of
+writing. Taken literally torefer to deceptive or dangerous letters,
+this word suggests that Saturn “decrypted” his ancient
+sources. The idea that these books “buried” their knowledge
+in cryptic letters resonates with the verbs Saturn uses for reading, <italic>onbyrgan</italic> (to eat or consume) and <italic>onlūcan</italic> (to unlock), both of which are also metaphors of interring (in the
+body) and revealing. Metaphorically, if not literally, the books he
+studied were encrypted, magical, and dangerous. Solomon's response—to
+describe the mystically empowered letters of the Pater Noster—suggests
+he perceived Saturn's meaning, opposing his own legitimate form of
+magically shifting letters to the mysterious alphabets of Saturn's
+books.</p>
+      </sec>
+   </body>

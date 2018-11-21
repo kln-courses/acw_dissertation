@@ -1,0 +1,319 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>While the pharaonic rock inscriptions along the ancient routes crossing the Eastern and Western Deserts of Egypt consist primarily of names and titles, these and the occasional lengthier text permit the reconstruction of the activities of the numerous travelers and expeditions that passed through the wadi systems of the regions from the Predynastic through the Roman Periods. Adding to those previously published from other sites in the Eastern Desert,<sup>1</sup> the volume by Rothe, Miller, and Rapp—<italic>Pharaonic Inscriptions from the Southern Eastern Desert of Egypt</italic> (<italic>PISEDE</italic>)<sup>2</sup>—presents the first publication of a number of rock inscriptions in the Eastern Desert beyond Qena, Edfu, and Kom Ombo.</p>
+      <p>
+         <italic>PISEDE</italic> consists of six chapters and two appendices. Following an overview of the University of Minnesota Eastern Desert Expedition and a cursory discussion of pharaonic Egyptian activity in the Eastern Desert, chapter one primarily devotes itself to a description of the environment—geography, climate, geology, population, and available water resources. Chapters two through four cover the watersheds of Qena, Edfu, and Kom Ombo, grouping the inscriptions of each watershed according to the individual wadi systems. Chapter five covers Wadi Abu Agag and Wadi al-Alam, in the hinterlands of Aswan and Mersa Alam respectively. The publication of each individual inscription includes a short description of its setting, GPS coordinates, a photograph, a hieroglyphic transcription, transliteration, and translation. The final chapter presents the authors’ conclusions based on an analysis of their ArcGIS database that integrates the content of the inscriptions with geographic data. Appendix A consists of a palaeography; Appendix B—the GIS database—consists of indices of inscriptions, personal names, titles, royal names, divine names, place names, and wadis.</p>
+      <p>While providing useful information often overlooked by epigraphic studies, the authors neglect fundamental conventions necessary for a comprehensive epigraphic publication. Although the authors demonstrate recognition of the form of epigraphic publication, their final product disregards the goals and purpose of epigraphy and lacks sufficient content to realize the potential of the material. The introductory geographical and geological descriptions of the Eastern Desert explain the physical context of the inscriptions; nevertheless, the cursory discussion of ancient Egyptian motivations for activity in the Eastern Desert avoids extensive discussion of the Egyptian exploitation of mineral resources. Gold was perhaps the predominant mineral resource attracting Egyptian mining activity in the Eastern Desert,<sup>3</sup> and the extensive deposits of sandstone, granite, greywacke, marble, copper, galena, emerald, feldspar, and amethyst<sup>4</sup> were in greater demand—for both trade and cultic purposes—than the cassiterite (tin ore) that the authors regard as a significant mineral of interest in the region.<sup>5</sup>
+      </p>
+      <p>Although the authors attempt to derive palaeo-climatological conclusions from zoomorphic petroglyphs (<italic>PISEDE</italic>, 9), they do not properly publish those images, and they ignore other motivations—such as religion, ideology,<sup>6</sup> and human impact on the environment<sup>7</sup>—for the presence and absence of specific fauna in the petroglyphic record. From their earliest appearance in Egyptian rock art, zoomorphic images carry a complex socio-religious symbolism tied to a burgeoning religious ideology,<sup>8</sup> but the authors of <italic>PISEDE</italic> ignore this.</p>
+      <p>The publication of the inscriptions in <italic>PISEDE</italic> mimics standard rock inscription publications, providing data for several fundamental categories of information; nevertheless, the content is often too brief or incomplete. The inclusion of GPS coordinates aids in identifying inscriptions belonging to a given cluster, but the publication fails to recognize an essential contribution of the GPS data by not diagramming the relationships.<sup>9</sup> The textual descriptions are similarly brief, providing no information on the manner of carving, while measurements for the extent of inscription clusters, the size of individual inscriptions, or their height above the wadi floor exist in only two cases (<italic>PISEDE</italic>, 278 [BZ32] and 279 [BZ33] are described as lying 10m above the wadi floor). Speaking directly to issues of visibility, accessibility, and the ancient processes governing the placement of inscriptions, measurements are present in all strong epigraphic publications of rock inscriptions, and this informational lacuna restricts the usefulness of the data.</p>
+      <p>The many inaccuracies range from the stylistic to the theoretical, the latter manifesting deeper conceptual errors and inconsistencies. For example, the scale of the hieroglyphic transcription varies considerably between inscriptions, with the majority being significantly larger than is standard practice—compare AW02, HG03, and MD07. This use of often gargantuan transcriptions stems from an apparent confusion between the notion of ‘epigraphic copy’ or ‘facsimile,’ published at the same scale as the photograph of the inscription, and ‘hieroglyphic transcription,’ which should follow standard conventions of transcription.<sup>10</sup> On a number of occasions the authors employ a hieroglyphic sign, usually at a very large scale, to represent a non-inscriptional image. The use of A27 in BR46<sup>11</sup> to transcribe the carved figure—a man, standing with his head turned over his shoulder, displaying traces of a short beard and wearing a short kilt with a feature protruding from the waist, perhaps a knot or a knife—ignores the considerable detail present. The authors’ use of standard hieroglyphs to render the purely representational DN26<sup>12</sup>—a falcon resting within the cabin of a barque, the stern and prow of which terminate in falcon-headed <italic>aegides</italic>—eclipses the significance of the image, which finds its closest parallel in the barque of Horus of Edfu, during the festival of <italic>Bḥd.t</italic>.<sup>13</sup> This barque—generally with falcon-headed <italic>aegides</italic>—is depicted carrying a smaller processional barque, also with falcon-headed <italic>aegides</italic>, which houses the cult statue of Horus of Edfu. The complete absence of epigraphic copies of the inscriptions reveals a lack of understanding of the goals and process of epigraphy.<sup>14</sup>
+      </p>
+      <p>Typographical errors and reading errors abound:</p>
+      <p>
+         <bold>Inscription BR19</bold> (<italic>PISEDE</italic>, 132): The authors transcribe <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig1.tif"/> though the inscription clearly reads <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig2.tif"/>, as originally published by Žába;<sup>15</sup> nevertheless, they retain Žába’s transliteration <italic>nfr(w).t</italic>.</p>
+      <p>
+         <bold>Inscription SL09</bold> (<italic>PISEDE</italic>, 228): The transcription of the name is more correctly <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig3.tif"/>, as per Green’s original publication,<sup>16</sup> a variant orthography of the well-attested name M<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig105.tif"/>ἰ “the lion.”<sup>17</sup>
+      </p>
+      <p>
+         <bold>Inscription SL10</bold> (<italic>PISEDE</italic>, 229): While G1 (<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig4.tif"/>) and G21 (<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig5.tif"/>) may be frequently confused, the transcription of this name is more correctly <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig6.tif"/>.<sup>18</sup>
+      </p>
+      <p>
+         <bold>Inscription BZ03</bold> (<italic>PISEDE</italic>, 251): Although the authors transcribe <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig7.tif"/>, the photograph clearly reveals <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig8.tif"/>. Orthographies of <italic>nḫt</italic> with <italic>ḫ</italic> and <italic>t</italic> transposed beneath the striking arm do occur;<sup>19</sup> however, inscription BZ03 shows a clear hieratic <italic>w</italic>-coil,<sup>20</sup> which is orthographically interesting in an otherwise hieroglyphicizing inscription.</p>
+      <p>
+         <bold>Inscription BZ15</bold> (<italic>PISEDE</italic>, 262): In the absence of an epigraphic copy it is impossible to determine whether the determinative is a seated or standing man. The typographic error between <italic>rḫ</italic> and <italic>rẖ</italic> shows a lack of careful editing, as does the disagreement between the transcription and the name cited in the commentary. The name <italic>S<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig106.tif"/>-’Imn-rḫ</italic> is unattested, suggesting either that this individual is designating himself according to his filiation (<italic>s<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig107.tif"/>’Imn-rḫ</italic>) or through filiation to another inscription at the site; however, the lack of location charts clearly illustrating the relationships between inscriptions makes this impossible to verify (striations in the rock suggest that BZ15 and BZ16 may belong to a single inscription).</p>
+      <p>
+         <bold>Inscription BZ27</bold> (<italic>PISEDE</italic>, 273): The published transcription omits a <italic>t</italic> and a <italic>w</italic>-coil; the inscription is more correctly read <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig9.tif"/>. Possibly the same individual named in BZ03, this confirms the variant reading of the name recorded there.</p>
+      <p>
+         <bold>Inscription BZ29</bold> (<italic>PISEDE</italic>, 275): In inscriptions MN34, BR42, and BR49 the authors record and correctly read a personal name <italic>S<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig108.tif"/>-Ἰbsk</italic>.<sup>21</sup> Although these occurrences appear to have influenced their reading of BZ29, in the latter inscription they have neglected to transcribe and transliterate the initial <italic>nb</italic>-sign of the name, which should be read as <italic>S<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig109.tif"/>-nb&lt;.t&gt;-Ἰbsk</italic>.<sup>22</sup>
+      </p>
+      <p>
+         <bold>Inscriptions DN05, DN07–9</bold> (<italic>PISEDE</italic>, 288, 290–92): The authors incorrectly render the name recorded in these four inscriptions, which is, more correctly, the well-attested name <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig10.tif"/>.<sup>23</sup> One inscription (DN05) records the variant orthography <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig11.tif"/>, which may represent a more complete writing of the name <italic>Śn=ἰ-nfr</italic>.</p>
+      <p>
+         <bold>Inscription ML03</bold> (<italic>PISEDE</italic>, 349): The authors’ transcribed <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig12.tif"/> is more correctly <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig13.tif"/>, a variant orthography of <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig14.tif"/>
+         <italic>nby</italic>, “goldworker.”<sup>24</sup>
+      </p>
+      <p>
+         <bold>Inscription DG09</bold> (<italic>PISEDE</italic>, 196): The published transcription <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig15.tif"/> contradicts the transliteration and translation <italic>Ἰry</italic>; the latter name is well attested, often lacking a seated person determinative, whereas <italic>Ἰty</italic> always exhibits two reed leaves.<sup>25</sup>
+      </p>
+      <p>The difficulty in reconstructing DG09 highlights one of many problems with the photographs in <italic>PISEDE</italic>, which vary greatly in quality and flaunt a number of photographic conventions usual in epigraphy. Most notable is the absence of a scale, particularly unfortunate given the lack of measurements for the individual inscriptions. On the whole, the lighting of the inscriptions is poor, and the use of chalk to facilitate visibility often obscures details by attributing equal value to the inscription and nonessential features of the rock face.<sup>26</sup> A number of the photographs as published omit elements of the inscriptions: inscription BZ26 drifts upward, out of the top-left edge of its photograph; the photograph of DN18 cuts off the inscription at both the top and bottom right, where remaining traces suggest the presence of a column of text abutting the <italic>p<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig110.tif"/>ἰ ḥry;</italic> the photograph of DN21 cuts off a standing or seated man at the lower right-hand side. The photographs for BR65 hinder a clear reading of the inscription; described as “one line of text, possibly two inscriptions,”<sup>27</sup> the entry displays two separate and fuzzy photographs, whose relationship remains equally unclear, and the left hand photograph cuts off a section of carving, perhaps a fragment of a Coptic cross, not reproduced elsewhere in the volume.</p>
+      <p>The commentaries are brief, avoiding in-depth discussions of titles, names, palaeography, dating, or context—philological or historical.<sup>28</sup> Although we know of gold workings in the Eastern Desert of Egypt and Nubia, considerable amethyst mining in the Wadi el-Hudi, and primarily later remains from Mons Porphyrites, the authors make no attempt to integrate the inscriptional evidence with the geographic and archaeological contexts of the wadi systems in which those inscriptions occur.</p>
+      <p>The GIS database, merging information from the inscriptions with geographic data, facilitated the production of maps that provide excellent geographic context for the inscriptions. These maps provide an overview of the project area (Figure 1–1), map individual watersheds and their relationship to the regional geography (Figure 3–1), reveal the presence of small—often overlooked—wadi systems within a watershed, and indicate the location of inscriptions (Figure 4–2). Nevertheless, discrepancies between any dating criteria listed within the descriptions of individual inscriptions and those listed as part of the GIS database are difficult to explain. Only 21.88% of inscriptions have a date assigned in their individual commentaries; however, the database at the back lists dates for 70.99% of the inscriptions, the latter seemingly drawn from previous publications.</p>
+      <p>Discrepancies in the palaeography suggest that the authors of <italic>PISEDE</italic> compiled it <italic>post factum</italic> from the photographs, rather than from the original inscriptions, an unfortunate albeit inevitable outcome from the lack of epigraphic drawings. For example, though the volume records three attestations of the <italic>wḥm</italic>-leg,<sup>29</sup> a comparison of the palaeography with the inscriptions necessitates three significant corrections: the palaeography of all three <italic>wḥm</italic>-legs deviates significantly from standard hieratic palaeography,<sup>30</sup> more closely resembling that of the <italic>b</italic>-leg; the SL05<sup>31</sup> attestation should be changed to include its characteristic cross as the photograph clearly displays a standard <italic>wḥm</italic>-leg shape; two attestations of the <italic>wḥm</italic>-leg should be removed—the sign in BZ33<sup>32</sup> is more accurately a <italic>rd</italic>-leg in the title <italic>
+            <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig111.tif"/>ṯw n ṯ.t ḥḳ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig112.tif"/>
+         </italic>,<sup>33</sup> “Officer of the Royal Bodyguard;” the KN06<sup>34</sup> attestation is a <italic>b</italic>-leg in the toponym <italic>Nḫb</italic>, this inscription more correctly reads <italic>sš Ḥry-ἰry n Nḫb</italic> “the scribe, Heryiry of Nekheb.”<sup>35</sup> Errors in reading individual inscriptions have resulted in a number of incorrect entries in the palaeography. In BR40, despite transcribing the second sign as an <italic>aleph</italic>-vulture, the authors include it in the palaeography under the quail chick (G43). As a result, the palaeography must be used only with constant reference to the photographs.</p>
+      <p>Although the foregoing critique demonstrates the greatest advantages and most glaring problems with the publication, certain inscriptions of particular significance demand fuller treatment. Short of returning to the sites to re-examine the originals, the significance of many an inscription in the volume is lost. Nevertheless, the following corrections—far from all one might make—endeavor to correct inaccuracies and omissions, and demonstrate the nature, scope, and potential of these corpora.</p>
+      <p>
+         <bold>Inscription AW04</bold> (<italic>PISEDE</italic>, 21) (Figure 1): The commentary to this inscription—palaeographically dateable to the terminal Old Kingdom or early Middle Kingdom—neglects its primary significance: a rare occurrence of <italic>ἰʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig113.tif"/>w</italic> as a stand-alone title designating a named individual (provided the photograph does not omit any text preceding the <italic>ἰʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig114.tif"/>w</italic>). Again, a proper epigraphic copy of the inscription would be most helpful. Occurring most commonly in the title <italic>ἰmy-r<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig115.tif"/>ἰʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig116.tif"/>w</italic> “Overseer of Egyptianized Nubians,”<sup>36</sup> only four attestations exist for stand-alone <italic>ἰʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig117.tif"/>w</italic> outside of <italic>PISEDE</italic>, twice each during the Old Kingdom and the First Intermediate Period, never referring to a named individual.<sup>37</sup> The presence of no fewer than three inscriptions among the <italic>PISEDE</italic> corpora (AW04, MN21, and BR40) necessitates either a revision of our understanding of the designation or a revisit to the originals to assess them for missing text. The omission of an <italic>ayin</italic>-arm above the <italic>ἰʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig118.tif"/>w</italic> in the transcription is further evidence of the need for an epigrapher with sufficient background to ascertain pertinent elements for transcription.<fig id="fg1" position="float" fig-type="figure">
+            <label>Figure 1.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription AW04.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg1.tiff"/>
+         </fig>
+      </p>
+      <p>The final sign in the inscription is the <italic>smn.ty</italic>-: <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig16.tif"/>,<sup>38</sup> apparently the determinative of a personal name terminating in <italic>ἰb</italic>.<sup>39</sup> Although the authors’ proposed <italic>W<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig119.tif"/>r</italic> is known from a single attestation of Greco-Roman date,<sup>40</sup> such a date conflicts with both palaeography and title; the name <italic>W<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig120.tif"/>r-ἰb</italic> is unattested. The reading <italic>W<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig121.tif"/>ḫ-ἰb</italic> is possible, though this too is a primarily Greco-Roman idiom.<sup>41</sup> Although a reading <italic>Ḏr-ἰb</italic> would involve an early attested idiom, reading the initial sign as <italic>ḏr</italic> is palaeographically difficult.<sup>42</sup> The name is perhaps a Nubian or hybrid Nubo-Egyptian name.<sup>43</sup> We suggest the following transcriptions: <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig17.tif"/> or <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig18.tif"/>.</p>
+      <p>
+         <bold>Inscription BB04</bold> (<italic>PISEDE</italic>, 29) (Figure 2): Despite being a palimpsest of both pharaonic and Coptic period contributions, the authors disregard the Coptic material, and offer no epigraphic copy, transcription, transliteration, or translation of the pharaonic inscription. A large, detailed carving of a falcon faces the vertical inscription <italic>nb hbn</italic>, the whole apparently writing <italic>Ḥr nb Hbn</italic>, “Horus, Lord of Buhen,” both <italic>Hb</italic> and <italic>Hbn</italic> being attested orthographies of <italic>Bhn</italic>.<sup>44</sup>
+         <fig id="fg2" position="float" fig-type="figure">
+            <label>Figure 2.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription BB04.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg2.tiff"/>
+         </fig>
+      </p>
+      <p>The mistakenly-identified flail and dual crown penetrate the head of the falcon and are certainly a palimpsest, perhaps associated with the Coptic period contributions. The other Coptic additions consist of a schematic cross and an inscription, cut off in the photograph. The surviving inscription reads: (1) <bold>α<sc>nok</sc>π<sc>ic</sc>
+         </bold> [. . .] (2) <bold>
+            <sc>π</sc>αζω</bold>[<bold>
+            <sc>M</sc>
+         </bold>][. . .], perhaps “(1) I, Pis[rael] [. . .] (2) Paho[m],” both of which are common Coptic names.<sup>45</sup> Alternatively, the inscription could read “(1) I, the [. . .] (2) Paho[m].” The presence of Coptic inscriptions demonstrates the continued use of this route into late antiquity.</p>
+      <p>
+         <bold>Inscription MN03</bold> (<italic>PISEDE</italic>, 51) (Figure 3): The sign rendered as A17 is <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig19.tif"/>, and the two horizontal signs below the quadruped are more likely the phonetic complements <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig20.tif"/>. The inscription may represent a double column, with both the <italic>ἰmy-<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig122.tif"/>
+         </italic> and <italic>sš</italic> dependent upon a larger, common <italic>smn.ty</italic>: (1) <italic>ἰmy-r<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig123.tif"/> smn. ty(w) sš smn.ty(w)</italic> (2) <italic>ʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig124.tif"/>
+         </italic>, “Overseer of the <italic>smn.ty(w)</italic> and scribe of the <italic>smn.ty(w)</italic>, Aa.”<sup>46</sup> While <italic>ʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig125.tif"/>
+         </italic> appears to be a hitherto unattested name, a possible parallel, with different orthography, is the apparent personal name <italic>ʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig126.tif"/>
+         </italic>, from Bab Kalabscha written <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig21.tif"/>.<sup>47</sup> Alternatively, the animal may be a representation of the Seth animal, which can display a more walking appearance, rendering the name <italic>ʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig127.tif"/>-Stḫ</italic>.<sup>48</sup> Both <italic>ἰmy-r<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig128.tif"/> smn.tyw</italic> and <italic>sš smn.tyw</italic> are well attested in an expeditionary context.<sup>49</sup> The authors’ suggestion—the unattested <italic>ἰmy-r<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig129.tif"/> sš ʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig130.tif"/>
+         </italic>, “the overseer of scribes of donkeys”—is startling and comical; this unattested title would parallel other scribal titles such as “scribe of the army” or “scribe of Asiatics”—in the construction <italic>sš</italic> X, the scribe functions on behalf of X<sup>50</sup>—suggesting that donkeys were sending and receiving written communications.<sup>51</sup>
+         <fig id="fg3" position="float" fig-type="figure">
+            <label>Figure 3.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription MN03.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg3.tiff"/>
+         </fig>
+      </p>
+      <p>
+         <bold>Inscription MN15-18</bold> (<italic>PISEDE</italic>, 63–64): These are relatively long texts that contain at least one royal name, but illegible photographs and the lack of an epigraphic copy again render the publication essentially unhelpful. This set of inscriptions also receives treatment by Almásy and Kiss, who read the cartouches of Queen Sobeknofru,<sup>52</sup> although the signs as they copy them are somewhat difficult to reconcile entirely with such a reading. These inscriptions definitely merit a proper epigraphic copy.</p>
+      <p>
+         <bold>Inscription BR05</bold> (<italic>PISEDE</italic>, 115) (Figure 4): The suggestion in <italic>PISEDE</italic> of <italic>ḥry ἰry (n) ἰky n Ἰmn</italic> is more correctly <italic>ḥry ἰky n Ἰmn</italic>, <italic>ἰky</italic> displaying a transposed orientation of the first two signs: <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig22.tif"/>.<sup>53</sup> The authors correctly note a parallel within the corpora (MW02), though they incorrectly transcribe and transliterate the title there as well. MW02 more correctly reads <italic>ḥry ἰky n Ἰmn sš n nbw.t H̱nmw-nḫtw</italic>, “Chief of the Stonecutter(s) of Amun, Scribe of Ombos, Khnumnakht.”<sup>54</sup> Although <italic>ḥry ἰky n Ἰmn</italic> is equally unattested, this reading finds support in the clarity of the hieroglyphic carving in the MW02 parallel and in the fact that <italic>ḥry ἰry</italic> never occurs as a titular formulation.<fig id="fg4" position="float" fig-type="figure">
+            <label>Figure 4.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription BR05.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg4.tiff"/>
+         </fig>
+      </p>
+      <p>The individual’s second title appears to mark him as the <italic>ḥ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig131.tif"/>ty-ʿ n P<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig132.tif"/>-nwb</italic>. Contrary to the authors’ suggestion, <italic>ḥ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig133.tif"/>ty-ʿ n P<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig134.tif"/>-nwb</italic> does not appear as an epithet of Amun, <italic>ḥ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig135.tif"/>ty-ʿ</italic> occurring more commonly as a mayoral title.<sup>55</sup> While <italic>P<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig136.tif"/>-nwb</italic> could represent a variant orthography for <italic>Pr-nwb</italic>, the possibility also exists that this is an unattested toponym, related perhaps to a small fortification at a gold-working site.<sup>56</sup>
+      </p>
+      <p>
+         <bold>Inscription BR08</bold> (<italic>PISEDE</italic>, 118) (Figure 5): The clearly written signs render a seemingly simple commemoration; nevertheless, the inscription manifests highly significant elements. Both <italic>Rd-pw-Rʿ</italic> and <italic>Rt-pw-Rʿ</italic> are possible readings given the palaeographic similarity between <italic>d</italic> and <italic>t</italic>;<sup>57</sup> however, both are unattested and unconventional, presenting the possibility that this is a phonetic rendering of a foreign name, incorporating the Egyptian <italic>rʿ</italic> either as an interpretation of a phonetic element or as part of a hybrid name. This attestation of <italic>śr</italic> represents a rare occurrence of the title alone.<sup>58</sup> Despite the ubiquity of the term, debate continues about its nature and meaning.<sup>59</sup> For an expeditionary context, these titles likely denote “officials” functioning as representatives of the central administration; however, their actual expeditionary duties remain unknown.<fig id="fg5" position="float" fig-type="figure">
+            <label>Figure 5.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription BR08.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg5.tiff"/>
+         </fig>
+      </p>
+      <p>The toponym is more likely Miw (<italic>Mἰw</italic>), consisting of a <italic>mἰ</italic>-sign, a quail chick,<sup>60</sup> a throwstick, and a probable <italic>ḫ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig137.tif"/>s.t</italic>, cut off by the photograph at far left.<sup>61</sup> One of a mere handful of inscriptions mentioning this toponym, primarily attested from the New Kingdom, BR08 might represent its first attestation in a rock inscription.<sup>62</sup> Recent examination of the toponym suggests that at least a portion of Mἰw—a land of military campaigning and rhinoceros hunting<sup>63</sup>—encompassed the region of the Khor Gash in northeastern Sudan.<sup>64</sup> However, reference to a Miw in the endowment inscription of Penniut<sup>65</sup> suggests that at least some portion of Miw—if not another Miw altogether—approached the area of Aniba. This Nubian toponym substantiates the foreign origin of Redpure, a previously unattested reference to an official of Miw.<sup>66</sup>
+      </p>
+      <p>
+         <bold>Inscription BR40</bold> (<italic>PISEDE</italic>, 153) (Figure 6): The title is the third attestation of <italic>ἰʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig138.tif"/>w</italic> as a stand-alone title designating a named individual. The personal name, transcribed in <italic>PISEDE</italic> as <italic>Ἰ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig139.tif"/>th</italic>, is more correctly read <italic>Ἰtws</italic>.<sup>67</sup> The photograph also reveals the presence of an interesting Predynastic depiction of two “diminishing donkeys” with strokes protruding from the backs of their necks, the negative associations of which Huyge has discussed.<sup>68</sup>
+         <fig id="fg6" position="float" fig-type="figure">
+            <label>Figure 6.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription BR40.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg6.tiff"/>
+         </fig>
+      </p>
+      <p>
+         <bold>Inscription BR59</bold> (<italic>PISEDE</italic>, 175)<sup>69</sup> (Figure 7): The first of three inscriptions in the corpus attributed to Heqanefer, BR59 was published previously by Žába.<sup>70</sup> While the authors retained Žába’s reading, almost in its entirety, they incorrectly revised the initial title to <italic>śr n Mἰʿm</italic> and omitted the <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig23.tif"/> in transcription, though not in transliteration or translation. Źába’s reading was correct: <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig24.tif"/> (1) <italic>wr n Mἰʿm</italic> (2) <italic>ἰmy-<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig140.tif"/> ṯb.w Ḥḳ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig141.tif"/>-nfr ʿ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig142.tif"/> W<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig143.tif"/>w<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig144.tif"/>.t</italic>, (1) Prince of Miam (2) Overseer of Sandalmakers, Heqanefer, Magnate of Wawat. The photo of BR59 is incomplete; the left end of the inscription appears beneath BR60 and no epigraphic copy exists for either.<sup>71</sup> In BR60, an interesting non-anthropomorphic depiction of Horus of Miam is incorrectly rendered using G9, conveying an entirely different religious ideology.<fig id="fg7" position="float" fig-type="figure">
+            <label>Figure 7.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription BR59.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg7.tiff"/>
+         </fig>
+      </p>
+      <p>The presence of Heqanefer in these corpora and his second title preserved here deserve further attention. Best known for his presence at the durbar of Tutankhamun under the Viceroyship of Huy, and his tomb at Toshka, Heqanefer was likely the local prince in Miam from the reign of Amenhotep III to the end of Dynasty 18.<sup>72</sup> The title <italic>ἰmy-r<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig145.tif"/>ṯb.w</italic> may provide further support for this suggestion as it deviates from the title held by Heqanefer at his death—<italic>ṯb.w nswt</italic>
+         <sup>73</sup>—suggesting that he was promoted during his career.<sup>74</sup> BR59 suggests that, prior to his promotion, Heqanefer had dealings with Merymose, perhaps tied to the gold mining industry.<sup>75</sup>
+      </p>
+      <p>
+         <bold>Inscription DG01</bold> (<italic>PISEDE</italic>, 188) (Figure 8): The translation of this inscription is correct, though only accidentally so. The apparent <italic>nḫt</italic> group is actually the bull hieroglyph (E1)<sup>76</sup> representing a determinative for the <italic>k<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig146.tif"/>
+         </italic>-grouping preceding it: <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig25.tif"/>. It is the striking-man that provides the <italic>nḫt</italic> element. This is a duplicate of DN20 previously published by Eichler<sup>77</sup> who also confused the bull for a <italic>nḫt</italic>-grouping, an error perpetuated by <italic>PISEDE</italic>. A Middle Kingdom date is likely for both DG01 and DN20.<sup>78</sup>
+         <fig id="fg8" position="float" fig-type="figure">
+            <label>Figure 8.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription DG01.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg8.tiff"/>
+         </fig>
+      </p>
+      <p>
+         <bold>Inscription MI06</bold> (<italic>PISEDE</italic>, 217) (Figure 9): The authors’ <italic>ḥr-dnw</italic> is a misunderstanding of an attested typographical variant of <italic>Ḥr bḥd.ty</italic>: <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig26.tif"/>,<sup>79</sup> not unexpected due to the inscription’s location in the Edfu watershed.<sup>80</sup>
+         <fig id="fg9" position="float" fig-type="figure">
+            <label>Figure 9.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription MI06.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg9.tiff"/>
+         </fig>
+      </p>
+      <p>
+         <bold>Inscription BZ02</bold> (<italic>PISEDE</italic>, 250) (Figure 10): Although the nicely drawn image of a baboon receives no comment, the photograph depicts him squatting, holding a straight object to his mouth, perhaps a flute. Flute-playing simians are well attested in the Egyptian record, in scenes where they are partnered, often with a dancing Nubian.<sup>81</sup> This composition recalls the roles of both Nubians and simians in the festivals associated with the return of the goddess Hathor to Egypt from her journey to the far southwest and the topsy-turvy time of the <italic>ἰꜢd.t-rnp.t</italic>.<sup>82</sup>
+         <fig id="fg10" position="float" fig-type="figure">
+            <label>Figure 10.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription BZ02.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg10.tiff"/>
+         </fig>
+      </p>
+      <p>
+         <bold>Inscription BZ04</bold> (<italic>PISEDE</italic>, 252) (Figure 11): The title should read <italic>wr</italic>, not <italic>śr</italic>, and the name is better rendered <italic>Ḥḳ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig147.tif"/>-nfr</italic>, the third inscription left by Heqanefer within the Eastern Desert inscriptions published here (BR59, BZ04, and BZ17). The text is located to the right of a large depiction of a Horus falcon. The structure of the inscription parallels that of New Kingdom personal dedicatory inscriptions: <italic>ἰr.n Ḥḳ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig148.tif"/>-nfr n nb=f</italic>,<sup>83</sup> and the photograph may cut off the <italic>ἰr.n</italic> at far right. Representations of deities with artists’ signatures are not uncommon, appearing amongst the Theban gebel rock inscriptions.<sup>84</sup> The clustering of graffiti on a visible rock parallels similar, though more developed, rock shrines at Arminna East and nearby Gebel Agg. This tradition of dedicatory inscription permitted the carver to partake in the perpetual commemoration occurring at such desert shrines.<fig id="fg11" position="float" fig-type="figure">
+            <label>Figure 11.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription BZ04.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg11.tiff"/>
+         </fig>
+      </p>
+      <p>
+         <bold>Inscription BZ06</bold> (<italic>PISEDE</italic>, 254) (Figure 12): A more accurate reading is <italic>ἰky n pr-ḥḏ Ἰmn-ḥtp</italic> &lt;<italic>s<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig149.tif"/>
+         </italic>&gt; <italic>Wsy ἰ</italic>(<italic>.w</italic>) <italic>ἰnr.w=s</italic> (<italic>m</italic>) <italic>ḫ<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig150.tif"/>s.wt rs.yt</italic>, “The stonecutter of the treasury, Amenhotep son of Wesy, who brings its stones (from) the southern desert.” Both the names <italic>Ἰmn-ḥtp</italic> and <italic>Wsy</italic> are common in inscriptions of New Kingdom date;<sup>85</sup> although the title <italic>ἰky n pr-ḥḏ</italic> is unattested, the reading is clear. The omission of the <italic>s<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig151.tif"/>
+         </italic> in genealogical formulae is common and appears to signify that the father’s name precedes that of the son, while the initial title belongs to the son.<sup>86</sup> A supposed title <italic>ἰn.w ἰnr.w</italic> is a ghost title,<sup>87</sup> better understood as a participle and direct object; however, this stands as an interesting attestation of the formulation. The commentary states that this inscription is a “confusing mix of hieroglyphic and hieratic,” reflecting the authors’ lack of experience with the medium—a quintessential characteristic of rock inscriptions is this very mix of hieroglyphic and hieratic, creating the peculiarly hieroglyphicized lapidary hieratic.<sup>88</sup>
+         <fig id="fg12" position="float" fig-type="figure">
+            <label>Figure 12.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription BZ06.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg12.tiff"/>
+         </fig>
+      </p>
+      <p>
+         <bold>Inscription ML01</bold> (<italic>PISEDE</italic>, 347) (Figure 13): The two signs cited as being present at both Wadi Shalul (SL13) and Bir Meniah (MN03) are representations of horned altars, ubiquitous in ancient Egyptian rock inscriptions.<sup>89</sup> The parallel at Bir Meniah is neither pictured nor commented upon in the publication of MN03. Furthermore, in SL13, the sign is unlikely to be a horned altar, but rather a <inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig27.tif"/>;<sup>90</sup> 
+         <italic>PISEDE</italic>’s suggestion of <italic>sš</italic> is without any palaeographic parallel.<fig id="fg13" position="float" fig-type="figure">
+            <label>Figure 13.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—Inscription ML01.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg13.tiff"/>
+         </fig>
+      </p>
+      <p>
+         <bold>Inscription AG03</bold> (<italic>PISEDE</italic>, 387) (Figure 14): Despite a poor quality photograph that omits two or perhaps three additional columns of text, we include below a sample of a fuller treatment of this inscription pending future publication:<fig id="fg14" position="float" fig-type="figure">
+            <label>Figure 14.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>—New transcription of AG03. A portion of text to the right likely precedes this inscription, and the text likely continues for two or three additional columns to the left.</p>
+            </caption>
+            <graphic alt-version="no"
+                     mimetype="image"
+                     position="float"
+                     xlink:type="simple"
+                     xlink:href="fg14.tiff"/>
+         </fig>
+      </p>
+      <table-wrap id="tb1" position="anchor">
+         <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                        xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table">
+            <oasis_0:tgroup cols="2">
+               <oasis_0:colspec colname="COLSPEC2" colwidth="0.12*"/>
+               <oasis_0:colspec colname="COLSPEC0" colwidth="0.96*"/>
+               <oasis_0:tbody>
+                  <oasis_0:row>
+                     <oasis_0:entry colsep="0" rowsep="0">
+                        <sup>3</sup>
+                        <italic>mw.t=f S<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig152.tif"/>. t-Ḥw.t-Ḥr</italic>
+                     </oasis_0:entry>
+                     <oasis_0:entry colsep="0" rowsep="0">
+                        <sup>3</sup>His mother, Sa(t)-Hathor</oasis_0:entry>
+                  </oasis_0:row>
+                  <oasis_0:row>
+                     <oasis_0:entry colsep="0" rowsep="0">
+                        <sup>4</sup>
+                        <italic>s<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig153.tif"/> mw.t=f Nb-k<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig154.tif"/>.w ἰr.n K<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig155.tif"/>.w</italic>
+                     </oasis_0:entry>
+                     <oasis_0:entry colsep="0" rowsep="0">
+                        <sup>4</sup>Son of his mother, Nebkau, born of Kau</oasis_0:entry>
+                  </oasis_0:row>
+                  <oasis_0:row>
+                     <oasis_0:entry colsep="0" rowsep="0">
+                        <sup>5</sup>
+                        <italic>ʿnḫ.t ἰr.n Ḥp.t ἰr.n S<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig156.tif"/>.t-Ḥw.t-Ḥr</italic>
+                     </oasis_0:entry>
+                     <oasis_0:entry colsep="0" rowsep="0">
+                        <sup>5</sup>Ankhet born of Hepet born of Sat-Hathor</oasis_0:entry>
+                  </oasis_0:row>
+                  <oasis_0:row>
+                     <oasis_0:entry colsep="0" rowsep="0">
+                        <sup>6</sup>
+                        <italic>s<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig157.tif"/>= s ʿnḫ.t(y)=f(y) s<inline-graphic mimetype="image" xlink:type="simple" xlink:href="ig158.tif"/>=s Śnb.t(y)=f(y)</italic>
+                     </oasis_0:entry>
+                     <oasis_0:entry colsep="0" rowsep="0">
+                        <sup>6</sup>her son Ankhtyfy, and her son Senebtyfy</oasis_0:entry>
+                  </oasis_0:row>
+               </oasis_0:tbody>
+            </oasis_0:tgroup>
+         </oasis_0:table>
+      </table-wrap>
+      <p>This portion of AG03 divides into two sections. Lines 3–4 record the relationship of Nebkau to an unknown male referent (henceforth X), suggesting that X was the son of Sat-Hathor and an as yet unnamed first husband, while Nebkau, his half-brother, is the son of Sat-Hathor and a second husband, Kau.<sup>91</sup> Lines 5–6 record the matrilineal genealogy for the two brothers Ankhtyfy and Senebtyfy, who trace their origin back through the female line to Sat-Hathor, a great-grandmother. Whether this Sat-Hathor is the same individual from line 3 is uncertain; however, should that be the case, X may be the grandfather of Ankhtyfy and Senebtyfy. Further examination of the relationships between the individuals attested in AG01, AG03, and AG05 is necessary to determine if they record branches of a single family spanning multiple generations. The names broadly date AG03 to the Middle Kingdom;<sup>92</sup> however, if the same family is attested in AG01–AG05, this date can be further restricted to the late Twelfth Dynasty, specifically the reign of Amenemhat III or later. These inscriptions, taken in conjunction with the offering scene (AG04), may represent a dedicatory shrine enabling multi-generational commemoration for a family.</p>
+      <p>While the recording of these Eastern Desert inscriptions is a laudable and valuable undertaking, this volume suffers for its general lack of attention to epigraphic convention, namely the absence of epigraphic copies and proper commentary. The information contained within these desert inscriptions—and the conclusions resulting from the careful analysis thereof—have the potential to augment and even change our understanding of Upper Egyptian administration, and the social dynamics between both the desert and Nile Valley, and of Egypt and Nubia. In the limited space available, the present review has endeavored both to correct some errors, and to demonstrate the significance of some of these inscriptions</p>
+   </body>

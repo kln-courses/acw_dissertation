@@ -1,0 +1,569 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <sec id="sc1">
+         <title>Introduction</title>
+         <p>Scholars generally regard the <italic>Song of Ullikummi</italic> (CTH 345) as constituting the final section of the Hurro-Hittite myth known as the <italic>Kumarbi Cycle</italic>, following the <italic>Song of Kumarbi</italic> (CTH 344),<sup>1</sup> the <italic>Song of</italic> 
+            <sc>lamma</sc> (CTH 343), the <italic>Song of Silver</italic> (CTH 364), and the <italic>Song of Ḫedammu</italic> (CTH 348).<sup>2</sup> Like its predecessors, the <italic>Song of Ullikummi</italic> recounts the struggle between Kumarbi and his son Teššub, the storm-god. According to this account, Ullikummi—a rock rooted in the netherworld whose body lay in the sea and whose head filled the sky—is born to Kumarbi in order to enable him to overcome and succeed Teššub.<sup>3</sup> The three tablets that preserve this song relate the failure of Teššub and his allies to defeat Ullikummi. The first to undertake the feat was Šauška, the storm-god’s sister, whose attempt to seduce a deaf and blind rock was naturally abortive.<sup>4</sup> Teššub himself then made an attempt, also failing. Following him, the war-god Aštabi, in alliance with seventy gods, made an equally unsuccessful bid to overcome the rock god. Finally—apparently through the intervention of the wise god Ea—Teššub achieved the desired objective.<sup>5</sup> Unfortunately, the tablet(s) containing this scene have yet to be discovered.</p>
+         <p>Although the extant text is primarily the Hittite version of the song, its Hurrian origin is revealed by the Hurrian names of the gods, the eastern location of the cities, and some Hurrian fragments, which appear to be the same song.<sup>6</sup> Several features—the Syrian names of several other gods (Ḫebat and Aštabi) in this song; a Syrian toponym (Mt. Ḫazi, i.e., Mt. <italic>Ṣpn</italic> on the Levantine coast); and an occurrence of a West-Semitic expression,“the seventy gods”—suggest that the Hurrian version on which the Hittite one was based was composed after the Hurrians settled in north-western Syria.<sup>7</sup>
+         </p>
+      </sec>
+      <sec id="sc2">
+         <title>Aštabi in the <italic>Song of Ullikummi</italic>
+         </title>
+         <p>The sole reference to Aštabi in the extant Hurro-Hittite literature occurs following Teššub’s first attempt to overcome Kumarbi and preceding his final victory (See CTH 345.I.3–37, following page):<sup>8</sup> 
+         </p>
+         <p>This fragmentary text describes how the gods assigned chariots to Aštabi in apparent anticipation of his confrontation with Ullikummi following Teššub’s defeat. Taking up the challenge, Aštabi rode thundering into the sea, Ullikummi’s abode. This depiction is a virtually verbatim account of Teššub’s second—successful— struggle against Ullikummi.<sup>9</sup> Unlike Teššub, however, Aštabi fails to conquer Ullikummi and, together with the seventy gods, falls into the sea; unhindered, Ullikummi grows taller and taller until he reaches the gates of Kummiya, the city of the stormgod and his spouse Ḫebat.</p>
+         <p>The exceptional nature of this episode was noted early on by Volkert Haas, who pointed to the fact that it comprises the only reference to Aštabi in Hurro-Hittite mythology.<sup>10</sup> The seventy gods, who joined Aštabi, likewise not only appear here with no antecedent, but are also absent from Hurro-Hittite literature in general. The fact that the motif of seventy gods is well known in Levantine literature, however—appearing in texts from Ugarit and Emar, with allusions in biblical literature and midrashim as well—suggests that this scene was a West Semitic cultural borrowing.<sup>11</sup>–<sup>22</sup>
+            <table-wrap id="tb1" position="float">
+               <label/>
+               <caption>
+                  <title>
+                     <bold>Excerpt</bold> from <italic>The Song of Ullikummi</italic> (CTH 345 I 3–37)</title>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="tb1_1.eps"/>
+               <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                              xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                              frame="topbot">
+                  <oasis_0:tgroup cols="2">
+                     <oasis_0:colspec colname="c1" align="left"/>
+                     <oasis_0:colspec colname="c2" align="left"/>
+                     <oasis_0:tbody>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>3</sup> [<italic>n</italic>]<italic>u maḫḫan</italic> 
+                              <sc>dingir</sc>
+                              <sup>
+                                 <sc>meš</sc>
+                              </sup> 
+                              <italic>memiyan išt</italic>[<italic>amašer</italic>
+                              <sup>?</sup>]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">When the gods hear[d<sup>?</sup>] the word [i.e., of the defeat of the storm-god]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>4</sup> 
+                              <italic>nu</italic>
+                              <sup>
+                                 <sc>giš</sc>
+                              </sup>
+                              <sc>mar.gíd.da</sc>
+                              <sup>
+                                 <sc>Ḫi.a</sc>
+                              </sup> 
+                              <italic>anda ḫanta</italic>[<italic>er/ntat</italic>]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">(they) prepared the chariots</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>5</sup> [. . .] <italic>maniyaḫḫer</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">and assigned [them to Aštabi<sup>11</sup>].</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>6 D</sup>
+                              <italic>Aštabiš=kan</italic> [<sup>
+                                 <sc>giš</sc>
+                              </sup>
+                              <italic>tiyaridaš šarā gagaštiyaš mān</italic>] <italic>watkut</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Aštabi leaped [upon the spindle, like a . . .]<sup>12</sup>
+                           </oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>7</sup> 
+                              <italic>n=aš=kan</italic> 
+                              <sup>
+                                 <sc>giš</sc>
+                              </sup>
+                              <sc>mar.gíd.d</sc>[A<sup>
+                                 <sc>Ḫi.a</sc>
+                              </sup>. . .]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">He, the chariot[s. . .]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>8</sup> 
+                              <sup>
+                                 <sc>giš</sc>
+                              </sup>
+                              <italic>tiyarita nininkiš</italic> [<italic>ket</italic>
+                              <sup>?</sup>] / [. . .]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">c[a]me to the spindle<sup>13</sup> [. . .]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>10</sup> 
+                              <italic>nu tetḫeškezzi</italic> 
+                              <sup>
+                                 <sc>d</sc>
+                              </sup>t<italic>Ašt</italic>[<italic>abiš. . .</italic>] / [. . .]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Ašta[bi] thunders [. . .]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>12</sup> 
+                              <italic>nu=kan tetḫešnanza</italic> 
+                              <sup>d</sup>
+                              <italic>A</italic>[<italic>štabiš</italic> 
+                              <sup>
+                                 <sc>giš</sc>
+                              </sup>
+                              <sc>mar.gíd.da</sc>
+                              <sup>
+                                 <sc>ḫi.a</sc>
+                              </sup>]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">With the thunder, A[štabi, the chariots,]<sup>14</sup>
+                           </oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>13</sup> 
+                              <italic>Aruni</italic> 
+                              <sc>gam</sc>
+                              <italic>-anda tarnaš</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">let go down to the sea.</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>14</sup> 
+                              <italic>nu</italic> 
+                              <sup>
+                                 <sc>giš</sc>
+                              </sup>[<sc>mar.gíd.da</sc>
+                              <sup>
+                                 <sc>Ḫi.a</sc>
+                              </sup> . . .] <italic>ḫanēr</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">The char[iots . . .] draw (water).</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>15</sup> 
+                              <italic>nu</italic> 
+                              <sup>
+                                 <sc>d</sc>
+                              </sup>
+                              <italic>Aštabiš</italic> [. . .]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Aštabi [. . .]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>16</sup> [. . .] 70 <sc>dingir</sc>
+                              <sup>
+                                 <sc>meš</sc>
+                              </sup> 
+                              <italic>ēpper</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">[. . .] the seventy gods took,</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>17</sup> 
+                              <italic>nu nam</italic>[<italic>ma. . .</italic>] <italic>UL tar</italic>(<italic>a</italic>)<italic>ḫta</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">And aga[in. . .] did not defeat.</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>18</sup> 
+                              <italic>nu=kan</italic> 
+                              <sup>
+                                 <sc>d</sc>
+                              </sup>
+                              <italic>A</italic>[<italic>štabiš. . .</italic>]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">A[štabi . . .]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>19</sup> [. . .] 70 <sc>dingir</sc>
+                              <sup>
+                                 <sc>meš</sc>
+                              </sup>
+                              <italic>=ya=kan Aruni</italic> 
+                              <sc>gam</sc>
+                              <italic>-a</italic>[<italic>nda mauššer</italic>
+                              <sup>?</sup>]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">[. . .] and the seventy gods [plunged<sup>?</sup>] down into the sea</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>20</sup> [. . .] <sup>
+                                 <sc>na4</sc>
+                              </sup>
+                              <sc>šu.u</sc>
+                              <italic>-ziš</italic> 
+                              <sc>ní.te</sc>
+                              <sup>
+                                 <sc>meš</sc>
+                              </sup>
+                              <italic>-š</italic> [<italic>i</italic>
+                              <sup>?</sup>. . .]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">The <italic>Kunkunuzzi</italic> (= Ullikummi) [his] body [. . .]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>22</sup> [<italic>n</italic>]<italic>u nepiš katkattinu</italic>[<italic>t</italic>]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">He [s]hook the sky,</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>23</sup> [. . .<italic>w</italic>]<italic>ēḫta</italic>
+                              <sup>15</sup>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">[. . .] t[u]rned around,</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>24</sup> 
+                              <italic>nepiš=šan</italic>
+                              <sup>?</sup> [<italic>. . .d</italic>]<italic>annaran</italic> 
+                              <sc>túg</sc>
+                              <italic>-an</italic> [<italic>m</italic>]<italic>ā</italic>[<italic>n a</italic>]<italic>rḫa šargannet</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">tore the sky lik[e an e]mpty garment<sup>16</sup>
+                           </oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>25</sup> 
+                              <italic>nu=kan</italic> 
+                              <sup>
+                                 <sc>na4</sc>
+                              </sup>
+                              <italic>Kunkun</italic>[<italic>uzziš</italic>] [<sc>ní.te</sc>
+                              <italic>=š</italic> ]<italic>i parkiš</italic> [<italic>ta</italic>]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">The <italic>Kunkun</italic>[<italic>uzzi</italic>], his [body] gre[w];</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>26</sup> 
+                              <italic>nu=ši pargatar piran</italic> 1 <italic>LIM</italic> 9 <italic>MĒ=ya</italic> 
+                              <sc>dann</sc>[<sc>a</sc>]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">In the beginning his height (was) 1900 <sc>dann</sc>[<sc>na</sc>]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>27</sup> [<italic>palḫaštiš=ma=ši. . .</italic> 
+                              <sc>d</sc>]<sc>anna</sc>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">[and his width . . . <sc>d</sc>]<sc>anna</sc>,</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>28</sup> [<italic>nu=ka</italic>]<italic>n</italic>
+                              <sup>?</sup> 
+                              <italic>tankui dagānzipi katta artari</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">he stood on the dark earth.</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>29</sup> 
+                              <italic>ma</italic>[<italic>lt</italic>]<italic>aniš</italic> [<italic>aš</italic>] <italic>maḫḫan karp</italic>[<italic>išk</italic>]<italic>attari</italic> 
+                              <sup>
+                                 <sc>NA4</sc>
+                              </sup>
+                              <sc>šu.u</sc>
+                              <italic>-ziš</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">The <italic>Kunkunuzzi</italic> is lifted up<sup>17</sup> like . . .</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>30</sup> 
+                              <italic>nu</italic> 
+                              <sup>
+                                 <sc>é</sc>
+                              </sup>
+                              <italic>Kuntarran</italic> 
+                              <sc>é</sc>
+                              <sup>
+                                 <sc>meš</sc>
+                              </sup> 
+                              <sc>dingir</sc>
+                              <sup>
+                                 <sc>meš</sc>
+                              </sup>
+                              <italic>=ya</italic> [<italic>a</italic>]<italic>nda wemišk</italic>[<italic>e</italic>]<italic>zzi</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">(Now) he reaches the <italic>Kuntarra</italic>-shrine and the temples.</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>31</sup> 
+                              <italic>pargatar=šet</italic> 9 <italic>LIM</italic> 
+                              <sc>danna</sc>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">His height is 9000 <sc>danna</sc>.</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>32</sup> 
+                              <sup>
+                                 <sc>na4</sc>
+                              </sup>
+                              <sc>šu.u</sc>
+                              <italic>-zi</italic>[<italic>š</italic>] <sc>igi</sc>
+                              <italic>-anta</italic>(-)<italic>pili</italic> 
+                              <sup>?</sup>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">The <italic>Kunkunuzzi</italic> . . .</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>33</sup> 
+                              <italic>palḫašti=ma=ši</italic> 9 <italic>LIM</italic> 
+                              <sc>danna</sc>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">His width is 9000 <sc>danna</sc>.<sup>18</sup>
+                           </oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>34</sup> 
+                              <italic>n=aš=kan</italic> 
+                              <sup>
+                                 <sc>URU</sc>
+                              </sup> 
+                              <italic>Kummiya</italic> 
+                              <sup>
+                                 <sc>giš</sc>
+                              </sup>
+                              <sc>ká.gal</sc>
+                              <italic>-aš</italic> [<italic>p</italic>]<italic>iraš</italic> 
+                              <sup>19</sup> 
+                              <sup>
+                                 <sc>giš</sc>
+                              </sup>
+                              <italic>šiyatal mān tiyat</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">He took his stand before the gates at Kummiya like a shaft.</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>35</sup> 
+                              <italic>nu=kan</italic> 
+                              <sup>
+                                 <sc>na4</sc>
+                              </sup>
+                              <italic>Kunkunuzziš</italic> 
+                              <sup>
+                                 <sc>d</sc>
+                              </sup>
+                              <italic>Ḫepadun</italic> 
+                              <sup>
+                                 <sc>é</sc>
+                              </sup>
+                              <italic>karimni anda araiš</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">The <italic>Kunkunuzzi</italic> blocked<sup>20</sup> Ḫebat in the temple,</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>36</sup> 
+                              <italic>nu namma</italic> 
+                              <sup>
+                                 <sc>d</sc>
+                              </sup>
+                              <italic>Ḫepaduš</italic> 
+                              <sc>dingir</sc>
+                              <sup>
+                                 <sc>meš</sc>
+                              </sup>
+                              <italic>-aš ḫalugan UL ištamašzi</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">So that Ḫebat no longer hears the message of the gods,</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>37</sup> 
+                              <italic>UL=ma</italic> 
+                              <sup>
+                                 <sc>d</sc>
+                              </sup>U<italic>-an</italic> 
+                              <sup>
+                                 <sc>d</sc>
+                              </sup>
+                              <italic>Šuwaliya</italic>[<italic>tt</italic>]<italic>an=a</italic> 
+                              <sc>igi</sc>
+                              <sup>
+                                 <sc>ḫI.A</sc>
+                              </sup>
+                              <italic>-it aušzi</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">nor does she see Teššub or Šuwaliat (= Tašmišu)<sup>21</sup> with (her) eyes.</oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:tbody>
+                  </oasis_0:tgroup>
+               </oasis_0:table>
+            </table-wrap>
+         </p>
+         <p>I propose that not only this motif but the story of Aštabi’s failure to replace the storm-god as a whole was in fact originally a West Semitic tradition. Identification of such a tradition in local compositions would allow us to elucidate Aštabi’s role in the <italic>Song of Ullikummi</italic> and the reason for the narrative’s insertion into the Hurro-Hittite Song.</p>
+      </sec>
+      <sec id="sc3">
+         <title>Aštabi’s origin and character</title>
+         <p>The first issue to be addressed is Aštabi’s provenance and nature. The evidence from Ebla indicates that Aštabi was not Hurrian in origin.<sup>23</sup> References to him (in the form <italic>Aštabil</italic>) occur in Eblaite documents from the twenty-fourth century <sc>b.c.e</sc>. as well as in Mari texts from the eighteenth century.<sup>24</sup> The Ugaritic documents from the thirteenth century employ both his Syrian and Hurrian names, the latter—also used at Alalaḫ—being signified in alphabetical texts as <italic>ʾaṯtb</italic> and syllabically in a polyglot list as <italic>aš-ta-bi-</italic>[<italic>n</italic>]<italic>i</italic>
+            <sup>?</sup> (<italic>Ug.</italic> 5:137 iv b 16).<sup>25</sup> The Syrian name seems to have been written alphabetically as <italic>ʿṯtpl</italic> or <italic>ʿṯṯtpr</italic>,<sup>26</sup> apparently the equivalent pronunciation of <italic>Aštabil</italic>.</p>
+         <p>The polyglot list (<italic>Ug.</italic> 5:137 iv b 16) indicates that the people of Ugarit identified Aštabi with the Mesopotamian war-god Lugal-marda, in similar fashion to the association of the Anatolian Aštabi with the wargod Ninurta.<sup>27</sup> The same roster also identifies Aštabi with the god Aṯtar:
+<disp-quote>
+               <p>
+                  <sc>l</sc>[<sc>ugal.má</sc>]<sc>r.d</sc>[<sc>a</sc>]<sup>?</sup> :: <italic>aš-ta-bi-</italic>[<italic>n</italic>]<italic>i</italic>
+                  <sup>?</sup>:: <italic>aš-ta-ru</italic>
+                  <sup>28</sup>
+               </p>
+            </disp-quote>
+         </p>
+         <p>The Aštabi and Aṯtar accounts in fact also share very similar features. Like Aštabi, the <italic>Baal Cycle</italic> states that Aṯtar was appointed by the gods to take the place of the storm-god in the wake of the latter’s most recent defeat, failing in his mission just before the storm-god’s final successful war. The fuller reference for this plot occurs in the narrative recounting the struggle between Baal and Mot (<italic>CAT</italic> 1.5–1.6). After Baal’s defeat, El asks Aṯirat to appoint one of her children as king (<italic>tn ʾaḥd . b . b</italic>nk <italic>.ʾamlkn</italic>) in place of Baal (<italic>CAT</italic> 1.6 I). Aṯirat considers Aṯtar as the person most suitable for the mission. Immediately following the proclamation of his kingdom (<italic>ymlk . ʿṯtr . ʿrẓ</italic>), Aṯtar thus ascended to the summit of <italic>Ṣpn</italic>, where he sat on the throne of mightiest Baal in the fashion expected of his substitute. Ultimately, however, Aṯtar, failed to fulfill his mission. An amusing passage depicts how, due to his inability to sit on the throne, he descended and went to rule elsewhere (see text, next page). <sup>29</sup>
+            <table-wrap id="tb2" position="float">
+               <caption>
+                  <title>
+                     <bold>Excerpt</bold>, <italic>CAT</italic> 1.6 I 59–64</title>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="tb2_1.eps"/>
+               <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                              xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                              frame="topbot">
+                  <oasis_0:tgroup cols="2">
+                     <oasis_0:colspec colname="c1" align="left"/>
+                     <oasis_0:colspec colname="c2" align="left"/>
+                     <oasis_0:tbody>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>59</sup> 
+                              <italic>pʿnh . ltmġyn</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">His feet did not reach</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>60</sup> 
+                              <italic>hdm</italic> [.] <italic>rʾišh . lymġy</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">(its) foot-stool nor his head</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>61</sup> 
+                              <italic>ʾapsh . wyʿn . ʿṯtr . ʿrẓ</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">its top. And Aṯtar-the-strong-one<sup>30</sup> speaks:</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>62</sup> 
+                              <italic>lʾamlk . bṣrrt . Ṣpn</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">“I would not be king on the summit of <italic>Ṣpn</italic>.”</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>63</sup> 
+                              <italic>yrd . ʿṯtr . ʿrẓ. yrd</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">(Thus) Aṯtar-the-strong-one descends, descends</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>64</sup> 
+                              <italic>lk</italic>ḥ<italic>ṯ . ʾalʾiyn . Bʿl</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">from the throne of the mightiest Baal.<sup>31</sup>
+                           </oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:tbody>
+                  </oasis_0:tgroup>
+               </oasis_0:table>
+            </table-wrap>
+         </p>
+         <p>An additional Ugaritic fragment which, while clearly related to the <italic>Baal Cycle</italic>, has yet to be definitively determined within the narrative’s order, describes Aṯtar’s abortive coup and his descent (<italic>CAT</italic> 1.2 III).<sup>32</sup> Aṯtar’s aspiration to rule, in the face of Yamm’s election, is partially evident in this fragment from the sun-goddess Šapaš’s speech to Aṯtar concerning El’s preference for Yamm. This speech forms an exact parallel to Šapaš’s speech to Mot regarding El’s favoritism towards Baal, when Mot challenges Baal’s rule (See <italic>CAT</italic> 1.6 VI, next page).</p>
+         <p>In response, Aṯtar laments the fact that he has no palace (<italic>ʾin . bt</italic> [. l]y [. km .] ʾilm . w ḥẓr [. k bn qd]<italic>š</italic>)—the symbol of the kingdom—just like Baal when he requests a palace for himself (<italic>CAT</italic> 1.3–1.4 <italic>passim</italic>). Unlike the latter, however, Aṯtar’s ambitions remain unfulfilled and he apparently descends to the sea (<italic>lbdm</italic>
+            <sup>33</sup>.<italic>ʾard</italic> 
+            <sup>34</sup>. . . [<italic>. . .</italic>] <italic>b b</italic>h[t] [zbl .] <italic>Ym</italic> . <italic>b hkl . ṯpṭ</italic> . <italic>Nh</italic>[r]), uttering a sentence which, although unclear in the extant text, appears to relate to his status as king (m<italic>lkt</italic> . [. . .]. . . <italic>. l mlkt</italic> . . .).</p>
+         <p>This scene, which appears to be comprised of some of the known motifs in the principal Baal traditions (i.e., the “no-palace” motif related to Baal; Šapaš’s verbatim speech to Mot concerning El’s favoritism of Baal),<sup>35</sup> also represents Aṯtar as an “ersatz” Yamm, in precisely the same fashion that he serves as an inferior substitute for Baal in <italic>CAT</italic> 1.6. It is thus possible to infer that the two stories of Aṯtar—both of which were ultimately incorporated into the Ugaritic <italic>Baal Cycle</italic>—as a failed divine alternate, in fact derive from the same tradition and comprise variants of the same motif.</p>
+      </sec>
+      <sec id="sc4">
+         <title>Aṯtar and Aštabi: Failed substitute gods</title>
+         <p>The affinities between the two versions of Aṯtar’s descent in the Ugaritic <italic>Baal Cycle</italic> and Aštabi’s downfall in the Hurro-Hittite <italic>Song of Ullikummi</italic> are striking. In both texts, the gods in question replace the storm-god when he is defeated: in the <italic>Baal Cycle</italic>, El and Aṯirat summon Aṯtar to act as a substitute for Baal following the latter’s discomfiture at the hands of Mot and in the <italic>Song of Ullikummi</italic> the (seventy?) gods call upon Aštabi to succeed Teššub in the wake of the latter’s defeat by Ullikummi.</p>
+         <p>Despite endeavoring to fill the storm-god’s place, the replacements both fail: in the <italic>Baal Cycle</italic>, Aṯtar is forced off Baal’s throne because he cannot fit into it and in the <italic>Song of Ullikummi</italic> Aštabi’s unsuccessful attempt to “storm” Ullikummi leads to his fall into the sea. While the latter motif—engulfment in the sea—does not appear in the account of Aṯtar in <italic>CAT</italic> 1.6, it is echoed in <italic>CAT</italic> 1.2 III, in the description of Aṯtar’s descending into the sea following his abortive coup. The disparity in this fragment between the delineation of Yamm as the chosen ruler, on the one hand, and Yamm as the place to which Aṯtar descends, on the other, indicates that one of the two variants most likely preceded the Ugaritic adaptation. Finally—and most decisively, as the Ugaritic list adduced above demonstrates—the protagonists in the two accounts (Aṯtar and Aštabi) are identified with one another.
+<table-wrap id="tb3" position="float">
+               <caption>
+                  <title>
+                     <bold>Excerpt</bold>, <italic>CAT</italic> 1.6 VI 15′–18′</title>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="tb3_1.eps"/>
+               <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                              xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                              frame="topbot">
+                  <oasis_0:tgroup cols="2">
+                     <oasis_0:colspec colname="c1" align="left"/>
+                     <oasis_0:colspec colname="c2" align="left"/>
+                     <oasis_0:tbody>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>15′</sup> . . . nrt [.] ʾilm [.] <italic>Špš</italic> . <italic>tš</italic>ʾ<italic>u</italic> . <italic>gh</italic> . <italic>w</italic> t[ṣḥ . šm]ʿ . <italic>m</italic>ʿ[ ʿṯtr]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">The Lamp of the Gods, Šapaš, raises her voice and sp[eaks: “Hear] now [Aṯtar],</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>16′</sup> [yṯ]ʾ<italic>ir</italic> . <italic>ṯr</italic> . ʾ<italic>Il</italic> . ʾ<italic>abk</italic> . <italic>l pn</italic> . <italic>zbl</italic> . <italic>Ym</italic> . <italic>l pn</italic>[ . ṯ]<italic>pṯ</italic>[ .]Nh<italic>r</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Bull El, your father [will take ven]geance<sup>?36</sup> for Prince Yamm, for [J]udge River.</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>17′</sup> [ʾik . ʾa]<italic>l . yšm</italic>ʿ<italic>k . ṯr</italic> . [ʾI]<italic>l .</italic> ʾ<italic>abk . l ys</italic>ʿ . [ʾa]l<italic>t</italic> [.] <italic>ṯbt</italic>k [.] l y[hpk]</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">[(So) how, ind]eed, will Bull [E]l your father hear you? Surely he will remove [the su]pport from under your throne. Surely he will [overturn]</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">
+                              <sup>18′</sup> [ksaʾ .] m<italic>lkk . l yṯbr . ḫ</italic>ṭ [.] m<italic>ṯpṭk .</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0" valign="bottom">[the seat] of your kingship. Surely he will break the scepter of your rule.”</oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:tbody>
+                  </oasis_0:tgroup>
+               </oasis_0:table>
+            </table-wrap>
+         </p>
+         <p>
+            <sup>36</sup>The links between Aštabi and Aṯtar, the divergent nature of the Aštabi story in Hurro-Hittite literature, and the use of the distinctively West Semitic motif of “seventy gods” lead to the conclusion that the accounts under discussion here reflect a West Semitic tradition of a minor god appointed by his “superiors” to take the place of a senior god. The former fails in his mission and descends into the sea. What interpretation is to be given to this “failed substitute god” motif in Ugaritic and Hurro-Hittite literature? Why were Aṯtar and Aštabi chosen to be its protagonists, and why were these two stories set within similar compositions, i.e., a conflict initiated by the storm-god?</p>
+         <p>Like the Syrian Aštabi, Aṯtar is a minor god, to whom few references are made in Ugaritic literature, thereby providing us with very little knowledge concerning his attributes in his local setting. The prevailing theory that Aṯtar served as the god of irrigation is based on interpretations of the Ugaritic <italic>Baal Cycle</italic> that rely on the unpromising evidence of late South Arabian inscriptions.<sup>37</sup> Several sources from the ancient Near East indicate, however, that the Semitic gods whose names derive from the root ʿ<italic>-ṯ/š/s-t-r</italic> possessed <italic>astral</italic> aspects, customarily being identified with the planet Venus.</p>
+         <p>Thus, for example, <sup>D</sup>
+            <italic>aš-tar</italic>
+            <sup>MUL</sup> (“Aštar the Star”) is mentioned in a text from Emar.<sup>38</sup> In Ebla the divine <italic>aš-dár</italic> was identified with the Sumerian goddess Inanna, the Morning Star, with whom later Mesopotamian sources clearly associated the Semitic goddess Ištar.<sup>39</sup> The South Arabian inscriptions designate Aṯtar by the epithets <italic>šrqn</italic> (“the Eastern”) and <italic>šrqn wġrbn nwfn</italic> (“the high Eastern and Western”), signifying the Morning and Evening Star (i.e., Venus).<sup>40</sup> Likewise, the Neo-Assyrian inscriptions of Esarhaddon and Assurbanipal speak of the Arabian god Atarsamain (“A[t]tar of heaven”).<sup>41</sup> In fact, in South Semitic languages (Tigre, Geez, and Amharic) the words derive from the root ʿ<italic>-s-t-r</italic>, all denoting “heaven” or “star.”<sup>42</sup> The latest evidence on this issue may come from the Byzantine <italic>Suida</italic>, in which Astarte is associated with Aphrodite.<sup>43</sup>
+         </p>
+         <p>The astral aspect of the root ʿ<italic>-ṯ/š/s-t-r</italic> also corresponds to Philo of Byblos’ first-second century <sc>c.e</sc>. euhemeristic story of Astarte’s encounter with a falling star: “While traveling around the world, she discovered a star which had fallen from the sky. She took it up and consecrated it in Tyre, the holy island” (cited in Eusebius, <italic>Praep. ev.</italic> 1.10.31).<sup>44</sup> In this context, it is significant that Aṯtar is referred to in another astral work: the Ugaritic Hymn of the moon-goddess Nikkal and her groom Yariḫ (<italic>CAT</italic> 1.24.28).</p>
+         <p>In light of these facts, it is possible to form a conjecture that Aṯtar’s rise and descent represent an aetiological explanation of the “falling star” phenomenon. In the ancient mythic tradition, this star assumed the status of a minor god who was appointed to a higher position, shone brightly for a moment, and then fell. This aetiological story in its mythic dress has not been transmitted to us as an independent story but as an adaptation forming part of a composite work. The story of Aštabi—the old Syrian equivalent of Aṯtar—was incorporated into the <italic>Song of Ullikummi</italic>, alongside other Syrian elements, and that of Aṯtar was attached to the <italic>Baal Cycle</italic> in Ugarit.</p>
+         <p>Not surprisingly, the <italic>Song of Ullikummi</italic> and the <italic>Baal Cycle</italic> not only share this story but also narrate the incident of the war waged by the storm-god. The latter is intimately linked, in these works, with Mt. <italic>Ṣpn</italic> (Mt. Ḥazi in the Hurro-Hittite tradition) while the Sea is represented as an anthropomorphic figure hostile to him. Today we know that the story of the combat of the Storm-god and the Sea spread through the ancient Near East in the second millennium <sc>b.c.e</sc>., as documented in Aleppo, Egypt, amongst the Hurrians and in Ugarit, as well as later in Mesopotamia and ancient Israel.<sup>45</sup> Since several motifs in the <italic>Song of Ullikummi</italic> appear to have been influenced by this account, the existence of the episodes relating to Aštabi and Aṯtar within the <italic>Song of Ullikummi</italic> and the <italic>Baal Cycle</italic> respectively suggest that the aetiological account of the “fallen star” found its way into the story of the combat of the Storm-god and the Sea at a very early stage. In other words, it is possible that the dissemination of this account in the second millennium came about through its integration into the combat of the Storm-god and the Sea story prevalent throughout ancient Near Eastern culture.</p>
+      </sec>
+      <sec id="sc5">
+         <title>Aṯtar-Aštabi, Helel, and Phaeton</title>
+         <p>In addition to the correspondences with Aštabi, the Ugaritic account of Aṯtar’s descent has long been compared with the well-known passage in Isaiah 14:12–15. This portrays the Babylonian king as Helel, son of Šaḥar, who sought to seat himself above the clouds on Mt. Ṣaphon like Elion but was punished and fell into the netherworld.<sup>46</sup> The name Helel (“shining one”) son of Šaḥar (“dawn”) indicates the astral aspect of this figure, analogous to the astral meaning of Aṯtar’s name.<sup>47</sup> The site of Mt. Ṣaphon likewise parallels the location of the throne of Baal on which Aṯtar attempts to seat himself in the <italic>Baal Cycle</italic>.</p>
+         <p>Prior to the discovery of the textual riches at Ugarit, Hermann Gunkel pointed to the common folklore motif of hubris, drawing a parallel between Isaiah 14:12–15 and Phaeton’s abortive attempt to drive Helios’ sun chariot, in consequence of which he plunged into the sea when Zeus killed him with a thunderbolt.<sup>48</sup> It is, indeed, difficult to ignore the similarities between the Greek Φαέθων (= “shining one”) and the Hebrew הילל, both figures bearing names whose etymological meanings are synonymous and experiencing the same fate. An early tradition in Hesiod’s <italic>Theogony</italic> (ll. 986–91) further explicitly states that Phaeton’s mother was known as Ἕως (Eos), the Greek and Hebrew figures thus both possessing a parent bearing the name “Dawn.” According to this tradition, Phaeton was appointed to serve Aphrodite, who turned him into a shining night watchman—i.e., a star.<sup>49</sup>
+         </p>
+         <p>Gunkel’s proposal has been developed by other scholars, who contend that the stories of astral divinities—whether Aṯtar, Helel, or Phaeton—who failed and descended from the heavens were all Canaanite in origin.<sup>50</sup> On the basis of the present analysis, we would suggest that the story of Aštabi, Aṯtar’s counterpart, who fell into the sea with his chariot (together with the seventy gods) after creating a thunderstorm should also be regarded as an example of this motif.</p>
+         <p>It would appear that, in the first millennium, the tradition of Aṯtar/Aštabi was joined with that of another astral figure, Helel son of Šaḥar, evidently prevalent in the Levant during this same period. The phenomenon of transferring myths from one character to another due to the latter’s prominence in the host culture (in this case—the first millennium Levant) is well known in folklore and myth. In the process, the protagonist’s identity is often transformed in the host culture while features alien to it may vanish or be assimilated.<sup>51</sup> In our specific case, the central motif of an astral god who attempts to take the place of a superior god and fails was retained. Furthermore, while the traditions of Aṯtar and Helel have preserved some of the principal features of one version of the mythic story—such as Mt. <italic>Ṣpn</italic> as the coveted throne—those regarding Phaeton and Aštabi have preserved elements of another version of the myth, including the protagonist’s fall into the sea while riding a chariot and the accompanying thunderstorm.<sup>52</sup>
+         </p>
+      </sec>
+      <sec id="sc6">
+         <title>Conclusion</title>
+         <p>This paper has focused upon the account of Aštabi which appears in the <italic>Song of Ullikummi</italic> and differs significantly from other Hurro-Hittite works. It has demonstrated that this episode exhibits numerous similarities with the story of Aṯtar found in the Ugaritic <italic>Baal Cycle</italic>. Both texts recount how a minor god was appointed by the other gods in order to take the place of the storm-god in the wake of his most recent defeat, failing in his mission just prior to the storm-god’s ultimately successful war. Since Aštabi is identified with Aṯtar in the god list, we suggest that the Hurro-Hittite narrative concerning Aštabi and the Ugaritic depiction of the god Aṯtar reflect the same aetiological story of a “falling star” phenomenon. The unique features of the Aštabi account in its context—in particular, the existence of the “seventy gods” motif prevalent in Levantine texts—appear to corroborate the claim that the tradition of Aštabi’s failure and fall was originally a West Semitic tradition.</p>
+         <p>In the wake of the collapse of the Ugaritic and Hurrian cultures and their assimilation into their surroundings, the “failed god” account of Aṯtar/Aštabi was transferred to another minor astral god who appears to have been quite prominent in the Levant of the first millennium, namely, Helel son of Šaḥar—the equivalent of Phaeton (son of Eos) in Greek mythology. In its new form, some of the basic elements of the story survived while others were changed. Having traced its origins, this extant version enables us to shed more light both on the Aštabi tradition itself and on the motif of the “failed god” story widespread in the eastern Mediterranean in ancient times.</p>
+      </sec>
+   </body>

@@ -1,0 +1,77 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>The earliest surviving European musical instruments date from the
+sixteenth century, a period when humanists considered music a means
+to perfection of character and manners. In <italic>Sounding Objects</italic> Carla Zecher focuses on interpretations of instruments by French
+Renaissance poets and artists, persuasively contending that as a material
+object, an instrument may serve as autobiographical narrator or historical
+artifact, its literary and pictorial images arising from its physical
+traits, acoustic properties, and social convention. Drawing on a variety
+of treatises, poems, engravings, paintings, and part-books, this valuable
+study explores instruments as the nexus of graphic entity and auditory
+imagination at court, in salons, and in the civic arena.</p>
+      <p>Zecher points out that the Renaissance poetic soundscape consisted
+mainly of plucked-string instruments, whose ur-string, the lute, was
+believed to be descended from the classical lyre. She further observes
+that the flexibility of the sometimes generic terms <italic>luth</italic> and <italic>lyre</italic> enabled poets to conflate the classical
+and the contemporary, as the metapoetic function of Ronsard’s
+odes to the lute and lyre reveals his ambition to endow France with
+a renovated vernacular poetry in the image of antiquity. Whereas court
+poet Ronsard chooses the lute for his Pindaric classicizing agenda
+and the guitar for his Horatian amatory voice, he refers to his <italic>Franciade</italic> as his “trumpet” (50), a work whose
+limited success is announced by the disobedient lyre’s refusal
+to play of epic matters in his 1550 “A sa Lire.”</p>
+      <p>Zecher views contrasting styles of poets and musical rivalries
+between mythological personages as a stringed/wind dichotomy in considering
+Pléiade poetry and Fontainebleau visuals. Although Renaissance
+poets and painters often followed Platonic thought in depicting wind
+instruments as folly and bawdiness associated with popular tradition,
+Zecher cautions that literary debates in the 1550s and 60’s
+were problematic, destabilizing the aesthetic values commonly accorded
+strings and winds. In close readings of Ronsard and Du Bellay, she
+examines such debate especially in portrayals of Marsyas’s musical
+challenge to Apollo. The satyr’s embodiment of either the old
+orality of French poetry or the printed French language’s challenge
+to Greek and Latin recalls the “uneasy co-existence” (90)
+of Apollonian and Dionysian music making in pictorial arts at Fontainebleau.
+Aptly analyzing visual scenes expressing reconciliation between challenger
+and victor, Zecher characterizes them as “emblematic of the
+difficulties entailed in maintaining musical ideology in the face
+of acoustic reality” (93).</p>
+      <p>Instruments function as didactic entities, rather than as objets
+d’art in urban emblem books, whose meditations on the necessity
+for prudence in governance in the courtly and civic arenas accord
+legendary musicians a place of prominence. While midcentury emblematists
+Coustau, Aneau, and La Perrière endow the lutenist with civilizing
+eloquence, Alciato equates the difficulty of tuning many strings with
+that of governance, a challenge further reflected in the topos of
+the broken lute string in Holbein’s 1533 painting, <italic>The
+Ambassadors.</italic> In epigrams, Zecher appropriately notes the
+linguistic connections between nonstringed instruments and the dishonest
+rhetoric of court advisers, citing the verb <italic>flageoler</italic>, to play the flute or to engage in flattery, a synonym of the medieval
+verbs <italic>piper</italic> and <italic>tromper</italic>.</p>
+      <p>In lute-poems of the salon, the anthropomorphic instrument may
+serve as part of the lutenist’s body or substitute for the absent
+lady, fulfilling multiple auto-referential functions, especially related
+to sexuality and gender. Analyzing the complex interaction and interdependence
+of player and instrument, notably among Lyonnese poets and non-French
+painters, Zecher convincingly demonstrates that “the body-centred
+language of these poems” (139) reminds us of the blurring of
+social and sexual boundaries in women’s lute playing. While
+paintings often document the “slippage between the lute as <italic>voluptas</italic> and as the <italic>vita voluptuosa</italic>”
+(140), female poets achieve different kinds of “voluptuousness”
+(146), in displaying personal gratification found in lute performance,
+enabling the “survival of a female poetic self” (151).</p>
+      <p>Zecher offers a fascinating glimpse into musical materiality within
+the physical spaces and cultural contexts of the upper classes in
+sixteenth-century France. Her helpful explanations of critical musical
+nomenclature facilitate accessibility for nonmusicians. Carefully
+researched, this book’s rich use of illustrations and notes
+further enhances contemporary appreciation of the Renaissance interplay
+of music, poetry, and art.</p>
+      <sig-block> 
+         <sig>Ann Sorey Kirkland</sig> 
+         <sig>Hanover College</sig> 
+      </sig-block>
+   </body>

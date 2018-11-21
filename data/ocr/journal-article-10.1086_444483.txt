@@ -1,0 +1,405 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>Studies of African American art frequently examine European modernism and African art as the two major sources of stylistic and ideological influence on black artists working in the United States in the first half of the twentieth century. Less has been said about the equally relevant continental alliances between African American artists—especially those living in the West and Northwest—and their neighbors in Mexico and Canada.</p>
+      <p>The richness of the artistic border‐crossings between the United States and Mexico was brought to light in a 1996 traveling exhibition organized by the American Federation of Arts, the Studio Museum in Harlem, and the Mexican Museum in San Francisco. Organizers said the objective of the show, titled <italic>In the Spirit of Resistance: African American Modernists and the Mexican Muralist School,</italic> was to map “the dynamic current of mutual sympathy” between the two groups in the 1930s. The exhibition drew attention to African American artists who lived and worked in Mexico, with sculptor and printmaker Elizabeth Catlett being perhaps the most widely recognized. It also demonstrated that the work of Mexican muralists exerted a powerful influence on such prominent African American artists as Charles Alston, John Biggers, Sargent Johnson, Charles White, John Wilson, and Hale Woodruff. A well‐supported theme of the show was that racially disenfranchised and politically disillusioned African American artists seeking “a cultural identity that would have international implications in the modern world” used muralists from Mexico as role models.1</p>
+      <p>Thelma Johnson Streat (1912–1959) was notably absent from <italic>In the Spirit of Resistance,</italic> yet her work can be seen as forging another link in the chain of continental cross‐cultural influences—between African American, Mexican, and Canadian artists. Embracing cultures was at the core of Streat's art. The artist, a black woman with Native American roots who grew up in the Northwest, made it her objective to promote the idea of “one people in one world”—a concept that eventually would serve as the title of an exhibition she staged in New York.2 Streat's Works Progress Administration (WPA) experiences in California in the 1930s gave shape and clarity to her ideas about using art as a tool for social change. It was there that she met Diego Rivera, the Mexican muralist with the highest profile in the United States, briefly assisting him on a mural project that emphasized the amalgamation of diverse cultures. Later in her career she expanded her modes of creative expression to include dance and traveled to Canada, Mexico, Haiti, and Hawaii to study culture and performance.</p>
+      <p>Although Streat worked and exhibited in a number of cities, including New York and Chicago, her multicultural message was formulated largely from a base in California. In contrast with the more Eurocentric eastern seaboard, the West Coast allowed highly visible indigenous traditions that generated a different kind of regional flavor from which modernists could draw inspiration. Streat's ability to blend these multiple influences into a modernist mode (fig. 1) enabled her to attract the attention of Hollywood arts collectors, to capture headlines across the United States, and, in the 1940s and 1950s, even to gain some international recognition. Her singularity as an artist, with no discernible link to any one art movement or group, however, contributed to her lack of prominence in mainstream histories of art and, until recently, even the history of African American artists. For all of these reasons, Streat's artistic accomplishments warrant recovery, reconstruction, and critical analysis.<fig-group content-type="figgrp" id="fg1" position="float" seq="1">
+            <label>1</label>
+            <caption>
+               <p>Thelma Johnson Streat, <italic>Red Dots, Flying Baby, and Barking Dog,</italic> 1945. Watercolor on paper, 11 × 14 in. Johnson Collection, Portland, Oregon</p>
+            </caption>
+            <fig position="float" fig-type="figure">
+               <graphic xlink:href="fg1_online.tiff"
+                        rotation="0"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+      </p>
+      <sec>
+         <title/>
+         <fn-group>
+            <fn id="fn2">
+               <label>1</label>
+               <p>Lizzetta LeFalle‐Collins and Shifra M. Goldman, <italic>In the Spirit of Resistance: African American Modernists and the Mexican Muralist School</italic>, with foreword by Raquel Tibol (New York: American Federation of Arts, 1996), 9, 27.</p>
+            </fn>
+            <fn id="fn3">
+               <label>2</label>
+               <p>Streat's <italic>One World</italic> exhibition in 1950 is mentioned in several newspaper articles, including “Dancer Appears in Recital at Exhibition of Paintings,” <italic>Oregonian,</italic> October 14, 1950, sec. 3, 1. This clipping is one of many found in an important collection of materials relating to Streat's life and career that is, at this time, held by family members in Portland, Oregon (hereafter the Johnson Collection). A selection of Streat's artwork from the Johnson Collection was exhibited at the Portland Art Museum in Oregon in 2003.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc1">
+         <title>Cultivating a Career</title>
+         <p>Thelma Beatrice Johnson was born in Yakima, Washington, in 1912. Although relatively little is known about her family's history, promotional material issued at the height of her career noted that this was “Indian Country” and stated that she was “of Cherokee and American Negro parentage.” She studied art at the Art Museum School in Portland, Oregon, then briefly at the University of Oregon in Eugene. She met Romaine V. Streat when he modeled for life drawing classes at the museum school, and the couple married in 1935. Her professional career was built under the name of Thelma Johnson Streat, which she continued to use following a second marriage, to her manager Edgar Kline (known as John Edgar) in 1948.3</p>
+         <p>Portrait painting was Streat's first artistic aspiration, reflecting an early and sustained interest in human diversity. A photograph of the eighteen‐year‐old artist (fig. 2) shows her holding an oil portrait of Father Mayer, priest of the Grotto and Sanctuary of Our Sorrowful Mother in Portland. <italic>The Priest</italic> received honorable mention in a New York exhibition, <italic>Negro Artists at the International House,</italic> sponsored by the Harmon Foundation—an organization devoted to giving black artists national exposure and monetary support through awards—and the Federal Council of Churches. Streat's art education was not extensive, and she struggled to find the financial support needed to develop her career.4 Portraiture may have seemed a feasible means to reach self‐sufficiency as an artist. A pastel portrait of a woman (fig. 3) demonstrates that Streat was capable of rendering a good likeness and capturing reflective moods with sensitivity.<fig-group content-type="figgrp" id="fg2" position="float" seq="2">
+               <label>2</label>
+               <caption>
+                  <p>Thelma Johnson with <italic>The Priest,</italic> ca. 1930. Photograph. Harmon Foundation Files, Manuscript Division, Library of Congress, Washington, D.C.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg2.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group content-type="figgrp" id="fg3" position="float" seq="3">
+               <label>3</label>
+               <caption>
+                  <p>Thelma Johnson Streat, <italic>Portrait of a Woman (Thelma Bushnell),</italic> n.d. Pastel, 12 ¾ × 9 in. Johnson Collection, Portland, Oregon</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg3.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Today only a few works by Streat are preserved in private and public collections, and her life story must be pieced together from newspaper clippings and other biographic fragments, many of them gathered in a Johnson family collection. The best example of her early work is <italic>Black Virgin</italic> (fig. 4), a portrait of a young black woman dressed in white as a symbol of purity and innocence. Although hardly the most common mode of depicting the Mother of God, images of black goddesses are known throughout the history of art. Syrian, Coptic, and Ethiopian images of black goddesses were transported to Europe during the Crusades, resulting in the establishment of the cult of the Black Virgin. A recurring refrain from texts associated with the cult, “I am black, but beautiful, daughters of Jerusalem. Like the black tents of Kedar, like the pavilions of Solomon,” was taken from the Old Testament Song of Solomon (1:5).5<fig-group content-type="figgrp" id="fg4" position="float" seq="4">
+               <label>4</label>
+               <caption>
+                  <p>Thelma Johnson Streat, <italic>Black Virgin,</italic> n.d. Oil on canvas backed with matte board, 20 × 14 in. Reed College Art Collection, Reed College, Portland, Oregon</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg4_online.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Black was the color of the earth—the source of fertility, life, and sorrow. Thus the dark effigy was an anthropomorphic symbol of the receptive nature from which all things are created, a fitting metaphor for female artistic creativity. Streat's <italic>Black Virgin</italic> is set against a dark blue, mood‐filled background that contains the barren branches of barely discernible trees. The figure is luminous in contrast to the dark ground, suggesting hope, but the bare branches also point to the limited possibilities and resources that existed for a black female artist.</p>
+         <p>Streat met Diego Rivera in the late 1930s when she moved to San Francisco to work on WPA projects. In 1939 she exhibited twenty paintings and watercolors there in the City of Paris Galleries run by Beatrice Judd Ryan, an art dealer who is credited with having been the first person to exhibit Rivera's work in the United States. When Ryan became state supervisor of exhibitions for the Federal Art Project, one of the divisions of the WPA, she arranged for Rivera to paint a mural in front of fairgoers in the Palace of Fine Arts for the 1939–40 Golden Gate International Exposition. In an unpublished memoir titled “The Bridge between Then and Now,” Ryan describes the exhibit: “Rivera stands high up on the scaffold, his awkward bulk emphasized by the colored girl, Thelma Streat, beside him, tall and slim in her blue jeans. Art‐in‐Action below has just come alive and the artists, like a hive of bees, are all at work.”6</p>
+         <p>Rivera's mural, entitled <italic>Pan American Unity,</italic> was thematically related to the cultures of the Pacific. In discussing it, he emphasized the need to replace a homogenous, Anglo‐oriented view of art with a melding of the arts of indigenous peoples. His mural, he said, was “about the marriage of the artistic expression of the North and of the South on this continent, that is all. I believe in order to make an American art, a real American art, this will be necessary, this blending of the art of the Indian, the Mexican, the Eskimo.”7</p>
+         <p>Rivera's call for creating a new art through a blending of older established cultures resonated with Streat's interests. She was also exposed to progressive social ideas percolating through the WPA project she worked on in the city's Pickle Factory, and she sought ways to incorporate African Americans' contributions to history and society in her mural work. The montage of flattened figures rendered with strong contours in <italic>Cartoon for The Negro in Industrial Life (Women at Work)</italic> (fig. 5) is one example. A separate 1943 mural project, <italic>Death of a Black Sailor,</italic> which was exhibited in the American Contemporary Gallery in Hollywood, proved to be more controversial. Streat, whose first husband was a navy gunner's mate, was aware of the cruel irony of African American servicemen fighting for a democracy that did not accept them as equals. According to a report in the weekly <italic>Black Dispatch,</italic> the artist received threats from the Ku Klux Klan for depicting this subject in her mural. The iconography was described in the same article: <disp-quote>
+               <p>The California painter in the sketch endeavors to depict the thoughts on democracy by a dying Negro sailor…. The sailor sees defense plants with signs which say “only whites need apply;” refusal of Negro blood by Red Cross banks; separate army and navy barracks; black soldiers marching through restricted districts; restaurants where Negro soldiers and sailors cannot eat. The painting strives to reveal that in spite of all these adverse conditions the Negro soldier is on the march to combat Nazism both at home and abroad.8<fig-group content-type="figgrp" id="fg5" position="float" seq="5">
+                     <label>5</label>
+                     <caption>
+                        <p>Thelma Johnson Streat, <italic>Cartoon for The Negro in Industrial Life (Women at Work)</italic>, ca. 1944. Ink on paper, 12 ¾ × 30 in. Johnson Collection, Portland, Oregon</p>
+                     </caption>
+                     <fig position="float" fig-type="figure">
+                        <graphic xlink:href="fg5.tiff"
+                                 rotation="0"
+                                 alt-version="no"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </fig>
+                  </fig-group>
+               </p>
+            </disp-quote>
+         </p>
+         <p>But Streat and fellow African American artists, like Sargent Johnson, another Bay Area acquaintance who was noted for fusing modernist tendencies with racial themes, worked in a time and place in which racial differences were often officially highlighted as a positive force. Art historian Erika Doss notes, for example, that WPA programs sanctioned the construction of public buildings in Southern California that incorporated Mexican and Hispanic designs as a counter to the bigotry—rife in this border region—directed toward these groups. The Santa Fe Indian School educated students from many tribal backgrounds under the auspices of federal Indian policy, which encouraged the cultivation of a generic native art. New Deal programs launched by President Franklin D. Roosevelt to bring economic relief to a Depression‐stricken nation supported diverse ethnic and artistic heritages in a variety of ways at the highest levels. In Doss's view the main goal was to promote a sense of national unity—not to blur or conceal differences.9 The agenda must have been clear to Streat, Johnson, and other black artists working for the WPA who were not particularly oriented toward this ideal of cultural nationalism. Still, they benefited from the general interest in folk movements spawned by government work relief programs in the 1930s, which enabled them to synthesize an alternative approach to multicultural visual expression. Rather than exploiting a mode of expression derived from generalized forms of native art, West Coast artists like Streat constructed a bricolage of traditions in which both affinities and differences were blended into a new modernist language.</p>
+         <p>The extent to which San Francisco's social landscape shaped Streat's ideas is difficult to measure. According to scholar Judith Wilson, the situation for black artists in the Bay Area was unique for the time. The African American population there still struggled for jobs and was subjected to discrimination, but blacks were not forced to live as a segregated group within the city. “The unusual latitude in housing choices Bay Area blacks experienced suggests the existence of comparatively fluid patterns of interaction between individuals of different races,” Wilson states.10 She notes that until the 1940s African Americans lived among Japanese, Chinese, Filipinos, and Anglos—a grassroots multiethnic experience denied to black populations in most other American cities. A watercolor by Streat entitled <italic>Asian Girl</italic> (fig. 6) reflects her observations of local diversity and demonstrates a stylistic shift to a more abstract, high‐contrast mode that coincided with Streat's arrival in California.<fig-group content-type="figgrp" id="fg6" position="float" seq="6">
+               <label>6</label>
+               <caption>
+                  <p>Thelma Johnson Streat, <italic>Asian Girl,</italic> n.d. Watercolor, 8 ¾ × 7 in. Johnson Collection, Portland, Oregon</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg6.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <fn-group>
+            <fn id="fn4">
+               <label>3</label>
+               <p>For Streat's birth in “Indian Country” and parentage, see flyer in the Johnson Collection advertising her first Broadway appearance at the Ziegfeld Theatre in 1951. Also see Lizzetta LeFalle‐Collins, “Streat, Thelma Johnson American Painter,” in <italic>St. James Guide to Black Artists,</italic> ed. Thomas Riggs (New York: Schomburg Center for Research in Black Culture, 1997), 512–13. On her marriage, see Ruth A'Court Tunturi, “Thelma Streat to be Married,” <italic>Oregon Journal,</italic> December 7, 1948, clipping, Johnson Collection.</p>
+            </fn>
+            <fn id="fn5">
+               <label>4</label>
+               <p>“At 17 Her Painting Won Prize,” <italic>Silhouette Magazine,</italic> September 1939, 13; “Art,” <italic>Spectator,</italic> 1934, clippings, Johnson Collection. Streat received a scholarship from black performer and activist Paul Robeson to attend the art museum school in the 1934–35 academic year; see May 22, 1998, letter from classmate Janet Waldron to Douglas F. Cooley, Memorial Art Gallery at Reed College, Portland, Oregon, Johnson Collection.</p>
+            </fn>
+            <fn id="fn6">
+               <label>5</label>
+               <p>At least two fictional treatments of the Black Virgin were published during Streat's lifetime: Olga Petrova, <italic>The Black Virgin and Other Stories</italic> (Boston: Four Seas Co., 1927); and Mary Borden, <italic>The Black Virgin</italic> (London and Toronto: W. Heinemann, 1937). For further background, see Ean Begg, <italic>The Cult of the Black Virgin</italic> (London: Arkana, 1996).</p>
+            </fn>
+            <fn id="fn7">
+               <label>6</label>
+               <p>For references to Streat's work with Rivera, see Judith Wilson, “How the Invisible Woman Got Herself on the Cultural Map: Black Women Artists in California,” in <italic>Art/Women/California Parallels and Intersections, 1950–2000,</italic> ed. Diana Burgess Fuller and Daniela Salvioni (Berkeley: Univ. of California Press, 2002), 204. Lena M. Wysinger, “News of Activities of Negroes,” <italic>Oakland Tribune,</italic> September 15, 1940, also links Streat to Rivera. I am indebted to Wilson for sharing information about Ryan that she received from Kara Kirk, former publications director at the San Francisco Museum of Modern Art. The Ryan quote is from her manuscript, “The Bridge between Then and Now,” Bancroft Library, University of California at Berkeley, 95. On Ryan's gallery, see “Obituary,” <italic>San Francisco Examiner,</italic> December 1, 1966, 67; and Millie Robbins, “Friend of the Arts,” <italic>San Francisco Chronicle,</italic> December 25, 1966.</p>
+            </fn>
+            <fn id="fn8">
+               <label>7</label>
+               <p>Rivera's comment is from Dorothy Cravath, “Conversation with Diego Rivera,” in Elizabeth Bancroft, <italic>Diego Rivera</italic> (pamphlet, n.p.), as cited in Anthony W. Lee, <italic>Painting on the Left: Diego Rivera, Radical Politics, and San Francisco's Public Murals</italic> (Berkeley: Univ. of California Press, 1999), 209.</p>
+            </fn>
+            <fn id="fn9">
+               <label>8</label>
+               <p>According to an unidentified newspaper clipping in the Johnson Collection, R.V. Streat was a gunner's mate second class in the U.S. Navy. A Romaine Virgil Streat (1912–1995), third class, is listed as being buried in the Golden Gate National Cemetery; <ext-link ext-link-type="uri"
+                            xlink:href="http://www.interment.net/data/us/ca/sanmateo/ggate/s/golden_s26.htm"
+                            xlink:type="simple">www.interment.net/data/us/ca/sanmateo/ggate/s/golden_s26.htm</ext-link>. For the quote, see “Painter's <italic>Death of a Black Sailor</italic> Attracts Attention,” <italic>Black Dispatch,</italic> Oklahoma City, December 4, 1943, 11.</p>
+            </fn>
+            <fn id="fn10">
+               <label>9</label>
+               <p>Ann Gibson states that Streat was friendly with other WPA artists, including Johnson and Lester Mathews; see Gibson's “Two Worlds: African American Abstraction in New York at Mid‐Century,” in <italic>The Search for Freedom: African American Abstract Painting, 1945–1975</italic> (New York: Kenkeleba Gallery, 1991), 20. On the New Deal nationalist agenda, see Erika Doss, <italic>Twentieth‐Century American Art</italic> (Oxford: Oxford Univ. Press, 2002), 113–14.</p>
+            </fn>
+            <fn id="fn11">
+               <label>10</label>
+               <p>Judith Wilson, “Sargent Johnson: Afro‐California Modernist,” in <italic>Raceing Art History: Critical Readings in Race and Art History,</italic> ed. Kymberly N. Pinder (New York: Routledge, 2002), 309.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc2">
+         <title>Expanded Frontiers</title>
+         <p>After experiencing the inclusiveness of life in San Francisco, Streat spent the remainder of her career creating what, according to Rivera's definition, was a real American art. In the mid‐1940s she left California for several years, settling in Chicago, where she taught art and worked on a series of murals depicting the African American in industry. She submitted a mural design entitled <italic>The Negro in Professional Life</italic> to be juried at the South Side Community Art Center, and it tied for a first‐place prize there. Several newspaper accounts refer to her continuing work on a series of twelve murals relating to the history of the Negro in the American scene, but there is little evidence otherwise that this genre proved successful for Streat.11</p>
+         <p>Moving away from representational portraits, she experimented with a hieratic figurative style in works like <italic>Woman in Blue</italic> (fig. 7) and <italic>Asian Girl</italic> and neo‐primitive motifs that blended elements of various non‐European traditions. Her innovative forms put into practice Rivera's idea of cultural blending, and he was quoted as commenting, “[T]he work of Thelma Johnson Streat is in my opinion one of the most interesting manifestations in this country at present, it is extremely evolved and sophisticated enough to reconquer the grace and purity of African and American art.”12<fig-group content-type="figgrp" id="fg7" position="float" seq="7">
+               <label>7</label>
+               <caption>
+                  <p>Thelma Johnson Streat, <italic>Woman in Blue,</italic> n.d. Tempera on paper, 24 × 18 in. Johnson Collection, Portland, Oregon</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg7_online.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Like Johnson and many other African American artists, Streat made numerous trips to Mexico in the 1940s to explore the opportunities there, but she also traveled to Canada. She drew on firsthand studies of Indian peoples in British Columbia that she made in this period as well as the indigenous arts of Mexico and Haiti to create visual forms and practices that fused, but did not copy, cultural traditions and that were accessible to a wide range of viewers. She remained open to ideas from other sources, including the modern dance performances of Katherine Dunham and the work of Canada's most renowned female painter, Emily Carr.13</p>
+         <p>In 1946 Streat debuted the first of many dance performances in San Francisco. She said she was drawn to the expressive potential of movement and felt “I could do more with painting if I could say something with the body.”14 The choreography, like the artwork she sometimes used as a backdrop for the performances, was based on her study of diverse peoples and traditions geographically associated (with the exception of Haiti) with the West Coast.</p>
+         <p>Knowledge of the cultures she used as resources was garnered through extensive travel and, in some instances, ethnographic studies in the field. When she visited Queen Charlotte Island, British Columbia, in the mid‐1940s, for example, she traveled with a <italic>Vancouver Sun</italic> reporter and photographer who assisted with documenting and comparing “Negro expressionist dances with the ceremonial movements of the Squamish tribe, as manifested by Chief Khahtsahlano.” The aged chief instructed her in dance movements and also talked with her about ceremonial masks, many of them made by his great‐grandfather. This fieldwork was part of a systematic study of folk dancing traditions Streat undertook.15</p>
+         <p>By 1946 Streat was back in Oakland, California, seeking a manager to launch a worldwide tour of interpretative dances and art exhibitions. According to newspaper reports and promotional literature, Streat's audiences ran the gamut from community groups to more elite patrons, including the queen of England and the president of Ireland. In London she appeared on Joan Gilbert's <italic>Picture Page,</italic> a televised magazine that highlighted people and events in the news. Burgess Meredith's New World Film Studio completed three short documentaries about Streat, currently unlocated. A list of the owners of Streat's work, as cited in newspaper accounts about her art and travels, is impressive, including tenor Roland Hayes, the queen of England, architect Frank Lloyd Wright, cosmetics entrepreneur Helena Rubenstein, first lady Eleanor Roosevelt, author Gertrude Stein, and Rivera. Alfred Barr, the founding director of the Museum of Modern Art, New York, personally selected <italic>Rabbit Man</italic> (see fig. 11) for MoMA's permanent collection in May 1942, according to the museum's inventory lists.16</p>
+         <p>Hollywood celebrities Vincent Price, Paulette Goddard, Fanny Brice, and Charlie Chaplin also were reported to have acquired her work. The role celebrity collectors in Southern California played in supporting artists like Streat deserves further investigation. Price (fig. 8) was a leading figure in a small contingent of Hollywood personalities who lent their prestige to causes and organizations that brought attention to American art in all its diversity. He endeavored to create an art scene in Los Angeles to counter the influence of East Coast museums and galleries and built a private collection of modern and Native American art, which he donated to East Los Angeles College. Although actors like Price were under contract to studios, there were long periods of time when they did not need to be on a set for filming. Price took advantage of these free periods to pursue his interest in the visual arts, opening the Little Gallery in Beverly Hills, where he showed the work of black artisans, Mexican artists, and Disney animators. Streat exhibited in 1943 at the Little Gallery, which was Price's attempt to encourage art collecting in a market that suffered from the aftereffects of the Great Depression and the transient nature of Los Angeles's population. Reminiscing about the gallery's exhibitions, he later noted, “We had a black artist named Thelma Johnson Streat. She was wonderful.”17 Hatfield Gallery and Stendahl's Gallery were the only comparable exhibition venues at that time. Although the Stendahl concentrated mostly on Mexican and pre‐Columbian art, Streat was also invited to display her work there.<fig-group content-type="figgrp" id="fg8" position="float" seq="8">
+               <label>8</label>
+               <caption>
+                  <p>Vincent Price with his art collection, <italic>Arts &amp; Antiques</italic> 1, no. 1 (1965)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg8.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The Little Gallery was an important venue for Streat's work to be seen by the rich and famous of Hollywood. Price's circle included actors Edward G. Robinson, Fanny Brice, and Helen Hayes, and he recalled later that Greta Garbo, Tallulah Bankhead, and other film stars came to gallery openings. Among the gallery's supporters were celebrities Streat could have become acquainted with while working with Rivera. For instance, a WPA archival photograph shows Goddard (fig. 9) modeling for a figure in Rivera's <italic>Pan American Unity</italic> mural, and another depicts Rivera and Robinson looking at sketches.18<fig-group content-type="figgrp" id="fg9" position="float" seq="9">
+               <label>9</label>
+               <caption>
+                  <p>Emmy Lou Packard, <italic>Paulette Goddard Modeling for Diego Rivera for His Mural “Pan American Unity</italic>,” 1940. Photograph, 6 × 6 in. Estate of Emmy Lou Packard</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg9.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <fn-group>
+            <fn id="fn12">
+               <label>11</label>
+               <p>See “2 Artists Tie in Art Center Mural Contest,” unidentified newspaper clipping, 1944, Johnson Collection; and “Negro Soldier Mural Shown at City Hall,” <italic>Honolulu Star‐Bulletin,</italic> June 26, 1952, C3.</p>
+            </fn>
+            <fn id="fn13">
+               <label>12</label>
+               <p>Rivera's quote is cited frequently in newspaper articles about Streat. One source is Edgar Kline, “Negro Artist in New York,” clipping, Johnson Collection.</p>
+            </fn>
+            <fn id="fn14">
+               <label>13</label>
+               <p>The Johnson Collection contains a letter dated 1949 from Streat in Paris to her grandmother mentioning Katherine Dunham and also saying she had met African American dancer Josephine Baker. Dunham is listed among the collectors of Streat's work in “Art Display Due by Mrs. Streat,” <italic>Oregonian,</italic> June 30, 1948. The reference to Streat's fascination with Emily Carr is from Bill Rose, “Dancer, Writer, Muralist—Brilliant Negro Artist Is Here to Study Indian Lore,” <italic>Vancouver Sun,</italic> August 16, 1946, 15.</p>
+            </fn>
+            <fn id="fn15">
+               <label>14</label>
+               <p>Wilma Morrison, “Portland Interpretive Dancer Wins World Acclaim, Professes She Prefers School Work to Club Glitter,” <italic>Oregonian,</italic> September 4, 1951, 13.</p>
+            </fn>
+            <fn id="fn16">
+               <label>15</label>
+               <p>Rose, “Dancer, Writer, Muralist.”</p>
+            </fn>
+            <fn id="fn17">
+               <label>16</label>
+               <p>For the Joan Gilbert reference, see “Londoner's Diary,” <italic>Evening Standard,</italic> March 7, 1950, clipping, Johnson Collection. Meredith's films are mentioned in Kline, “Negro Artist in New York.” The list of collectors is frequently mentioned in newspaper accounts; the promotional flyer for Streat's 1951 Ziegfeld Theatre appearance (see note 3) says Queen Elizabeth was among her collectors (presumably the wife of George VI). See also Morrison, “Portland Interpretive Dancer Wins World Acclaim.” Rivera reportedly owned a self‐portrait of Streat, but the Museo Dolores Olmedo in Mexico City, which houses much of his collection, includes no works by Streat; August 25, 1999, letter from Ana Maria Arana, secretary to Dolores Olmedo, to author. Some works cited may have been gifts intended to promote Streat's career; others were sold for $50 or less.</p>
+            </fn>
+            <fn id="fn18">
+               <label>17</label>
+               <p>All information about Price is from Vincent Price, interview by Paul J. Karlstrom, August 6, 1992, Archives of American Art, Smithsonian Institution, Washington, D.C.</p>
+            </fn>
+            <fn id="fn19">
+               <label>18</label>
+               <p>Julia Bergman, <italic>Mural in Progress: Photographs and Drawings of Pan American Unity Mural in Progress, June–December 1940</italic> (San Francisco: Rosenberg Library, City College of San Francisco, 2000).</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc3">
+         <title>Performing Multiculturalism</title>
+         <p>Recovery of Streat's work in dance would provide valuable insights into how African American artists used movement as a vehicle for social change. In 1930 dancer and choreographer Martha Graham claimed modern dance as an art of and from America. Katherine Dunham, who, like Streat, studied Haitian dance forms, was among those following Graham's lead in shaping a new form of dance aimed at questioning existing roles assigned according to race, class, and gender. Streat had met Dunham and admired her work. The dancer‐teacher‐choreographer Lester Horton and his partners formed the Dance Theater, one of the first integrated modern dance companies on the West Coast, in Hollywood in 1946, the same year Streat debuted her choreography at the San Francisco Museum of Art. Horton taught a distinctive form of movement based on his combined interest in art, ballet, and Native American and various ethnic dance traditions. His choreodramas centered on a range of themes, including social concerns—like the issues of bigotry and chauvinism featured in “The Beloved,” which Horton premiered in 1948—and cultural history. A quote from Julia Lawrence Foulkes's dissertation about modern dance and nationalism between 1925 and 1950 helps to position Streat's performances within this wider context: <disp-quote>
+               <p>Confrontational and experimental, modern dancers questioned their own roles in society, the role of art in America, and the place of America in the world…. [M]odern dance developed in the midst of debates about national identity. In the wave of cultural nationalism of the 1930s, modern dancers attacked ballet because of its elitist roots in European courts. Influenced by communist and socialist politics, they danced in bare feet, with unadorned costumes, and privileged individual expression and portrayals of abstract concepts over fairytale narratives and escapist entertainment. White women (many of whom were Jewish), gay men, and some African American men and women populated modern dance.19</p>
+            </disp-quote> Streat's dance performances were an amalgamation of Negro spirituals, themes from her paintings, and excerpts from African ballet as well as Haitian, Portuguese, and Hawaiian dance forms, and they were sometimes staged as benefits for social causes such as the Spanish Refugee Appeal. Numerous newspaper articles described her ability to command the stage with movement and gesture alone. A 1950 review in the <italic>Evening Express</italic> of Liverpool, England, of her “Songs and Mimes of the Coloured People,” for example, said she performed for about two hours unaided by props or musical accompaniment. The <italic>Sunday Oregonian'</italic>s obituary for Streat reported that she “gathered rave reviews from journals around the world,” and that a “Paris critic called her ‘Maurice Chevalier in black’ because of her feat in holding a Paris audience 2 hours without props.”20</p>
+         <p>Cultural anthropologist Roy Wagner's theories about the invention of the self may hold some useful clues for reconsideration of Streat's work and the strategies she employed to express her conceptualization of modern abstraction as both performance and painted symbol. An anthropologically based paradigm is all the more appropriate given that the artist, still only in her forties, was studying cultural anthropology at the University of California at Los Angeles at the time of her sudden death from a heart attack in May 1959. Wagner hypothesizes that a dynamic dialectic exists between the individual and the social world, which aids in the manipulation of conventional symbols to create new meaning. A creative individual who is placed in a “double bind,” owing to multiple and sometimes conflicting identities, according to Wagner, does not seek to rectify the imbalance between invention and convention but learns “a personal <italic>inversion</italic> of this convention.”21</p>
+         <p>Streat subtly and subjectively realigned conventions of modernism to raise questions of cultural identity, often combining abstract painting and performance in innovative ways. Modernists who appropriated formal elements from so‐called primitivist sources often did so with little or no concern for the original context from which these forms were derived. Streat intricately layered references to various cultural sources, using functional and stylized gestures as her primary means of communication. In the words of Marcel Frère, a critic for <italic>Ce Soir</italic> in Paris, “None of her gestures is wasted. Each of her movements has a profound significance and translates an inner necessity…. She is beautiful and her dance completely impregnated with the plastic beauty which illuminates her frescoes and her painting.” Journalist Catherine Jones, writing about Streat's performances, reported, <disp-quote>
+               <p>At the Museum of Modern Art the artist presented recently a dance recital called “Dance of Freedom,” which she terms an expression of pure form, in which she performed before one of her own large paintings, using the painting as part of the forms expressed in her dance.22</p>
+            </disp-quote>
+         </p>
+         <p>The comparison of a promotional photograph (fig. 10) of Streat dancing with a painted image like <italic>Rabbit Man</italic> (fig. 11) illustrates how she used her whole body to strike meaningful poses. Arms are arched over the head—or in front of the body as seen in other photographs of the artist performing—and legs are akimbo in her dance movements, creating a visual parity with the circular forms that predominate in the painting of the rabbit man. This dialogue between performance and painting is one form of inversion. Streat's subjects also conjure up truly cross‐cultural associations transformed, but not divorced, from their original contexts. Scholar Lizzetta LeFalle‐Collins links <italic>Rabbit Man</italic> to designs of the Salish Indians of British Columbia, but stories of the rabbit as a sacred messenger of the divine and a trickster figure appear in Mexican and African as well as Native American lore. The circular motifs in Streat's <italic>Rabbit Man</italic> are suggestive of the frequent pairing of the rabbit with the moon in many of these folklore traditions. Syntheses of this type complicate the definitions of “modernism” and “primitivism” as assigned by white normative culture, because Streat's personal inversion of conventions represented a true hybridity born of the diaspora. This hybridity focused on the interaction, rather than assimilation, of conventional symbols to construct new meanings and expressive forms. This point was often lost on journalists and critics, who characterized her as “dusky,” a “colored girl” who exhibited “primitive Negroid designs.” The Cherokee component of Streat's heritage was frequently ignored and her interest in other indigenous traditions cast in the genre of folklore rather than fine art. One San Francisco critic, Helen Clement, considered all of Streat's interpretations and paintings to be centered on “the Negro, and how we can better understand his problem,” a characterization that devalues the diversity embodied in her work.23<fig-group content-type="figgrp" id="fg10" position="float" seq="10">
+               <label>10</label>
+               <caption>
+                  <p>Publicity photograph for Thelma Johnson Streat, n.d. Johnson Collection, Portland, Oregon</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg10.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group content-type="figgrp" id="fg11" position="float" seq="11">
+               <label>11</label>
+               <caption>
+                  <p>Thelma Johnson Streat, <italic>Rabbit Man,</italic> 1941. Gouache on cardboard, 6 ⅝ × 4 ⅞ in. Museum of Modern Art, New York. Museum of Modern Art/Licensed by SCALA/Art Resource, New York</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg11_online.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The undercurrent of African themes in Streat's work is evident in paintings like <italic>Two Black Kings</italic> (fig. 12), one of two known images she made using superimposed profiles of black pharaonic figures with frontal eyes in the style of ancient Egyptian art. One aspect of African American religious practices, the singing of spirituals, also featured strongly in Streat's performances. Familiar spirituals, sung and interpreted through movement, were performed alongside readings of works like “The Negro Speaks of Faith,” a poem written by her sister, Juanita Johnson. Whether cognitively or intuitively, the spirituals formed a conceptual matrix for Streat's interest in the interaction of conventional forms. “Real spirituals,” as defined by writer Zora Neale Hurston, were not “just songs” but “unceasing variations around a theme” and a form of “conscious art expression,” just as Streat's art represented a variation on the theme of tolerance. “Jagged harmonies,” possible only through the expression of multiple individual voices, where “each singing of the piece is a new creation,” were the essence of spirituals. And Negro songs must, according to Hurston, be “bent on expression of feelings and not sound effects.” In the words of Rivera, Streat's work was the “deep and personal expression of the painter's feeling.” The artist said in interviews that she spent “several hours before a show thinking through the emotions” she wanted to portray in dance—emotions that emphasized expressive similarities, rather than differences, among diverse cultures.24<fig-group content-type="figgrp" id="fg12" position="float" seq="12">
+               <label>12</label>
+               <caption>
+                  <p>Thelma Johnson Streat. <italic>Two Black Kings,</italic> 1945. Oil on paper, 14 × 11 in. Melvin Holmes Collection of African American Art, San Francisco</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg12.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Although Africanisms were predominant in her work, her goal was a transcultural blending. “The oneness of spirit in the arts of all people dissolves all racial, religious, and social lines between peoples that too often make men hate each other,” she explained in a newspaper interview. “I found that all rhythmic forms of primitive peoples are basically the same—those of the Haida culture of British Columbia, the Ibos of Haiti, the aborigines of the Hawaiian Islands, the Mayans of Mexico are all in essence alike,” she said on another occasion. “Even the American Negro has the same essential rhythms and they show up mainly in his religious practices.”25</p>
+         <fn-group>
+            <fn id="fn20">
+               <label>19</label>
+               <p>In Haiti, Streat studied the dance rhythms of the Ibos, who were West African slaves. Canadian reporter May Ebbitt wrote in 1951 that Streat had begun her study of “primitive” folk dancing five years earlier, which would place her travels to Haiti between 1946 and 1951; see Ebbitt, “Hypnosis Aids Artist in Work,” <italic>Montreal Standard,</italic> August 18, 1951. On Dunham, see note 13. Julia Lawrence Foulkes, “Dancing America: Modern Dance and Cultural Nationalism, 1925–1950” (PhD diss., Univ. of Massachusetts, Amherst, 1997), vi.</p>
+            </fn>
+            <fn id="fn21">
+               <label>20</label>
+               <p>“Negro Artist in Liverpool,” Liverpool <italic>Evening Express</italic>, 1950 clipping, Johnson Collection. “Famed Painter‐Dancer Dies after Heart Attack,” <italic>Sunday Oregonian,</italic> May 1959.</p>
+            </fn>
+            <fn id="fn22">
+               <label>21</label>
+               <p>Roy Wagner, <italic>The Invention of Culture,</italic> rev. and exp. ed. (Chicago: Univ. of Chicago Press, 1981), 84.</p>
+            </fn>
+            <fn id="fn23">
+               <label>22</label>
+               <p>Marcel Frère is quoted in Ziegfeld Theatre promotional flyer cited in note 3. For the quote by Catherine Jones, see her “Thelma Streat Comes Home—Artist Tells Plan in Child Education,” <italic>Oregonian,</italic> June 17, 1945, sec. 3, 5.</p>
+            </fn>
+            <fn id="fn24">
+               <label>23</label>
+               <p>For the interpretation of <italic>Rabbit Man,</italic> see LeFalle‐Collins, <italic>St. James Guide to Black Artists.</italic> For characterizations of Streat, see announcement from the Vera Jones Bright Gallery in San Francisco of “an exhibition of primitive Negroid designs by Thelma Johnson Streat” in April 1940, Johnson Collection, and “Colored Girl to Exhibit Paintings,” <italic>Oregon Journal,</italic> September 19, 1934, 5. Helen Clement, “Art and Artists, Thelma Johnson Streat at S.F. Museum of Art,” <italic>Oakland Tribune,</italic> March 17, 1946.</p>
+            </fn>
+            <fn id="fn25">
+               <label>24</label>
+               <p>Zora Neale Hurston, “Spirituals and Neo‐Spirituals,” in <italic>The Gender of Modernism: A Critical Anthology,</italic> ed. Bonnie Kime Scott (Bloomington: Indiana Univ. Press, 1990), 189, 188. Rivera quoted in Kline, “Negro Artist in New York.” For the Streat quote, see Ebbitt, “Hypnosis Aids Artist in Work.”</p>
+            </fn>
+            <fn id="fn26">
+               <label>25</label>
+               <p>For the first quote, see “‘Children's City’ Plan of Artist‐Author Pair,” <italic>Santa Barbara News‐Press,</italic> May 31, 1953, clipping, Johnson Collection; the second is from Ebbitt, “Hypnosis Aids Artist in Work.”</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc4">
+         <title>Modernist Subversions</title>
+         <p>The vernacular visual vocabulary Streat devised as an aesthetic to express a multi‐cultural vision differed from the angst‐ridden works emerging from the New York art scene. Although many of those artworks were also loaded with references to the abstract forms of Native American and African art, Streat's images were distinctive in their insistent child‐like playfulness and graphic resolution. Her mode of expressionism is historically significant as a counterpoint to Jackson Pollock's Jungian‐informed ideals of the collective unconscious, Robert Motherwell's need to capture “felt experience,” and Mark Rothko's symbolically charged and myth‐laden paintings.</p>
+         <p>Another trace of inversion is located in designs, such as <italic>Robot</italic> (fig. 13), created as illustrations for children's books. These reflected Streat's growing conviction that abstract art, as well as the concept of tolerance, was more easily grasped by children than adults. “To the child,” she said, “the pure and simple forms of abstracts are more real than the ‘realistic’ ones as we term them.” A similar idea was expressed by Canadian artist Emily Carr, whose work Streat admired. Carr used a child's definition of creative art—“I think and then I draw a line round my think”—to explain the direct expression of feeling found in children's art, the “fresh seeing” she believed was an essential element of any good art.26<fig-group content-type="figgrp" id="fg13" position="float" seq="13">
+               <label>13</label>
+               <caption>
+                  <p>Thelma Johnson Streat, <italic>Robot,</italic> n.d. Watercolor, 11 ½ × 8 ½ in. Johnson Collection, Portland, Oregon</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg13.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Paintings of totems by Streat (fig. 14) and Carr (fig. 15) illustrate how these artists combined an understanding of the native peoples of British Columbia gleaned through ethnographic field studies with a concern for creating accessible abstract forms. The challenge was to capture the childlike quality of drawing what one feels as well as what one sees. A flight of playful childlike fantasy is captured in Streat's <italic>Red Dots, Flying Baby, and Barking Dog</italic> (see fig. 1). She commented that people found odd her shift from the lifelike portraits she made as a child to the childlike designs she created as a mature artist. “But,” she explained, “they're more sophisticated than they look”—a reference to her aim of creating art that was both popular and provocative as a means of teaching racial tolerance. A writer for <italic>Silhouette Pictorial Magazine</italic> reported, “The mixture of utmost naiveté and definite sophistication is the most striking impression that one has after seeing her works for the first time.” Although children's art and tribal art had been labeled as forms of “primitivism” since the late nineteenth century, Streat's adaptation of “child art” as a tool for teaching cultural pluralism can be viewed as an inversion of this convention.27<fig-group content-type="figgrp" id="fg14" position="float" seq="14">
+               <label>14</label>
+               <caption>
+                  <p>Thelma Johnson Streat, <italic>Totem,</italic> n.d. Mixed media, 19 × 14 in. Johnson Collection, Portland, Oregon</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg14.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group content-type="figgrp" id="fg15" position="float" seq="15">
+               <label>15</label>
+               <caption>
+                  <p>Emily Carr. <italic>A Skidegate Pole,</italic> 1942. Oil, 34 ¼ × 30 ⅛ in. Vancouver Art Gallery, Emily Carr Trust. VAG 42.3.37, photo by Trevor Mills</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg15.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>In 1948 Streat married the folklorist Edgar Kline and the couple combined their mutual interest in working with children to plant seeds of multiculturalism. The <italic>Oregon Journal</italic> reported that, immediately following their marriage, they expected to visit Mexico City for six months to a year and open a studio there for making children's films. Sometime between 1948 and 1950 the couple settled in Hawaii and founded the Children's City of Hawaii &amp; New School of Expression at Punaluu, Oahu, an experimental center to teach tolerance through art.28 Brightly colored depictions of island children, like the undated painting <italic>Boy with Bird,</italic> emerged in Streat's artistic production. The couple's experiment drew international attention, and in 1956 they broke ground for a second center of cultural expression at Salt Spring Island in British Columbia. Residents of Salt Spring Island still recall Streat and Kline visiting the area, but the second Children's City, to be built on land donated by local farmers, never materialized.</p>
+         <fn-group>
+            <fn id="fn27">
+               <label>26</label>
+               <p>No children's books illustrated by Streat have been located, but she held a solo exhibition at the Honolulu Academy of Arts that included examples of her children's book illustrations. See “Illustrations/Textile Designs,” <italic>Honolulu Advocate,</italic> February 15, 1948. Streat is quoted in Helen McGrath, “Abstract Art ‘Realistic’ to Children Says Woman Artist Exhibiting Here,” <italic>Vancouver Herald,</italic> July 10, 1956. Ebbitt, “Hypnosis Aids Artist in Work,” states that Streat “is a particular admirer of the late Emily Carr, well‐known Canadian painter of Indian scenes.” Emily Carr, <italic>Fresh Seeing</italic> (Toronto: Clarke, Irwin &amp; Co., 1972), 8, 10.</p>
+            </fn>
+            <fn id="fn28">
+               <label>27</label>
+               <p>Streat is quoted in Ebbitt, “Hypnosis Aids Artist in Work.” For the <italic>Silhouette</italic> quote, see “At 17 Her Painting Won Prize.”</p>
+            </fn>
+            <fn id="fn29">
+               <label>28</label>
+               <p>On the couple's travels to Mexico, see Tunturi, “Thelma Streat to Be Married.” On the school in Hawaii, see “‘Children's City’ Plan of Artist‐Author Pair.”</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc5">
+         <title>Conclusion</title>
+         <p>The question of geography—in tandem with more commonly examined aspects of race, gender, class, and ethnicity—as a productive factor in the development of an artist's oeuvre is an important, albeit less clearly understood, consideration. The West Coast served as a springboard for Thelma Johnson Streat because resources and opportunities there converged to channel her artistic accomplishments in certain ways. In the early years of her career, access to WPA programs and Mexican muralists like Diego Rivera was crucial to her development. The sociopolitical landscape of San Francisco with its relatively integrated ethnic populations also played an influential role. Los Angeles beaconed with the potential to tap into the Hollywood connection, which fellow performance artists like Lester Horton also discovered. For both Horton and Streat, the West Coast provided fertile ground for creating a new mode of modernist dance movement informed by diverse ethnic traditions. Streat distinguished herself by her ability to hang these traditions on an African American framework and to create a particularly fluorescent blending of modern and traditional forms that were not mainstream. Because the West Coast was her base, she was more easily able to traverse borders between the United States and Western Canada to conduct ethnographic research and draw inspiration from the approaches of artists like Emily Carr. Equally, California was a locale that afforded mobility to Mexico and, later in her career, to Hawaii.</p>
+         <p>In an essay accompanying the 1945 exhibition <italic>The Negro Artist Comes of Age</italic>—an exhibition that included Streat's undated <italic>Mother and Baby on Desert</italic>—historian and philosopher Alain Locke commented: <disp-quote>
+               <p>There can be no doubt of the increasingly important place of the Negro artist in the social commentary vein that is becoming so characteristic of much recent American art. That with the Negro artist it is expressed with such broad human sympathy and controlled restraint is fortunate for its increased social effectiveness…. With great temptation in that direction, the Negro artist is seldom the crude or even overt propagandist…. By stages, it seems, we are achieving greater democracy in art—and let us hope, through art.29</p>
+            </disp-quote> If art represents a vision beyond the real, then Streat's vision was of a more unified and tolerant society. In this regard, she exemplified Alain Locke's paradigm of a socially minded African American artist who used appropriate restraint in expressing a broad humanistic vision. The task that lies before today's historians is to reevaluate the role Streat played in promoting multicultural ideals in the first half of the twentieth century and to assess, to the extent possible, the imprint that her promotion of cultural pluralism left on society.</p>
+         <fn-group>
+            <fn id="fn30">
+               <label>29</label>
+               <p>Alain Locke, “Up Till Now,” in <italic>The Negro Artist Comes of Age: A National Survey of Contemporary American Artists</italic> (Albany, N.Y.: Albany Institute of History and Art, 1945), vi, vii.</p>
+            </fn>
+         </fn-group>
+      </sec>
+   </body>

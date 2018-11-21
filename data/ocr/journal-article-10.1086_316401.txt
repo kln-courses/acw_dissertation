@@ -1,0 +1,1391 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <sec id="sc1">
+         <label>1.<x xml:space="preserve"> </x>
+         </label>
+         <title>INTRODUCTION</title>
+         <p>Ever since the suggestion by
+Hubble (1928) and
+Mayall (1939) that the Chinese
+Guest Star of <sc>a.d.</sc> 1054 could be interpreted as a supernova
+associated with the Crab Nebula, there have been exhaustive searches to
+find additional corroborating references in world literature. Efforts by
+Ho et al. (1972), expanding on the
+earlier work of Duyvendak (1942),
+found references in both the Chinese and Japanese literature.
+Brecher, Lieber, &amp; Lieber (1978)
+describe an account of an Iraqi physician, Ibn Butlān, as recorded by
+Abī Uşaybi’a in about <sc>a.d.</sc> 1242, connecting
+the event to a plague in Egypt and Constantinople in <sc>a.d.</sc>
+1054–1055, while Brandt &amp; Williamson
+(1979) make an excellent case for the stellar explosion
+being seen and recorded by Native North Americans. The absence of any
+reference in the European literature has traditionally been something of a
+mystery. Records of the supernova of <sc>a.d.</sc> 1006 and the
+appearance of Halley’s comet in <sc>a.d.</sc> 1066 demonstrate that
+astronomical phenomena were noticed and recorded by 11th century Europeans.
+One of the traditional explanations for the absence of European references
+as expressed by Williams (1981) is
+that the weather was bad. However, since the supernova would have been
+remarkably bright and visible for well over a year, that explanation seems
+rather implausible. Thomas (1979)
+and separately Zalcman (1979)
+suggest that the absence is the result of some sort of censorship by the
+Roman Catholic Church connected with the Eastern Schism, generally dated
+to <sc>a.d.</sc> 1054 July 16. This view was most recently echoed
+by Lupato (1995),1
+and Guidobani et al. (1992), who cite other examples of
+such censorship during the 11th century.</p>
+         <p>However, we suggest that there are indeed references in the
+European literature of that time and that they serve to add to the
+information concerning the appearance of the supernova.
+Williams (1981) describes an
+interesting reference in the Rampona Chronicles that was pointed out to him
+by Newton (1972, pp.
+445–446). Several references dealing with the death of
+Pope Saint Leo IX are discussed by Guidoboni, di Marmo,
+&amp; Polcaro (1992) and Breen &amp;
+McCarthy (1995). McCarthy &amp;
+Breen (1997) further discuss references in the Irish
+annals that appear to refer to astronomical phenomena, possibly including
+the supernova of <sc>a.d.</sc> 1054. Finally, there is an Armenian
+report discussed by Astapovich
+(1974) that seems to refer to the supernova.</p>
+         <p>The traditional approach concerning reports that might relate to
+the supernova has been to decide which reference is the most definitive
+and likely to be the most accurate. However, all of the references
+available are derived from earlier sources and were written in their
+present form centuries after the event. Therefore, it is not surprising
+that inconsistencies occur between and often within specific reports. We
+review these reports to see whether there is a series of astronomical
+events that minimizes the apparent conflicts between them. In order to
+understand the sources, it will be necessary to allow for the societal
+constraints of the time and locale where they were originally recorded.
+Mindful of the arguments of Guidoboni et
+al. (1992), we should be careful of the
+prejudices introduced by the translation of early documents into
+contemporary language. We will find that some European sources are
+metaphorical and occasionally anthropomorphic, in contrast to the oriental
+sources, since the astronomical knowledge of the Dark Ages in Europe was
+more primitive than in the East. However, we should remember that the level
+of science in the Orient was far from what we would consider to be science
+today. A primary motivation for heavenly observation was to search
+for “signs” or omens, but these incorporated rather
+accurate positional measurements. Indeed, as pointed out by
+Ho et al. (1972), the Chinese did
+not regard the stars as fixed. However, it is likely that they would
+connect an occurrence at dusk with a similar occurrence in the dawn sky at
+a later date. This is unlikely to be true in medieval Europe.</p>
+         <p>We begin with the assumption that the supernova did indeed occur
+in <sc>a.d.</sc> 1054, resulting in today’s well‐studied
+Crab Nebula. This will enable us to incorporate astronomical constraints
+in developing a sequence of events that will minimize the apparent
+conflicts among the sources. For example, the Crab Nebula would have been
+in conjunction with the Sun on or about <sc>a.d.</sc> 1054 May 27. Thus,
+had the supernova exploded prior to that date, it would have been invisible
+for a period of time when it was close to the Sun. Recent advances in
+almanacs for small computers make it possible to accurately describe the
+sky as seen from any location on the Earth a millennium ago. We have used
+the program REDSHIFT I (see Maris
+1993) to reproduce the sky as seen from various locales
+during the 11th century. Work by Upgren
+(1991) and Schaefer
+(1993) makes it possible to estimate the effect of the
+dawn sky on the appearance of astronomical objects at the time of the
+reported sightings. We begin by reviewing and interpreting a number of
+European sources that suggest sightings of the supernova as an event in the
+evening sky before conjunction with the Sun in late May of 1054. We then
+briefly review reports from the East that are generally regarded as
+definitive for establishing the Crab Nebula supernova as occurring in
+<sc>a.d.</sc> 1054. It will be apparent that conditions of stellar
+visibility in the dawn sky during the summer of 1054 cast doubt on the
+traditional interpretation of the Chinese manuscripts. Finally, we will
+apply astronomical constraints applicable to the Crab supernova in order to
+establish a sequence of events that minimizes apparent conflicts between
+various reports of the time.</p>
+         <fn-group>
+            <fn id="fn1">
+               <label>1</label>
+               <p>Astronomia (Lupato 1995) is available online
+at <ext-link ext-link-type="uri"
+                            xlink:href="http://astrolink.mclink.it/uai/rivista/9504/index.htm"
+                            xlink:type="simple">http://astrolink.mclink.it/uai/rivista/9504/index.htm</ext-link>.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc2">
+         <label>2.<x xml:space="preserve"> </x>
+         </label>
+         <title>EUROPEAN REFERENCES</title>
+         <p>Breen &amp; McCarthy
+(1995) discuss several interesting possible European
+references to the supernova collected by Guidoboni et
+al. (1992). They cite three references to the death of
+pope Leo IX, the most relevant of which is from the <italic>Tractus de
+ecclesia S. Petri Aldenburgensi</italic>
+(see Holder‐Egger 1888). The
+third reference to <italic>De obitu Leonis</italic> by Libuinus, a subdeacon in
+the Roman Church (see Watterich
+1862, p. 176), describes
+the soul of Leo being taken by angels up to heaven “as along a path
+strewn with shining garments and lit by innumerable brilliant lamps.”
+The second reference to <italic>Desiderii abbatis Casinesis …</italic>
+also cited by Watterich (1862)
+seems too metaphorical to be clearly connected to the supernova, but is
+consistent with it. Breen &amp; McCarthy
+(1995) dismiss these with the largely ad hominum
+argument that one should not prefer “an eleventh century cleric in an
+exuberantly papalist frame of mind being substantially more accurate in his
+observation of SN 1054 than the Chief of the Astronomical Bureau in
+China.” A more sober evaluation of the state of the Roman Church
+during the 11th century as compared to the astrologically motivated Chinese
+observation might call for a less extreme comparison.</p>
+         <p>It should be noted that at the time of the death of Pope Leo
+IX (1054 April 19), there was an extensive display of planets in
+the western sky. Jupiter, Venus, Mars, and Mercury were all visible at the
+same time, along with the bright stars of Orion. It is not unreasonable
+that these could well be the “the innumerable brilliant lamps”
+of the third reference. Should the supernova have appeared, it would have
+only contributed to the show. The first of these references refers to
+“an orb of extraordinary brilliance” which briefly appeared at
+the “very hour” of the death of Pope Leo
+IX. Watterich (1862, p. 95), making
+it clear that the canonization of Pope Leo IX proceeded with
+considerable alacrity. A comparison of his accomplishments with those of
+his predecessors makes it clear why this should have been so, and some of
+the “exuberance” referred to by Breen
+&amp; McCarthy (1995) may perhaps have appeared in the
+form of poetic license regarding the precise timing of the event. However,
+the description of the miracles required for sainthood would have been
+founded in widely accepted fact.</p>
+         <p>Perhaps the most unambiguous European reference to the supernova can
+be found in the <italic>Rampona Chronicle</italic>. As stated by the
+general editor, Sorbelli (1905),
+the <italic>Corpus Chronicorum Bononiesium</italic> is a comparison of two
+14th century compilations, the Rampona Chronicle and the Varignana
+Chronicle. The former is a history from the beginning of the world to the
+present (1425), while the latter, written in the Italian
+vernacular, covers a shorter period of time. As mentioned by
+Newton (1972, p. 690) and discussed
+by Williams (1981), the
+Rampona Chronicle describes a bright star appearing about the time of
+the supernova. The Rampona Chronicle, complied by Muratori in the late
+15th century (see Sorbelli 1905),
+is derivative from a variety of sources that now appear to be lost.
+The relevant Latin passage quoted below with our translation clearly
+has trouble with dates, as exhibited by the curious mixture of Roman and
+Arabic numbers, which Williams
+(1981) cites as common in the 14th and 15th
+centuries.</p>
+         <p>
+            <disp-quote>
+               <p>
+                  <italic>Anno Christi Ml8 Henricus tertius imperavit annis xl9.
+Hic primo venit Romam in mense mail. Cuius tempore fames et mortalitas
+fuit fere in universa terra. Et obscedit civitatem Tiburtinam diebus 3
+mense iunii. Hic Henricus pater fuit matris comitisse Mathilde, ex qua
+Bonifacius marchio genuit ipsam Matheldam. Tempore ipsius Henrici. Tempore
+huius stella clarissima in circuitu prime lune ingressa est, 13 Kalendas in
+nocte inito. Huius tempore Hildebrandus cardinalis, qui postea Gregorius
+papa factus est, cum legatus esset in Gallia et in concilio contra
+multos simoniacos episcopos processisset, … </italic>
+               </p>
+               <p>In the
+year of Christ 1058 [1055] emperor Henry III was in his
+49th [39th] year. He initially came to Rome in the month of May.
+At this time there was famine and death throughout the entire land.
+He occupied the Tiburtinam State [He stayed in the town of Tivoli,
+east of Rome] for three days in the month of June. This Henry was
+protector of the mother of the countess Mathilda [Beatrice, widow of
+the duke of Tuscany and sister of Henry III] from whom the Marquis
+Boniface begot Mathilda herself. This was the time of Henry. During this
+time [Henry’s] an extremely bright star appeared in the
+circuit of the new moon [at the location of the new moon, i.e., east
+of, and close to, the Sun] at the beginning of the night of the 13th
+of the kalends. At this time Cardinal Hildebrand, who later became Pope
+Gregory, was in council as papal legate in France, where he moved against
+those who were Bishops by way of simony, …</p>
+            </disp-quote>
+         </p>
+         <p>We have noted in brackets corrections or explanations of certain
+aspects of the text. The chronicle continues from this point with a
+detailed description of Hildebrand’s actions against simoniac bishops
+in France. It is reasonably clear from the description that these were
+actions taken under the auspices of Pope Victor II in <sc>a.d.</sc>
+1055, specifically, at the councils of Lyons and Chalons, where Hildebrand
+with full legatine authority dealt with several simoniac Bishops. An
+alternative could be the Council of Sens, which concerned the heresies of
+Berengarius and his philosophy concerning the celebration of the Holy
+Eucharist. This Council was also presided over by Hildebrand with full
+legatine authority in <sc>a.d.</sc> 1054.</p>
+         <p>The opening references to the dates “m18”
+and “x19” probably result from reading “mliiiii”
+as “mlviii” and possibly “xxlix”
+as “xlix,” since the
+former dates correspond to the actual numbers appropriate for the text.
+Emperor Henry III did indeed travel to Italy in the spring of
+<sc>a.d.</sc> 1055 for the installation of Pope Victor II in Florence,
+among other things (see Steindorff 1881,
+p. 2). After the death of the Boniface, Marquis of Tuscany, in 1053,
+Henry took on the role of “father protector” for his sister,
+the widow Countess Beatrice. Hughs (1948, pp.
+209–248, 267) notes that Henry found it necessary in
+1055 to dissolve her subsequent secret marriage to Duke Godfrey II of
+Lorraine, who had been at odds with the Emperor for some time. This may
+have been because Tuscany was the center of opposition to the reform of the
+Roman Church instigated by the German Popes appointed by Henry and he
+simply could not afford a union between Tuscany and powerful Lorraine. This
+would account for the references to the marriage in a source dealing
+largely with the affairs of Henry III.</p>
+         <p>It is interesting that famine and plague are also mentioned as
+occurring at this time in the Near Eastern reference discovered
+by Brecher et al. (1978). The
+general temporal reference to a bright star near the location of the new
+moon is in keeping with the chronology of this section. However, since the
+reference clearly refers to the beginning of the night, it is likely that
+the date is <italic>13 kalendas Juni</italic>, or May 20. As described above,
+the supernova would have been 7° east of the Sun, at a location
+commonly associated with the new moon.</p>
+         <p>The diversity of sources noted by
+Sorbelli (1905) is demonstrated by
+the shift in text and style after the passage concerning the star. This
+suggests a change of source from a secular one documenting the affairs of
+Henry III to a clerical source concerned with the detailed actions of the
+church. However, it is interesting that no mention is made here of the
+major events in the church of 1054—notably, the death of Pope Saint
+Leo IX on <sc>a.d.</sc> 1054 April 19 or the Eastern Schism usually dated
+to <sc>a.d.</sc> 1054 July 16. This suggests that the entry point to the
+now‐lost clerical source is likely to be <sc>a.d.</sc> 1055. While
+it is tempting to dismiss a chronicle complied so long after the event and
+containing numerous errors of dates, it must be remembered that the Chinese
+and Japanese sources are also derivative sources complied at a much later
+date than the event.</p>
+         <p>To understand the significance of the Rampona Chronicle, it is
+necessary to look at the material surrounding the reference to the star.
+Virtually all the references before and after the section dealing with
+Henry III and the star are clerical. Clearly, the references to the star
+and the concerns of the Emperor Henry III were inserted into the church
+history from a different source. The phrase <italic>Tempore ipsius
+Henrici</italic> suggests that specific dates were relatively unimportant to
+the original author. However, the choice of the Latin <italic>stella
+clarissima</italic> to describe the star is as superlative as can be
+expressed, suggesting that this was indeed a very bright star.</p>
+         <p>Breen &amp; McCarthy
+(1995) translate the words <italic>prime lune</italic> as
+referring to the “first day of the calendar or ecclesiastical
+moon.” Since there are no new moons on the 13th of the kalends, they
+reject the entire reference out of hand. They further note that the date
+disagrees with the Chinese date of July 4. This interpretation clearly
+avoids the problem which led Williams
+(1981) to state that he could make no sense of the
+phrase <italic>in circuitu prime lune ingressa est</italic>. As appears clear
+from the style, a secular account would be less likely than a cleric to
+refer to the ecclesiastical calendar. Our interpretation that the phrase
+denotes a place in the sky rather than a calendar date avoids this problem
+and makes this a reference to a dusk sighting, most likely on May 20, when
+the supernova would have been just where one would look for the new moon.
+Since the events described in the chronicle match actual historical events,
+it seems plausible to suggest that this indeed represents a European
+sighting of the supernova of <sc>a.d.</sc> 1054.</p>
+         <p>Finally, there are two references from eastern Europe that
+are important. The first, discussed at length by Brecher
+et al. (1978), describes the report of an Iraqi
+physician, Ibn Butlān, as recounted two centuries later by
+Abī Uşaybi‘a. Two references to the end of the Hegira
+year of 445 and 446 (corresponding to 1053 April 23–1054 April
+11 and 1054 April 12–1055 April 1) are given in different
+sections of the recounting by Abī Uşaybi‘a. The latter
+range is generally preferred, since it agrees with the Chinese date and
+subsequent visibility of the event, while the former is considered a
+copying error. However, Guidoboni et al.
+(1992) take these dates literally, suggesting that the
+earliest date for the supernova should be <sc>a.d.</sc> 1054 April
+11.</p>
+         <p>The second reference is to the Armenian Chronicles of the 9th
+through 17th centuries complied by Matenadaran (specifically, see
+the chronicle of Etum Patmich in
+Akopan 1956).
+Astapovich (1974) corrects the dates
+and interpretation of an earlier translation by
+Astapovich &amp; Tumanian (1969),
+where they felt that the reports were of bright meteors. He now believes a
+proper translation should read “1054 of the New Era was the fifth
+year of the reign of Leo IXth. That year on the Moon’s disk a star
+has appeared. It happened on the 14th of May in the first part of the
+night.” He believes the reported
+location, time and description more correctly describe the supernova event
+of <sc>a.d.</sc> 1054. Calculations with the program REDSHIFT show that
+the Moon and the Crab Nebula were in conjunction on May 11 at approximately
+0900 UT. This suggests that it is unlikely that the proximity of the Moon
+to the supernova resulted in the phrase “on the Moon’s disk a
+star has appeared.” The words
+“that year” also suggest that it was more than an ephemeral
+event, such as a meteoroid impact. Astapovich &amp;
+Tumanian (1969) clearly had difficulty with the
+translation and interpretation of this passage, but they make it clear that
+the event was very striking and probably represented a new star. One
+possibility consistent with their interpretation is that the star was first
+noticed on the night of May 14 as a result of either increasing brightness
+or weather, and that the phrase “Moon’s disk” can be
+translated as “Moon’s
+orb,” “Moon’s
+orbit,” or “circuit of the
+Moon,” indicating a place in the
+sky, such as is the case in the Rampona Chronicles. Unfortunately, support
+for this hypothesis is unlikely to be found without a reanalysis of the
+original of the Chronicle, which is unavailable to
+us.</p>
+      </sec>
+      <sec id="sc3">
+         <label>3.<x xml:space="preserve"> </x>
+         </label>
+         <title>EASTERN REFERENCES</title>
+         <p>The primary references to the supernova of <sc>a.d.</sc> 1054
+are found in the Chinese and Japanese chronicles. They were
+comprehensively translated by Duyvendak
+(1942), rediscussed and added to by
+Ho et al. (1972), and reinterpreted
+by Breen &amp; McCarthy (1995).
+Ho et al. (1972) correctly point
+out that there are a number of internal inconsistencies in many of these
+sources, while Breen &amp; McCarthy
+(1995) go to some lengths to establish that many of the
+sources are derived from a single earlier source.
+Duyvendak (1942) and
+Ho et al. (1972) suggest that the
+definitive chronicles are the <italic>Sung‐shih</italic> and the
+<italic>Wen‐hsien T</italic>’<italic>ung‐k</italic>’<italic>ao</italic>
+complied in 1345 and 1280, respectively. Breen &amp;
+McCarthy (1995) take the <italic>Sung
+hui‐yao</italic> complied by Chang‐Te‐haiang to be the
+definitive text, even though Ho et al.
+(1972) give the earliest known text as <italic>Hsü
+Tzu‐chih t</italic>’<italic>ung‐chein ch</italic>’<italic>ang‐pien</italic>,
+whose author, Li Tao, died in <sc>a.d.</sc> 1184. The suggestion is that
+many of the later texts derive from this one. As they point out, the date
+for the event in this earliest text is internally inconsistent and could be
+either <sc>a.d.</sc> 1054 July 4, June, or August. However, it must be
+remembered that all the reports cited in the literature were complied after
+the event and therefore represent a summary of observations of the
+supernova made well after the explosion.</p>
+         <p>While <sc>a.d.</sc> 1054 July 4 of has become generally accepted
+as the date of the explosion of the supernova, as pointed out
+by Ho et al. (1972), certain
+anomalies exist in the Chinese references that are regarded as definitive.
+For example, the position of the “guest star” is given
+as “several inches south east of ζ Tauri.” However,
+the actual location of the Crab Nebula is about 1° northwest of
+ζ Tauri. Ho et al. (1972) make
+a convincing case for the named reference star actually being ζ
+Tauri. However, the direction to the Crab Nebula is opposite from that
+given in the chronicles, and the angular distance would correspond to much
+less than “several inches” if the interpretation offered
+by Ho et al. (1972) is correct. On
+the other hand, if the reference
+star is β Tauri, the
+location of the Crab nebula some 6°45<sup>
+               <sup>
+                  <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\arcmin$\end{document}</tex-math>
+                  </inline-formula>
+               </sup>
+            </sup> southeast
+matches the direction and magnitude given by the Chinese record remarkably
+well. To evaluate the plausibility of the account in referring to ζ
+Tauri, we used REDSHIFT to reproduce the eastern sky for the morning
+of <sc>a.d.</sc> 1054 July 4. At the beginning of astronomical dawn,
+ζ Tauri is a mere 3° above the horizon.
+Upgren (1991) gives a minimum
+altitude of 6°–8° for a third‐magnitude star to be
+visible. This result is in full agreement with a more extensive extinction
+calculation based on the work of Schaefer
+(1993), described below. We suggest that a star too low
+to be visible at the beginning of astronomical dawn is not likely to be
+seen due to the rapidly brightening sky near the horizon. We will now
+attempt to quantify this contention.</p>
+         <p>To definitively describe the visibility of astronomical objects in
+the dawn sky is extremely difficult, since the various obscuring
+phenomena described by Minnaert
+(1954) and Schaefer
+(1993) are difficult to quantify and extremely complex.
+However, we can attempt a conservative estimate of the visibility of stars
+rising in the dawn using the following argument.
+Schaefer (1993) provides various
+values for the zenith sky brightness when the Sun is below the horizon. He
+also provides a value for the sky brightness near the horizon at the
+beginning of astronomical dawn. We assume that the eastern sky
+will brighten at least as fast as the zenith, so that one can project a
+lower limit for the sky brightness near the eastern horizon during the
+dawn. That this provides a true lower limit only requires that the zenith
+brighten no faster than the near‐horizon sky. This lower limit is
+shown in Figure 1.
+Using Minneart’s
+(1954, p. 270)
+estimate for the first appearance of first‐ and
+fifth‐magnitude stars as a function of solar altitude below the
+horizon, we can interpolate the sky brightness that would just mask the
+appearance of any star of known brightness at the zenith. In
+Figure 1 we show these results for
+both β and ζ Tauri. However, on July 4 they will both be near the
+horizon, so we can expect a higher value of the sky surface brightness to
+mask their appearance due to the atmospheric extinction of the stars. This
+can be calculated from Schaefer
+(1993) by means of his equations (3a),
+(3b), and (51), given the zenith distance of the two
+stars for a particular solar altitude below the horizon. In
+Figure 1 we give the results of this
+calculation for both β and ζ Tauri as seen from Beijing. Since
+observations made from the more southern location at K’Ai‐Feng
+(see, e.g., Breen &amp; McCarthy
+1995) will favor the visibility of ζ Tauri, we have
+repeated the calculation for this case. The two visibility curves
+for ζ Tauri are labeled “N” and “S,”
+respectively, while the visibility curve
+for β Tauri as seen from
+Beijing is labeled “N.” The altitudes for the three cases are
+indicated by values associated with arrows showing their position on the
+respective visibility curves for the beginning of astronomical dawn. It is
+clear that at no time would ζ Tauri be visible in the dawn sky from
+either location in China on July 4. However, by virtue of its greater
+brightness and higher altitude, β Tauri would be visible from either
+location until nearly nautical dawn (i.e., the solar altitude is
+−12°). The internal consistency of this procedure is nicely
+demonstrated by the fact that the visibility curve for ζ Tauri crosses
+Schaefer’s dark sky horizon line at an altitude value consistent
+with Upgren’s (1991)
+empirical value for the altitude for minimum dark sky visibility
+of third‐magnitude stars.<fig-group content-type="figgrp" id="fg1" position="float" seq="1">
+               <label>Fig. 1.<x xml:space="preserve">—</x>
+               </label>
+               <caption>
+                  <p>Visibility of β and ζ Tauri, as well as α Orionis,
+as seen from north and central China during the dawn of 1054 July 4. Only
+the visibility of ζ Tauri is show for both locations. For a star to
+be visible it must lie above the dashed line representing the sky
+surface brightness during the dawn. On <sc>a.d.</sc> 1054 July 4 only
+β Tauri would have been visible from either location, and then only
+before the beginning of nautical dawn. The supernova would have been in the
+zone of visibility well above the figure.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg1"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The response to diminishing atmospheric extinction with the rising
+of the star supports the claim that a star not visible at the beginning
+of astronomical dawn will generally remain invisible to the unaided
+eye. Allowing for about 1° of motion along the steeply inclined
+ecliptic per day, we can use Figure 1
+to show that it would have been more than a week after July 4 before ζ
+Tauri became visible in the dawn sky. Thus, the Chinese reference to ζ
+Tauri as the companion star to the supernova is either incorrect or based
+on later observations. In that regard, it is worth noting that the chief
+astrologer did not make his prognostications concerning the “guest
+star” until August 27 (see Ho et
+al. 1972), by which time the supernova was no longer visible
+in the daytime and would have faded to a more stellar‐like
+appearance. In addition, it would have been well away from the Sun and
+surrounded by a reasonably rich and presumably familiar stellar field from
+which to establish its astrological significance. Thus, it would appear
+that July 4 is just one of many observations that went into the Chinese
+record and it is perhaps presumptuous to attribute any great significance
+to the date as representing the date of the explosion.</p>
+         <p>Ho et al. (1972) note that
+the Japanese references all give the fourth month as the first appearance
+of the supernova. One of the references specifically suggests May
+20–29 for a date of the appearance of the star. However,
+Breen &amp; McCarthy (1995) present
+a protracted argument suggesting that all the Japanese references derive
+from the same source and there is an error in the month, so that the date
+should be June 28–July 7 in order to agree with the Chinese date.
+They rule out the actual date of the fourth month by citing
+Mayall &amp; Oort (1942) that
+ζ Tauri was in conjunction on May 27 so that no “guest
+star” would be visible. However, the actual Japanese date would place
+it near Orion in the interval of May 20–29.</p>
+         <p>On May 20, the supernova would have been 7° east of the Sun
+and would be quite visible as a bright star, near the constellation of
+Orion, as described, at dusk. However, the Japanese source refers to the
+star as being seen in the east, and as Breen &amp;
+McCarthy (1995) point out, Orion is not visible in the
+morning sky during June and most of July. We confirm this by calculating
+the visibility of α Orionis on July 4 and displaying the results
+in Figure 1. It is clear that
+this brightest Orion star would not be visible in the morning sky until
+late July or August. This apparent inconsistency in the Japanese references
+can be understood by consulting the translation of the <italic>Mei
+Getsuki</italic> by Xi &amp; Bo
+(1966):</p>
+         <p>
+            <disp-quote>
+               <p>After the 2nd third of the 4th month, the second year in the Ten
+Ki period of Japan, at the time of Chou, a guest star appeared three times
+at the Hsiu Tsui (Turtle). It was seen in the east, “with
+Ten Kwan Hsing, as big
+as Jupiter.”</p>
+            </disp-quote>
+         </p>
+         <p>The references to multiple appearances suggests that this report
+spans some time. This could include evening observations during the stated
+fourth month, when it would have been seen in the vicinity of Orion during
+May 20–29, as well as a later time when it appeared in the eastern
+sky at dawn near the star Ten Kwan Hsing. These authors make this aspect of
+the translation a separate sentence, whereas the translation presented
+by Ho et al. (1972), which is
+repeated by Breen &amp; McCarthy
+(1995) and both of which derive from
+Duyvendak (1942), include this as
+part of the previous sentence, while the reference to “three
+times” is absent. The presence of the “three times” also
+indicates that the record is a summary of observations made well after the
+event.</p>
+         <p>Finally, there are two Chinese references that relate the appearance
+of a “guest star” to a solar eclipse in 1054. The first of
+these is the <italic>Ch</italic>’<italic>I‐tan‐kuo
+chih</italic> (Text D of Breen &amp;
+McCarthy 1995), written during the middle of the 13th
+century. The second is the <italic>Sung‐shih hsin‐pien</italic>
+prepared by K’o Wei‐ch’i in the 15th century.
+Ho et al. (1972) give a translation
+of the latter as</p>
+         <p>
+            <disp-quote>
+               <p>During the first year of the Chih‐ho
+reign‐period [1054] there was a solar eclipse at midday
+and a guest star appeared within the Mao [lunar mansion, the
+Pleiades].</p>
+            </disp-quote>
+         </p>
+         <p>They further explicitly state that no date is given other than the
+year and that the passage is the same as that given in the first reference
+cited above.</p>
+         <p>Their translation of that first reference is as follows:</p>
+         <p>
+            <disp-quote>
+               <p>During the eighth month [of the 23d year of the
+Chung—his reign‐period, 1055] the King passed
+away…. Previously there was a solar eclipse at midday and a guest
+star appeared within the Mao [lunar mansion, the Pleiades]. The
+Assistant Officer in the Bureau of Historiography, Liu I‐shou, said,
+“Isn’t this an omen that [the King of
+Ch’I‐tan] Hsing‐tsung will die?” The
+prediction did come true. The same passage is given in
+Liao‐shih‐i.</p>
+            </disp-quote>
+         </p>
+         <p>Breen &amp; McCarthy
+(1995) translate this passage as</p>
+         <p>
+            <disp-quote>
+               <p>[In the 23rd year of the period
+Ch’ung‐his] in the 8th moon the lord of the country died.
+… Previously there had been a sun‐eclipse, and in the 1st
+moon [1055 January 31–February 28] a guest‐star had
+appeared in the Pleiades. Liu Yi‐sou, Senior Vice President of the
+Bureau of Historiography, said “Now Hsing‐tsung has died,
+[these omens] have indeed come true!”</p>
+            </disp-quote>
+         </p>
+         <p>Ho et al.’s
+(1972) translation suggests that the sighting of the
+guest star occurred during the solar eclipse. Breen
+&amp; McCarthy’s (1995) version suggests that the
+guest star sighting had nothing to do with the solar eclipse and occurred
+in 1055 January. If the Ho et al.
+(1972) translation is correct, then a firm date and
+location for the sighting can be found from the only solar eclipse in China
+in 1054, which occurred on May 10. Had the supernova exploded in April or
+early May, it certainly would have been visible during totality. We now
+consider the extent to which astronomical information regarding supernovae
+may relate to the various references to the visibility of the supernova
+during the spring and summer of <sc>a.d.</sc> 1054.</p>
+      </sec>
+      <sec id="sc4">
+         <label>4.<x xml:space="preserve"> </x>
+         </label>
+         <title>ASTRONOMICAL CONSTRAINTS</title>
+         <p>Much has been discovered about supernovae since the early discussions
+of Mayall &amp; Oort
+(1942). Determinations of the expansion age of the Crab
+Nebula consistently give origin dates in the 12th century (see,
+e.g., Trimble 1968;
+Wycoff &amp; Murry 1971; and
+Nugent 1998), which has been used by
+Williams (1981) and others to
+suggest that the event in <sc>a.d.</sc> 1054 should not be associated
+with the Crab Nebula supernova. However, contemporary thought suggests that
+the expansion age is a lower limit, due to secular acceleration of the
+nebula (see Trimble &amp; Woltjer 1971
+and Bietenholz et al. 1991). Other
+properties of the Crab Nebula, such as the distance (see, e.g.,
+Trimble 1968, 1973)
+and reddening (see, e.g., Miller
+1973), have been determined, so we can assess the likely
+maximum apparent magnitude of the various types of supernovae appropriate
+for the supernova that led to the formation of the Crab Nebula. The light
+curves appropriate for various types of supernovae can then be compared to
+observations from the time in question. We have the following points on
+such a curve. Ho et al. (1972)
+conclude from <italic>Sung‐shih</italic> and the
+<italic>Wen‐shien t</italic>’<italic>ung‐k</italic>’<italic>ao</italic>
+that the duration of visibility was from <sc>a.d.</sc> 1054 July 4
+to <sc>a.d.</sc> 1056 April 17. The
+<italic>Sung‐hui‐yao</italic> suggests that the duration of
+daytime visibility was 23 days. Taking the initial observational date as
+July 4, the supernova would have been about 60° west of the Sun 23 days
+later, so that a comparison with Venus at greatest elongation, and which is
+visible in the daytime, is not inappropriate. Thus, we might expect the
+supernova to have been
+about −<inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$3.5\pm 0.5$
+\end{document}</tex-math>
+            </inline-formula> 
+            <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$m_{v}$
+\end{document}</tex-math>
+            </inline-formula>
+at the end of July, when it disappeared from the daytime sky. That suggests
+a drop of about 10 mag in the 630 days until it disappeared from the night
+sky on <sc>a.d.</sc> 1056 April 17. However, other Chinese reports only
+specify the time of disappearance to the third month, so a duration
+of <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$615\pm 15$
+\end{document}</tex-math>
+            </inline-formula> days seems a prudent range for
+the interval between the disappearances from the day‐ and
+nighttime skies. We will take the visual magnitude at disappearance to
+be <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$6.0\pm 0.5$
+\end{document}</tex-math>
+            </inline-formula> 
+            <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$m_{v}$
+\end{document}</tex-math>
+            </inline-formula>.
+Unfortunately, the acceptable range of distances (see, e.g.,
+Trimble 1973) introduces a range of half
+a magnitude in the apparent magnitude at maximum. Combining the maximum
+absolute magnitude for a supernova with a distance of
+<inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$2\pm 0.5$
+\end{document}</tex-math>
+            </inline-formula> kpc for the Crab Nebula, one would
+expect an apparent visual magnitude at maximum to be between −6.0 and
+−8.5. Correcting for interstellar extinction following
+Miller (1973), these values are
+reduced to −4.5 to −7.0 visual magnitude, nicely bracketing the
+traditional value of −5 used by Mayall &amp; Oort
+(1942). Even these reduced values would make the
+supernova the brightest object in the sky apart from the Sun and Moon that
+anyone of that time had ever seen. The twinkling of a point source of such
+brightness would indeed appear to have “pointed rays shot out from it
+on all sides,” as described by
+the Chinese. However, it is highly likely that if maximum occurred
+near conjunction with the Sun it would not be seen for several weeks.
+In addition, to fit theoretical light curves we require the magnitude
+at maximum to be appropriate for the type of supernova located at the
+distance (see, e.g., Trimble 1973)
+of the Crab Nebula and reddened according to
+Miller (1973).</p>
+         <p>In Figure 2 we show
+the best fit between <italic>V</italic> light curves for typical supernovae
+of various types and the estimated brightness for the Chinese dates. The
+light curves were obtained from Doggett &amp;
+Branch (1985). Only by taking the intrinsically
+faintest type supernova at the greatest distance can we arrange to have the
+maximum near July 4. The typical rapid decline to the logarithmic decay
+curve for all but those supernovae exhibiting a high‐level plateau
+would force the maximum to be well before July 4. The presence of a plateau
+such as the Type IIP would push the date of maximum even earlier.
+Therefore, it seems clear that the maximum must have occurred before July 4
+for a drop to about −3.5 <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$m_{v}$
+\end{document}</tex-math>
+            </inline-formula> from
+the maximum of any type of supernova in substantially less than 23 days is
+unlikely. There can be little doubt that the Chinese observers whose
+competence is so vigorously extolled by Breen &amp;
+McCarthy (1995) and who could follow a bright star
+rising into daylight from the darker dawn sky with astrolabes
+(see Ho et al. 1972) would be able
+to see a daytime object of −3.5
+<inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$m_{v}$
+\end{document}</tex-math>
+            </inline-formula> if not fainter. Thus, the range of
+±0.5 <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$m_{v}$
+\end{document}</tex-math>
+            </inline-formula> is entirely reasonable
+on this point. The competence of the Chinese observers also suggests that
+the visual error limits for the disappearance from the nighttime sky are
+also reasonable.<fig-group content-type="figgrp" id="fg2" position="float" seq="2">
+               <label>Fig. 2.<x xml:space="preserve">—</x>
+               </label>
+               <caption>
+                  <p>Comparison between light curves for various types of supernovae and
+the apparent brightness of the supernova of <sc>a.d.</sc> 1054.
+In <italic>a</italic> we show that Types IIP, L, and Ib fail to fit the
+apparent brightness appropriate for the disappearance from the day‐
+and nighttime skies at the dates given by the Chinese reports. The fits
+are also constrained by the appropriate maximum apparent magnitude for
+these supernovae located at the distance of the Crab Nebula. Panel
+<italic>b</italic> shows the same comparison for a supernova of Type Ia. We
+also show the minimum magnitude for daytime visibility for objects near the
+Sun as given by Schaefer (1993),
+indicating that daytime sightings would have been unlikely near maximum
+brightness because of the near conjunction with the Sun. The insert in
+<italic>b</italic> shows the likely light curve for the supernova vs. calendar
+date that is consistent with the astrophysical and observational
+constraints. We have taken the temporal error to be about 20 days from the
+temporal uncertainties of the observations combined with reasonable
+uncertainties for the minimum magnitude of visibility in the day‐
+and nighttime skies.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg2"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The strongest constraint on the light curve is set by the two
+points marking the disappearance from the day‐ and nighttime skies.
+It is difficult, but not impossible, to fit this slope with typical Type II
+light curves. Even a Type Ib supernova fades too quickly to readily fit
+the curve. However, it should be noted, as
+Figure 2<italic>b</italic> shows, that
+the light curve for Type Ia fits remarkably well with the most probable
+peak, occurring around May 14. The effect of the conjunction with the Sun
+for this probable peak is shown in the inset of
+Figure 2<italic>b</italic>, utilizing the
+visibility curves of
+Schaefer (1993) for bright objects
+close to the Sun.</p>
+         <p>While some have suggested that the large temporal interval for the
+two Chinese points is greater than any supplied by contemporary
+observations, it should be noted that Kirshner &amp;
+Oke (1975) followed Type Ia supernova 1972e for over
+700 days and found no departure from the linear decline in
+brightness. Minkowski
+(1964), Shen
+(1969), and others have also noted that a Type Ia light
+curve fits the Chinese points better than any other options. However,
+Minkowski (1968) found other
+reasons to question the Crab progenitor being Type Ia and ends his review
+article with the statement that “the available data are too scanty to
+permit the assignment of a type to the supernova
+of +1054.”
+Certainly, contemporary models for Type Ia supernovae leave no residual
+pulsar and therefore make it difficult to declare the Crab to have been a
+Type Ia supernova. Nevertheless, the remarkable agreement of the light
+curves with the Chinese points must be added to the growing list of
+anomalies for the Crab. Apparently, abundances cannot definitively assign a
+supernova type to the Crab (E. Luck 1998, private
+communication). Van den Berg
+(1973) notes that the expansion velocities agree better
+with Type Ia than with Type II expansion velocities, and
+Zimmerman (1998) has reviewed the
+well‐known “missing mass” discrepancy, suggesting that
+the mass of the Crab is only a few percent of that expected from a Type II
+supernova explosion. Perhaps it is possible that these anomalies can be
+resolved through the extreme variability of Type II supernovae or other
+variations of Type I, so we adopt Minkowski’s
+(1968) view given above. However, since noting the
+accuracy of the fit of the Type Ia light curve to the astronomical
+constraints is not the same as assigning the actual type, we proceed to use
+that curve to provide an estimate for the brightness throughout the
+duration of the event.</p>
+         <p>A maximum apparent brightness of about −6 would have made
+this event extremely spectacular. However, the conjunction of the supernova
+with the Sun on May 27 means that even a maximum visual magnitude of
+−6.5 would have been obscured by the Sun for some time.
+Using Schaefer’s (1993)
+estimate of daytime visibility of objects near the Sun, we show the minimum
+magnitude for daytime visibility of the supernova during the time of
+conjunction relative to the optimum date for maximum brightness of the
+supernova. The inset in Figure
+2<italic>b</italic> shows the period near maximum with the most
+probably calendar date for the occurrence of maximum brightness. The
+temporal errors are indicated by the dotted light curves to either side of
+the most probably fit. As in the main figure, the dashed line shows the
+minimum magnitude for the visibility of objects near the Sun during the
+time of conjunction, from Schaefer
+(1993).</p>
+         <p>We can now suggest the following sequence of events, which
+minimizes conflict between and within the historical references in a manner
+that is consistent with known astronomical constraints. In April or early
+May of <sc>a.d.</sc> 1054, the supernova that has given rise to the Crab
+Nebula exploded. The rise time to maximum brightness for a Type I supernova
+is poorly known, but is expected to be about several weeks, while that
+for Type II is even longer, ranging to months. If one takes the error
+limits to their extreme, it is possible that the supernova exploded in
+early April, which would make Brecher et
+al.’s (1978) correction to the date given by the
+Iraqi physician Ibn Butlān unnecessary, since the supernova would
+have just appeared at the end of the Hegira year of 445. This appears to be
+the view of Guidoboni et al.
+(1992), who take April 11 as the first sighting of the
+supernova. A somewhat later explosion would still have been early enough
+for the supernova to have provided a heavenly sign for the canonization of
+Pope Saint Leo IX with only minimal poetic license. It even allows for the
+date of the feast of Saint George (April 24) given in the Irish
+annals of the extremely metaphorical report discussed by
+McCarthy &amp; Breen (1997) to be
+accommodated. An early explosion date allows for the supernova to be
+visible during totality of the solar eclipse of May 10 and shine brightly
+in the dusk during the last 3 weeks of May. The Armenian report of the
+evening sky on May 14 is then easily accommodated, as are the Japanese
+reports of a new star appearing in the vicinity of Orion during late May.
+It also fits the Rampona Chronicle perfectly, since the supernova would
+have been just 7° east of the Sun on May 20, in the very location where
+one looks for the new moon. Maximum brightness is liable to have occurred
+near conjunction with the Sun, thereby minimizing its impact on observers.
+The Japanese and Chinese saw it during late June and July. The
+identification by the Chinese on July 4 is likely to have been made with
+respect to β Tauri, which would have been about the only star visible
+close to the supernova in the morning sky. The reported position is in
+remarkable agreement with the location of β Tauri. Later, the
+proximity to ζ Tauri would lead that star to replace β Tauri as
+the identifier. Much later (August 27), when the stellar field
+was more complete, the astrologers would be confident enough to interpret
+the event for the emperor. By then the star would no longer have been
+visible in the daytime sky and would properly be resembling a “guest
+star,” rising before dawn. For astrological reasons, the Chinese
+would have continued to observe the guest star until it disappeared from
+the dark night sky a year an a half later. For convenience, we summarize
+this sequence in Table
+1.<table-wrap id="tb1" position="float" seq="1">
+               <label>TABLE 1</label>
+               <caption>
+                  <title>A Chronology of Possible Supernova Sightings</title>
+               </caption>
+               <graphic xlink:href="tb1"
+                        position="float"
+                        alt-version="no"
+                        mimetype="image"
+                        xlink:type="simple"/>
+               <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                              xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                              frame="topbot"
+                              colsep="0"
+                              rowsep="2"
+                              pgwide="1"
+                              orient="port">
+                  <oasis_0:tgroup cols="4" align="left">
+                     <oasis_0:colspec colnum="1" colname="1" colwidth="1.24in"/>
+                     <oasis_0:colspec colnum="2" colname="2" colwidth="1.02in"/>
+                     <oasis_0:colspec colnum="3" colname="3" colwidth="2.00in"/>
+                     <oasis_0:colspec colnum="4" colname="4" colwidth="1.27in"/>
+                     <oasis_0:tbody valign="top">
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="center"
+                                          valign="bottom">Date</oasis_0:entry>
+                           <oasis_0:entry colname="2"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="center"
+                                          valign="bottom">Location</oasis_0:entry>
+                           <oasis_0:entry colname="3"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="center"
+                                          valign="bottom">Source</oasis_0:entry>
+                           <oasis_0:entry colname="4"
+                                          colsep="0"
+                                          rowsep="1"
+                                          align="center"
+                                          valign="bottom">Appearance</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">Apr 11…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Constantinople</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">Diary of
+Ibn Butlān</oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Star</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">Apr 19…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Flanders</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">
+                              <italic>Tractatus de
+ecclesia</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Bright light</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">Apr 24…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Ireland</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">Irish Annals</oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Fiery pillar</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">Late April…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Rome</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">
+                              <italic>De obitu
+santi</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Bright light</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top"/>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top"/>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">
+                              <italic>Leonis pp IX</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top"/>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">May 10…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">China</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">
+                              <italic>Sung‐shih hsin‐pien</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Star</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">May 14…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Armenia</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">Etum Patmich</oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Star</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">May 20…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Italy</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">Rampona Chronicles</oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Very
+bright star</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">Late May…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Japan</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">
+                              <italic>Mei Getsuki</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">New star</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">June…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Japan</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">
+                              <italic>Mei Getsuki</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Star</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">Jul 4…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">China</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">
+                              <italic>Sung hui‐yao</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Star/comet</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">Jul 27…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">China</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">
+                              <italic>Sung hui‐yao</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Star</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="0" valign="top">1055 April…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="0" valign="top">Constantinople</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="0" valign="top">Diary of
+Ibn Butlān</oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="0" valign="top">Star</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row>
+                           <oasis_0:entry colname="1" colsep="0" rowsep="1" valign="top">1056
+Apr 17…</oasis_0:entry>
+                           <oasis_0:entry colname="2" colsep="0" rowsep="1" valign="top">China</oasis_0:entry>
+                           <oasis_0:entry colname="3" colsep="0" rowsep="1" valign="top">
+                              <italic>Sung hui‐yao</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colname="4" colsep="0" rowsep="1" valign="top">Star</oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:tbody>
+                  </oasis_0:tgroup>
+               </oasis_0:table>
+            </table-wrap>
+         </p>
+         <p>It is worth noting that during the early days of the supernova, a
+point source of around −5 <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$m_{v}$
+\end{document}</tex-math>
+            </inline-formula>
+or brighter would have been an amazing sight. Near dawn the twinkling
+and color variation due to atmospheric refraction would have made the
+object appear even more active. It would not be surprising if it were
+interpreted as showing a disk, which may account for the use of the
+word “po,” usually reserved
+for comets by the Chinese. Later, as it dimmed, it would become a
+“guest star.” Finally,
+after nearly two years, the star would no longer have been visible in the
+night sky, leading to the final entry from the Chinese
+reports.</p>
+      </sec>
+      <sec id="sc5">
+         <label>5.<x xml:space="preserve"> </x>
+         </label>
+         <title>CONCLUSIONS</title>
+         <p>We have reviewed reports from the 11th century regarding events that
+can be associated with the explosion of a supernova during
+<sc>a.d.</sc> 1054, the remnants of which are most certainly what is
+known as the Crab Nebula. The interpretation of the section of the Rampona
+Chronicle dealing with the appearance of a very bright star is new and
+provides a level of internal consistency, strengthening the view that this
+is an evening sighting of the supernova. We have offered a sequence of
+astronomical events consistent with most aspects of the various reports,
+including a number from Europe. These reports, when combined with the
+oriental reports, strongly suggest an explosion date of mid‐spring
+<sc>a.d.</sc> 1054. However, all the European reports refer to events in
+the evening sky during the spring of <sc>a.d.</sc> 1054, while none found
+so far refer to events in the morning sky of mid‐June and
+beyond.</p>
+         <p>This curious absence still leaves us with a bit of a mystery.
+Indeed, since the references to earlier evening phenomena clearly
+demonstrate that such heavenly events were of interest to the residents of
+medieval Europe, the mystery surrounding the lack of reports describing the
+later and more pervasive morning event is only increased. This state of
+affairs would seem to lend credence to the “conspiracy view”
+suggested by Thomas (1979),
+independently elaborated on by Zalcman
+(1979), and further developed by
+Lupato (1995) that such writings
+were suppressed by the Roman Catholic Church. The formal separation of the
+Church of Rome from the Eastern Orthodox Church, known as the Great Schism,
+is usually dated from the excommunication of the Eastern Patriarch Michael
+Cerularius, the Emperor Constantine Monomachus, and their followers on
+<sc>a.d.</sc> 1054 July 16 by three legates from the Church of Rome. This
+event does coincide with the supernova being brilliantly visible in the
+dawn sky and on into the day. According to
+Runciman (1955), the Schism, while
+of minor importance in the East, was viewed as a most important event in
+the West, so that events surrounding it deserve some attention.</p>
+         <p>While the stated mission that brought the three Roman legates
+to Constantinople in the summer of <sc>a.d.</sc> 1054 was to form
+an alliance between the Church of Rome and the Eastern Church by
+smoothing over past differences (see, e.g.,
+Runciman 1955; Steindorff
+1881, p. 261), an excellent case can be made for the two
+central parties to the Schism wanting the opposite. Cardinal Humbert, who
+headed up the legation to Constantinople, made requirements that he knew
+the Eastern Patriarch would not accept. On the other hand the Eastern
+Patriarch, Michael Cerularius, regarded the Roman see as morally bankrupt
+and controlled by German barbarians. He clearly desired primacy over his
+own church. For a variety of reasons, including knowledge of the death of
+Pope Leo IX in April (see, e.g., Every
+1962) and the legate’s ties to the duplicitous
+Marianos Argyros, military governor of the Greek colony in southern Italy
+(see, e.g., Runciman 1955;
+Gilchrist 1993), he distrusted the
+legates and doubted the authenticity of their credentials.</p>
+         <p>Zalcman (1979) points out
+that Ibn Butlān, the Iraqi physician, Nestorian Christian, and
+original author of the Constantinople reference to the supernova (see,
+e.g., Brecher et al. 1978), was a
+confidant of the Eastern Patriarch, so there can be little doubt that the
+rather mystical (see Runciman
+1955) Michael Cerularius was aware of the new star in the
+sky. It takes very little imagination to see how he might have used such an
+omen to support his suspicion of the papal legates. The legates, on the
+other hand, would have preferred that such arguments and their visible
+proof not be subsequently noted in the West. Thus, perhaps it is not
+surprising that the only “eyewitness” record to what both sides
+now seem to regard as a somewhat sordid affair is that of the chief legate
+and papal secretary Cardinal Humbert de Silva. Some 2 years later,
+following the death of Pope Victor II, another legate to Constantinople,
+Frederick of Lorraine, became Pope Stephan IX (X) with the help
+of Cardinal Humbert. Pope Stephan IX then elevated Cardinal Humbert to
+Chancellor of the Roman see and Vatican Librarian. Cardinal Humbert’s
+detailed account of the journey to Constantinople contains no reference to
+the star.</p>
+         <p>While this argument is largely circumstantial, it does provide a
+basis for understanding the lack of subsequent references to the supernova
+of <sc>a.d.</sc> 1054 in the largely clerical European literature. It
+is also a superior to the “poor weather” hypothesis suggested
+by Williams (1981) and suggests
+that if further references are to be found they are likely to reside in
+the secular literature and historical chronicles whose origin is other than
+the Church of Rome.</p>
+      </sec>
+   </body>

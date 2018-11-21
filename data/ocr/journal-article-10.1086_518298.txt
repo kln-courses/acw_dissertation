@@ -1,0 +1,1400 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>Ever since Darwin, the process through which our animal nature became human history has captured the Western imagination. This process is often held to have decided, once and for all, our psychological constitution and the development of government and society. The role of hunting and, more generally, predation has been central to conceptualizing this process and its consequences. The predominant view is that predation was one of the key forces in the process of humanization. Climbing down from the trees to wander the savannahs, our ancestors were required to hunt or die. From this first (mis)step the rest of human history follows, from technology to social organization and gender relations (Cartmill 1993). This legacy is also held to explain our supposed inclination toward violence, making warfare the end result of the very process through which we became cultured humans (Washburn and Lancaster 1968; Tiger and Fox 1971). An alternative view holds, on the contrary, that we have never been unrestrained predators and that human evolution was shaped more by opportunistic scavenging (Binford 1981; Shipman 1983) or the sharing of meat (Isaac 1978; Isaac and Crader 1983) than by hunting. But in either case, the way our ancestors got along with the task of meat eating is held to define our basic constitution as persons and our sociality (see Stanford 1999; Stanford and Bunn 2001; Stiner 2002).</p>
+      <p>In this article I intend to explore this set of images from the perspective of a different tradition of thought, one which developed in the Americas thousands of years before the arrival of modern Europeans and is still very much alive today. This tradition emerged from quite distinct ontological assumptions, leading to different conceptualizations of the relation between predation and food consumption and to different social practices. Amerindian ontologies are not predicated upon the divide between nature and culture (or subject and object) that plays a foundational role in the modern Western tradition. In Amerindian contexts, the relationships between humans and nonhumans take precedence over the instrumental action of human beings upon nature, and therefore the hunting of animals immediately invokes a wider field of sociocosmic relations.</p>
+      <p>From the pioneering works of Hallowell (1960) on Ojibwa ontology to Ingold’s ecological phenomenology (1986, 2000<italic>a</italic>), Philippe Descola’s socialized nature and schemes of practice (1986, 2005), and Viveiros de Castro’s perspectivism (1998<italic>a</italic>), a new way of looking at the relationship between humans and nonhumans has emerged. The fundamental premise shared by these approaches is that, in Amerindian (and North Eurasian) ontologies, intentionality and reflexive consciousness are not exclusive attributes of humanity but potentially available to all beings of the cosmos. In other words, animals, plants, gods, and spirits are also potentially persons and can occupy a subject position in their dealings with humans. This ontological indistinction gives rise to a series of ethnographic and theoretical problems, including the one that concerns us here: the status of the hunt and food consumption. If the predation of animals is equivalent to killing people, would hunting not immediately merge into warfare? And if both these phenomena are inscribed within a field of social relations between subjects imbued with intentionality, would not food consumption necessarily slip into cannibalism?</p>
+      <p>These questions have been posed, in these or other terms, by the contemporary literature on so‐called animistic systems, a concept that has arisen from its Tylorean ashes since the revision of the core notions of nature and culture (Descola 1992, 1996; Bird‐David 1999; Stringer 1999). Some of these studies aim to establish a clear rupture between hunting and warfare. Bird‐David and Ingold, for example, characterize the relations between humans and nonhumans in hunter‐gatherer societies as essentially nonviolent. These societies, they argue, are founded upon a “cosmic economy of sharing” (Bird‐David 1990) in which the cardinal value is trust, defined as a peculiar mixture of dependency and autonomy involving positive and noncoercive relations (Ingold 2000<italic>c</italic>, 69–70). Within this paradigm, hunting emerges as sharing between humans and animals and is thereby opposed to belligerent relations between humans.</p>
+      <p>But just how widespread is this paradigm? Does it apply to all animistic systems or all hunter‐gatherers? Since I lack the necessary expertise to address the problem from such a general standpoint, my geographic scope is much narrower: it comprehends Lowland South America, especially Amazonia, which is inhabited today by more than 300 different indigenous peoples speaking about 250 different languages.1 Most of these peoples are horticulturalists and hunters, relying on nonintensive food production and the procurement of animal meat through hunting and fishing. The hunt plays a central role in their cosmologies (Viveiros de Castro 1996<italic>a</italic>, 194). It is possible, however, that more sedentary and agricultural societies, with different ideological emphases, were more prominent in some parts of Amazonia before the Conquest (Roosevelt 1980; Heckenberger 2005; Hornborg 2005).2</p>
+      <p>Even in the present, considerable cultural variation can be observed across the region, and an Amazonian model of the relation between predation and food consumption may appear overgeneralized. I intend to sketch the ground from which part of this variation emerges and to demonstrate the ethnographic robustness of my model through a number of examples taken from all the main language families of Lowland South America (see table 1). I do not claim that this model applies to all these peoples in the same way or in the same domains. However, the ethnographic coverage is wide enough and diverse enough to make plausible my hypothesis that we are dealing with a substrate with broad implications for the daily lives of Amazonian peoples. As a model, it is certainly abstract, but this does not mean that it is not rooted in the concrete and dense everyday experiences of indigenous peoples. I hope that other ethnographers will recognize how the principles spelled out here operate in their own field contexts and are fleshed out in everyday experience. I do not pretend to give a phenomenological rendering of the model here, which I believe can only be seriously done in a more ethnographic register.<table-wrap id="tb1" position="float" seq="1">
+            <label>Table 1.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <title>Lowland South American Indigenous Peoples Referred to in the Text</title>
+            </caption>
+            <graphic xlink:href="tb1.eps"
+                     position="float"
+                     alt-version="no"
+                     mimetype="image"
+                     xlink:type="simple"/>
+            <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                           xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                           frame="topbot"
+                           colsep="0"
+                           rowsep="1"
+                           pgwide="1"
+                           orient="port">
+               <oasis_0:tgroup cols="4" align="left">
+                  <oasis_0:colspec colnum="1" colname="1" colwidth="8.25pi"/>
+                  <oasis_0:colspec colnum="2" colname="2" colwidth="8.25pi"/>
+                  <oasis_0:colspec colnum="3" colname="3" colwidth="8.25pi"/>
+                  <oasis_0:colspec colnum="4" colname="4" colwidth="8.25pi"/>
+                  <oasis_0:tbody valign="top">
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="1"
+                                       align="left"
+                                       valign="bottom">People</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="1"
+                                       align="center"
+                                       valign="bottom">Language Group</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="1"
+                                       align="center"
+                                       valign="bottom">Location</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="1"
+                                       align="center"
+                                       valign="bottom">Source</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Aché‐Guayaki</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Paraguay</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Clastres (1968)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Achuar</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Jívaro</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazonia (Peru and Ecuador)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Descola (1986), Taylor (1994, n.d.)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Arakmbut</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Harakambut</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwest Amazonia (Peru)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Gray (1996)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Araweté</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Viveiros de Castro (1992)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Asurini</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Andrade (1992)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Ávila Runa</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Quichua</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazonia (Ecuador)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kohn (2002)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Barasana</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tukano</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Northwest Amazonia (Colombia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">C. Hugh‐Jones (1979), S. Hugh‐Jones (1996)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Bora</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Bora</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazon (Colombia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Karadimas (1997)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Bororo</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Gê</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Central Brazil (Mato Grosso)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Crocker (1985)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Chimanes</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">unknown</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwest Amazonia (Bolivia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Daillant (1998)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Chiriguano</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southeast Bolivia</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Combès and Saignes (1991)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Desana</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tukano</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Northwest Amazonia (Colombia and Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Reichel‐Dolmatoff (1973)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">South and Southeast Brazil</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Schaden (1954)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Hohodene (Baniwa)</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Arawak</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Northwest Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Wright (1998)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Huachipaire</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Harakambut</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwest Amazonia (Peru)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Califano (1988)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Huaorani (Waorani)</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">unknown</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazon (Ecuador)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Rival (1996, 2005)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Ikpeng (Txikão)</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Karib</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Xingu (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Menget (1988)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Juruna</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi Juruna</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Lima (1987, 1999)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kanamari</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Katukina</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwest Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Costa (2007)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1" colsep="0" rowsep="0" align="left" valign="top">Kashinawá</oasis_0:entry>
+                        <oasis_0:entry colname="2" colsep="0" rowsep="0" align="left" valign="top">Pano</oasis_0:entry>
+                        <oasis_0:entry colname="3" colsep="0" rowsep="0" align="left" valign="top">Southwest Amazonia (Brazil and Peru)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kensinger (1975), Lagrou (1998), McCallum (2001)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kayabi</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Oakdale (1998)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kayapó</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Gê</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Central Brazil and Southeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Turner (1995)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Krahô</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Gê</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Central Brazil</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Carneiro da Cunha (1978)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kubeo</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tukano</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Northwest Amazonia (Colombia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Goldman (2004)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kuikuro</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Karib</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Xingu (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Fausto (field notes)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kulina</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Arawá</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwest Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Pollock (1992, 1993)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Kurripaco</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Arawak</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Northwest Amazonia (Colombia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Journet (1995)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Makuna</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tukano</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Northwest Amazonia (Colombia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Århem (1996)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Mamainde</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Nambikwara</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Central Brazil</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Miller (2007)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Mawé</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi Mawé</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Central Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Giraldo Figueroa (1997)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Mehinaku</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Arawak</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Xingu (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Gregor (1990)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Miraña</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Bora</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazonia (Colombia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Karadimas (1997, 2005)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Muinane</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Bora</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazonia (Colombia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Vengoechea (2001)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Munduruku</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi Munduruku</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Central Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Menget (1993), Murphy (1958)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Nivakle</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Mataco</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Chaco (Paraguay)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Sterpin (1993)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Parakanã</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Fausto (2001)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Piaroa</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Sáliva</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Northeastern Amazonia (Venezuela)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Overing (1975)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Pirahã</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Mura</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">South Central Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Gonçalves (2001)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Piro</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Arawak</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwest Amazonia (Peru)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Gow (1991, 2001)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Rikbaktsa</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Macro‐Gê</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">South Central Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Athila (2006)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Sharanawa</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Pano</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwestern Amazonia (Peru)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Siskind (1973)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Shipaya</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi Juruna</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Nimuendajú (1948)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Shipibo</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Pano</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwest Amazonia (Peru)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Saladin d’Anglure and Morin (1998)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Shuar</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Jívaro</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazon (Peru and Ecuador)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Harner (1978), Karsten (1988, 1989)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tikuna</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tikuna</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazon (Brazil, Peru, and Colombia)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Goulard (1988)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupinamba</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Atlantic Coast (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Forsyth (1983, 1985)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1" colsep="0" rowsep="0" align="left" valign="top">Tupiniquim</oasis_0:entry>
+                        <oasis_0:entry colname="2" colsep="0" rowsep="0" align="left" valign="top">originally Tupi‐Guarani</oasis_0:entry>
+                        <oasis_0:entry colname="3" colsep="0" rowsep="0" align="left" valign="top">Northeast Brazil</oasis_0:entry>
+                        <oasis_0:entry colname="4" colsep="0" rowsep="0" align="left" valign="top">Viegas (2003)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1" colsep="0" rowsep="0" align="left" valign="top">Wari’</oasis_0:entry>
+                        <oasis_0:entry colname="2" colsep="0" rowsep="0" align="left" valign="top">Chapakura</oasis_0:entry>
+                        <oasis_0:entry colname="3" colsep="0" rowsep="0" align="left" valign="top">Southeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4" colsep="0" rowsep="0" align="left" valign="top">Conklin (2001<italic>a</italic>), Vilaça (1992)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Wauja (Waurá)</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Arawak</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Xingu (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Barcelos Neto (2004)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Wayana</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Karib</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Northeast Amazonia (Brazil)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">van Velthem (2003)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Yágua</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Peba‐Yágua</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Upper Amazonia (Peru)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Chaumeil (1983)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Yaminawa</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Pano</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Southwest Amazonia (Peru)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="0"
+                                       align="left"
+                                       valign="bottom">Calavia (2001), Perez Gil (2006)</oasis_0:entry>
+                     </oasis_0:row>
+                     <oasis_0:row>
+                        <oasis_0:entry colname="1"
+                                       colsep="0"
+                                       rowsep="1"
+                                       align="left"
+                                       valign="bottom">Yanomami</oasis_0:entry>
+                        <oasis_0:entry colname="2"
+                                       colsep="0"
+                                       rowsep="1"
+                                       align="left"
+                                       valign="bottom">Yanomami</oasis_0:entry>
+                        <oasis_0:entry colname="3"
+                                       colsep="0"
+                                       rowsep="1"
+                                       align="left"
+                                       valign="bottom">North Amazonia (Brazil and Venezuela)</oasis_0:entry>
+                        <oasis_0:entry colname="4"
+                                       colsep="0"
+                                       rowsep="1"
+                                       align="left"
+                                       valign="bottom">Albert (1985)</oasis_0:entry>
+                     </oasis_0:row>
+                  </oasis_0:tbody>
+               </oasis_0:tgroup>
+            </oasis_0:table>
+         </table-wrap>
+      </p>
+      <p>Although devoted to Amazonia, this article has an implicit built‐in comparison that is best made explicit from the outset. Amazonian ontologies are part of what I would call the Sibero‐American shamanic tradition, which has a historical unity of its own. My argument develops from an internal contrast with the hunter‐gatherers of the Subarctic, speakers of Algonquian and Athapaskan languages, who came to represent in its purest form the conversion of hunting into a morally positive relation of giving and sharing. This model is based on the replacement of predation by the gift. According to it, animals are killed only when they are willing to die, their motivation being described either in the idiom of love‐sharing and compassion or in that of reciprocity: animals give up their bodies because they like (or pity) the hunter or because humans offer counterprestations during ritual meals. Hunting is therefore described as a positive relationship for both parties, ensuring the reproduction of human life without implying the destruction of the potential for animal life.3</p>
+      <p>When we move from the boreal to the tropical forest, however, we encounter an inversion of dominance in the schema of human‐animal relations: while in the Subarctic the gift reigns supreme, predation is the more productive schema in Amazonia. It is difficult to determine whether this contrast is entirely empirical or whether it also results from differences in the approaches adopted by researchers in the two regions. Nor do we know whether it is of long standing or historically recent. It may be the case that contemporary Arctic and Subarctic hunting ideologies have been influenced by Western moral conceptions, just as it is arguable that less predatory ideologies were more conspicuous in Amazonia before the Conquest. However, I lack sufficient data to historicize my model, especially in such general terms.4</p>
+      <p>Siberia presents a somewhat different picture of human‐animal relations that seems to be midway between the American boreal and the tropical forest. Although there is also a stress on giving, hunting is a more ambivalent activity than it is in the American Subarctic. It involves a play of seduction in which, rather than freely giving itself to the hunter, the animal surrenders itself to him (see Willerslev n.d., 50, 135). In some societies, shamans play an important role in managing the relations between humans and animals, serving as intermediaries in an asymmetrical exchange between humanity and (super)nature in which “each of these worlds is the game of the other” (Hamayon 1990, 12). Hunters constantly run the risk of counterpredation from animals (Kwon 1998, 119), and sickness and death are conceived as the unwanted consequences of hunting. At the same time, killings can also be seen as a “rite of regeneration” (Willerslev n.d., 36), echoing the North American example.5</p>
+      <p>I am not primarily concerned here with showing that a North American gift model or a Siberian alliance model is relatively less productive in Amazonia. There are certainly examples of an Amazonian preoccupation with animal regeneration (Århem 1996, 218; Vilaça 1992, 61), of hunting as sexual seduction (see Descola 1986, 323–24), and of shamans’ marrying “animal spirits” (Califano 1988, 117–19; Saladin d'Anglure and Morin 1998; Daillant 1998; Perez Gil 2006, 144–45). This is no surprise. To use Descola’s (2005, 459), vocabulary, we encounter a common “mode of identification” between humans and nonhumans across the region but different “modes of relation” subject to regional and historical variation. For our purposes, the contrast with the North American case, be it literal or literary, enables us to highlight an aspect which has remained largely unexplored elsewhere and seems to be central in the tropical forest: <italic>that predation is a transspecific vector of sociality</italic>. I am more interested in locating hunting within a set of predatory relations between different kinds of persons, since the premise of my argument is that humans and animals are immersed in a sociocosmic system in which the direction of predation and the production of kinship are in dispute.6</p>
+      <p>This article aims at conveying an Amazonian perspective on the issue of predation, food consumption, and kinship production. It takes predation and commensality to be distinct yet dynamically articulated forms of producing people and sociality. Food consumption appears less as an activity directed toward the production of a generic physical body than as a device for producing related bodies—literally, “bodies of a kind.” Many writers have already drawn attention to commensality as central to the fabrication of kinship in Amazonia. If making kin converges on the universe of culinary practices and food sharing, the question becomes one of articulating two separate processes of transformation, one which results from eating someone (cannibalism) and the other from eating <italic>like</italic> and <italic>with </italic>someone (commensality).</p>
+      <p>To address this question, I start with a general account of the relationship between hunting and warfare, focusing on the animal perspective and the dangers to which humans are exposed through the practice of hunting. Human illness appears in this account as an act of predation by animals, while commensality emerges as a device for producing identity within and across “species.” Subsequently, I turn to the question of how humans are able to identify with each other by eating food together without identifying themselves with what they eat. I analyze this question not only as an aspect of everyday contexts but also in two opposite situations: seclusion (when food is maximally restricted) and ritual meat eating (when prohibited food is temporarily allowed). Next, I focus on the hunting of a specific lowlands animal, the peccary, whose traits seem to combine most of what Amerindians take to be characteristically human. Finally, I turn to anthropophagy, which I distinguish from cannibalism. I develop this argument in tandem with another issue concerning the constitution of persons in indigenous Amazonia, the relationship between body and soul.</p>
+      <sec>
+         <title/>
+         <fn-group>
+            <fn id="fn1">
+               <label>1</label>
+               <p>“Lowland South America” designates almost the whole continent with the exception of the Andes, the Pacific coast, and the southernmost part of the continent. Amazonia may have different geographic limits according to the criteria adopted; here it designates the entire drainage area of the Amazon and Orinoco Rivers. The figures are approximations. Not only are there no precise statistics on indigenous population in Amazonia but also it is difficult to establish ethnic and language boundaries in many cases. Good data on Brazilian Amazonia can be found in Moore (2005) and on the home page of the Instituto Socioambiental (http://www.socioambiental.org): for other countries, see Queixalós and Renault‐Lescure (2000) and Dixon and Aikhenvald (1999).</p>
+            </fn>
+            <fn id="fn2">
+               <label>2</label>
+               <p>Less predatory ideologies have been associated with Arawak‐speaking peoples, who since the work of Max Schmidt (1917) have been taken to be the spearhead of cultural development in Lowland South America. Heckenberger (2002) has characterized these peoples as possessing hierarchical ideologies, well‐defined politico‐ritual spaces, pluriethnic and multilingual regional systems, extensive exchange networks, sedentarism, and more developed horticulture. They probably played a major role in the emergence of densely populated sedentary societies in Amazonia before the Conquest. However, I am not convinced that a consistent process of “Neolithization” occurred in the region as a whole or that it started as early as the first millennium BC as Hornborg (2005, 590) proposes. We should also be careful not to “Arawakanize” Amazonian prehistory and not to exclude warfare and predation from the history of Arawakan peoples (see Neves 2005; Santos‐Granero 2005; Journet 1995; Wright 1990). In any case, the model I present here can also be applied to more reciprocal modes of relation with nonhumans such as those observed among Upper Xingu peoples (Barcelos Neto 2004).</p>
+            </fn>
+            <fn id="fn3">
+               <label>3</label>
+               <p>I limit myself here to what Brightman calls the hegemonic “benefactive model,” which coexists with more ambivalent ways of conceiving the relation between humans and animals in the Subarctic (Brightman 1993, 199–203; Tanner 1979, 138). On Algonquian Cree peoples, see also Feit (1986, 2000); on the Algonquian Ojibwa, see Hallowell (1960) and Black (1977); on the Athapaskan Chippewyan, see Smith (1998, 2002) and Sharp (1988, 2001). For a synthesis, see Ingold (2000<italic>b</italic>). For a similar rendering of human‐animal relations in the Arctic, see Fienup‐Riordan (1990<italic>a</italic>, 1990<italic>b</italic>, 1994).</p>
+            </fn>
+            <fn id="fn4">
+               <label>4</label>
+               <p>For an example of historical transformation in Lowland South America, see Fausto (n.d. <italic>a</italic>). It would be useful to consult the debate stirred up by Martin’s (1978) book (see Kreach 1981), as well as Sonne’s (1990) text, for possible historical changes in the ways of perceiving animals in the Arctic and Subarctic.</p>
+            </fn>
+            <fn id="fn5">
+               <label>5</label>
+               <p>This is a gross overgeneralization. A serious comparison would demand a finer‐grained picture of the varied ethnographic and historical situations in Siberia. For attempts to generalize the Siberian material, see Lott‐Falck (1953), Hamayon (1990), Pedersen (2001), and Vitebsky (2005). For recent ethnographic contributions related to the topic of this article, see Willerslev (2004, n.d.), Vaté (2003, chap. 5), and Kwon (1998).</p>
+            </fn>
+            <fn id="fn6">
+               <label>6</label>
+               <p>In this sense, my discussion cuts across Descola’s distinction between predatory, reciprocal, and giving animism (1996; 2005, 459–96). Although I agree with him that this variation exists in Amazonia and that these schemes may dynamically coexist in a hierarchical way in any single system, I prefer to focus on interspecific transformation by means of predatory relations, which I consider a key sociocosmic fact in all Amazonian contexts (see also Rivière 2001; Descola 2005, 578–79).</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc1">
+         <title>Animals at War</title>
+         <p>Amazonian predation operates transspecifically and is never one‐way. Therefore we cannot restrict ourselves to the hunting of animals by humans, since animals also engage in predatory acts against humans. I relate this fact to the Amazonian preoccupation with the transformability of beings in a perspectival environment (Viveiros de Castro 1998<italic>a</italic>; Lima 1999). If all entities in the cosmos are potentially people, knowing how one kind of being turns into another kind becomes a matter of paramount concern. This transformability manifests itself as an intermeshing of predatory cycles: the human passes into the nonhuman and vice versa. This passage can be thought of as a series of particular events: the species <italic>x</italic> magically kills the man <italic>y</italic>, turning him into <italic>x</italic>, or the killing of an animal <italic>w</italic> leads to the conception of a human child <italic>z</italic>. It may also be conceived as a general condition: humans always become peccaries when they die, or all new humans result from the shamanic appropriation of vital principles from other species.</p>
+         <p>These dynamics contrast with the hegemonic model of hunting in the Subarctic (Brightman 1993), which postulates a series of closed cycles particular to each species: the caribou is reborn as caribou, the bear as bear, and so forth. This contrast may account for the relative lack of interest in the remains of animals shown by Amazonian peoples compared with the Subarctic obsession with the proper disposal of the bones of prey to enable their regeneration. Although the idea of animal regeneration is present among some Amazonian peoples, it does not seem to be the hunters’ main concern.</p>
+         <p>There are exceptions, of course. In Northwest Amazonia, for example, where the vertical transmission of identity is a central concern of indigenous sociocosmology, there is an ideal of keeping each system closed, even at the level of exogamic clans: human souls should return to their ancestors’ “houses” and be reborn as the same kind of person (C. Hugh‐Jones 1979, 112; Wright 1998, 200–203). But there always remains the risk of becoming an animal through disease or an enemy through warfare (Journet 1995, 167–208; Goldman 2004, 46, 174). Along with this ideal of vertical recursivity, we also find an emphasis on horizontal reciprocity, in which the predation of animals is cross‐linked to the predation of humans. The Tukanoan Desana, for instance, claim that the masters of animals free their protégés to be hunted only if they are paid in human souls (Reichel‐Dolmatoff 1973, 160). Such negotiation implies predation against other humans through sorcery, an action that can be conceived as hunting, as Chaumeil (1983, 233) points out for the Yágua, or as invisible warfare, as Albert (1985) shows for the Yanomami.</p>
+         <p>More frequently, this enchainment of predatory cycles tends to oppose humans and animals directly. This fact adds a crucial twist to a central concern of Subarctic hunters: respect for animal prey. Rules imposing the correct ways of killing and handling prey, as well as limits to predation, have all been described in the Amazonian literature. Yet even when these prescriptions and prohibitions are framed in the idiom of respect, disrespect gives way to revenge warfare rather than the disappearance of game from a particular territory (Gray 1997, 50; Crocker 1985, 37). Whereas in the Subaractic it is imperative to find wounded animals, since allowing prey to die in pointless suffering disturbs the ideal harmony between humans and animals (Brightman 1993, 110), in Amazonia the same care is justified by the hunter’s fear of counterpredation. Among the Tikuna, for instance, the flight of a wounded animal entails an exhaustive search for it; if the prey returns home and tells what happened, the hunter will face vengeance by the “father” of the species (Goulard 1998, 414; see also Crocker 1985, 142–43, on the Bororo).</p>
+         <p>Hunting ethics in Amazonia focuses on preventing hunting from appearing as warfare to humans and animals at the same time. As Lima (1999) shows, this is the meaning behind the verbal moderation requisite to peccary hunting among the Juruna. A hunter who abuses language condemns himself to death—or, more exactly, condemns himself to becoming a peccary. His dead body will be found by his companions, but his person will be incorporated into the herd of peccaries, acquiring, little by little, a peccary body until he completely turns into one of them. This form of appropriating the enemy’s soul or person is characteristic of warfare between humans: homicide triggers the victim’s familiarization, which results, through seclusion and rituals, in the production of new people in the killer’s community (see Fausto 1999<italic>a</italic>; 2001, 446–56). In the Juruna case, therefore, peccaries actually engage in warfare when they are hunted, capturing humans and transforming them into peccaries and kin. But for this to occur the hunter must, through a reckless verbal outburst, share the perspective of his prey, and from this peccary perspective “the hunt is called ‘war,'” as a Kurripaco myth tells us (Journet 1995, 193).</p>
+         <p>The set of practices and beliefs related to hunting responds primarily to the danger of inverting the positions of predator and prey. This explains why the consequence of breaching these practices is expressed in terms of a vendetta: the main eventuality to be avoided is having to pay for the death of an animal with one’s own life or the life of a close relative. In some cases, when the cycle of vengeance has already been set in motion, the aggression may actually override the normal prescriptions for the appropriate treatment of prey. The Miraña hunter, driven by the desire to retaliate, may prevent the regeneration of his victim: instead of allowing the animal’s blood to fall on the forest floor and leaving its head and entrails behind, he butchers the killed prey in the water, a practice that may be employed with a “tapir who one suspects to be responsible for various diseases” (Karadimas 2005, 222). In the same vein, deaths among the Bororo demand a retaliatory hunt to avenge the dead: a carnivorous animal, preferably a jaguar or a harpy eagle, must be killed by a hunter from the opposite moiety (Crocker 1979). In these cases, hunting intentionally slips into vengeance warfare, but the interconnections between these two phenomena are much more general, being highly visible in indigenous concepts of illness.</p>
+         <p>Warfare and disease represent different perspectives on a single event: what appears as disease to humans may be seen as warfare by animals. What to human eyes constitutes an act of sorcery conducing to illness is, from the animal’s perspective, capture through warfare. The Miraña claim that humanity is exposed to aggression from animal spirits, for these can pursue “the descendents of humans so as to kidnap them and take them below the earth to where their longhouses are found, transforming them into their own descendents” (Karadimas 2005, 220). The Wayana say that the anthropomorphic masters of animals continually try to attract humans to their houses in order to transform them into animals and increase their number of familiars (van Velthem 2003, 95). Among the Wari’, many diseases are attributed to an attack by an animal that captures and keeps the person’s soul. While the person’s body wastes away, the person appears in a state of transformation in the eyes of the shaman trying to cure him or her, acquiring the characteristics of the aggressor animal (Vilaça 1992, 2002; Conklin 2001<italic>a</italic>, 154–55). The patient gains a new body and new habits, capacities, and affects in much the same way as a person seized in warfare is familiarized by his or her captors. In the same vein, Lagrou claims that, for the Kashinawá, disease is a “dangerous and uncontrollable process of alteration” (1998, 45), a metamorphosis in which the human is preyed upon and familiarized by the aggressor animal species.</p>
+         <p>In sum, the disease caused by “soul capture” allows two orders of reality: death in the eyes of the relatives of the human patient and the transformation of an other into kin in the eyes of the entity that has captured the soul. But there is a further proviso: the capture that appears as seduction and commensality from the viewpoint of the patient’s soul is experienced as pain and suffering by the embodied person. Such pain is produced by minuscule magical darts and other pathogenic objects. The Kuikuro call these darts “the arrows of the spirit animals,” and they are so numerous that they demand lengthy treatment by shamans to extract them. Among the Parakanã, the pathogenic object is conceived as a cannibal agent that eats the flesh of the patient. As Overing (1988, 81–84, 342) points out for the Piaroa, “disease is always considered. … to be a process of being eaten.” Over the period of illness the patient oscillates, therefore, between the perspective of past relatives and that of future relatives, experiencing pain as a dissolution of his or her embodied condition. However, from the point of view of the nonhuman aggressor, the disease is an act of capture that implies the double movement of cannibal predation and the transformation of another person into kin.</p>
+      </sec>
+      <sec id="sc2">
+         <title>From Prey to Food</title>
+         <p>Humans and animals are enmeshed in a sociocosmic web in which existential potentialities and reproductive capacities (conceived in a broad sense) are in dispute. The fundamental opposition is not between being human or not but between being (and having) a relative or not. The notion of familiarizing predation which I have used previously to characterize warfare and shamanism in Amazonia applies to these relations of capture, which dynamically articulate the exterior with the interior, the other with the same. In this universe in which nothing is created and everything is appropriated, different groups—human or nonhuman, living or dead—related as meta‐affines (Taylor 2000, 312) seek to capture people in order to turn them into relatives. Shamans capture animal spirits and warriors capture enemy spirits, fertilizing women, giving names to children, producing songs for ritual, benefiting the hunt. But nonhumans also capture humans, seducing them and/or preying on them so as to transform them into members of their community. Predation is thus intimately connected to the cosmic desire to produce kinship. Every movement of appropriation unleashes another process of fabrication‐familiarization, which endows the captured entity with the distinctive affects and dispositions of the captor’s “species.” To use Vilaça’s (2002) elegant formulation, familarization is a way of making “kin out of others.”</p>
+         <p>For humans to create human affects and dispositions and produce kinship among themselves, they need to hunt: “Dead peccaries are eaten to satisfy the intense human desire to eat game animals, and, by satisfying that desire, to create kinship ties” (Gow 2001, 70). Commensality and the sharing of meat not only characterize the relation between relatives but produce relatives. Eating <italic>like </italic>someone and <italic>with</italic> someone is a primary vector of identity, much like abstaining for or with someone else.7 In sum, food sharing and the culinary code fabricate people of the same species.</p>
+         <p>In Amazonia, commensality is a vector of identification that applies beyond the sociologically visible relationships between humans. It is a general device for conceptualizing (and actualizing) the passage from one condition of kinship to another and hence what I have called “familiarization” (Fausto 1997; see also Erikson 1984, 2000). A Juruna hunter, for instance, upon being captured by a herd of peccaries, must be gradually made into one of them: “feeding on coconuts and worms, participating in their dances and drinking their muddy beer, the captured hunter assumes, as time goes by, the aspect of a peccary” (Lima 1999, 111). Following the same logic, the Wari’ shaman discovers food of the animal species responsible for the disease in his patient’s body, testifying that animal and human are becoming commensals and, therefore, akin to each other, in the sense of becoming both kin and alike (Vilaça 2002). Among the Wauja, a patient whose soul has been kidnapped by a jaguar spirit dreams that he is eating the meat of tapir, armadillo, and deer: he recounts that “someone is bringing him food and a gourd full of blood for him to drink” (Barcelos Neto 2004, 46). Among the Barasana, the connection between feeding and familiarization is manifested by the verb <italic>ekaa‐re</italic>, which means both “to feed” and “to domesticate.” Pets are called <italic>ekariera</italic>, “those whom we feed” (Stephen Hugh‐Jones, personal communication).</p>
+         <p>This same idea is manifested as a warning in a Parakanã myth—a local version of the bird‐unnester (<italic>dénicheur d’oiseaux</italic>) myth (Lévi‐Strauss 1964). After coming down from the tree in which he has been abandoned, the protagonist goes in search of his relatives. He arrives at the tapir village, where he is made welcome, but he begins to miss his relatives and decides to leave. The tapirs show him the way but warn him not to eat worm porridge at the armadillo village. The inference is clear: to eat like and with the armadillos will cause him to forget his human relatives. Not to eat like and with is to refuse kinship, and this refusal is equivalent to adopting the position of an enemy. Indeed, this happened to a boy whom the Parakanã kidnapped along with his mother in a raid in the 1940s. Soon after being captured, they attempted to escape, but the Parakanã went in pursuit and intercepted them. Before killing them both, a man reproached the boy in a plaintive tone: “I told you to eat the tapir I had hunted, I told you this in vain” (Fausto 2001, 301).</p>
+         <p>Such an identificatory device is also present in Amazonian eschatologies, in which death is frequently only definitive when a person accepts the food or drink offered by the deceased. For the Krahô, for instance, death is reversible until the settling of the soul in the village of the dead “through the acceptance of food, sexual relations, painting, and log racing” (Carneiro da Cunha 1978, 11, 121).8 Feeding the dead concludes a process initiated by the predation that produced the disease and catalyzed the transformation of the patient into another species of person, a transformation often conceived as the passage from human to animal (see, for example, Turner 1995, 152, and Pollock 1992, 1993).</p>
+         <p>In sum, throughout Amazonia we find a widespread conception that <italic>eating like and with someone</italic> begins or completes a transformation leading to identification with this someone. At the same time, there is an equally widespread notion that <italic>eating someone</italic> triggers a transformation leading to identification between predator and prey—an identification which, as we know, is ambivalent, since it is never one‐way.9 What is the relationship between these two transformations? How can kinship be produced among humans as a result of eating animals who are people? More precisely, how can humans identify with each other by sharing and eating food proper to humans without thereby identifying themselves with the beings they eat?</p>
+         <p>The answer can be found by carefully distinguishing the two operations. Eating and sharing food in order to produce kinship must be kept distinct from eating as a way of identifying with what is eaten. But this requires work: the game animal needs to be produced as food, since it is not “naturally” an object. In other words, an animal subject needs to be reduced to the condition of an inert object. The Parakanã language has an elegant way of marking this reduction: before being cooked, the dead game is said to be <italic>temiara</italic>, a term formed by the aggregation of a patient marker to an agent marker. After cooking, it is said to be <italic>temi’oa, </italic>a word in which the agent marker is replaced by the verb “to eat” (<italic>'o</italic>) and a nonagentive nominalizer. To transform game into food is to remove its capacity to act toward another self, to relate to others—a capacity proper to beings qua persons. In other words, the relationship between active subject and inert object does not immediately result from an act of predation: it requires the additional work of reducing the killed game to food.</p>
+         <p>The capacity which I term “agentive” is unequally distributed throughout the cosmos not only because not everything has agency but also because there is a hierarchy among beings that possess it. In Amazonia, the food chain is a cardinal index of agency. Large predators such as the jaguar and the anaconda occupy the top of this hierarchy, whereas fish and plants occupy the base. Animals are generally above plants, although they may be located below those with psychotropic effects, while carnivores tend to be placed above herbivores. However, there are significant variations in response to other characteristics linked not necessarily to position in the food chain but to color, size, behavior, ecological association, and so forth.10 The care demanded in eating prey varies as a function of the relative attribution of agency to each category of animal. For example, the Kashinawá distinguish between animals without <italic>yuxin</italic>, those with <italic>yuxin</italic>, and those who are pure <italic>yuxin</italic> (this concept, loosely translatable as “soul,” implies a capacity for transformative action). Animals without <italic>yuxin</italic> are harmless, since they are <italic>only</italic> animals and cannot act as persons. Animals with <italic>yuxin</italic>—which include most edible species—are dangerous because they can retaliate for acts of cynegetic predation by inflicting disease on humans. Finally, animals which are pure <italic>yuxin</italic> are dangerous and inedible (Lagrou 1998, 41–43). The Miraña distinguish animals classed as plants from those classed as persons. The first are the products of the gardens of the gods and not vectors of disease, while the second may well be harmful to humans. The problem lies in determining which animals are which. Small birds and rodents are plants by definition, whereas large predators are always persons. Located between these two categories are the most commonly hunted prey, which may be either plants or persons (Karadimas 1997, 405, 577–83).</p>
+         <p>Since most edible game can act as subjects, they must be made into food before being consumed. Hence the importance of shamanically treating game in Amazonia, an operation that neutralizes or reduces the animal’s agentive‐transformative capacity. Thus, among the Piaroa, the shaman transubstantiates meat into plant in order to render it edible (Overing 1975, 89), while Barasana shamans reduce mammals to fish (S. Hugh‐Jones 1996). Occasionally this activity is confined to certain species: the Tikuna ritually treat only the tapir, the sole animal reputed to avenge itself directly on humans (Goulard 1998, 430), while the Wari’—who today focus merely on the peccary—used to treat almost all prey species ritually (Vilaça 1992, 61). Sometimes shamanic action is directed at a particular class of prey, as in the Bororo case, where animals deemed to be the food of metamorphic spirits (<italic>bope</italic>) must be treated by a shaman to make the meat safe for general consumption (Crocker 1985, 142).</p>
+         <p>Shamanically treating the dead animal is not enough, however. Its subjective condition must be neutralized through cooking. Culinary fire is a central operator in the reduction of animal subjects to objects. Yet the technique employed also matters: for many Amazonian peoples, boiled animals present less of a risk than roasted ones, perhaps because, as Lévi‐Strauss (1965) has proposed, roasting is thought to be closer to rawness. The Arakmbut, for example, avoid roasted meat because of the likelihood of its being incompletely cooked (Gray 1996, 154), while in contrast the Miraña jaguar hunter “lightly roasts” his prey so as to eat it as though raw (Karadimas 1997). These culinary preferences are not easily generalized: the Wari’, for instance, consider roasting the “best way to cook any flesh that contains dangerous blood,” including human flesh (Conklin 2001<italic>a</italic>, 125).11 In all cases, however, it is blood that is the focus of attention, since it functions as an indicator of transformative agency. This is why even a slight trace of blood presents some risk and why food in Amazonia tends to be overcooked. Even in a context such as the Upper Xingu, where fish are practically the only animals eaten, villages may censure their neighbors for eating “barely cooked fish” (Gregor 1990).</p>
+         <p>The opposition between raw food and cooked food is fundamental: it establishes two highly distinct forms of consumption. Devouring prey raw defines both the intention and the result of the act of consumption; eating meat (well) cooked defines the intention but leaves the result ambiguous, since one never knows whether its agency has been completely removed. The same culinary distinction is central in the American Subarctic. Brightman argues that “the cooking process blocks acquisition by the eater of desired immaterial properties contained in the raw food” (1993, 143), while omophagy implies precisely the ingestion of these properties.12 We are presented, therefore, with two modes of consumption: one, cooked, whose objective is strictly alimentary, and another, raw, whose goal is the appropriation of the victim’s animistic capacities.</p>
+         <p>Allow me to rephrase this opposition so as to avoid any possible confusion with a Cartesian dualism that is almost unanimously rejected today in describing Amerindian ontologies.13 This dualism does not allow us to explain, for example, why drinking blood or eating raw meat (i.e., substantive parts of the body) entails the appropriation of the victim’s subjective capacities. However, the absence of any absolute rupture between material body and immaterial soul does not imply the nonexistence of another distinction, one we can <italic>provisionally</italic> identify as the distinction between the consumption of the other as a person (or in the condition of a person) and the consumption of that other in the condition of food (Fausto 2001, 538). This distinction can be equated to that between subject and object so long as we understand that the unmarked value for animals is that of subject. This does not mean that all the individuals of a species or all species fulfill this value in the same way or at all moments. Nonetheless, it is a basic premise of Amerindian ontologies. Indeed, if animals—or some animals—are persons, to devour them in this condition is to appropriate their qualities as subjects. This is what happens when prey is eaten raw. Cooking animals, in contrast, means removing this condition and transforming them into objects suitable for daily consumption.</p>
+         <p>Let us redefine the notion of cannibalism: cannibal consumption is any devouring (literal or symbolic) of the other in its (raw) condition as a person—a condition which is the default value. Noncannibal consumption supposes a process of desubjectifying the prey, a process in which culinary fire plays a central part. In daily meals, the animal‐as‐subject must be absent for identification to occur between humans. Any subjective relation between human and animal must be blocked so that the latter’s meat can provide the medium for commensals to produce themselves as humans and relatives. However, daily meals are not always safe or desirably so. Sometimes one needs to stay behind this line of safety and sometimes one needs to go beyond it.</p>
+         <fn-group>
+            <fn id="fn7">
+               <label>7</label>
+               <p>On the notion of a community of abstinence, see Viveiros de Castro (1992, 192) and Rival (1999, 65). On the notion of commensality and on feeding and sharing as means of producing kinship, see Gow (1991, 150–78), Lagrou (2000, 59–67), McCallum (2001, 96–108), Rival (1998, 621), Vilaça (2002), and Viegas (2003). For a theoretical elaboration, see Overing (1989, 1999).</p>
+            </fn>
+            <fn id="fn8">
+               <label>8</label>
+               <p>By the same logic, the reversal of death can be thought of as the reinstitution of ties of commensality with the living. For an example, see Andrade (1992, 220–22).</p>
+            </fn>
+            <fn id="fn9">
+               <label>9</label>
+               <p>Examples of war homicide and the devouring of the dead by the gods or animals provide a clear illustration of this type of identificatory operation. On the latter, see Viveiros de Castro (1992, 1996<italic>b</italic>), Århem (1996), and Pollock (1993, 62). On the former, see Albert (1985), Menget (1988, 1993), Vilaça (1992), Sterpin (1993), and Fausto (2001).</p>
+            </fn>
+            <fn id="fn10">
+               <label>10</label>
+               <p>Various elements may serve as indicators of subjective potency, among them longevity (Lagrou 1998, 41; Harner 1978, 138), the capacity for vocalization and imitation of birds (Fausto 2001), and the mating behavior of certain species (Descola 1998, 27). The amount and color of blood are also important indices of transformative capacity; the Pirahã, for example, distinguish three categories of edibility according to these criteria (Gonçalves 2001, 359; see also Crocker 1985, 143, on the Bororo).</p>
+            </fn>
+            <fn id="fn11">
+               <label>11</label>
+               <p>The most radical techniques are not culinary: incineration, which reduces the transformative capacity (hence its frequent use against sorcerers, shamans, and missionaries), and rotting, which intensifies the transformative potential (see Lagrou 1998, 38–39).</p>
+            </fn>
+            <fn id="fn12">
+               <label>12</label>
+               <p>The Cree seem to have practiced cannibalism in their wars against the Inuit in the eighteenth century, eating raw pieces of enemy flesh. Brightman (1993, 142) relates this practice to a hunting procedure involving the drinking of fresh caribou or moose blood.</p>
+            </fn>
+            <fn id="fn13">
+               <label>13</label>
+               <p>See, for example, Smith (1998) on the monist character of Athapaskan ontology, opposing Cartesian dualism to an “ontology of bush sensitivity.” See also Viveiros de Castro’s argument that the <italic>duality</italic> of body and soul among Amerindians “cannot be interpreted as an ontological <italic>dualism</italic>” (1998<italic>b</italic>, 67). For Siberia, see Willerslev (n.d.).</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc3">
+         <title>Seclusion and Transformation</title>
+         <p>There are times when eating becomes the focus of very severe restrictions, different from everyday interdictions and precautions. These tend to be periods in which processes of transformation are already in progress and marked by seclusion. Birth is a good example. The event of birth is the exteriorization of a process of internal transformation that can usually be traced back to the capture of a vital principle from the outside.14 Gestation is a creative and risky process, since the fetus may be attacked by the spirits of animals that its father has hunted or its mother has consumed: “Whilst in the mother’s womb such spirit attack deforms the baby, who comes to resemble the animal consumed, rather than its human parent” (McCallum 2001, 18–19). The fabrication‐transformation of the child is not interrupted at birth. On the contrary, the postpartum period is crucial to defining the baby’s “species” : father, mother, and kindred all strive to fabricate it as a human and as kin (see Gow 1997). As Vilaça (2002, 359) has shown, “in the process of being created, the body [of the newborn] runs the risk of being made like the body of other types of people (or simply of an animal).” Parakanã women spend hours on end massaging babies to make their bodies different from animal bodies, which, with the exception of pets, are never modeled (Fausto 2001, 396). Actions on the body thus serve to fix a form and a fate: “Occasional applications of genipap,” writes McCallum on the Kashinawá, “appear to 'fix’ the shape made by the hard work of the parents both during pregnancy and afterward; at the same time genipap renders the baby invisible to the spirits” (2001, 21).</p>
+         <p>Becoming invisible to spirits brings us back to the problem of capture. A common conception in Amazonia is that the baby’s vital principle is not securely attached to the body and can be captured. The baby has not yet been entirely fabricated as a member of its community and can be made into kin by other people, animals, or enemies: if “parents do not take the necessary ritual precautions, a newborn infant’s soul may be `stolen’ and converted into that of an animal” (Goldman 2004, 174). During the couvade, any means of interacting with the exterior must therefore be foreclosed, as is exemplified in the prohibitions incurred by the father on taking part in hunting, warfare, rituals, or shamanic activity. It is not only the child who is at risk here, for the father too is in a process of transformation and will become another kind of person (a father) though not a person of another kind. The Guarani Ñandeva call this threat to the genitor <italic>odjepotá</italic>, which is the fate of every man who abandons seclusion for hunting. Upon meeting an animal, he sees it as a person and is lured toward it: “The animal blends with us, and we end up living with the animal for the rest of our lives,” as a Ñandeva man explained to the anthropologist Egon Schaden (1954, 102).15</p>
+         <p>The same danger of becoming an animal exists for the Guarani girl in seclusion after her first menses and the Parakanã man in posthomicidal seclusion. In the first case, the girl runs the risk of being attracted by an “animal‐man” who will take her with him; fur will begin to grow on her body and she will become a threat to human beings. The Parakanã killer, like the father in couvade, cannot go hunting. The fate of anyone who disrespects this prohibition is explained in a myth: A man in seclusion had to go hunting because his son was hungry and no one in the village would hunt for him. He spotted a herd of wild pigs and began to kill them. But he was alone, and after he had shot the last of his arrows he sought refuge in the branches of a tree. He was later brought down by the wild pigs, who took him away forever (Fausto 2001, 313). This myth begins with the refusal of kinship (the villagers do not recognize the child as a relative and deny him food) and ends with peccaries capturing the killer. A link is established between the initial negation of a relationship (among humans) and the production of a second relationship (between humans and animals). A similar idea is present among the Kayabi: a person who is mistreated by her relatives is exposed to the risk of having her soul kidnapped by spirits that will transform it into a familiar (Oakdale 1998). The Kashinawá claim that “sad or angry people, unsatisfied with their relationship with close kin or spouses, are said to be prone to lend an ear to <italic>yuxin</italic> [“spirit”] callings at night, and then disappear as they ‘sleep walk’ into the forest” (Lagrou 1998, 45).</p>
+         <p>This process of disaffection directed by kinfolk is thus equivalent to a pathology. Writing about the Jivaroan Achuar, Taylor (n.d.) shows that the erosion of the web of relations constituting the person induces “a kind of sociological anemia that translates into symptoms of illness and claims of being an orphan, a state that is tantamount to being sick.” Disease experienced as orphanhood reveals the double movement consisting of the rupture of kinship relations and their re‐creation elsewhere. The agent of disease—that unwanted metamorphosis—is an other subject that wants to produce its own kinfolk and acts out of jealousy and desire, seducing and preying upon other peoples. Seen from this side as disease‐disaffection, the transformation is perceived from the other side as predation‐affection. The difference between disease and warfare is not one of process but one of point of view.</p>
+         <p>If potential competition exists between different kinds of peoples (human or otherwise) over the persons one wants to fabricate as kin and if refusing kinship paves the way for the production of a new relationship that passes through a metamorphosis, why should the postpartum, postmenarche, and posthomicide conditions be surrounded by interdictions? The danger seems to derive from the fact that a metamorphosis is already in progress, one evinced by the smell of blood. But what metamorphosis is this, and what risk is involved? In the case of homicide, the key issue is the direction of familiarization: instead of controlling the victim, the killer runs the risk of being controlled by it, definitively assuming its perspective. Because of this, the killer’s relatives place him in seclusion, forcing him to focus on his relationship with the victim and prohibiting food and activities which might lead him to interact with other subjects and go astray. They also insistently remind him that he is kin and not an enemy.16 Therefore we can say that while the killer familiarizes the victim, his kin refamiliarize both himself and his victim, who are now one and the same. The direction of familiarization is also at stake in the couvade. As Rival says, birth is part of “a wider process of gradual incorporation” (1998, 626). What starts as part of a generic pool of subjectivity (or soul‐stuff) has to be made into a specific kind of person through acts of feeding and caring. And here again certain relations must be placed in focus while others have to be blocked. Finally, in the case of the menarche, there is no appropriation of a new subject (there is no victim and no baby). There is instead the production of a condition that will enable a woman to be an active receptacle for a nonvisible transformation (gestation), which serves as an analogical model for another transformation, that of the killer, which is also objectifiable only in its external manifestations (chants and names provided by the victim and transferred to the community).17</p>
+         <p>In sum, seclusion is a way of controlling processes of transformation, preventing them from taking the wrong direction. This is a matter not of obviating them but of trying to impede other beings from appropriating this potential for movement. The numerous food restrictions applicable during seclusion suggest that eating is a particularly vulnerable activity, since it can quickly be converted into a social relationship between subjects. Shamanic and culinary treatments are not sufficient by themselves to transform alimentary consumption into a secure relationship between an active subject and an inert object; there is always a trace of activity and subjectivity left in the animal, and therefore, in some circumstances, one must abstain from almost everything.18</p>
+         <fn-group>
+            <fn id="fn14">
+               <label>14</label>
+               <p>This idea of capture may be simply a general abstract model or particularized for each birth. We find both situations among the Parakanã: depersonalized vital principles are said to enter through the vaginas of women when they bathe in the river, but some people are said to be the sons of <italic>waratoa</italic> (the rhythmic baton used in a ritual of the same name), which captures future children and inserts them into women (Fausto 2001, 391).</p>
+            </fn>
+            <fn id="fn15">
+               <label>15</label>
+               <p>In Mbyá Guarani <italic>ojepotá</italic> means “to turn into.” Thus the sentence <italic>ava ojepotá xivire</italic> can be rendered as “the man transformed himself into a jaguar” (or “turned into a jaguar”) (Marnia Damaso, personal communication). On this topic, see also Vilaça (2002, 363).</p>
+            </fn>
+            <fn id="fn16">
+               <label>16</label>
+               <p>Among the Parakanã, the killer’s sister will ask him to hand over a bow (not, however, the one used in the homicide) to his brother‐in‐law so that the latter may bring her game meat. He thus furnishes the instrument for his affine to continue to satisfy his sister’s desire for meat, recognizing the relationship which unites them. Sometimes, however, the enemy causes the killer to lose consciousness (‐<italic>pikajym</italic>) and turn against his own kin (Fausto 2001, 315–17). For other examples of this danger of alienation, see Viveiros de Castro (1992, 245), and Sterpin (1993, 44).</p>
+            </fn>
+            <fn id="fn17">
+               <label>17</label>
+               <p>On pregnancy and menstruation as a metaphor for the killer’s state during seclusion, see Taylor (1994, 82), Menget (1993), Conklin (1989, 239–41; 2001<italic>b</italic>), and Fausto (2001, 417).</p>
+            </fn>
+            <fn id="fn18">
+               <label>18</label>
+               <p>This argument does not account for the numerous food restrictions whose native explanation concerns the transferral of a characteristic of the food to the person in seclusion without recourse to the agentive capacity of the animal or plant. The Parakanã, for example, establish a merely analogical relationship between the qualities of the animal or plant and its effects on the killer in seclusion (if he eats yam, his buttocks shrink; if he eats collared peccary, his testicles grow; and so on) (Fausto 2001, 308–9). These prohibitions relate to a more general operation: the analogical transference of qualities from one being to another, which is characteristic of ritual symbolism (see, for instance, Tambiah 1985, 64–77). In the Amazonian context, however, it is arguable that these are cases of “species” alteration, in which only a part of the body is transformed into the animal or plant consumed.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc4">
+         <title>From Food to Person</title>
+         <p>Food in Amazonia cannot always be simply food. While there are times when prohibitions are rife, there are others when processes of transformation must be triggered by the consumption of prohibited animals. These animals are normally predators and tend to be consumed raw or roasted. In order to develop the dreaming capacity of young men, Parakanã adults used to give them selected roasted parts of giant otter, an animal which many Amazonian peoples consider to be a sort of aquatic jaguar (Chaumeil and Chaumeil 1992, 27; Fausto 2004, 174). Kashinawá men used to eat the raw heart and tongue of the boa constrictor (while women ate the eyes) so as to acquire its capacities (Lagrou 1998, 62). Among the Yágua, a man who kills a jaguar is supposed to eat its still beating heart to acquire strength and courage (Jean‐Pierre Chaumeil, personal communication). The Ávila Runa are reported to ingest the bile of jaguars and harpy eagles to increase their hunting prowess and become were‐jaguars: “As were‐jaguars they become powerful in life and their soul goes to inhabit the body of a jaguar after death” (Kohn 2002, 175).</p>
+         <p>Along with the actual consumption of normally prohibited animals, there are numerous other ritual practices which aim to acquire a supplement of predatory potency. As part of the initiation of young men, the sixteenth‐century Tupinambá killed jaguars in the plaza as a substitute for human captives. The animals were ritually killed but not devoured, in contrast to the enemy (Viveiros de Castro 1992, 248). Nowadays, upon killing a jaguar, the Parakanã dance with its corpse in order to dream about it and transform themselves into it and subsequently leave to hunt in the forest (Fausto 2001, 878–79). Before departing on a war expedition, the Yanomami conduct a ritual which aims to incorporate the vital images of certain animals, particularly the vulture, who help the killer to devour the victim during posthomicide seclusion (Albert 1985, 363). In all these examples, the aim is to produce transformations in certain persons so that they can interact with nonkin and familiarize them. These practices seek to constitute persons as potential terms in a future relation of familiarizing predation.</p>
+         <p>To these practices in which animals are taken not as food but as the source of capacities we can add the consumption of narcotics and hallucinogens. I have already explored the connections between tobacco and the jaguar in South America (Fausto 2004, 165–69). Ayahuasca (<italic>Banisteriopsis caapi</italic>) is similarly associated with large predators. According to Harner (1973, 160), snakes (particularly the anaconda) and jaguars are the animals most commonly cited by Amerindians when explaining the effects of the drink. The Mawé establish a direct link between the beverage and felines: as a shaman notes, “the master of /kaapi/ is a spotted jaguar. … When we cultivate it in bloody water [i.e., water used for cleaning game], it becomes very wild” (quoted by Giraldo Figueiroa 1997, 276). The association between hematophagy and psychotropics is also found among the Miraña: coca is kept in a small bag called “the devouring spirit bag,” the spirit in question being an eater of raw meat and blood (Karadimas 1997, 376, 576). In Northwest Amazonia, coca and ayahuasca are conceived as parts of the bodies of ancestors who are themselves predators (Stephan Hugh‐Jones, personal communication).19</p>
+         <p>Lastly we have an example which makes the correlation between this modality of consumption and predatory warfare explicit. The Miraña practiced exo‐cannibalism and fashioned necklaces from the teeth of their victims. The removal of the teeth was the final stage in the process of consanguinizing the enemy that began with the homicidal act itself. By wearing the necklace, the killer mobilized the predatory potential (<italic>gwásà</italic>) of his victim, which enabled him to use these powers against the deceased’s ex‐consanguines. The same practice applies to the jaguar, today as in the past. Upon killing the animal, the hunter removes its canine teeth and hands them over to a shaman. He also cuts off the tail (or removes the liver), which he will eat “lightly roasted” to curb his fear of meeting the jaguar’s spirit. The shaman then summons the spirit, who speaks through his mouth and converses with the hunter. The teeth will be the new resting place for the jaguar’s <italic>gwásà</italic>, and whenever the hunter needs its help he will don the necklace and summon the spirit of the jaguar (Karadimas 1997, 395).20</p>
+         <p>The Miraña practice offers a good example of what I have termed familiarizing predation: the conversion of relations of predation into familiarization, modeled as the passage from affinity to consanguinity. Familiarizing predation characterizes the taming of both the human victim in warfare and the animal victim in shamanism. In the latter case, however, the connection between hunting and familiarization is not immediate, except when the animal is devoured (literally or symbolically) in its condition as a person described above. However, in these cases the animal prey is equivalent to a human victim, and hunting is no different from homicide during warfare. In daily activities, in contrast, hunting must be kept distinct from warfare, and even the consumption of a nonprohibited animal must, in certain cases and at certain times, be surrounded by ritual precautions so as to transform the animal into safe food.</p>
+         <fn-group>
+            <fn id="fn19">
+               <label>19</label>
+               <p>Here we have examples of plants consumed as if they were predator animals. This is not, however, the case of cultivars and some wild fruits. As Rival (2005, 15) notes, the predatory relational mode is not the unique mode of interspecies feeding in Amazonia. Generally, horticulture represents a safer sociality turned toward the inside, in opposition to predatory sociality turned toward the outside (Fausto 2001, 514–15). From cultivars, however, people also make beer, whose fermentation may be conceived as a process of subjectification and drinking as a mode of predatory alteration (see Lima 1995).</p>
+            </fn>
+            <fn id="fn20">
+               <label>20</label>
+               <p>On such relics, see also Chaumeil (1985) and Crocker (1979). In the latter, Bororo, case, the man who avenged the death of a person of the opposite moiety through the killing of a carnivore was required to make a necklace from the animal’s teeth or claws. This necklace was given to the deceased’s relatives and was considered a precious relic. However, when the death was caused by a human enemy, the avenger “had to kill one of the enemy instead of a carnivore, and the enemy’s jawbone was given as a necklace” (1979, 139). For the Gê‐speaking Rikbaktsa, jaguars are the incarnation of dead people, and their canines must be extracted and pierced in order to extinguish their predatory capacity. The piercing ceremony is prohibited to children, women, and men with recently born children. Porridge is made for the men participating, but the hunter cannot drink it. Once the piercing is completed, the hunter gives the jaguar teeth to a man from the opposite moiety, who will use them to fabricate a necklace and wear it. Although they are reported to have practiced cannibalism, the Rikbaktsa do not eat the jaguar’s meat (Athila 2006, 437–40).</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc5">
+         <title>The Hunting of Peccaries</title>
+         <p>Here we come to the reason that hunting can be warfare only from the animals’ perspective. If there is no ontological barrier between human and nonhuman, humans must make the effort to distinguish the consumption of the animal as food from its consumption as a person. To confuse hunting with warfare is, as Lima (1999, 124) says of the Juruna, to affirm the peccaries’ point of view: “A fight takes place—a struggle between one’s hunt and the other’s war. The hunter’s misfortune is the slipping of hunting into warfare.” The Juruna verbal interdiction therefore implies not the affirmation of the hunter’s perspective but its production as a human perspective. In this sense, the interdiction is already part of the desubjectification of the future meal and the transformation of a person into food. The presupposition that peccaries are humans is still there, but it is denied by an interdiction, and this establishes an asymmetry between the prey’s position and that of the predator. The intention to eat meat and not to make war must be affirmed to avoid counterpredation. This distinction can be expressed by a minimal difference such as is found among the Kashinawá, who used the same club to kill peccaries and enemies but never the same side of the club (Kensinger 1975, cited in Erikson 1986, 205).</p>
+         <p>According to Erikson, even if predators are occasionally enemies, animal game “should not be treated as an enemy” (1986, 94). For this to hold, differences need to be produced. Thus the Sharanawa killed jaguars with war spears and edible game with bow and arrow (Siskind 1973, 174). The use of different cynegetic techniques as a way of producing a distinction between warfare and hunting is recurrent in Amazonia; however, it does not always subdivide the fauna along the same lines. Predation of jaguars is almost universally equated with the killing of enemies, but the hunting of other large terrestrial mammals may also be compared to warfare. Here, the prototypical species tends to be the white‐lipped peccary, which offers a model for the <italic>generic</italic> human condition itself: they are not purely predators but mortals who are preyed upon and defend themselves bravely, live in groups, eat manioc, and possess a chief. Like humans, they are gregarious (signaling their capacity to produce kinship), socially organized in herds (signaling their recognition of asymmetric relations other than devouring), and cosmologically ambivalent, positioned halfway between prey and predator. The jaguar, in contrast, is characterized by solitariness and an almost unlimited predatory capacity, a capacity that is unequally distributed among humans (being typical of warriors, shamans, and hunters), and indicates the surpassing of the human condition (either positively through immortality or negatively through antisociability) (see Pollock 1993, 29; Calavia Saez 2001).</p>
+         <p>The salience of peccaries as a metaphor for the human condition makes the hunting of this animal distinct from other hunting, and not only for technical reasons. It is not by chance that many Amazonian peoples associate the hunt for white‐lipped peccaries with warfare, setting it apart from the hunting of other animals. Indigenous peoples that hunt with blowguns, for example, tend to oppose this technique, aimed at arboreal species, to those based on the bow or the spear, used for killing terrestrial mammals in general and peccaries in particular. The use of the blowgun causes the victim to shed little blood (since the prey is killed by poison rather than the wound) and implies greater distance between hunter and prey, whereas the use of weapons of perforation causes intense bloodshed and involves a less distant relationship between killer and victim. We thus have situations in which, differently from those described by Lima among the Juruna, the hunting of peccaries seems to be positively marked as preying on enemies. How should we interpret this fact within the framework I have been delineating?</p>
+         <p>The peccary is the least prohibited mammal in all of Amazonia, its exclusion from indigenous diets being rare, but it is also the game which tends to require the greatest effort at desubjectification either through the action of shamans or through ritualized commensality. The tapir may occupy a similarly prominent position (as appears to be the case in the Northwest Amazon and among the Miraña), but it is not gregarious, does not involve the same collective efforts at hunting, and does not result in the same quantity of food. This is why peccary meat, more than any other, is subject to the moral imperative of ample sharing, whose nonfulfillment can lead to illness (Conklin 2001<italic>a</italic>, 163). Not to share is to behave like a lone predator; selfishness with food betrays a cannibal propensity, something that the Guarani make explicit by comparing stingy behavior to that of jaguars (H. Clastres 1975, 113–34). Commensality and the shamanistic treatment of food mark a distance from cannibalism: even though they are enemies, we do not eat them <italic>as</italic> enemies: what we want is not their subject part but their object part.</p>
+         <p>The ambivalence of peccaries is also expressed in the ritualized manner in which they may be consumed, often combining the two modalities of consumption (ontological and alimentary). The Huaorani of Ecuador distinguish the hunting of arboreal animals with blowguns from the hunting of peccaries with war spears. When peccaries are killed, this distinction results in an orgiastic party. Upon returning to camp, the hunters place the hands of children on the palpitating and bloody skin of peccaries for them to absorb the animals’ strength and energy. Peccary hunting, Rival (1996, 156) says, “is special; it is a collective slaughter followed by a feast. … Peccary meat, the meat of an omnivorous animal with an uncontrolled appetite, is considered highly intoxicating and can only be consumed infrequently, in a kind of orgy, by the <italic>huaomoni</italic> group in whose territory the herd was hunted.”</p>
+         <p>This ambivalence in the consumption of wild pigs, which seems on the verge of shifting into cannibalism, forces us to ask one final question: what, then, of anthropophagy? Is anthropophagy necessarily a cannibal practice, or can humans be eaten as if they were merely food?</p>
+      </sec>
+      <sec id="sc6">
+         <title>Anthropophagic Commensality</title>
+         <p>Warfare anthropophagy has been observed among many Lowland South American peoples. It was practiced by Tupian groups such as the Tupinambá, the Guarani (Forsyth 1983, 1985) and the Chiriguano (Combès and Saignes 1999) in the sixteenth and seventeenth centuries and by the Shipaya (Nimuendajú 1949) and the Juruna (Lima 1987) in the nineteenth century. It was also reported to be practiced by Island and Continental Caribs in the colonial period (Whitehead 1984), Putumayo and Caquetá Rivers peoples such as the Miraña and the Bora (Karadimas 1997, 715–17; 2001, 87), the Rikbaktsa of the Xingu‐Tapajós interfluvial zone (Athila 2006, 107–8), the Arawakan‐speaking Kurripaco of the Upper Rio Negro basin (Journet 1995, 191–97), and Chapakuran‐speaking peoples such as the Wari’ (Vilaça 1992; see also Métraux 1949). One of the key elements of this anthropophagy was the disjunction of killers from eaters. Those who killed did not consume the meat of their victims; on the contrary, they had to abstain from it. This strict prohibition contrasts with the broad range of people who were allowed to eat an enemy. According to the chroniclers who described the Tupinambá anthropophagic ritual, men, women, children, and even babies participated. Similarly, among the Wari’ of Rondônia, “any person, except the killers, could eat <italic>wijam</italic> [enemy] flesh, including women and children” (Vilaça 1992, 102).</p>
+         <p>Tupinambá warfare anthropophagy was expressed in the language of food desire and revenge. Human meat was consumed because it was sweet and appetizing and because everyone wanted to—or was expected to—take revenge on the enemy. Eating produced an alliance among those who ate together and separated those who were, potentially, food for one another. At the same time it produced the eaters as predators and the food as prey. Hence the famous jest made by Cunhambebe, who, between bites of the roasted leg of an enemy, replied to Hans Staden—who had reproved him for eating his fellow humans—by remarking that he was a jaguar. Yet what the Tupinambá chief ate was not the predator part of the enemy, for this was devoured by the killer in seclusion. The portion of the enemy left for him was its game part. In other words, the Tupinambá consumed humans as if they were food. The repast was an eating with and like someone in which the subjectivity of the object devoured was absent. According to the definition I have proposed, Tupinambá anthropophagy was not cannibalism. What was eaten was a human body reduced to an object, through which the eaters identified with each other and produced a common condition (even if this envisaged common condition was not that of meek humans but that of full predators).21</p>
+         <p>Among the Arawakan Kurripaco, as described by Journet (1995, 191–97), a war party would butcher the body of a slain enemy and take away as many body parts as possible, with the exception of the head and the guts. They might stop to eat it on the way home, but only in small quantities, since human meat was held to be strong and dangerous. Once back in the village, all men and women took part in the meal. The flesh was roasted and distributed like any other animal’s meat. Journet notes that in Kurripaco narratives the flesh of enemies is called “food” or “game” (p. 192). Meanwhile, the killer had to make a flute from the enemy’s femur, which was said to contain the victim’s breath. This became an inalienable possession and had to be buried with the killer upon his death.</p>
+         <p>Thus the killer, through the act of killing, consumed something different from meat, bringing about a process of transformation publicly signaled by seclusion. But what was this “other thing”? In the literature on indigenous warfare in Amazonia, we find various terms for designating what is acquired upon killing an enemy, from commonplace terms such as “strength” and “courage” to categories derived from philosophy and psychology such as “subjectivity,” “activity,” and “intentionality” to metaphysical concepts such as “spirit,” “breath,” and “soul.” These terms translate native categories which possess in common the idea that this acquired “something” corresponds to a capacity held by an other (human or nonhuman) which, on being captured through predation, becomes an integral part of the predator as a <italic>supplement</italic>. This supplement can be conceived as an alien self that merges with the killer, establishing an asymmetrical relationship with the latter (as in the Araweté case, for example), or as a capacity which, although not hypostasized in the form of a self, implies the future possibility of establishing asymmetrical relations with alien subjects (as in the Parakanã case) (Viveiros de Castro 1996<italic>b</italic>; Fausto 1999<italic>a</italic>, 2004).</p>
+         <p>I suggest that, in both cases, this captured supplement corresponds to the <italic>predator part</italic> of the enemy, its jaguar part, which is detachable and can be transferred from one subject to another. For the Parakanã, homicide does not lead to the appropriation of a spirit: the killer is simply contaminated by the odor of blood and by the “magic‐fat” (<italic>kawahiwa</italic>) of the victim, which confers a predatory and creative capacity on him.22 This capacity is associated with that of dreaming, through which the Parakanã familiarize enemies and receive names and songs from them. These songs are themselves called “jaguar” (<italic>jawara</italic>), and the dreamer is said to be a “master of the jaguars” (<italic>jawajara</italic>). Upon transferring a song, the enemy gives up a part of himself to the dreamer—his jaguar part, so to speak. The jaguar part is that which enables a subject, in a relationship with another subject, to determine the direction of familiarizing predation (Fausto 2004, 164–65).</p>
+         <p>The homicide allows the killer to capture his victim’s jaguar part. What remains for the eaters, therefore, is another part, objectified in a body and particularly in its flesh. This we can call the game part, the person’s potential as food. However, not all beings possess these parts in equal measure, since the partition is indexed by the food chain. Jaguars occupy an extreme pole, since everything in them points to a predator part; although they possess flesh, they are seen as not having a game part and are therefore rarely consumed as food.23 This may explain why, although the Tupinambá performed a simulacrum of the anthropophagic ritual with jaguars in the place of human victims, they did not eat them. Human meat, in contrast, was said to be delicious, as peccary meat certainly is. Peccaries, as we have seen, possess both a substantial food part and abundant activeness. The separability of these two components is expressed in the distinction between the master of peccaries (or the chief of the herd) and his animals: the first represents the jaguar part, while the second represents an anonymous collectivity, denoting the passive aspect of peccaries. Indeed, the Piro say that the master of peccaries is the jaguar of its species (Gow 2001, 69).24</p>
+         <p>The notion of a jaguar part applies equally well to shamanism, which is often associated with the establishment of a special relationship with familiarized predators. The Mamainde Nambikwara, for instance, render this idea of a detachable and transferable jaguar part highly tangible, since their shamans derive their curative and offensive powers from the little feline that they hold between their teeth and can release at will (Miller 2007). For the Kanamari, shamans also have jaguars, which they keep either in their bodies or in a container where they feed them with tobacco powder. Upon a shaman’s death, one of his souls is liberated in the form of a jaguar, which can subsequently be familiarized by another living shaman (Costa 2007).</p>
+         <p>In sum, it can be stated that in war anthropophagy the distinction between killers and eaters corresponds to the difference between eating someone and eating with and like someone; therefore the act of eating a human was primarily a commensal practice—an‐other‐body was eaten so as to produce a body of relatives. We still need to determine, however, if this analysis applies to funerary anthropophagy.</p>
+         <fn-group>
+            <fn id="fn21">
+               <label>21</label>
+               <p>The ritual feast also implied transformative processes and may have been marked by the characteristic ambivalence of the eating of “dangerous food.” However, the socialization of the <italic>ontological</italic> predation occurred during other moments within the ritual cycle. Tupinambá women were able to benefit from the killing by being renamed for taking part in events which preceded the execution, such as the symbolic recapture of the captive (Fausto 1999<italic>b</italic>, 270–71). Among the Nivakle, women danced with the bloody scalp‐trophy so that “something of the soul‐spirit of the victim” would pass on to them (Sterpin 1993, 42). This amplification of the effects of ontological predation was a hallmark of Amazonian indigenous warfare; the members of the war party could all be considered “killers” and enter into seclusion if even a single death occurred on the battlefield (see Fausto 1999<italic>b</italic>, 272–75; 2001, 330–32).</p>
+            </fn>
+            <fn id="fn22">
+               <label>22</label>
+               <p>This occurs only when an adult male is killed. Children have no “magic‐fat,” while women have little. The killing of women does not produce the creative rage which spurs the killer to new killings but leads only to hunger, causing him to be stingy with relatives, a behavior associated with the jaguar and opposed to commensality among kin (Fausto 2001, 318). If jaguars have more jaguar parts than, say, agoutis, among humans such differences are constructed in terms of biography, age, and gender. Generally speaking, babies have no jaguar part, women have more than children but less than men, and warriors and shamans (male or female) have more than ordinary people. Such differences inflect eschatological beliefs, mortuary and warfare practices, and conceptions of hunting (see Taylor 2000; Vilaça 2005, 451–52; Fausto 2001, 405–6). They also point to the fact that the “soul” is not exactly a given, as Viveiros de Castro (2001) postulates, since it is also constructed along with the person’s biography. As a general and indeterminate virtuality of existence, the “soul” is a given, but its destiny is to become inextricably linked with what the person becomes through the embodying of knowledge and capacities.</p>
+            </fn>
+            <fn id="fn23">
+               <label>23</label>
+               <p>In Muinane, the nominal classifier ‐<italic>gai</italic>, applied to all animate beings, is never affixed to the terms “jaguar” (<italic>hwku</italic>) or “chief” (<italic>keʔéʔí</italic>), as if these were nonmarked cases of the class “animate beings,” prototypes of the quality “animation” (Vengoechea 2001).</p>
+            </fn>
+            <fn id="fn24">
+               <label>24</label>
+               <p>As a default condition, every species potentially has its own jaguar part, sometimes hypostasized as the species’s master. The jaguar, however, much like the bear in the Subarctic, is a “chief unto himself” (to paraphrase Skinner [1911, 95]), having no master or at least none other than a powerful human shaman. This idea can also be expressed in linguistic terms. Most Carib languages have a nominal modifier (‐<italic>imü</italic>, ‐<italic>imë</italic>) which, when suffixed to an animal name, indicates a supernatural and predatory animal rather than an ordinary one. This is an important element in terms of understanding their aesthetics. Among the Wayana, for instance, the basketry pattern “squirrel” is said to represent not only a squirrel (<italic>merí</italic>) but also a hypersquirrel (<italic>merímë</italic>), which is a supernatural jaguar (van Velthem 2003, 315).</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc7">
+         <title>Eating the Dead</title>
+         <p>Funerary anthropophagy refers to the eating of the deceased’s flesh or bones or both. Osteophagy (the consumption of calcinated bones) was more common in the South American Lowlands than the consumption of the flesh. The latter was practiced in Western Amazonia by Panoan‐speaking peoples, by the Chapakuran peoples of Rondônia and Bolivia, and, to the south, by the Aché‐Guayaki. The former were observed in a large arc covering the north of Brazil, the Upper Orinoco, and the Northwest and Upper Amazon (Chaumeil n.d.). Colonial sources report the occurrence of flesh anthropophagy in areas such as the Tapajós Basin, Northeast Brazil, and the Maranhão (Métraux 1947, 24–25), but it is difficult to ascertain the veracity of these data.</p>
+         <p>As does warfare anthropophagy, funerary anthropophagy often involves a distinction between those who eat and those who do not, a distinction that follows kinship relations, though not always in the same way. There seems to be a difference, for example, between the consumption of flesh and the consumption of bones. While in the first case close kin do not eat (while affines or distant kin do eat), in the second the kin of the deceased tend to eat and control who can eat with them. Nonetheless, the distinction is more complex, for some peoples consumed both flesh and bones and in some cases established a variety of prescriptions and prohibitions. I have no intention of accounting for this variation here. In order to extend my analysis from warfare to funerary anthropophagy, I shall pose only one question: Can we say that the meat that is eaten is the game part of the deceased kin?</p>
+         <p>This is what both Vilaça (2000) and Conklin (1993, 2001<italic>a</italic>) report in relation to Wari’ funerary anthropophagy. The deceased were consumed as game, an assimilation which was ritually expressed at two moments: first, when affines ate the corpse butchered and roasted like game; and, secondly, during the ritual closure of mourning, when everyone, including close kin, ate game meat as if it were a human corpse. Mourning, which occurred in the interval between these two moments, allowed the consanguines to defamiliarize the dead and thus share the viewpoint of affines, identifying the deceased kin with food (Vilaça 2000, 96), that is, with an object which provides the support for other relationships. For Conklin (1993, 1995), the work of mourning aimed to produce an anticipated image of the deceased as game, since the Wari’ hold that their “ancestors” can return to the world of the living in the guise of white‐lipped peccaries and offer themselves as food to their former relatives. They cannot be commensals with the living anymore, but they can still feed them.</p>
+         <p>Wari’ funerary anthropophagy is an example of eating with and like someone where the support for commensality was a human being. Hence the requirement that every relative of the deceased be present, including those inhabiting other villages, even though this often meant that the corpse had become putrefied by the time it was consumed. That there was a ritual reduction of a deceased kinsperson to game does not mean that eating humans was a trivial or easy matter. In the Wari’ case, there was a marked contrast between eating the enemy’s flesh and eating that of a relative. The former was to be devoured with voracity and demonstrations of anger, whereas the latter was eaten in small parts, with the aid of little wooden sticks and no demonstration of pleasure (Vilaça 1992, 102). Both were ritually treated as food but carefully distinguished in terms of eating manners and the expression of emotions.</p>
+         <p>Moreover, in the Wari’ funeral, the distinction between those who ate and those who abstained was not of the same order as that in war anthropophagy. The abstinence shown by kin expressed the defamiliarization of a deceased kinsperson, while the killer’s abstinence expressed the familiarization of a deceased enemy. The movements are in opposite directions but correspond to two aspects of the same process: defamiliarization for some always corresponds to familiarization for others. If the Wari’ funeral severed kinship relationships constructed throughout life, producing forgetting, it also permitted the familiarization of the deceased by another species of people, another body of kin, since the deceased was incorporated either into the species responsible for the death or into the subaquatic world of the dead (Vilaça 1992, 61; Conklin 2001<italic>a</italic>, 166).</p>
+         <p>The assimilation of the corpse to food seems also to have characterized the funerary anthropophagy of the Aché‐Guayaki (P. Clastres 1968). There was an emphasis on the alimentary character of the act (human flesh is tasty; those who do not eat it become thin) and on the notion that everyone, except close kin, could or should eat the deceased. Although adults were eaten roasted, children were boiled in order for there to be “enough liquid for everyone” (p. 39). This extensive funerary commensality was a decisive indicator of the networks of alliance among the different Guayaki bands: friendly groups were to be invited (or receive a part of the corpse), lest they shoot arrows at “those who had forgotten them” (pp. 40–41). Another notion that we reencounter among the Guayaki is the idea of funerary anthropophagy’s producing or favoring the dissociation between body and soul, a notion which I suggest refers to the double operation of forgetting the dead and being forgotten by them (i.e., defamiliarization here and familiarization elsewhere).</p>
+         <p>Funerary anthropophagy was most common among Panoan peoples. According to Dole (1973, 302–9), 15 Panoan groups are reported to have eaten their dead, 5 of them consuming only the bones. The best‐known example is undoubtedly that of the Kashinawá. According to McCallum (1999, 66), anthropophagy was reserved for older men and women who were widely respected in the community—people who embodied multiple kinship relations, constituting central nodes in the relational network. To be eaten was the privilege of a few, but to eat was the duty of everyone. In this case, the meat was also eaten as though it were game. As meat, the deceased could serve commensality among relatives: “It is as if the kin effectively carried out one final constitutive act of kinship. Instead of offering game or fish meat to the community … he offered his own body” (p. 456). Nonetheless, commensality among relatives excluded the dead, who had to be forgotten, their names erased, their houses destroyed, and their paths wiped clean. The work of eating was likewise one of forgetting. Its aim was to dissolve the body as the physical support of affective memories and relatedness through the process of cooking, which disengaged “the <italic>yuxin</italic> (souls), still permeating the flesh, from the bodily remains that need to become transformed into mere meat” (Lagrou 2000, 167).</p>
+         <p>If the game part of the deceased served the production of kinship among the living, the “body soul” and the “eye soul” were supposed to depart and establish an existence elsewhere, as “foreigners” (<italic>nawa</italic>): the first soul with the animals in the forest, the second with the Inka (a celestial and cannibal god), where it acquired “a new body by clothing itself with the robe” of the deity (Lagrou 2000, 167). Here we find a set of correlations replicated at different scales: body is to soul as meat is to bones as the body soul is to the eye soul. The first term is the prey part vis‐à‐vis the second term, the predator part, as though each person contained multiple predatory relations. Thus while feasting on the meat is associated with the liberation of the body soul, feasting on the bones is associated with the liberation of the eye soul, the bones being described by the Kashinawá man Pudicho Torres as “the bones of the <italic>nawa</italic> (foreigner), of the powerful man, of the sky man, of the jaguar, of the <italic>jiadama</italic> (giant)” (McCallum 1999, 456).</p>
+         <p>This replication in the imagery of prey and predator, objectified in distinct parts of the dead person’s body and at different scales, can be found in other ritual contexts where anthropophagy was not practiced. The Jivaro, for example, used the head of an enemy, its jaguar part, as a subjective object; at the same time, they fattened pigs, which were killed and served to their guests as a substitute (<italic>imiak</italic>) for the enemy or, more exactly, for his game part.25 The same argument can be applied to Amazonian eschatologies. Among the Pirahã of the Madeira River, body and name have distinct fates. Each name received by a body in life is divided at death into two antagonistic components, <italic>kaoaiboge</italic> and <italic>toipe</italic>, which represent the prey part and the predator part of the person (or a gregarious and social component in opposition to a warlike and cannibal one). The <italic>toipe</italic> live to prey on the <italic>kaoaiboge</italic>, which may suffer up to two deaths but on the third one are transformed into jaguars. In turn, the <italic>toipe</italic> become super‐<italic>toipe</italic> when they are first killed but if they are killed again become <italic>kaoaiboge</italic>, fulfilling their destiny as prey until they become jaguars again (Gonçalves 2001, 204–5).</p>
+         <p>The argument also helps us understand aspects of some Amazonian cosmogonies. Among the Piaroa, for instance, the origin of all earthly creation is a chimerical being called Ofo/Da’a (Tapir/Anaconda), a composite of the largest game and one of the main predators of South American tropical forest. Ofo/Da’a is responsible for the birth of the two demiurges, Wahari and Kuemoi, who inherit different powers contained in him. The mythic struggles between these two demiurges are the origin of the current state of the world. Wahari ends up killing Kuemoi for his cannibalistic attacks on his realm, the jungle, and is subsequently killed by his own family for his incestuous behavior. Both are reborn and now live on the earth, Kuemoi as anaconda and Wahari as tapir (Overing 1983–84, 337–40).</p>
+         <p>The complexity of each ethnographic example demands a more careful analysis than I can offer here. My argument concerning anthropophagy should not be taken as an analysis of anthropophagic rites per se. There is much more to be said about them, especially concerning the continuous inversion of the positions of predator and prey and the complex ways in which relations are put into action in a specific, ritual form. Rituals produce transformations in a complex set of relations, both internal and external to the person. Here I have focused mainly on commensality, since my aim has been to discuss the status of meat eating and personhood in Amazonia. Elsewhere I have dealt with other aspects of warfare and shamanic rites (Fausto 1999<italic>b</italic>; 2001, 419–68).</p>
+         <p>This said, I believe that we can accept (and this is enough for my aims here) that in anthropophagy human flesh is consumed as food, that there is a disjunction between ontological predation and commensality, and that this disjunction is founded on the possibility of separating the human person into predator parts and prey parts, a distinction which is often, though not exclusively, indexed by the predatory relation.</p>
+         <fn-group>
+            <fn id="fn25">
+               <label>25</label>
+               <p>Elsewhere (Fausto 1999<italic>a</italic>, 947) I mistakenly treated these pigs as captured peccaries. According to Karsten (1988, 128), domestic pigs and chickens were introduced among the Jívaro by the Spaniards. Both had a central role in the <italic>tsantsa </italic>ritual cycle (1989, 405–6; see also Taylor 1994), but pigs were rarely employed as ordinary food (Harner 1978, 60). I have no data to affirm that captured peccaries were used before the introduction of pigs. There are, however, examples of the ritual capture and slaying of peccaries in Amazonia (among Tupi‐Mondé‐speaking peoples of Rondônia [Dal Poz 1933, 186–90; Denny Moore, personal communication]), as well as a strong association between headhunters and peccaries (among the Munduruku [Murphy 1958, 53–59]). The fact that pigs and not peccaries were used in the <italic>tsantsa </italic>ritual does not contradict my arguments on pets and familiarizing predation in Amazonia (Fausto 1999<italic>a</italic>, 2001; see also Descola 1994).</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc8">
+         <title>Reconfiguring Body‐and‐Soul Dualism</title>
+         <p>Throughout this text, I have being progressively led to reconceptualize body‐and‐soul dualism. I have started with a general question which concerns all “animistic systems” : in ontologies in which both humans and animals are persons, how can the consumption of game be differentiated from cannibalism? This question has been posed before by other Amazonianists (see Descola 1998; S. Hugh‐Jones 1996) and by specialists on indigenous peoples of the boreal forest. Brightman (1993) addresses it directly by acknowledging the instability of the ontological categories of animals and humans among the Cree: if they share a condition as persons, how are we to distinguish a hunter from a sorcerer or a cannibal, who eats humans because he sees them as animals?</p>
+         <p>For Brightman, the model of the hunt as a gift from animals offers a suitable compromise for this insoluble paradox, for it negates its warfare and cannibalistic character. But this redefinition of the prey as a giver depends on the further distinction between a zoomorphic body and an anthropomorphic soul: “The flesh and skin of animals are represented as distinct and iteratively detachable from the humanoid essence and identity: the body is likened to clothing that the animal discards. … There is no cannibalism because the similitude of human and animal exists in relation to the soul” (Brightman 1993, 205–6). What animals give up to humans—their bodies—is like a piece of clothing which they surrender upon being shot (Tanner 1979, 137). Both the notion of regeneration and that of clothing point to the separation of that which humans appropriate from the potential for life which animals conserve despite being hunted and killed. The ontological problem of cannibalism would thus be resolved through the separability of body and soul (the meat‐food being distinguished from the animal subject), while the moral problem would be resolved by the emphasis on sharing and compassion between humans and animals. Brightman’s answer depends not only on postulating a distinguishability between zoomorphic body and anthropomorphic soul but also on adopting the idea that cannibalism is the consumption of the <italic>same</italic>. To the extent that the similarity between humans and animals occurs at the level of the soul, eating the body of prey is not cannibalism.</p>
+         <p>In this article I have moved away from this notion, seeking to redefine cannibalism as the consumption of the active part of the other. I have sought to show that although Brightman’s formulation in terms of a body‐soul dualism may be economical, it does not work very well in Amazonia. In saying this I am not asserting the nonexistence of distinctions between more and less material, more and less representational, more and less relational components of the human and the nonhuman person. Yet these distinctions are not organized by a global dualism, be it because there are multiple souls, because the body is not a discrete unit, because the soul has a body and certain parts of the body have more soul than others, or because the body does not contain a soul within it, the presence of the soul being the manifestation of the absence of the body. In Amazonia, there seems to be a constitutive tension between the provisory unity of the person and its fragmentation into two different modes of plurality: the dual and the multiple (Strathern 1988, 274–80). The dual may indeed emerge as a distinction between an interior essence (“soul,” “mind”) and an exterior envelope (“body,” “skin”), which Ingold (2000<italic>d</italic>, 23) sees as a fundamental division in the animism of the circumpolar North. Most of the time, however, duality is much more complex than this by virtue of its fractal structure and its scaling mechanism. Moreover, such duality coexists with the idea of a continuous accretion of potency throughout life, which is better conveyed by the notion of supplementation and is linked to each person’s biography. Amazonian eschatological beliefs present interesting examples of multiple souls, sometimes reducible to a duality and sometimes tending to an irreducible multiplicity.</p>
+         <p>The distinction between animal clothes and humanoid essence does not apply very well in Amazonia. On one hand, many of the agentive and subjective capacities that confer intentionality and potency on humans tend to be found more in some animals than in others, particularly in predators (and, among them, in those possessing intricate designs, such as the jaguar and the anaconda). On the other hand, humans possess a sort of blank skin which can be decorated, dressed, or even changed by the appropriation of designs, patterns, feathers, and animal pelts. These “skins” or “clothes” often represent the active part of the person, a supplement of beauty and agentive capacity. This is why, for example, the Barasana burn the feathers and fur of animals they wish to desubjectify in order for them to serve as food and use them as ornaments when they want to appropriate the “potentially dangerous power of their ‘weapons’” (S. Hugh‐Jones 1996, 141). The zoomorphic body is not a monolithic unit, a mechanical substrate inhabited by a humanoid essence. Each of its parts is, in a different measure, an edifice of “multiple souls.”</p>
+         <p>In the face of these facts, I have moved away from the current view that animals and plants are also persons because they possess, as humans do, an anthropomorphic essence often called “spirit” or “soul.” I have preferred to treat the person as an amalgamation of activity and passivity, as someone who contains two possible perspectives in a relation of predation. The move from potency to act, from predatory tension to predatory act, is what produces the disjunction of these perspectives into detachable parts, parts which can then be transacted (Strathern 1988; 1999, 48–54). I have also drawn attention to the fact that this partition is not simple but complex, since it is replicated at different scales and is subject to inversions and condensations. An analysis of certain rituals would undoubtedly shed light on this type of fractal complexity, which is congenial to some recent models of Amazonian sociality (Viveiros de Castro 2001; Taylor 2000, 2001; Kelly Luciani 2001).</p>
+         <p>In order to avoid a simple opposition between body and soul (or between animal appearance and human essence), I have proposed the distinction between consuming the other in its condition as subject and consuming it in its condition as object. This distinction is dynamic and complex. Its premise is that all persons in the cosmos, in degrees proper to their species and conditions, have a positive potential to occupy the agent position and a negative potential to occupy the patient position in a predatory relation. This double potency is internal to the person and constitutive of the person’s specific condition: a person is thus an amalgam of predator and prey. When predatory interaction is established between two persons thus constituted, a metarelation is created in which one of them occupies the agent position and the other occupies the patient position. Yet the predatory act does not eclipse the multiple and partible constitution of the person; on the contrary, it makes this constitution manifest by means of a fracture that can lead to two types of consumption: the consumption proper to warfare and cannibalism (in which one consumes the predator parts of the victim) and the consumption characteristic of cuisine (in which one consumes the prey parts of the victim).</p>
+         <p>These modalities require supplementary labor, since in both cases there is the risk of a reversal in positions. On one hand, by consuming the predator part of the prey, the killer runs the risk of becoming prey: this is why he needs to undergo seclusion through which the predator part of the prey is turned into the predator part of the predator. On the other hand, the predatory act does not immediately turn game into an inert object; one must continue to deconstruct the subject, progressively removing the activity it contains through a series of shamanic and culinary operations. This process of objectification reduces prey to the condition of food, which serves to produce both <italic>the</italic> body of kin and <italic>a</italic> body of kin—both their bodies and the sociality of kinship.</p>
+         <p>In contrast to the jaguar, a dread and lone predator, humans possess the means to distinguish daily alimentation from cannibalism. Hence the importance of culinary fire in the myths analyzed by Lévi‐Strauss (1964) in <italic>The Raw and the Cooked</italic>. These myths speak not of a definitive rupture between nature and culture but of two predatory codes, that of the jaguar and that of humans, which make the first a master among masters and allow the second to produce kinship.26 Culinary fire makes it possible for carnivorous meals to be noncannibal, allowing kin to produce each other as kin. If all they ate were animal agents they would end up either becoming one of them or being unable to recognize any form of relationship other than devouring. This is why some hunters do not eat their own prey or do not carry it or avoid certain parts, such as the head. They wish to remain human, providing meat for their wives, children, and affines. This is why generosity and moderation are basic indicators of the acceptance of kinship while gluttony and selfishness are associated with sorcery, the jaguar, and solitude.</p>
+         <p>The ethical question in Amazonia thus seems to favor relations between kin over those between humans and animals. This is not a matter of excluding cannibalism. There is no definitive rupture between the predatory code of the jaguar and that of humans. It is, instead, a matter of making cannibalism moderate, mediated by specialists and practiced on ritual occasions. Were this otherwise, cannibal predation would become the measure of relations on the inside and there would be no production of kinship. We would all be jaguars—and this only some gods can be.</p>
+         <fn-group>
+            <fn id="fn26">
+               <label>26</label>
+               <p>Gê myths on the origin of culinary fire insist that the jaguar is completely dispossessed of the fire that once belonged to it; even the embers which fall along the way during the escape are carefully recovered or put out by those who have stolen the fire. The Wari’ version of this myth (Vilaça 1992, 237–41), in turn, makes culinary fire into funerary fire, meaning that humans come to be defined as eaters of roasted kin rather than raw kin.</p>
+            </fn>
+         </fn-group>
+      </sec>
+   </body>

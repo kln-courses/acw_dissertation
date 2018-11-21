@@ -1,0 +1,290 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <disp-quote>
+         <p>After reading this work [i.e. <italic>Institutions of Divine and Secular Learning</italic>], our first concern should be to consider introductory manuals to Divine Scripture that I previously found, i.e., Tyconius the Donatist, St. Augustine <italic>On Christian Learning</italic>, Adrian, Eucherius, and Junilius. I have acquired their works with great care, and have united and gathered them into one collection since they have a similar purpose. By arranging the rules of usage to elucidate the text, and by comparisons of various examples, they have clarified what was hitherto obscure.</p>
+         <attrib>(Cassiodorus, <italic>Institutions</italic> 1.10.1)<sup>1</sup>
+         </attrib>
+      </disp-quote>
+      <sec id="sc1">
+         <label>I. </label>
+         <title>Introduction</title>
+         <p>This passage from Cassiodorus (ca. 485–ca. 580) is our earliest unequivocal testimony to Adrian, the author of an important yet oft overlooked early Christian treatise on biblical interpretation, the <italic>Introduction to the Divine Scriptures</italic>.<sup>2</sup> We know very little of Adrian.<sup>3</sup> Scholars customarily date him to the early fifth century and regard him as a representative of the so-called Antiochene approach to scriptural scholarship, since there are striking verbal and thematic affinities between his <italic>Introduction</italic> and the exegetical writings of Theodore of Mopsuestia (ca. 350–428) and Theodoret of Cyrus (ca. 393–ca. 460).<sup>4</sup> The <italic>Introduction</italic> was a handbook for scriptural interpretation unlike any of the other introductions Cassiodorus gathered for his monks at Vivarium: its focus was restricted to the demanding language found in scripture, the Old Testament in particular.</p>
+         <p>Adrian opens his treatise with an announcement of its overarching theme and structure: “There are three kinds of peculiarities of the Hebrew literary style [Toῦ ‘Eβραϊκoῦ χαρακτῆρoς ἰδιωμάτων]: one will find that the first of these pertains to thought [διανoίας], the second to diction [λέξϵως], and the third to word arrangement [συνθέσϵως]” (§1).<sup>5</sup> While the reference to the “Hebrew literary style” might suggest our author’s familiarity with the original language of the Old Testament, inspection of the treatise quickly confirms otherwise. Adrian’s interest rests exclusively with the Septuagint, the church’s official Greek translation of the Old Testament. The central topic of the <italic>Introduction</italic> is the Septuagint’s peculiar stylistic features, and these in turn can be divided into three categories: thought, diction, and word arrangement. This tripartite classification system of style informs the general structure of the treatise. In the first section Adrian catalogs the anthropomorphic ways in which God is portrayed in scripture (the Psalms in particular) and how such expressions ought to be understood. The second section, on diction, identifies unusual word usages, offers lexicographical analyses of semantically rich terms, and discusses a handful of tropes. The final section, on composition or word arrangement, is more difficult to outline, since the <italic>Introduction</italic> concludes with an array of topics, and it is not immediately clear which of these properly belong to the third section and which (if any) do not. The topics include a short list of figures of speech, a lengthier catalog of tropes, a twofold classification of scripture into prophetic and historical literature, an extended excursus on how to interpret scripture, and, finally, another classification of scripture into prose and poetry.</p>
+         <p>Scholars have puzzled over several aspects of the <italic>Introduction</italic>, particularly the provenance of its conspicuous threefold partition of style. In 1887, two studies published independently of one another both inquired into the origins of Adrian’s tripartite schema. At the end of his textual study of the <italic>Introduction</italic>, Karl Friedrich Schlüren remarked that Adrian “apparently used as his basis a grammatical-rhetorical schema that was common in his day.”<sup>6</sup> However, Schlüren quickly conceded defeat in his attempt to track down a parallel tripartite schema in the Greek rhetorical tradition. Later that same year Friedrich Goessling released his edition and translation of Adrian’s <italic>Introduction</italic>, which he prefaced with what remains to this day the most important study of this work.<sup>7</sup> He delved into the same issue at greater length. Goessling claimed that when compared with the other introductions to scripture written in early Christianity, Adrian’s approach to the biblical material was “entirely original.”<sup>8</sup> This put him on a quest similar to Schlüren’s, namely, to identify significant parallels between Adrian and the Greek philosophical and rhetorical traditions.<sup>9</sup> As with Schlüren, however, Goessling’s search came up empty. He concluded that Adrian’s tripartite division was “eclectic,” since it did not appear—or so he thought—anywhere in this tradition.<sup>10</sup> The <italic>Introduction</italic> has attracted little scholarly interest since these two publications in 1887. Alex Leonas is a notable exception, but he has not advanced the discussion of this problem any further. In fact, he appears to follow Goessling’s assessment of the approach to style in the <italic>Introduction</italic>: “Adrian’s tripartite division of the peculiarities of biblical diction … appears rather arbitrary.”<sup>11</sup>
+         </p>
+         <p>It is important to note, however, that the original attempts of Schlüren and Goessling to identify precedents for Adrian’s tripartite schema for style were misguided. Both authors mistakenly insisted on seeing the <italic>Introduction</italic> as a discourse on three kinds of figures (σχήματα) in scripture, instead of what it more precisely outlined—three kinds of peculiarities of the literary style of scripture.<sup>12</sup> Not surprisingly, their quest to identify parallels to his tripartite schema in Greco-Roman treatments of figures was bound to fail. If we are to search for antecedents to his tripartite schema, it is not the Greco-Roman analysis of figures to which we need to turn but rather treatments of literary style. In this article I will argue that close scrutiny of Greco-Roman rhetorical theory of style indicates that previous scholarship on Adrian’s <italic>Introduction</italic> has overlooked important evidence that demonstrates how his division of the scriptural style into its thought, diction and arrangement was hardly idiosyncratic. As both Schlüren and Goessing correctly suspected, yet failed to demonstrate, Adrian’s approach to scripture does, in fact, plot onto a particular Greco-Roman rhetorical tradition.</p>
+         <p>It will also be my contention in this article that identifying the provenance of Adrian’s tripartite schema of style sheds light on the overarching structure and contents of the <italic>Introduction</italic>. It is clear, to begin with, that the three major parts of the treatise correspond to the three aforementioned components of style. More challenging, however, is the wide spectrum of seemingly heterogeneous topics covered in this work. At first glance, the <italic>Introduction</italic> appears to address these disparate themes in a haphazard manner. Yet an awareness of preceding Greco-Roman rhetorical theory will demonstrate that these various topics do indeed belong in a work on style, as well as in the particular sections Adrian locates them. In the final section of this article I will offer a new proposal for how all these topics are arranged. While there is little doubt that a tripartite structure shapes the treatise as a whole, not all the themes fit neatly into its three main parts. Based on important internal evidence, as well as the rhetorical traditions on which this text depends, I will advance a new outline of the <italic>Introduction</italic> that corrects the synopsis that Goessling proposed in his edition.</p>
+         <p>Ultimately, by highlighting the particular rhetorical traditions that were in circulation in his day and that influenced Adrian’s approach to scripture, this article will strengthen one of the longstanding theses in modern scholarship on Antiochene biblical interpretation: that rhetorical criticism was a striking feature of how its representatives interpreted scripture.<sup>13</sup> While the defining role of rhetorical criticism in the exegetical writings of Diodore of Tarsus, Theodore of Mopsuestia, John Chrysostom, and Theodoret of Cyrus, among others, has long been recognized, how Adrian’s treatise might confirm that thesis has been largely overlooked.</p>
+      </sec>
+      <sec id="sc2">
+         <label>II. </label>
+         <title>Components of Style in Greco-Roman Rhetorical Theory</title>
+         <p>Customarily, the precepts of rhetoric were divided into five parts in Greco-Roman classroom instruction: invention (research into the content and argument of a speech), arrangement (coherent organization), style (word choice, figurative language), memory (techniques to keep the speech in mind), and delivery (pronunciation and gesture).<sup>14</sup> It is particularly rhetorical theory on style (λέξις, φράσις, ἑρμηνϵία) that is relevant to Adrian’s <italic>Introduction</italic>, since his overarching concern was with the stylistic features of the scriptural text. Ancient literary theorists explored multiple classification systems of style, according to its levels (such as the simple, middle and grand), its virtues (such as correctness, clarity, ornamentation, and propriety), and, later in the second century CE, its ideal forms.<sup>15</sup> Alongside these classifications, and cutting across all of them, was another system of analysis that dissected the individual components of any given style. Here we detect two broad trends. On the one hand, many rhetorical theorists demarcated content or subject matter from style and analyzed the latter in terms of the categories of individual word use and the compositional arrangement of words.<sup>16</sup> The other approach to style resisted this dichotomy between substance and manner of expression. Content was not treated as something distinct from, but rather constitutive of style.<sup>17</sup> As we have seen above, Adrian falls in this latter tradition with his insistence that the first of the peculiarities of the Hebrew literary style concerned thought. As I will demonstrate, there was important precedent for his approach. In what follows, I examine in chronological order several influential treatments of style that offer parallels—in some cases, quite striking—to Adrian’s own approach. My concern is threefold: to identify how many components of style authors enumerated, the vocabulary they used to signify each of these components, and, finally, the spectrum of topics they subsumed under each of these components of style. Table 1 summarizes the findings.<table-wrap id="tb1" position="float">
+               <label>Table 1.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <title>Components of Style in Ancient Rhetorical Theory</title>
+               </caption>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="tb1_1.eps"/>
+               <graphic alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"
+                        xlink:href="tb1_2.eps"/>
+               <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                              xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                              frame="topbot">
+                  <oasis_0:tgroup cols="7" align="left">
+                     <oasis_0:colspec colname="col1" align="left"/>
+                     <oasis_0:colspec colname="col2"/>
+                     <oasis_0:colspec colname="col3"/>
+                     <oasis_0:colspec colname="col4"/>
+                     <oasis_0:colspec colname="col5"/>
+                     <oasis_0:colspec colname="col6"/>
+                     <oasis_0:colspec colname="col7"/>
+                     <oasis_0:thead>
+                        <oasis_0:row valign="bottom">
+                           <oasis_0:entry colsep="0" rowsep="1">Listed Components of Style</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center">Demetrius,<break/>
+                              <italic>On Style</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center">“Longinus,”<break/>
+                              <italic>On Sublimity</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center">Pseudo-Aristides,<break/>
+                              <italic>On Political Discourse</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center">Pseudo-Aristides,<break/>
+                              <italic>On Simple Discourse</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center">Hermogenes,<break/>
+                              <italic>On the Types of Style</italic>
+                           </oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="1" align="center">Adrian,<break/>
+                              <italic>Introduction to the Divine Scriptures</italic>
+                           </oasis_0:entry>
+                        </oasis_0:row>
+                     </oasis_0:thead>
+                     <oasis_0:tbody>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0">Thought</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">διάνoια, πρᾶγμα, ὑπόθϵσις</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">ἔννoια, νόησις, φρόνημα, πρᾶγμα (includes selection and arrangement of material)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">γνώμη, νoῦς, ἐπινόημα</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">ἐπινόημα (includes handling [μϵταχϵίρισις] of thoughts)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">ἔννoια, πρᾶγμα, γνώμη, ἐπινόημα</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">διάνoια</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0">Diction</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">λέξις (word choice, including metaphor, simile, allegory, hyperbole, etc. “Tropos” not used.)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">φράσις (word choice, including tropes and artificial language, like metaphor, simile, hyperbole)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">λέξις, ἀπαγγϵλία (word choice, including tropes—especially metaphor, hyperbole)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">λέξις (word choice, including tropes—especially metaphor)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">λέξις (word choice, including tropes)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">λέξις (word choice, including tropes like metaphor, comparison)</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0">Arrangement of words:</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">σύνθϵσις (includes rhythm,length of clauses, word order, and figures of speech and thought)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">σύνθϵσις (includes rhythm, word order, clause length)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0">σύνθϵσις (figures of speech)</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0"> Figures</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0">σχήματα τῆς νoήσϵως, λέξϵως</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">σχῆμα (includes figures of speech and thought)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">σχῆμα (includes figures of speech and thought)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">σχῆμα (figures of speech)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0"> Approach</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0">μέθoδoς (figures of thought)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0"> Clauses</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">Discussed at length in opening section (1–35)</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0">Discussed at 167–69</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">Briefly discussed at 88</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">κῶλα</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0"> Rhythm</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0">ῥυθμός</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">ῥυθμός</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0">Briefly discussed at 134</oasis_0:entry>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0"> Word order</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0">συνθήκη</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                        </oasis_0:row>
+                        <oasis_0:row valign="top">
+                           <oasis_0:entry colsep="0" rowsep="0"> Cadence</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                           <oasis_0:entry colsep="0" rowsep="0">ἀνάπαυσις</oasis_0:entry>
+                           <oasis_0:entry colsep="0" rowsep="0"/>
+                        </oasis_0:row>
+                     </oasis_0:tbody>
+                  </oasis_0:tgroup>
+               </oasis_0:table>
+               <table-wrap-foot>
+                  <fn id="tb1fn1">
+                     <label>Note</label>
+                     <p>In the first column, the indentation of the last six components of style signifies that they are, for most authors, subcategories of “Arrangement of Words.”</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+         </p>
+         <p>The treatise <italic>On Style</italic>, attributed to a certain Demetrius, is usually dated to the end of the second or beginning of the first century BCE.<sup>18</sup> If we accept this earlier dating (as most do), this is not only the earliest Greek monograph on style but also the earliest work explicitly to subsume the category of thought into the larger assessment of style.<sup>19</sup> In this work Demetrius distinguishes between four types of style (χαρακτῆρϵς τῆς ἑρμηνϵίας): plain, elevated, elegant, and forcible (§36). Most of his treatise is devoted to an explication of the features that contribute to the production of each of these types of style. For our purposes, what is most interesting is that Demetrius categorizes these features into three basic components: thought or subject matter (διάνoια,<sup>20</sup> πρᾶγμα, or ὑπόθϵσις), diction (λέξις) and, finally, the arrangement of words (σύνθϵσις). These are the three elements that make up any given level of style. Thus, to begin with, each stylistic grade is associated with a suitable theme, though this is the least developed of the three components in Demetrius’s work (§§75–76, 132–38, 190, 240). Diction concerns word choice (§§173–74, 190, 237, 276–78) and coining new words (§§91–97), but there is also a focus on metaphor (§§78–88, 190, 272), simile (§§89, 273), allegory (§§99–102), comparison (§§89–90, 146–47, 274), and hyperbole (§§124–26, 161–62). Word arrangement includes discussions of rhythm (e.g., §§38–47, 179–85, 204–6, 241–54), the sound of words or vowels juxtaposed (§§48–49, 68–74, 207, 255–56), the length of clauses (§§1–35, 44), the sequencing of words (§§50–58, 139, 257), and, finally, various figures of speech (§§59–67, 140–41, 208, 271), and figures of thought (§§263–70). Much of Demetrius’s threefold approach to style would resonate with later rhetorical theory, including Adrian’s <italic>Introduction</italic>.</p>
+         <p>We already see hints of such an approach in two works from the first century BCE. The <italic>Rhetoric for Herennius</italic>, a Latin treatise dated ca. 80 BCE, reflects contemporary Hellenistic rhetorical doctrine.<sup>21</sup> It is the earliest treatise to examine the five parts of rhetoric (invention, arrangement, style, memory, and delivery) and offers the first extant distinction between the three kinds of style that would become prevalent in later rhetorical theory: the simple, middle, and grand. The impression usually given in this work is that style is a formal category, amounting only to the arrangement of words (<italic>constructio verborum</italic>), by which both word selection and how they are arranged is intended.<sup>22</sup> But there is at least one instance where the tripartite analysis that we see in Demetrius shines through: “A discourse will be composed in the Grand style if to each idea are applied the most ornate words [<italic>ornatissima verba</italic>] that can be found for it, whether literal or figurative; if impressive thoughts [<italic>graves sententiae</italic>] are chosen, such as are used in Amplification and Appeal to Pity; and if we employ figures of thought and figures of diction [<italic>exornationes sententiarum aut verborum</italic>] which have grandeur.”<sup>23</sup> Here word selection, thought, and figures of speech and thought (which roughly correspond to Demetrius’s σύνθϵσις) feature as the elements that help produce the grand style. A similar tripartite schema surfaces in the writings of Dionysius of Halicarnassus. While he also tends to speak of style in a way that suggests content is not integral to it, there is an important passage where he departs from this tendency.<sup>24</sup> In his essay on the Attic orator Lysias, Dionysius praises him for the virtues of his style. When he reaches the virtue of “characterization” (ἠθoπoιΐα), he writes, “There are three departments or aspects in which this quality manifests itself: thought, language, and composition [διανoίας τϵ καὶ λέξϵως καί τρίτης τῆς συνθέσϵως], and I declare him to be successful in all three.”<sup>25</sup> Unfortunately, in this essay Dionysius only briefly explains what he means by these three categories: the thoughts in question are “worthy, reasonable, and fair,” the language is “clear, standard and ordinary,” and the composition concerns sentence structure and rhythm.<sup>26</sup> Nevertheless, Dionysius’s use of the three nouns (διάνoια, λέξις, and σύνθϵσις) is striking. On the basis of a search in the <italic>Thesaurus Linguae Graecae</italic> database, this is the closest verbal parallel to Adrian’s opening sentence in all of Greek literature. Dionysius is the only other author to use these three nouns within the proximity of a single sentence in a discussion on literary style.</p>
+         <p>During the Second Sophistic there was a heightened interest in rhetorical theory on style, yet it is noteworthy that, despite significant developments in this period, scholars continued to anatomize style in a similar manner. Four important treatises from the first through the early third centuries CE will illustrate this interest in measuring style not only in terms of its formal aspects but also through its thought or content. The work <italic>On Sublimity</italic>, attributed to an otherwise unknown Longinus, is generally thought to have been composed in the first or second century CE.<sup>27</sup> The author defines <italic>sublimity</italic> as a “kind of eminence or excellence of discourse” (1.3) and proceeds to identify the five “sources” of this style: <disp-quote>
+               <p>The first and most important is the power to conceive great thoughts [τὸ πϵρὶ τàς νoήσϵις ἁδρϵπήβoλoν]. …</p>
+               <p>The second is strong and inspired emotion. …</p>
+               <p>Certain kinds of figures [τῶν σχημάτων]. (These may be divided into figures of thought and figures of speech [τὰ μὲν νoήσϵως, θάτϵρα δὲ λέξϵως].)</p>
+               <p>Noble diction [ἡ γϵνναία φράσις]. This has as subdivisions choice of words [ὀνoμάτων τϵ ἐκλoγ] and the use of tropes and artificial language [ἡ τρoπικὴ καὶ πϵπoιημένη λέξις].</p>
+               <p>Finally, to round off the whole list, dignified and elevated word-arrangement [ἡ ἐν ἀξιώματι καὶ διάρσϵι σύνθϵσις]. (8.1)<sup>28</sup>
+               </p>
+            </disp-quote>As the treatise unfolds, Longinus omits the treatment of emotion (see 44.12), focusing instead on the four remaining sources. The section on great thoughts (secs. 9–15) includes a discussion of how the gods are portrayed (9.5–10). While the author distinguishes between figures of thought and speech when first announcing the outline of the treatise (8.1), they are not distinguished when he later begins to analyze them (16–29). Figures include rhetorical questions (18), asyndeton (19), polysyndeton (21), hyperbaton (22), changes in case, tense, person, number, gender (23–25), and so on. The next section, on noble diction (30–38, 43), concerns word choice (30.1, 31.1–2, 43.1–5), along with several tropes, such as metaphor (32.1–7), simile (37.1) and hyperbole (38.1–6). Finally, composition (39–42) includes a discussion of rhythm, euphony (39.2–4, 41.1–2), word order (40.1–4), and clause length (41.3).</p>
+         <p>Next for consideration are two rhetorical treatises from the second century that circulated under the name of Aelius Aristides, though he probably did not author them: <italic>On Political Discourse</italic> and <italic>On Simple Discourse</italic>.<sup>29</sup> Both works offer an analysis of style that strongly resembles earlier approaches to this topic. In the former, Pseudo-Aristides claims that political discourse is constituted of twelve forms (ϵἴδη), or virtues, of style and proceeds to examine many of these in terms of their three constituent parts: first, thought (γνώμη), identified with the sense (νoῦς) or ideas (τὰ ἐπινoήματα) of a passage and through which its subject matter (τὰ πράγματα) is discovered; second, figure (σχῆμα); and, finally, expression (ἀπαγγϵλία or λέξις) (2).<sup>30</sup> Pseudo-Aristides will associate particular thoughts with certain virtues. For example, he links the virtue of solemnity with elevated ideas, whether these concern great themes of life (like wisdom and justice) or human affairs (such as honor for parents and ancestors), or most notably, the gods and their benevolence (3).<sup>31</sup> The concept of figure is wide-ranging, including the use of detached phrases (11–16), demonstratives and interrogatives (121–22), asyndeton (28), irony (43), apostrophe (115), and so on.<sup>32</sup> Finally, by <italic>diction</italic>, the author has word choice in mind, including the use of nouns and verbs (29, 131), tropes (30, 132), hyperbole (116, 140) and synonyms (87, 135, 137).<sup>33</sup>
+         </p>
+         <p>The treatise <italic>On Simple Discourse</italic> is about the virtues, or ideas (ἰδέαι), of style that make up the plain discourse (1).<sup>34</sup> It is a strongly comparative work, distinguishing simple from political speech, but it nevertheless has an approach to the topic that distinctly resembles <italic>On Political Discourse</italic> (though the authorship is likely different). The author insists on six virtues that make up the simple style (character, solemnity, expansion, sweetness, beauty, and truth), each of which is produced by four components. “Every discourse obviously consists of thoughts and expression, the latter consisting of diction, figure and rhythm” (Πᾶς δὲ λόγoς ἐστἰ δηλoνότι ἐν ἐπινoήμασι καί ἐν ἀπαγγϵλἀᾳ, ἤτις ἐστὶν ἐν λέξϵι, ἐν σχήματι, ἐν ῥυθμῷ) (2).<sup>35</sup> For this author, discourse is most basically bipartite: it consists of both thought and expression. But since the latter has three constituent parts (diction, figure, and rhythm), speech is ultimately composed of four distinct elements.<sup>36</sup> After an introductory section where the author illustrates these four components of the simple discourse (2–27), he transitions to its six stylistic virtues and proceeds to examine these as well in terms of the four above-mentioned components. Thoughts, such as “piety toward the gods” and good deeds to friends are appropriate to solemnity (53). Diction includes the shades of meaning implied with word choice (21, 45, 53), tropes (20, 65–66, 138), synonyms (52), and terms with multiple senses (7). Figures are again broadly conceived to include the use of direct constructions as opposed to oblique (52), asyndeton (112), variation (105), or the juxtaposition of similar elements (70). Finally, by rhythm the author means the progression of a discourse and how the hearer perceives it (8, 17–19, 62, 94).</p>
+         <p>The final work for consideration here is Hermogenes’s <italic>On The Types of Style</italic>, arguably the most comprehensive treatment of this topic in late antiquity.<sup>37</sup> This late second-century work began to exercise wide influence toward the end of the fourth century and eventually became a standard rhetorical handbook in Byzantium before being introduced to the West, where it was eventually translated into Latin.<sup>38</sup> In this work Hermogenes adumbrates seven general types or ideal forms of style, richly illustrated from the speeches of Demosthenes: clarity, grandeur, beauty, rapidity, character, sincerity, and force. As with the authors surveyed above, Hermogenes’s approach is to examine each type of style in terms of the elements that produce it. However, unlike the foregoing authors, he proliferates the categories. “All kinds of style, consequently, can be classified under the following headings, which denote those factors through which a particular style is produced: thought (ἐννoίας), approach (μϵθόδoυ), diction (λέξϵως), figures (σχήματoς), clauses (κώλoυ), word order (συνθήκης), cadence (ἀναπαύσϵως), and rhythm (ῥυθμoῦ)” (1.1).<sup>39</sup> These eight elements produce, Hermogenes insists, any given type of style, though as the treatise unfolds, it becomes clear that the first four tend to be more significant than the latter four in producing the characteristics of any given type of style.<sup>40</sup>
+         </p>
+         <p>Each variety of style has thoughts assigned to it. Most interesting for our purposes are the themes that Hermogenes associates with solemnity. “Solemn thoughts are those concerning the gods, at least when they are spoken of as gods” (1.6).<sup>41</sup> Turning briefly to the other three elements of style that occupy most of Hermogenes’s attention, by “approach” he says he means “figures of thought,”<sup>42</sup> widely defined to include bold, direct statements (1.6, 1.7, 1.8, 1.9) or their opposite—being less vehement than one could (2.6). Allegorical composition and hinting (1.6), the use of narration (1.3, 1.9), and effective organization of elements of speech (1.4, 1.11) also count as figures of thought. Diction concerns word choice, often with a view to its effects on the hearer (1.3, 1.6, 1.7, 2.3), as well as tropes (1.6, 1.12). Finally, figures of speech include apostrophe (direct address; 1.8, 2.1), parenthesis (1.10, 2.1), asyndeton (lack of connectives; 1.9, 2.1), apostasis (fresh starts; 1.10), enumeration and repetition (1.11), variation (2.1), and so on.<sup>43</sup>
+         </p>
+         <p>The foregoing analysis of Greco-Roman treatments of style points to a discernable trajectory that approached this topic both in terms of content and form. Authors broadly identify three components of style: thought, single word use or diction, and the arrangement of multiple words in composition. The element of “thought” (διάνoια, etc.) occurs in all of these discussions, referring to the subject matter of a speech or text. “Diction” (usually λέξις), in turn, also appears in each of these discussions of style, consistently covering a range of issues surrounding the use of individual words, including the stylist’s substitution of customary words with tropes (such as metaphor or simile). Greatest fluidity surrounds the subcategory “word arrangement,” particularly how this topic is itemized. On the one end of the spectrum are authors like Demetrius, Dionysius of Halicarnassus, and the authors of the <italic>Rhetoric for Herennius</italic> and <italic>On Political Discourse</italic>, who cover this topic in a single category. On the other end of the spectrum is Hermogenes, who prefers instead to break word arrangement down into six smaller constituent themes, yielding not three but eight total components of style. On the surface it might appear as though there is little agreement in how authors examine word arrangement.<sup>44</sup> However, closer inspection indicates significant continuity (table 1). It is clear that despite the different classifications to this component of style, authors consistently associate it with the same three themes: figures of speech and thought, clause length, and rhythm (which is closely tied to word order and cadence). Rhythm is discussed in every treatise, with the exception of <italic>On Political Discourse</italic>. Clause length is also discussed in each work, even if only Hermogenes highlights it as a distinct component of style. For our purposes, most important is the persistence of figures in word arrangement. They are examined in every treatise and identified as a distinct component of style in every work, with the exception of Demetrius’s <italic>On Style</italic>.</p>
+      </sec>
+      <sec id="sc3">
+         <label>III. </label>
+         <title>Adrian’s <italic>Introduction</italic>: Its Sources, Themes, and Outline Reconsidered</title>
+         <sec id="sc3.1">
+            <label>A. </label>
+            <title>Provenance of Structure</title>
+            <p>The foregoing examination of Greco-Roman treatments of style provides an indispensible, yet neglected, context for understanding Adrian’s <italic>Introduction to the Divine Scriptures</italic>. In particular, it positions us well for explaining the structure of the treatise, beginning with the unanswered question first raised over a century ago. Both Goessling and Schlüren failed to identify a precedent for this structure, yet as we have seen, a handful of influential Greco-Roman treatments of style strongly foreshadow Adrian’s later approach. Dionysius of Halicarnassus appears to have been the only author who used the same three terms (διάνoια, λέξις, σύνθϵσις) that Adrian also did within a single sentence devoted to the topic of literary style. However, if we are to identify the most likely precedents for Adrian’s tripartite analysis of style, we probably need to look elsewhere. Demetrius’s <italic>On Style</italic> is certainly a candidate. This author uses the same terms as Adrian later would to signal the threefold analysis of style and, like Adrian, applies this analysis systematically throughout his treatise. Moreover, Demetrius also examines many of the same themes Adrian does under each of these three components of style. The only notable tension between these authors is that Demetrius has a more ambitious understanding of synthesis. His discussion is wide-ranging, including figures, rhythm, clause length, and word order, whereas Adrian is chiefly concerned with figures. Another viable precursor is Pseudo-Aristides’s <italic>On Political Discourse</italic>. Here again we encounter a tripartite classification system for style. Even though the author does not label the third section σύνθϵσις as Adrian later would, but rather σχῆμα, this restricted focus on figures anticipates what Adrian intends when he turns to his analysis of the word arrangement of scripture.<sup>45</sup>
+            </p>
+         </sec>
+         <sec id="sc3.2">
+            <label>B. </label>
+            <title>Fittingness of Themes</title>
+            <p>We see then how an awareness of earlier Greco-Roman theory on style helps account for Adrian’s tripartite analysis of style and the corresponding threefold structure of his <italic>Introduction</italic>. But this awareness also helps explain why Adrian addresses the themes that he does in this treatise. While a surface reading suggests a heterogeneous collection of topics, closer inspection indicates how the range of interests he pursued in his treatise was hardly haphazard. An ancient reader familiar with rhetorical theory would almost certainly have perceived the various topics covered in this work as belonging to a typical treatise on style. In the first section, Adrian turns to the “thought” of the scriptural style, examining the anthropomorphic ways in which God is portrayed in scripture. While this focus has elicited little commentary in the scholarship, in light of the rhetorical works surveyed above, it is clear that the thought of a style was the subject matter of a discourse.<sup>46</sup> It should not surprise, then, that Adrian, a Christian philologist, would think of God as a theme of scripture. It is also important to recall that several of the treatments of style examined above, notably, the Pseudo-Aristidean writings and Hermogenes’s <italic>On the Types of Style</italic>, highlighted how the thought of God (gods) or divine matters was characteristic of certain kinds of style, particularly solemnity.<sup>47</sup> In other words, Adrian’s theological focus for the thought of the scriptural style was not only informed by his Christian convictions, it also dovetailed neatly with earlier Hellenistic discussions of style.<sup>48</sup>
+            </p>
+            <p>Little commentary is needed for the second section of the <italic>Introduction</italic> where Adrian focuses on individual word choice and usage, including a discussion of several tropes. His understanding of λέξις is in keeping with earlier Greco-Roman reflections on the topic.<sup>49</sup> The third section of the <italic>Introduction</italic> presents more challenges. According to my outline (see below), only the figures of speech belong properly to this section, whereas the remaining four topics (list of tropes, two different classification systems of scriptural literature, and philological advice) serve as appendices. I will revisit my outline of the treatise in the next section. What is important here is to recognize how each of the topics addressed after the second section on diction also surface in Greco-Roman handbooks on style.</p>
+            <p>To begin with, it is hardly surprising that Adrian should start his account of the word arrangement of scripture with a list of figures of speech. As we have already seen, this topic surfaces in all the treatises on style surveyed above when they turn to the arrangement of multiple words.<sup>50</sup> The same holds for the list of tropes that follows. Each of the treatises examined above contains a discussion of at least some of Adrian’s twenty-two tropes (in their sections on diction). The classification of scripture into two kinds (ϵἴδη), prophetic writings and historical writings, is also not unusual. In several of the preceding discussions of style, we see rhetorical theorists distinguishing between kinds of discourse amidst their analysis of the components of style. <italic>On Simple Discourse</italic>, for instance, repeatedly distinguishes the simple from the political discourse (esp. secs. 2–27).<sup>51</sup> We see a similar concern in <italic>On Political Discourse</italic> to distinguish the kinds (again, ϵἴδη) of this sort of speech: judicial, deliberative, and epideictic.<sup>52</sup> It is also, finally, a concern in the last three chapters of Hermogenes’s <italic>On the Types of Style</italic> where he distinguishes practical oratory, pure practical oratory, and pure panegyric (2.10–12), as well as demarcates three kinds of practical oratory: deliberative, judicial, and panegyric (2.10). Adrian’s treatise concludes with another brief classification of scripture into prose and poetry (134). This too is hardly extraneous. It is a different classification of the kinds of scripture, now in terms of rhythm (meter, in particular). As we have seen above, rhythm is a consistent topic in treatments of style, falling under the broad rubric of “word arrangement.”</p>
+            <p>Finally, the paragraphs on philological advice toward the end of the <italic>Introduction</italic> form yet another distinct topic. Adrian discusses the importance of giving priority to the discovery of a passage’s historical setting or circumstance (ύπόθϵσις) (131–32), as well as attending to its literary sequence (ἀκoλoυθία) (133). His treatise on the style of scripture is not, of course, intended to teach pupils how to imitate or produce its style—a crucial difference between his work and his models—but rather how to interpret its style. It is a rhetorical treatise intended to facilitate literary analysis. Yet even this exegetical concern is not entirely absent from the works on style examined above. Hermogenes offers perhaps the clearest instance of a rhetorical treatise written with a philological end in view. He opens his work by arguing that his account of style will be indispensable “if someone wished to be the craftsman of fine and noble speeches himself, speeches such as the ancients produced,” but that his theory would also be “indispensable to anyone who wanted to be able to evaluate the style of others, either of the older writers or of those who have lived more recently” (1.1).<sup>53</sup> By couching philological advice in his larger rhetorical analysis of scripture, Adrian is touching on a concern already evident in earlier Greco-Roman accounts of style. In short, awareness of earlier rhetorical theory about style helps account for the themes Adrian chooses to address in his <italic>Introduction</italic>.</p>
+         </sec>
+         <sec id="sc3.3">
+            <label>C. </label>
+            <title>Outline</title>
+            <p>Finally, we need to reconsider how the various themes are ultimately organized in this treatise. There is little debate about its basic tripartite structure. What is more difficult to delineate is where the third section ends and how the last topics fit into the larger organization of the treatise. I outline the work as follows:</p>
+            <p>
+               <list>
+                  <list-item>
+                     <label>Prologue. </label>
+                     <p>Topic and tripartite outline (§1)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Part 1. </label>
+                     <p>Peculiarities of thought:<list list-type="hanging">
+                           <list-item>
+                              <label>A. </label>
+                              <p>List of problematic features (§2)</p>
+                           </list-item>
+                           <list-item>
+                              <label>B. </label>
+                              <p>Problems illustrated (§§3–17) and section concluded (§18)</p>
+                           </list-item>
+                           <list-item>
+                              <label>C. </label>
+                              <p>Solutions to aforementioned problems (§§19–49, 50–51)<sup>54</sup>
+                              </p>
+                           </list-item>
+                           <list-item>
+                              <label>D. </label>
+                              <p>Conclusion (§52)</p>
+                           </list-item>
+                        </list>
+                     </p>
+                  </list-item>
+                  <list-item>
+                     <label>Part 2. </label>
+                     <p>Peculiarities of diction (§§53–98)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Part 3. </label>
+                     <p>Peculiarities of composition:<list list-type="hanging">
+                           <list-item>
+                              <label>A. </label>
+                              <p>List of figures of speech (§§99–105)</p>
+                           </list-item>
+                           <list-item>
+                              <label>B. </label>
+                              <p>Conclusion of treatise proper (§106)</p>
+                           </list-item>
+                        </list>
+                     </p>
+                  </list-item>
+                  <list-item>
+                     <label>Appendices. </label>
+                     <p>
+                        <list list-type="hanging">
+                           <list-item>
+                              <label>A. </label>
+                              <p>List of twenty-two tropes (§§107–29)</p>
+                           </list-item>
+                           <list-item>
+                              <label>B. </label>
+                              <p>Twofold classification of scriptural literature: prophetic and historic (§130)</p>
+                           </list-item>
+                           <list-item>
+                              <label>C. </label>
+                              <p>Philological advice (§131–33)</p>
+                           </list-item>
+                           <list-item>
+                              <label>D. </label>
+                              <p>Another classification of scriptural literature: prose and poetry (§134)</p>
+                           </list-item>
+                        </list>
+                     </p>
+                  </list-item>
+               </list>There are two ways in which my outline notably differs from the outline Goessling presented in his edition. First, he located the catalog of figures and tropes in the third section, whereas I contend that we ought to demarcate these lists, placing the latter in a concluding appendix.<sup>55</sup> Second, he grouped the remaining three topics (the historical and prophetic kinds of scripture [§130], philological advice [§§131–33], and the prose and poetic sections of scripture [§134]) under a single, generic heading (“Reflections on Scripture and Hermeneutical Rules”).<sup>56</sup> As I will argue below, I think these are best seen as additional appendices, distinct from the proper focus of the treatise, yet still integral to the larger concerns of ancient analyses of literary style.</p>
+            <p>To begin with, does the enumeration of twenty-two tropes extend the third section of the <italic>Introduction</italic> or mark a new division? Goessling raised this question, cursorily arguing that the tropes belonged to the final section based on the paragraphs that followed (§§130–34), since these also touched on the theme of tropes.<sup>57</sup> Indeed, in paragraph 132 Adrian argues that those who teach pupils how to read scripture ought to convey the ability to distinguish between the various kinds of figures and tropes. However, this is not particularly compelling evidence for (or against) Goessling’s position. In paragraph 132 Adrian signals, as many other rhetorical theorists in antiquity did, the need for students to distinguish between figures and tropes.<sup>58</sup> The question here is different: whether these two different lists ought to be placed under the same umbrella category (Adrian’s σύνθϵσις) or not.</p>
+            <p>There are three important clues that indicate, contra Goessling, that the main topic of the treatise has been completed with the list of figures and that the following list of tropes begins a new section. First, as we have already seen in the rhetorical analyses of style that antedate Adrian’s <italic>Introduction</italic>, tropes and figures are regularly discussed, but they are not subsumed under the same heading. Figures are consistently treated under “word arrangement,” whereas tropes are discussed under “diction.”<sup>59</sup> Two additional pieces of evidence internal to the <italic>Introduction</italic> strengthen this assertion. In the section that immediately follows the list of figures, Adrian concludes: “After having borrowed the resources from here, those who are eager will discover in their love for learning that a path and entrance is marked out that leads toward the meaning of holy scripture” (§106).<sup>60</sup> This invitation to further inquiry into scripture on the basis of what the reader has successfully gathered from the <italic>Introduction</italic> certainly reads as a conclusion to the treatise proper. The final piece of evidence corroborating the insertion of a caesura after the list of figures is the way in which Adrian introduces the catalog of tropes in paragraph 107. After listing the twenty-two most representative tropes in scripture, he concludes with a parenthetical remark: “clearly [these tropes are] in addition to scripture’s literary peculiarities (παρϵκτὸς δηλoνότι τῶν ἰδιωμάτων αύτῆς).”<sup>61</sup> Adrian unmistakably places the discussion of tropes outside the main theme of his treatise, the analysis scripture’s peculiar stylistic features. On the basis of these three pieces of evidence, then, it appears that the third and final part of the treatise concludes with the list of figures at paragraph 106 and not, as Goessling proposed, with the list of tropes.</p>
+            <p>If, in fact, we arrive at the conclusion of the treatise at paragraph 106, then we need to account for the presence of the remaining four sections (the list of tropes [§§107–29], the historical and prophetic kinds of scripture [§130], philological advice [§§131–33], and the prose and poetic sections of scripture [§134]). It does not seem to me that we need to accept Goessling’s conclusion that if the tropes do not belong to the third section, then they must have been added by another, later author.<sup>62</sup> This is likely imposing on the work too rigid an expectation about its structural integrity. Indeed, in most of the Greco-Roman treatments of style surveyed above, even those prefaced with clear outlines, there is often a loose arrangement, with either excurses embedded into the discussion, or concluding sections annexed to the main material.<sup>63</sup> If we work, then, with the presumption of a single author, what role do these last sections play in the treatise? They evidently do not function as a coherent fourth part, since the topics are quite distinct and there is no indication within the work that they should be grouped together.<sup>64</sup> Nor do they recapitulate the contents of the work. While Adrian clearly demarcates these topics from the preceding threefold discussion of the scriptural style, it is also clear, when viewed against the backdrop of rhetorical handbooks on style, that these topics were integral to the typical ancient account of literary style. It seems best, then, to view them as a series of concluding appendices, attached for the reader’s benefit.<sup>65</sup>
+            </p>
+         </sec>
+      </sec>
+      <sec id="sc4">
+         <label>IV. </label>
+         <title>Conclusion</title>
+         <p>In this article I have attempted to identify the provenance of Adrian’s tripartite analysis of style, a puzzle that neither Schlüren nor Goessling was able to decipher. In light of earlier Greco-Roman rhetorical scholarship on literary style, it is clear that Adrian’s schema was hardly unique to him. Goessling’s conclusion, then, that this tripartite approach to style was eclectic and somehow original to Adrian was certainly not correct. By positioning the <italic>Introduction</italic> against the backdrop of influential Greco-Roman treatments of style, it has also been my contention that several difficulties surrounding the structure and contents of this work can be resolved. It is now more evident why Adrian addresses the themes that he does throughout the treatise and why he locates them where he does. Moreover, I have been able to propose what, I think, is a more coherent outline of the treatise that corrects Goessling’s earlier proposal.</p>
+         <p>If there are then striking similarities between Adrian’s <italic>Introduction</italic> and the preceding tradition of Greco-Roman rhetorical scholarship, can we posit direct dependence? It is difficult to make a definitive pronouncement on this issue since we are so poorly informed about Adrian, and his treatise does not identify any potential sources by name. Moreover, many rhetorical works from antiquity are no longer extant. It is possible that he was not relying on the texts surveyed above, but on other (lost) texts that expressed similar ideas to these. Or, it is also possible that he was not using any of the foregoing texts directly but rather indirectly through other channels that disseminated their contents. Given the conservatism of the Greco-Roman educational system, neither of these options should be quickly dismissed. Nevertheless, we should not minimize the obvious parallels, nor disregard that the main authors identified in this article enjoyed long influence deep into the Byzantine tradition.<sup>66</sup> The vocabulary, contents, and structure of Adrian’s <italic>Introduction</italic> often repeat the concerns of this rhetorical tradition, and in several cases these parallels are conspicuous enough to plausibly suggest direct dependence. Yet regardless of how we view this issue, is it clear that Adrian illustrates the broader Christian phenomenon of the appropriation of Hellenistic rhetorical theory for the purposes of scriptural interpretation. This article, then, confirms and extends the long-standing conviction in modern research into Antiochene biblical exegesis: that important Greco-Roman rhetorical conventions shaped its approach to the biblical text. Adrian was no exception to this rule.</p>
+      </sec>
+   </body>

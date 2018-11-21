@@ -1,0 +1,144 @@
+<body>
+      <p>This book joins the distinguished company of studies that contextualize
+within the history of ideas Coleridge's spectacular failure in his
+lifelong project to unite theology and philosophy. Brice's particular
+focus is Coleridge's skepticism about his own faith in the mechanism
+of the symbol and the imagination to act as legitimate intermediaries
+between the human and the divine, given the ultimate unknowability
+of the divine and the constitutive fallibility of human forms of expression.
+Coleridge's problems are discussed against the background of two complementary
+critiques of natural religion active from the sixteenth through the
+eighteenth centuries with which Coleridge would have been familiar: “epistemological
+piety” and “theological voluntarism.” Epistemological
+piety follows Calvin in asserting that postlapsarian humans are incapable
+of reading God's handwriting in nature without the assistance of biblical
+faith and divine election. Theological voluntarism, exemplified in
+Locke, Boyle, and Newton, posits “an entirely arbitrary and
+contingent relationship between God and His creation” (4). Because,
+contra Aquinas, God is not bound by any principles known to humans,
+including the principle of noncontradiction, we have no means of reasoning
+from the effects of his creation, which we can see, back to the divine
+causes, which we cannot see. These traditions undercut Coleridge's
+efforts to establish the symbol and the imagination as “tautegorical”
+principles that link human and divine creative impulses.</p>
+      <p>The first half of the book thoroughly traces the Protestant critiques
+of natural reason from Calvin to Kant. For Calvin, even in an unfallen
+state humans knew God only through his works, and after the fall “objects
+in the natural world are just so many dead letters” (17); only
+those enlightened by scripture are able to make inferences about the
+divine from natural evidence. Thus a gulf is established between faith
+and natural reason that supports both the assertion of faith and skepticism
+about natural reason. Calvin is also a theological voluntarist in
+his absolute elevation of divine morality over human morality and
+his insistence on the inaccessibility of the former to the latter.
+Robert Boyle, drawing on both Catholic and Protestant sources, maintained
+an unbridgeable difference between hypothetical explanations of natural
+laws and the unknowable causes of those laws, suggesting that God
+could change the laws of physics if he wanted to. Nevertheless, Boyle
+engages in natural theology by reading the divine in the natural,
+with the caveat that nature's legibility is a function of God's accommodation
+to human frailty rather than any human ability to penetrate the essence
+of the divine. Although Locke rejects the Calvinist doctrine of individual
+inheritance of original sin, his empiricism still partakes in an epistemological
+piety in that “our minds have no access to the world behind
+our ideas of the world” (50).</p>
+      <p>The argument moves back to Coleridge via a chapter on Hume and
+Kant. Brice argues plausibly that “Humean philosophical skepticism
+was profoundly threatening to Coleridge, in fact, because it reminded
+him of sound Christian reasons for denying his own ability to read
+the divine handwriting of God in nature” (53). Arguing that
+Hume's skepticism is informed by Calvinism, Brice reads the <italic>Dialogues Concerning Natural Religion</italic> as presenting a “fork”
+between an unsatisfactory anthropomorphism that brings God down to
+the human and an equally unsatisfactory mysticism that leaves faith
+without an object by denying any divine resemblance to the human.
+A brief excursus into Kant finds that Kant deals with the Humean fork
+by choosing agnosticism over anthropomorphism “through a refusal
+to countenance any objective analogy between supersensible Ideas and
+sensible objects” (87). This is a problematic reading of Kant,
+especially in relation to Coleridge, since Kant's explicit response
+to Hume in the <italic>Critique of Pure Reason</italic> (1781) was
+to rescue the a priori from the clutches of empirical skepticism.
+It is true that he rejects explicit analogies between the phenomenal
+and the noumenal, but he does not give up on the possibility of a
+useful relational verification of the existence of the noumenal. Later
+Brice refers to the “Humean and Kantian impasse of agnosticism.…If
+the “Spirit” cannot ‘in the proper sense of the
+word’ be ‘conceived’ then Coleridge will be incapable
+of even indicating its existence” (191). Even Kant gives a fair
+amount of authority to the regulative principles that allow us to
+admit of divine existence. There is a middle ground, important even
+to Kant, and more important to Schelling and Coleridge, between the
+anthropomorphic objectification of our representations via divine/human
+analogies (anthropomorphism) and the absence of knowledge about what
+lies beyond those representations (agnosticism) to which Brice fails
+to give justice.</p>
+      <p>The second half of the book treats Coleridge's writing from 1795
+to 1805 and 1815 to 1825, basically the period of his early poetic
+achievements and the period of his mature theology, though Brice does
+not tell us much about how Coleridge's skepticism evolves between
+these stages of his career. In poetry and notebook entries, Coleridge
+evinces an involuntary skepticism toward experience itself as he by
+turns enters an analogical relationship between self and world and
+then recognizes “the potential disanalogies dividing natural
+objects from his own poetic psyche” (99). This combination of
+immanence and self-consciousness is a commonplace of Romantic thought
+and its critical history, and without a more specific linkage to the
+skeptical traditions discussed in previous chapters it is unclear
+why this is presented as a new interpretation. More useful is the
+insight that Coleridge is not only ambivalent but also explicitly
+using in support of revelation a method of reasoning (in this case
+Newton's) that was specifically invoked by Newton to deny the possibility
+of a rational approach to the divine.</p>
+      <p>Extended readings of “Religious Musings,” “Fears
+in Solitude,” “France: An Ode,” and “Frost
+at Midnight” develop the familiar theme that Coleridge does
+not trust his own pronouncements. Faith in the patriotic Elect in “Religious
+Musings” leads to Coleridge's conviction that he is not “privy
+to the divine plan” (135); in “France: An Ode” political
+life is firmly but problematically grounded in home and family; and “Frost
+at Midnight” invites the reader to share the poet's consciousness
+while reminding us that this is a written artifact. There is little
+in these readings that was not explicated more fully by Harold Bloom,
+M. H. Abrams, Geoffrey Hartman, and others during the heyday of phenomenological,
+psychological, and early deconstructive criticism; this section would
+have been better served by more specific ties to the theological traditions
+treated in the first section of the book. We return to the book's
+argument at the end of this section with a less than satisfactorily
+substantiated link between Coleridge's difficulty distinguishing self-projection
+from natural sympathy and his fears of misreading the language of
+God in nature.</p>
+      <p>The final chapter treats the famous passages on imagination and
+on imitation versus copy in the <italic>Biographia Literaria</italic> (1817), the distinction between allegory and symbol in <italic>The
+Statesman's Manual</italic> (1816), and the discussion of “symbol”
+in <italic>Aids to Reflection</italic> (1825). The reading of Coleridge's
+theory of imagination is by now predictable: faith in the analogy
+between mind and nature is contravened by “an ontological gulf
+between reason and sensibility” (154) as Coleridge is caught
+between Kant and Schelling. This chapter also turns to the psychological:
+Hume becomes a “scapegoat…for all that was unacceptable
+in Coleridge's own thought” (172), and Coleridge struggles to
+prevent the “imaginative homeostasis” of impression and
+expression from “collapsing symbolic apprehension into another
+subtle form of madness” (159), a madness linked to Luther's
+hallucinations.</p>
+      <p>The ultimate conclusion about the symbol/allegory split reached
+by Brice is that a “symbol or symbolical expression, it now
+seems, is no more or less than a metaphor one has faith in”
+(200). This reflects a very useful insight that for Coleridge faith,
+not reason, must be the glue that connects the human and divine, given
+the pull of skepticism not only in the usual suspects—Hume and
+the generally condemned crowd of mechanistic philosophers—but
+also in the very theological traditions that he turns to for support.
+Thus the main value of this study is to deepen our understanding of
+the skepticism that Coleridge must overcome in order to achieve the
+desired synthesis that nearly all commentators (including Coleridge
+himself at his low points) agree never happened. It would have been
+a much more valuable study, however, if the author had (1) connected
+the two sections of the book more thoroughly with more specific links
+between Coleridge's struggles with skepticism and the specific strands
+of theological skepticism treated in the first sections and (2) given
+us a more subtle sense of Coleridge's attempts to define various middle
+grounds between skepticism and knowledge. Too often impression and
+expression, divine and human, and symbol and allegory are treated
+as binaries whose deconstruction is too easy.</p>
+   </body>

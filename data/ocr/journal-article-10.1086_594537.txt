@@ -1,0 +1,411 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <sec id="sc1">
+         <label>1.<x xml:space="preserve"/>
+         </label>
+         <title>Introduction.</title>
+         <p>Although all molecules are said to contain bonds holding the atoms together, and the term “bond” is pervasive in chemistry, a scrutiny of its actual meaning and implications reveals a disturbing imprecision. This realization has come to the fore in recent work on non‐Kekulé compounds. Chemists therefore seek to enlist philosophers in sharpening the very definition of a “bond.”</p>
+      </sec>
+      <sec id="sc2">
+         <label>2.<x xml:space="preserve"/>
+         </label>
+         <title>Strengths of Conventional Chemical Bonds.</title>
+         <p>For the purposes of this talk I will confine the discussion to the familiar two‐electron covalent bond. It will be useful to show a sampling of experimental data on the strengths of covalent carbon‐carbon bonds (Figure 1).<fig-group content-type="figgrp" id="fg1" position="float" seq="1">
+               <label>Figure 1.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Bond dissociation energies (BDE) of carbon‐carbon bonds.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg1.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Notice that although bond strengths are closely and sensitively related to <italic>structure</italic>, for the most part, conventional bonds are very strong. To break the C‐C bond in ethane and form two methyl radicals (Figure 2) requires that 88 kcal/mol be put into the molecule. For that reason, the rate of decomposition is very slow at ordinary temperature (Figure 2), and the average lifetime at 300K is about <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$3\times 10^{48}$
+\end{document}</tex-math>
+            </inline-formula> years. Now, the age of the universe is thought to be about <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$10^{14}$
+\end{document}</tex-math>
+            </inline-formula> years. So ethane is a stable compound. It must climb up a steep energy cliff to dissociate. The methyl radicals recombine at nearly every collision. Much of the rich legacy of organic chemistry relates to stable compounds and strong bonds.<fig-group content-type="figgrp" id="fg2" position="float" seq="2">
+               <label>Figure 2.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Lifetimes of ethane and of a pair of methyl radicals at 300 K.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg2.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+      </sec>
+      <sec id="sc3">
+         <label>3.<x xml:space="preserve"/>
+         </label>
+         <title>The Limits of Bonding.</title>
+         <p>However, waiting to be explored is a potentially vast field of chemistry whose subject is the <italic>limits</italic> of bonding. One can imagine generating by chemical synthesis a series of molecules with ever‐diminishing strengths of one or more bonds. At the conceptual extreme, this program would generate molecules in which one or more of the bonds had nearly or actually vanished.</p>
+         <p>What would be the purpose of such an exercise? In chemistry, as in other sciences, theories are usually formulated to take into account well known phenomena. But nature has dimensions beyond what we know at present, and it is not obvious that a theory devised to cover a familiar domain will apply universally. When we push into unfamiliar territory the theory may fail to coincide with our observations, and we may be ready for a new theory.</p>
+         <p>How would one go about this in practice? To illustrate, I will discuss first some properties of <italic>non‐Kekulé molecules</italic>. References to the primary literature are given in a number of reviews (Berson 1982, 1988, 1998, 2004).</p>
+      </sec>
+      <sec id="sc4">
+         <label>4.<x xml:space="preserve"/>
+         </label>
+         <title>Non‐Kekulé Molecules.</title>
+         <p>Although the molecules we study are extremely reactive, they should be distinguished conceptually from ordinary so‐called reactive intermediates, such as free radicals, carbocations, carbenes, and the like, which are really molecular fragments, not molecules in the sense of August Kekulé’s rules of valence. According to the rules, for example, carbon has a valence of four. Thus a methyl radical, CH<sub>3</sub>, is obviously in violation. It simply doesn’t have a sufficient number of hydrogen atoms, each of valence one, to satisfy the valence requirement. What chemists have been fascinated by is another group of substances that <italic>do</italic> have enough of each of the constituent atoms to adhere to the rules of valence but in which one or more bonds can be said to be weak or missing. Dewar (1969) coined the term non‐Kekulé compounds for such entities.</p>
+         <p>A general synthetic strategy for making such molecules would be to break one bond of a <italic>ring</italic> compound, either conceptually or actually. The two radical ends that result would still be tied together, and the resulting species would be a <italic>biradical</italic>. A simple example is the biradical trimethylene <bold>6,</bold> derived by breaking one C‐C bond of cyclopropane <bold>5</bold> (Figure 3).<fig-group content-type="figgrp" id="fg3" position="float" seq="3">
+               <label>Figure 3.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Lifetimes of cyclopropane and of trimethylene biradical at 300 K.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg3.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+      </sec>
+      <sec id="sc5">
+         <label>5.<x xml:space="preserve"/>
+         </label>
+         <title>Trimethylene.</title>
+         <p>Note the enormous decrease in the lifetime of cyclopropane <bold>5</bold> (Figure 3) as compared to that of ethane <bold>1</bold> (Figure 2). Cyclopropane at room temperature would have a lifetime of “only” about <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$3\times 10^{24}$
+\end{document}</tex-math>
+            </inline-formula> years.</p>
+         <p>The C‐C bonds in cyclopropane are weakened because of the angular strain energy that must be supplied to squeeze the C‐C‐C angles from the strain‐free tetrahedral value of 109.5 down to 60. The intermediate product of breaking one of those C‐C bonds is the <italic>biradical</italic> trimethylene <bold>6</bold>, so the two live ends are prevented from separating. This species would still have enough atoms to satisfy Kekulé’s rules <italic>but would lack one bond</italic>.</p>
+         <p>Despite the short lifetime of the trimethylene biradical, about <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$10^{-13}$
+\end{document}</tex-math>
+            </inline-formula> sec., through various tricks, a good deal of inferential information about it has been gained, but no one has made a convincing case for having actually seen it.</p>
+      </sec>
+      <sec id="sc6">
+         <label>6.<x xml:space="preserve"/>
+         </label>
+         <title>Trimethylenemethane.</title>
+         <p>An important structural variant of trimethylene is the non‐Kekulé compound trimethylenemethane <bold>7</bold>, shown in Figure 4. (Note that the hydrogens needed to complete the valences of carbon are not explicitly shown.)<fig-group content-type="figgrp" id="fg4" position="float" seq="4">
+               <label>Figure 4.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Trimethylenemethane biradical, a non‐Kekulé molecule, and methylenecyclopropane, its precursor.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg4.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The ordinary Kekulé molecule methylenecyclopropane <bold>8</bold>, which could serve as a synthetic precursor of trimethylenemethane <bold>7</bold>, has long been known, but trimethylenemethane was only first conceptualized by Longuet‐Higgins in 1950 and eventually was synthesized (from a different precursor) by Dowd in 1966.</p>
+         <p>So what chemists faced at that time was the separate existence of two compounds, trimethylenemethane <bold>7</bold> and methylenecyclopropane <bold>8</bold>, isomers with identical atomic composition and identical atomic connectivity except for one bond, which is present in the more stable conventional ring compound but missing in the unstable biradical.</p>
+         <p>To reach the limit of covalency would require that, by some structural manipulation, the relative stabilities of the Kekulé and non‐Kekulé isomers be reversed from those of the pair <bold>7</bold>–<bold>8</bold>. Then the non‐Kekulé biradical would actually be more stable than its Kekulé isomer. One approach to the synthesis of a stable non‐Kekulé molecule is to make a molecule whose Kekulé form is highly strained because of necessarily distorted bond angles but whose non‐Kekulé form does not suffer that disadvantage. This led to the preparation of the biradical 2‐methylenecyclopentane‐1,3‐diyl <bold>11</bold>, shown here in Figure 5. The dots shown represent single electrons, the ghosts of the departed carbon‐carbon bond.<fig-group content-type="figgrp" id="fg5" position="float" seq="5">
+               <label>Figure 5.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Relative energies of singlet and triplet 2‐methylenecyclopentane‐1,3‐diyl and their precursors.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg5.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+      </sec>
+      <sec id="sc7">
+         <label>7.<x xml:space="preserve"/>
+         </label>
+         <title>2‐methylenecyclopentane‐1,3‐diyl (11).</title>
+         <p>After much investigation, it was shown that this molecule belongs to a group of <italic>four</italic> chemically distinct isomeric forms (Figure 5). Two of these are conventional Kekulé molecules <bold>10</bold> and <bold>11</bold>, differing in connectivity, but the other two isomeric forms <bold>9S</bold> and <bold>9T</bold> are non‐Kekulé molecules. However, the difference between the latter two species is not a structural one, because the connectivities are in fact the same. Rather the two molecules are <italic>spin isomers</italic>. In one of them, the <italic>triplet</italic> state, the electrons of the broken bond have parallel spins, and in the other, the <italic>singlet</italic> state, the spins are antiparallel. Each of the four molecules shown here has its own characteristic chemistry and spectroscopic properties. The relative energies of the four species are as shown schematically in Figure 5 and graphically in Figure 6.<fig-group content-type="figgrp" id="fg6" position="float" seq="6">
+               <label>Figure 6.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Schematic energy surface, including transition state (TS) energies.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg6.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+      </sec>
+      <sec id="sc8">
+         <label>8.<x xml:space="preserve"/>
+         </label>
+         <title>What Is a Bond?</title>
+         <p>Significantly, the <italic>triplet</italic> non‐Kekulé form <bold>9T</bold> is not only more stable than the singlet <bold>9S</bold>, but it is the <italic>global minimum</italic> of the four. It is more stable than either of the full‐valence <italic>Kekulé</italic> molecules <bold>10</bold> and <bold>11</bold>. Here then is a clear example in which we have inverted the normal energetic relationship. I think that in such cases, the concept of a “bond” becomes fuzzy.</p>
+         <p>Normally, we think of bond formation as a stabilizing event, in fact, even a <italic>defining</italic> event. Thus, one finds on teaching Web sites and in textbooks such statements as “a chemical bond is the physical process responsible for the attractive interactions between atoms and molecules, and that which confers stability to diatomic and polyatomic chemical compounds,” and “the bond forming process is always exothermic. If two atoms can release energy by forming a bond, then the atoms will be more stable by staying together than they would be as individual atoms.”</p>
+         <p>Such formulations are acceptable when applied to <italic>diatomic</italic> molecules, but they are inadequate for <italic>multiatomic</italic> molecules. In the case presented here, the formation of a bond actually produces a <italic>destabilized</italic> molecule. Thermodynamically the vulnerable bonds in the full‐valence bicyclic compounds 10 and 11 have <italic>negative</italic> dissociation energies. Energy is <italic>liberated</italic> by breaking the bond.</p>
+         <p>In the crucial bond of the full‐valence Kekulé compound, it is the pair of electrons whose interactions with each other and with the nuclei constitute the bond. But even after the bond is “broken” in the triplet form of the non‐Kekulé compound, the electrons still interact with each other.</p>
+      </sec>
+      <sec id="sc9">
+         <label>9.<x xml:space="preserve"/>
+         </label>
+         <title>Electron Spin and ESR Spectroscopy.</title>
+         <p>How do we know that some of this interaction still survives in the non‐Kekulé molecule ? At this point we need to say a little about the electron spin, a property invoked by quantum chemists in the 1920s to explain the emission spectra of atoms. Actually this is not something that emerged from the approximate version of quantum theory that is frequently applied to chemical problems, but it was postulated to fit experimental observations. Its theoretical justification comes only from the full relativistic quantum treatment. Nevertheless, a useful model of the properties of electron spin can be derived by imagining that the negatively charged electron is in constant rotation around its axis. This rotation results in a spin angular momentum and a spin dipole.</p>
+         <p>In a conventional singlet state of a full‐valence Kekulé molecule, each electron spin dipole is compensated by another electron’s spin dipole in the opposite direction, and the spins are said to be “paired.” Such molecules have a total spin (<italic>S</italic>) of zero, and the number of magnetic quantum substates (the “multiplicity”) is 1, since the total spin is defined as <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$2S+1$
+\end{document}</tex-math>
+            </inline-formula>. There is only one quantum state, no transitions between states can occur, and thus no mechanism is available for absorption of microwave energy. The molecule is diamagnetic, because there is no net magnetism.</p>
+         <p>An odd‐electron molecule such as a monoradical has a spin <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S=1/2$
+\end{document}</tex-math>
+            </inline-formula>. In general, the number of states (the multiplicity) of a monoradical is given by <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$2S+1=2$
+\end{document}</tex-math>
+            </inline-formula>, a “doublet.” Thus, quantum mechanics tells us that if such a doublet molecule absorbs radiation of the proper wavelength (usually in the microwave region), a transition from one of the states to the other can occur. This can be detected by electron spin resonance (ESR) spectroscopy</p>
+         <p>In a triplet biradical, all but <italic>two</italic> of the electrons’ spins are paired, and those two remaining ones have spin dipoles oriented in the <italic>same</italic> (<italic>unpaired</italic>) sense. Such molecules are paramagnetic, have a total spin <inline-formula>
+               <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S=1$
+\end{document}</tex-math>
+            </inline-formula>, and a multiplicity of 3, a “triplet” state. They also can be detected by ESR by observing the transitions between the levels. As we shall soon see, in some biradicals the two electrons of the broken bond have <italic>opposed</italic> spins, which leads to a singlet state. Such molecules are <italic>diamagnetic</italic> and do not show an ESR spectrum.</p>
+         <p>The spectra of paramagnetic biradicals differ from those of monoradicals, because in the biradical each electron experiences not only the magnetic field of the spectrometer (plus the small field of the earth) but also the magnetic field produced by the spin dipole of the other electron. This structural feature causes a splitting of the spin‐quantum states of the two‐electron system, even in the absence of an applied field and hence is called the zero‐field splitting. This is what gives rise to the characteristic spectrum of a triplet biradical. Because such spectra reveal the average separation of the unpaired electrons, ESR spectroscopy can cast a bright light on the structure of the biradical itself.</p>
+         <p>Of course, it is true that the wave functions represented by molecular orbitals in principle extend to infinite distance. Thus, there will be some finite probability, even though a small one, of finding the biradical electron pair of the stretched bond in a region of orbital overlap. The electron density maps derived from X‐ray diffraction crystallography, for example, give a direct measure of this, and a crystallographer might well argue that the electron density between two carbon nuclei separated by some specified distance, say 3 angstrom units, is so low that it no longer can be considered to constitute a bond. Once this distance has been reached, any further separation will require no further increase in energy, and the bond may be considered to be “broken.”</p>
+         <p>However, we know that there is still interaction between the two carbons of the “broken” bond of such a non‐Kekulé biradical from the electron spin resonance spectrum, which shows that the effective spin dipoles of the two unpaired electrons are about 4.6 angstrom units apart. This is to be compared with the normal C‐C bond length of about 1.55 angstroms. Even in a hypothetical triplet molecule with the two unpaired electrons separated by as much as 10 angstroms, a characteristic ESR spectrum would still be observable. In anthropomorphic terms, the electrons are still “aware” of each other's presence. The reason for this is that the magnetic field generated by each electron’s dipole propagates far enough to be “detected” by the magnetic dipole of the other electron.</p>
+         <p>In the pair of methyl radicals derived by breaking the C‐C bond of ethane, the bond is actually stretched to the point where there is no restoring force. Reversing that process reconstitutes the C‐C bond and decreases the energy. But from the triplet biradical <bold>9T</bold>, reformation of the bond leads to an increase in energy. It seems that the way we talk about a “bond” conventionally includes the implicit assumption that bonding results in a decrease in energy. The results summarized in Figure 6 require that we modify that assumption with the proviso that reformation of a bond usually will decrease the energy of the system but only if other factors, such as strain in this case, do not prevent it.</p>
+         <p>I think the non‐Kekulé compounds challenge our ability to define the word “bond” precisely. An argument could be made that this is more than just a matter of semantics or nomenclature. Chemists are properly reluctant to give up the benefits of the extremely useful bonding model, but I would say that debating the issue of whether there is or is not a missing “bond” in a non‐Kekulé compound forces us to refocus our attention on the extraordinarily complex interactions among subatomic particles that make up molecules. The bond concept allows us to understand much of chemistry, but far from all of it.</p>
+         <p>Although the free energy levels of the four components in Figure 6 determine the relative amounts of each at equilibrium among them, they do not tell us the rates of their interconversion. Thus, neither of the bicyclic compounds <bold>10</bold> or <bold>11</bold> 
+            <italic>spontaneously</italic> goes over to the more stable triplet non‐Kekulé compound. <italic>Activation energy</italic> must be supplied to either of the bicyclic compounds in order to surmount this barrier, even though the <italic>overall</italic> reaction is thermodynamically downhill (Figure 6). In the case of the dissociation of ethane to two methyl radicals we saw earlier, the recombination of the radicals occurs essentially at every collision, without any activation energy (Figure 2). Thus, there the activation energy for dissociation is about equal to the bond energy, or 88 kcal/mol. In the cases of the bicyclic full‐valence compound <bold>10</bold> (Figure 6), the bond dissociation energy, a <italic>thermodynamic</italic> quantity, is negative, as we have seen, but there is still a small activation energy barrier of about 15.6 kcal/mol for the bicycle‐to‐non‐Kekulé step. The bicyclic isomers exist at all only because each is in a <italic>kinetic trap</italic>.</p>
+         <p>The singlet biradical does have a small activation energy requirement of about 2.3 kcal/mol for reconstitution of the crucial C‐C bond but no such requirement for conversion to the triplet, so that the bond dissociation energy of that bond is 15.6 minus 2.3, or 13.3 kcal/mol. Thus, regarding the kinetics, structural manipulation has lowered the activation energy for breaking a C‐C bond from that of ethane, 88, down to that of the bicyclic compound here of 13.3, a difference of 75 kcal/mol, or 85%. As for the thermodynamics, although it is not really known experimentally how much lower in energy the triplet lies than the bicyclic compound, some quantum chemical calculations suggest that A is about 10 kcal/mol.</p>
+         <p>You may be wondering why the triplet biradical is more stable than its singlet counterpart. It is frequently stated that as a consequence of the antisymmetry of the space part of the triplet wave function, the electron‐electron repulsion energy in the triplet is less than that in the singlet. In fact, the matter is more complicated than that. In the interest of brevity the reader is referred to two review articles which give more detailed information (Berson 1988; Kutzelnigg 1996).</p>
+         <p>Although chemists refer to Hund’s “rule,” this generalization is not inviolate. As early as 1936 Erich Hückel used molecular orbital (MO) arguments to show that one cannot simply assume that Hund’s rule will apply to all biradicals. In particular, Hückel’s argument showed that in some biradicals, now called “disjoint,” the electron repulsion energy that destabilizes many biradical singlets almost disappears, even though the overall space wave function is symmetric. This is because the <italic>form</italic> of the MO wave function for the highest occupied orbital keeps the electrons apart. To predict whether the singlet or the triplet will be the more stable species becomes problematic, because one is then comparing two different kinds of relief of the electron repulsion: orbital form in the singlet and overall antisymmetry of the space wave function in the triplet. In 1936, when Hückel presented this question, no reliable means existed for deciding the issue. Since then, with the emergence of powerful computational tools for quantum chemical calculations, later workers have confirmed Hückel’s conjecture theoretically (Borden and Davidson 1977; Misurkin and Ovchinnikov 1977; Ovchinnikov 1978; Klein et al. 1982), and the two disjoint molecules tetramethyleneethane <bold>12</bold> and tetramethylenebenzene <bold>13</bold> (Figure 7) have been shown experimentally to be ground state singlets (Berson 2004).<fig-group content-type="figgrp" id="fg7" position="float" seq="7">
+               <label>Figure 7.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Two disjoint non‐Kekulé molecules.</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg7.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+      </sec>
+      <sec id="sc10">
+         <label>10.<x xml:space="preserve"/>
+         </label>
+         <title>Conclusion.</title>
+         <p>You will no doubt have noticed that, concerning the subject we have come together to discuss, namely, the chemical bond, my remarks have been 180 off target. I have talked about weak or nonexistent bonds at the edge of covalency and not much about the strong conventional bonds we see in every textbook. The point I would make is one that I briefly mentioned earlier in this talk. I hope you will agree that there are new fields of chemistry that are not coterminous with the domain of the chemical bond and whose philosophical implications deserve your attention. Chemistry keeps on growing. We should widen the orbit of our concerns to include the many kinds of fleeting molecules and molecular fragments whose behavior now forms an integral part of chemical knowledge.</p>
+         <p>Perhaps the philosophers will be sufficiently interested to sponsor a symposium on reactive intermediates. I hope so, and in any case, I thank you for listening.</p>
+      </sec>
+   </body>

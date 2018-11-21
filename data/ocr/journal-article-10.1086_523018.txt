@@ -1,0 +1,1362 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>RISING from a densely constructed landscape of three‐ and four‐story tenements cheek by jowl with unassuming frame shops, some less than ten feet wide, the church of St. Philip’s (largely completed in 1723) was easily the principal building in early eighteenth‐century Charleston, South Carolina (fig. 1). Standing on the highest point within the city walls, St. Philip’s cupola, supported by triple giant order porticoes, soared over Charleston; its southern portico dominated the city’s principal north‐south street. Massive pilasters alternating with huge arched windows and an exterior coat of roughcast emulating stone masonry further distinguished the church from its surroundings. Enormous doors opened through a western vestibule leading into the church’s interior where a soaring barrel vault—the vault of heaven—carried by a strong cornice and an arcade ornamented again with classical pilasters ran the full length of the seventy‐foot‐long nave (fig. 2). While cherubim looked down from the apex of each arch, the end wall of the church carried four imposing tablets with Holy Writ represented in gold text on a black field. Painted curtains above referenced the unveiling of God’s divine drama. To most contemporary viewers, St. Philip’s must have seemed a “Building of God—a House not made with hands—Eternal in the Heavens.”1<fig-group content-type="figgrp" id="fg1" position="float" seq="1">
+            <label>Fig. 1.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>William Russell Birch, St. Philip’s Church, Charleston, SC, ca. 1830. Graphite drawing on paper; H. 8.8<sup>
+                     <inline-formula>
+                        <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\arcsec$\end{document}</tex-math>
+                     </inline-formula>
+                  </sup>, W. 12.2<sup>
+                     <inline-formula>
+                        <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\arcsec$\end{document}</tex-math>
+                     </inline-formula>
+                  </sup>. (Winterthur, museum purchase; photo, James Schneck.)</p>
+            </caption>
+            <fig position="float" fig-type="figure">
+               <graphic xlink:href="fg1.tiff"
+                        rotation="0"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+         <fig-group content-type="figgrp" id="fg2" position="float" seq="2">
+            <label>Fig. 2.<x xml:space="preserve"> </x>
+            </label>
+            <caption>
+               <p>John Blake White, <italic>Interior of St. Philip’s Church</italic>, ca. 1835. Oil painting; H. 27 3/4<sup>
+                     <inline-formula>
+                        <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\arcsec$\end{document}</tex-math>
+                     </inline-formula>
+                  </sup>, W. 36<sup>
+                     <inline-formula>
+                        <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\arcsec$\end{document}</tex-math>
+                     </inline-formula>
+                  </sup>. (St. Philip’s Episcopal Church, Charleston, SC.)</p>
+            </caption>
+            <fig position="float" fig-type="figure">
+               <graphic xlink:href="fg2.tiff"
+                        rotation="0"
+                        alt-version="no"
+                        mimetype="image"
+                        position="float"
+                        xlink:type="simple"/>
+            </fig>
+         </fig-group>
+      </p>
+      <p>This essay is a study in a field surprisingly unfamiliar to scholars of American architecture and material culture: material religion. In a recent editorial introduction in the <italic>William and Mary Quarterly</italic>, the leading journal of early American history and culture, Yale historian Jon Butler proclaimed, “Religion stood at the very center of early American life, sometimes obviously, sometimes in convoluted, difficult ways.”2 Yet the paucity of scholarship on the material dimensions of religion suggests that specialists in material culture have yet to recognize the seminal role of religious belief and practice in early American culture.3 When material religion does surface, scholars usually embrace a functionalist view, discussing religion in terms of social structure, elite hegemony, or, more generally, as evidence of cultural identity.4 Our ignorance of Protestant material religion is perpetuated by our incorrect assumption that early Protestantism was a religion of “The Word,” largely devoid of material dimensions. Although early modern Catholics were more explicit in their material expressions of religion, Protestants also manifested their faith through material culture. Consider, for example, the words of Augustine of Hippo, an early church father and theological hero of the Protestant Reformers: “We have wandered far from God; and if we wish to return to our Father’s home, this world must be used … so that the invisible things of God may be clearly seen, being understood by the things that are made,—that is, that by means of what is material and temporary we may lay hold upon that which is spiritual and eternal.”5 The material world was as much a lens into the invisible things of God for some early modern Anglicans as it was for Augustine. By embracing the lens of material religion and foregrounding the role of the senses to perceive the sacred, this essay seeks to demonstrate how churches, gravestones, bells, windows, and wine were agents of supernatural theologies that animated the ordinary—theologies that stood at the very center of Anglican life in early America.</p>
+      <sec>
+         <title/>
+         <fn-group>
+            <fn id="fn2">
+               <label>1</label>
+               <p>Robert Smith, “Whitsunday,” Georgetown, 1763, St. Philip’s, 1766, no. 295, folder 5, box 3, Sermons by Number, 292–391, Bishop Smith Sermon Collection, St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+            <fn id="fn3">
+               <label>2</label>
+               <p>Jon Butler, “Religion in Early America,” <italic>William and Mary Quarterly</italic> 54, no. 4 (October 1997): 693.</p>
+            </fn>
+            <fn id="fn4">
+               <label>3</label>
+               <p>Prominent exceptions include Mark A. Peterson, “Puritanism and Refinement in Early New England: Reflections on Communion Silver,” <italic>William and Mary Quarterly</italic> 58, no. 2 (April 2001): 307–46; Dell Upton, <italic>Holy Things and Profane: Anglican Parish Churches in Colonial Virginia</italic> (Boston: Architectural History Foundation, 1986); Robert Blair St. George, <italic>Conversing by Signs: Poetics of Implication in Colonial New England Culture</italic> (Chapel Hill: University of North Carolina Press, 1998); and Gretchen Buggeln, <italic>Temples of Grace: The Material Transformation of Connecticut’s Churches, 1790–1840</italic> (Hanover, NH: University Press of New England, 2003).</p>
+            </fn>
+            <fn id="fn5">
+               <label>4</label>
+               <p>The best examples of scholarship that foreground the role of social structure in religious practice are two works that examine Anglicans in early Virginia: Upton, <italic>Holy Things and Profane</italic>; and Rhys Isaac, <italic>The Transformation of Virginia, 1740–1790</italic> (1982; repr., Chapel Hill: University of North Carolina Press, 1999).</p>
+            </fn>
+            <fn id="fn6">
+               <label>5</label>
+               <p>Augustine of Hippo, <italic>On Christian Doctrine</italic>, bk. 4:10.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc1">
+         <title>Sacred Geometries</title>
+         <p>Not long after the death of her nineteen‐year‐old son Benjamin on January 17, 1718, Sarah Seabrook sent for a stone to mark his grave near their church in the South Carolina plantation parish of St. Paul’s (fig. 3). Like many of her contemporaries, Sarah ordered a stone from New England, since South Carolina had neither the raw materials nor the artisans to produce headstones.6 Standing little more than fourteen inches tall, the stone followed the formulaic geometry of most slate markers in the colony. A square tablet carries the vital information about Benjamin, including his date of death, family associations, and age. Two arch‐topped side panels filled with abstracted organic motifs flank the tablet, and a large, semicircular tympanum with a winged head crowns the whole.7 The foot of the stone was driven into the clay encasing his corpse while the tablet above reads, “Here lyes ye Body of Mr. Benjamin Seabrook.” The rectilinear shape of the tablet reinforced the popular association of the square and the number four with things mortal or temporal: the early modern body had four humors (blood, phlegm, choler, and melancholy); the earth had four cardinal directions and four elements (fire, air, water, and soil); land was quantified by the acre; and the year had four seasons.8 As the visual counterpoint to the square, a semicircular tympanum rose above the tablet. Where the square tablet reported the events of Benjamin’s mortal life, the circular tympanum presented the hope in things unseen. Like most early modern Protestants, the Seabrooks viewed heaven in entirely theocentric terms. Since heaven was about God’s perfection, his eternity, and his immutable nature, the circle was its obvious geometric signifier.9 The winged head filling the tympanum was not an angel but Benjamin’s immortal soul rising from his body and ascending toward the cope of heaven, while the firmament separates to invite his passage.10 In this gravestone, shape, word, and image visualized a traditional Christian belief shared by both New England (likely Calvinist) stone carvers and their southern Anglican patrons who heard from their pulpits, “death is no more than a separation of Soul and Body; it is a separation of a fond couple,” and during the rites for the burial of the dead, “there is a natural body, and there is a spiritual body.”11 In this way, Anglican theology differed little from that of more northerly Puritans.12 Fusing the square with the circle on Benjamin Seabrook’s marker signified a door—“death’s door” to use a contemporary expression—a liminal threshold occupying two spaces or spheres of existence and simultaneously neither. Seabrook’s headstone and the scores of others like it found in Anglican churchyards throughout early South Carolina materialized a gate, a breach in the veil between earth and heaven, body and soul, time and eternity.13<fig-group content-type="figgrp" id="fg3" position="float" seq="3">
+               <label>Fig. 3.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Benjamin Seabrook gravestone, former St. Paul’s Parish Churchyard, Colleton County, SC. (Photo, Louis Nelson.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg3.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The sacred geometries that shaped Seabrook’s gravestone and the scores of others standing in South Carolina’s early eighteenth‐century churchyards extended also to the architecture of the Anglican churches they surrounded. Just as an arched tympanum over a square tablet was ubiquitous on early Anglican headstones so too barrel‐vaulted ceilings soared over warrens of rectilinear pews filling the church floor (fig. 4).14 Of those Anglican churches erected in South Carolina before 1750, five out of six churches included a barrel‐vaulted ceiling over rectilinear box pews.15 Just as the square and circle of the gravestone signified a temporal gate, the rectilinear nave and the barrel‐vaulted ceiling of the church constructed a space where the thin veil separating earth from heaven was parted, a space where—like the threshold of death—mortals met the divine. The church, too, was a liminal space, simultaneously earth and heaven and yet neither, both temporal and eternal. The geometric continuities between arched tympana and barrel‐vaulted ceilings evince a shared theology, a conscious extension of the gravestone’s two‐dimensional symbolic liminality between time and eternity, earth and heaven, and the mortal and the divine to the very real three‐dimensional space of the church.16<fig-group content-type="figgrp" id="fg4" position="float" seq="4">
+               <label>Fig. 4.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Section through Prince George Winyaw Parish Church, Georgetown, SC. (Drawing, Louis Nelson.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg4.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Arched tympana and barrel‐vaulted ceilings depended on a material theology widely recognized by early modern Christians; both signified the heavens. South Carolina’s Anglican church builders used a barrel‐vaulted ceiling to represent the presence of God in continuity with their Catholic past. Late Medieval church builders decorated the ceilings of their churches with angels to visualize the fact that the church occupied a unique place at the intersection of heaven and earth (fig. 5). These buildings were consecrated as the “House of God”; God’s presence there was substantive. Post‐Reformation Anglicans enlisted the geometry of the vaulted ceiling to accomplish the same effect by conflating the heavens as the celestial firmament with heaven as the residence of God. While the circular form of the ceiling signified the eternity of God, that shape also recalled the Ptolemaic understanding of the cosmos, a view that persisted well into the eighteenth century. In the Ptolemaic scheme all celestial bodies—stars, planets, the moon, and the sun—circled the earth in predictable orbits, each in its own “crystalline sphere” (fig. 6).17 Seemingly ignorant of Copernicus’s observations, for example, the definition for “heaven” in editions of the <italic>Dictionary of Arts and Science</italic>, published into the 1740s, described heaven as an “azure transparent orb.”18 In a common rhetorical gesture, one seventeenth‐century Anglican divine conflated both physical and spiritual understandings of heaven when he described the Anglican church interior: “the nave represents the visible or lowest heaven or paradise; the lights shining aloft, represent bright stars; the circling roof [is] the firmament.”19 The divine origins of the arch in early eighteenth‐century culture extended also to contemporary philosophy. In 1712, the widely read aesthetic philosopher Joseph Addison argued “the figure [shape] of the rainbow does not contribute less to its magnificence, than the colors to its beauty.” He continued by citing Ecclesiasticus, “Look upon the rainbow, and praise Him that made it; very beautiful it is in its brightness; it encompasses the heavens with a glorious circle, and the hands of the Most High have bended it.”20 Colonial eighteenth‐century Anglicans were well aware of these geometries; one South Carolina minister writing in 1727 was pleased that his newly built church included “a well arch’d ceiling.”21 The arched form of the barrel vault, ubiquitous in Anglican churches in early South Carolina, depended on a rich tradition associating that form with the heavens.<fig-group content-type="figgrp" id="fg5" position="float" seq="5">
+               <label>Fig. 5.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Ceiling of St. Agnes, Cawston, Norfolk, England, fifteenth century. Cherubim line the cornice, and angels stand on the ends of the hammer beams. (Photo, Louis Nelson.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg5.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group content-type="figgrp" id="fg6" position="float" seq="6">
+               <label>Fig. 6.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Ptolemaic cosmograph from Peter Apian, <italic>Cosmographia Petri Apiani</italic> (1550). (Tracy W. McGregor Library of American History, Special Collections, University of Virginia Library.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg6.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>From the earliest decades of the eighteenth century, Anglicans in South Carolina also selected arched windows to light the interiors of their churches (fig. 7). Although the 1706 church in St. Andrew’s parish had only “five small square windows,” a major 1723 expansion and renovation replaced those with new larger windows, “all neatly arch’d and well glazed.”22 The presence of arched windows was so important to the vestry of Christ Church parish that in a 1711 listing of items “still wanting to finish ye Parish Church” the vestry included the expense of “altering and Arching” the windows, which evidently had been installed by carpenters as flattopped.23 The arched shape of the windows at St. James’s, St. Andrew’s, and eventually Christ Church would quickly become standard on all churches in the colony. Once in place, this emphasis on the arched form for windows in Anglican churches persisted throughout the century; in 1770, for example, the vestry of St. David’s parish church in the Carolina Backcountry specifically noted in the contract of agreement with their builder that “all the windows [are] to be arched.”24<fig-group content-type="figgrp" id="fg7" position="float" seq="7">
+               <label>Fig. 7.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>West elevation of St. James Episcopal Church, Goose Creek, Berkeley County, SC, 1714–23. (Library of Congress, Prints and Photographs Division, HABS, reproduction no. SC‐79‐8; photo, Jack E. Boucher.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg7.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The use of the arched form for ceilings and windows for Anglican churches was not unique to South Carolina but common throughout the early eighteenth‐century British Atlantic. In his widely influential <italic>The British Carpenter</italic> (1733), for example, the English architect/master builder Francis Price published illustrations of three trusses for use in churches; all three assumed barrel‐vaulted ceilings. Assuming a correspondence between the windows and ceiling, Price offered one truss that allowed for the barrel vault, “an exact semi‐circle, as it may best fall out to suit the windows.”25 Although arched windows appeared on Anglican churches throughout the British Atlantic world, they had a particular resonance in South Carolina, where imported New England headstones reinforced the theologies of these geometric forms.</p>
+         <p>The ubiquitous use of arched windows and ceilings by Anglicans stands in sharp contrast with the vast majority of other English Protestants—Presbyterians, Congregationalists, Baptists, and others—who consciously embraced the arched form for gravestones but almost universally rejected this form in the construction of their meetinghouses. Such decisions were entirely consistent with their theological embrace of the ascent of spirit at death to the realm of the supernatural and their theological rejection of the particular descent of the Spirit, or the especial presence of God, in the place of worship. In the town of Dorchester, South Carolina, transplanted New England Puritans erected a substantial square brick building sheltered by a pyramidal roof soon after their arrival in 1695 (fig. 8). On the main facade, windows crowned with fashionably rusticated but flat jack arches flanked a central double door. In 1741, the Charles Town Baptists erected a large brick meetinghouse with a tall pyramidal roof and a street front illuminated by an elaborate collection of square and flattopped fenestration. In the same decade, the Stoney Creek Presbyterian congregation in rural Colleton County erected a meetinghouse that shared features with these earlier meetinghouses. The tendency of dissenters to reject arch‐topped windows continued to the very end of the century.26 In 1752 the Dorchester congregation left South Carolina for Midway, Georgia. Forty years later, they erected a very large meetinghouse. Although the building now boasted a fashionable cupola or spire, it still employed flattopped windows and a flat ceiling (fig. 9). As Carl Lounsbury has argued, the use of window forms to distinguish between Anglican churches and other Protestant meetinghouses was true throughout the British Empire until the closing decades of the eighteenth century.27<fig-group content-type="figgrp" id="fg8" position="float" seq="8">
+               <label>Fig. 8.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Portia Trunholm, <italic>Old Dorchester Meetinghouse</italic>, 1884. Oil painting. (South Carolina Historical Society; photo, Keith Leonard.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg8.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group content-type="figgrp" id="fg9" position="float" seq="9">
+               <label>Fig. 9.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Midway Congregational Meetinghouse, Midway, GA, 1792. (Photo, Louis Nelson.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg9.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The use of the arched window by Anglicans and the correspondent rejection of the same form by other English Protestants was tied to the Anglican conception of the place of worship as “a church,” a sacred space set apart specifically for worship. Conversely, most dissenters rejected the use of the term “church,” preferring to call their places of worship meetinghouses. This practice communicated two points of doctrine. First, the “church” was not the building but the body of believers. For dissenters, the “church” was the “gathered church”: “The Church planted or gathered is a company or number of Christians or believers, which by a willing covenant made with their God, are under the government of God and Christ, and keep his laws in one holy communion: because Christ hath redeemed them unto holiness and happiness for ever, from which they were fallen by the sin of Adam.”28 Since dissenters used the term “church” to mean the gathering of covenanted believers, they used “meetinghouse” to name the place designated for their congregational and governmental meetings. Second, and more important for our purposes, dissenters argued fervently that the omnipresence of God undermined the belief that he was somehow more present in the place of worship.29 Kevin Sweeney has noted how New England Calvinists used the plain character of meetinghouses to consciously deemphasize the religious nature of the community’s space. Even though profound spiritual transformation took place in the meetinghouse, it was a space no more sacred than any other. In South Carolina, the rejection of the arch‐topped window by dissenters is particularly poignant in light of their embrace of the same form for their gravestones. Even though these Protestants were perfectly comfortable embracing the theological assertion that the gravestone materialized the threshold between mortality and eternity, they resoundingly rejected the notion that the place of worship was a sacred place, a distinctive threshold between the mortal and the eternal.</p>
+         <p>By contrast, Anglicans held to the model of a national church, in which Christianity was an inherited birthright of baptized Englishmen. Article 27 of the Thirty‐nine Articles, the official professions of Anglican belief, stated that “baptism is not only a sign of profession, and mark of difference, whereby Christian men are discerned from other that be not Christened: but it is also a sign of regeneration or new birth, whereby … they that receive baptism rightly, are grafted into the Church.”30 Simply stated, the sacrament of baptism defined membership in the church.31 Since the doctrine of the national church claimed all baptized Englishmen as Anglicans, the term “church” was not specifically construed to mean the congregation of believers as was true for other Protestants.32 As a result, the term “church” continued to be used to identify the place of worship.</p>
+         <p>Even though Anglicans—together with all Protestants—recognized the omnipresence of God, they—unlike most Protestants—simultaneously asserted that God was more present in the space of the church.33 This theology of sacred space was both preached from the pulpits and practiced in the pews. In his early eighteenth‐century commonplace book, South Carolina Anglican Alexander Keith wrote a brief prayer intended to be recited before approaching the church for service. It reads, “O Lord, I am every where in thy Presence and under thy Eye … but thy special Presence and Face is in thy Temple.”34 In this prayer, Keith communicated a mystery of the Anglican experience: God was both omnipresent and at the same time more present in the church at the time of corporate worship. In his book of daily devotionals, Edward Brailsford wrote that he entered the church in great humility: “But as for me I will come into thy house in the multitude of thy mercies, and in thy fear will I worship toward thy holy Temple.” As Brailsford approached the church he knew that he, as a sinful man, was about to enter into the presence of Almighty God.35 Brailsford fully recognized that not everyone in the church approached the building in a like manner: “Pardon everyone who hath not prepared Himself according to ye Preparation of ye Sanctuary.”36 James Ellerton, a schoolmaster and middling planter, noted in his journal that Rev. Millichamp, the rector of Ellerton’s local Anglican parish, preached a sermon entitled “Reverence My Sanctuary.”37 A few years later, the rector of St. Philip’s would write and deliver a sermon on a passage from Ecclesiastes, “Keep thy foot, when thou goest into the House of God.”38 A decade later, Charles Woodmason barred his congregation from bringing dogs into the church. They are not only “very troublesome” but also “an affront to the Divine Presence … to mix unclean things with our service.”39 While his need to bar dogs from services demonstrates the very fact of their presence, it also suggests that in his mind and surely in the mind of others, dogs profaned the sanctity of the space. For both the laity and the clergy, the church was a sacred space in the landscape of the everyday.</p>
+         <p>Vestries were acutely aware that they set out to erect buildings with “such decency as becomes the House of God.”40 A common edifice would not befit the purpose. Understanding their churches as sacred spaces, early eighteenth‐century Anglicans sought to distinguish them from the spaces beyond, but the absence of a bishop from the colonies meant that Anglican churches could not be formally consecrated as they were in England. Even so, South Carolina’s Anglicans found ways to mark the sanctity of their churches. Writing soon after the 1706 Church Act initiated numerous church‐building programs, Francis LeJau asked that the Bishop of London offer some direction about “what must be done for the consecrating of those new churches.”41 No response from the bishop left congregations free to mark the occasion in a number of ways. The vestry of St. James, Goose Creek, for example, agreed on July 14, 1719, that their new church was to be “<italic>set apart from all Temporal Uses</italic>, and wholly appropriated to and for the uses aforesaid [Divine Worship] for ever.”42 Just a few years prior, the vestry of St. Paul’s parish declared that their new church building had been “set apart for ye publick worship of God.”43 In what was probably a common practice, the minister of St. John’s, Berkeley, “preached a Sermon suitable to that occasion” of the completion of his new church in 1711.44 That same practice resonated in a Robert Smith sermon where he defended the “special setting apart some distinct place, and consecrating it for solemn prayer and divine service.”45 In the absence of a bishop, early Anglicans in South Carolina found a variety of ways to communicate the sanctity of their churches. Vestry pronouncements and sermons became rites that audibly declared the space sacred.</p>
+         <p>Horton Davies has discussed at length the seventeenth‐century debates between Catholic‐leaning High Anglicans who defended the numinous quality of the church and Puritan detractors who rejected it based in part on the doctrine of the omnipresence of God.46 Not only did Puritans not consecrate their buildings, but they felt free to hold both religious and civic meetings in the same space. As John Walsh and Stephen Taylor have made clear in the introduction to their recent study, eighteenth‐century Anglicans generally preferred the broad theological middle road between Catholic and Puritan extremes.47 The reconstitution of Anglicanism in the late seventeenth century largely set aside these debates. Even though most decidedly rejected the Catholic theology of transubstantiation, the “real presence” of Christ in the Eucharist, the vast majority of Anglicans did not go so far as to reject entirely the numinous presence of God in the church. It seems safe to suggest that most Anglicans shared to some extent the sentiments espoused by the seventeenth‐century text painted near the door in the parish church in Stokesay, Shropshire: “How dreadful is this place. This is none other but the House of God. This is ye gate of heaven. Keep they foot when thou goest to the house of God and be more ready to hear than to give ye sacrifice of fools.”48 Just as the barrel‐vaulted ceiling signified the heavens to those worshipping inside, the compass‐headed windows of its exterior proclaimed the sanctity of space to outside observers. Simultaneously, the rejection of the arched window was also burdened with theological meaning; the elaborate rusticated flat arches over the windows of the Dorchester Meetinghouse could very easily have been arched, but they were not. The conscious rejection of a form grants just as much meaning to that form as does its embrace. The fact that dissenters who dogmatically rejected the doctrine of the special presence also rejected the arched window demonstrates that this sacred geometry was broadly understood by English Protestants, Anglicans, and Dissenters alike.</p>
+         <p>It is important to recognize here that visual signification of the sacred was not (and is never) absolute but context dependent.49 Arched windows, in other words, only commented on the doctrine of the special presence when they appeared in contexts that raised the question: places of worship.50 By the middle of the eighteenth century, for example, tall arch‐topped windows were embraced as a practical solution for illuminating domestic stair landings. Since the context of the domestic staircase did not raise the question of the sanctity of space, however, the arched window did not imply those meanings. Only the context of a church or meetinghouse raised the question of sanctity, and in the case of both flat and arched windows, geometry bore the responsibility of communicating an answer. Through the majority of the eighteenth century, the sacred signification of the arched form in the context of a place of worship clearly distinguished the Anglican doctrine of sacred space from other Protestants who decried the very idea.</p>
+         <p>The use of the arched form to signify the sacred raises questions about another religiously loaded shape: the cross. There remained after the English Reformation significant disagreement among Protestants about the use of the cross as a religious symbol. Together with other Protestants, Anglicans rejected the use of the cross as a reverential image for use during the worship service. It did not appear among Anglicans or other Protestants as a fixture on the altar or as the finial to a steeple, for example, until the mid‐nineteenth century.51 But some Anglicans persisted in the use of the cross in less iconic ways. In the Anglican liturgy making the sign of the cross on one’s body by touching the head, chest, and then both shoulders was an important devotional act whose theology was realized most explicitly in the baptism of a child. Immediately after the baptism, the minister holding the child proclaimed, “We receive this Child into the Congregation of Christ’s flock, and do sign <italic>him</italic> with the sign of the Cross; in token, that hereafter <italic>he</italic> shall not be ashamed to confess the faith of Christ crucified, and manfully to fight under his banner, against sin, the world, and the devil.”52 Making the sign of the cross on the child’s forehead claimed the child as a member of Christ’s church and sealed her or his membership forever. Making the sign of the cross also had a popular usage that fell outside official Anglican theologies. English folk culture taught that crossing oneself was one means of warding off evil spirits.53</p>
+         <p>Such actions were associated by some with the Catholic past and, as a result, most dissenters objected to making the form of the cross over one’s body. In a lengthy diatribe against the abuses of nonconformists to “the set forms of worship” in the Anglican service, Charles Woodmason describes one particularly accommodating minister who did not require his congregation to use “the sign of the Cross except desir’d.”54 Another South Carolina Anglican minister complained, “We are often importuned by some who are not full conformists, to baptize their Children without … the sign of the Cross.”55 As both these objections imply, some Protestants expressed concerns about the idolatry and superstitious beliefs surrounding the sign of the cross, while others defended its use. Consequently, it is clear that some Anglicans in South Carolina freely utilized the act of crossing oneself as a ritual act in weekly worship, the quarterly sacrament of Holy Communion, and especially baptism.</p>
+         <p>Given the Anglican investment in the ritual efficacy of the sign of the cross, the use of that shape for planning South Carolina churches seems not insignificant. The inscription of a cross on the land is most common in the form of interior crossing aisles. Since most of South Carolina’s churches had doors on the north, west, and south walls with an eastern chancel, the aisles of the interior connecting these formed a cross.56 In other instances, the crossing of the church determined the form of the entire building. During the first half of the eighteenth century, Anglicans in South Carolina erected four cruciform churches either by additions or in a single campaign (fig. 10).57 Begun in 1727, the chapel of ease in the parish of St. James, Goose Creek, was one of the largest chapels constructed in the colony, measuring 60 feet long by 22 feet wide with a chancel approximately 10 feet deep. Additions to St. Paul’s parish church (begun in 1722), St. Andrew’s parish church (begun in 1723), and St. George’s in Dorchester (begun in 1734) each transformed small rectangular buildings into much larger cruciform churches. The cruciform shape of these buildings was not lost on contemporaries; one was described as bearing “the form of a cross”; another was described as enlarged “in the form of a cross.”58 The cruciform shape resurfaced in the early nineteenth century in the first church in Columbia, South Carolina, built on the plan of a cross by the Protestant Episcopal Society for the Advancement of Christianity in South Carolina.59<fig-group content-type="figgrp" id="fg10" position="float" seq="10">
+               <label>Fig. 10.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Plat of chapel of ease to St. James Parish Church, Goose Creek, Berkeley County, SC, ca. 1724. (South Carolina Historical Society.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg10.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>In their desire to distinguish or set apart their newly constructed churches, Anglicans revealed a theological parallel between the baptism of a child and the consecration of a church. Both were ritual acts of inscription that extended a claim about the spiritual indwelling of God, one in a person, the other in a building. Making the sign of the cross on the forehead of a child consecrated him or her for service in the church. Popular belief, however, extended to this act the preservation of the child from evil. Similarly, the use of a cross in the form of the church might have been seen as consecrating the land upon which it stands and protecting the church building “against sin, the world, and the devil.”60 Together with the arched form of ceilings and windows, the cross might have symbolized—even actualized—the sanctity of the church.</p>
+         <fn-group>
+            <fn id="fn7">
+               <label>6</label>
+               <p>On New England gravestones in South Carolina, see Diana Williams Combs, <italic>Early Gravestone Art in Georgia and South Carolina</italic> (Athens: University of Georgia Press, 1986). The earliest evidence of local work on gravestones appears in 1736, when David Merry advertised that he would cut letters in tombstones. <italic>South Carolina Gazette</italic>, December 11, 1736.</p>
+            </fn>
+            <fn id="fn8">
+               <label>7</label>
+               <p>In her book on early gravestones in Georgia and South Carolina, Diana Combs implies that the choice of motifs lay largely with the carver, not the patron. Even if this is so, patrons certainly had the agency of choice between carvers and by default selected motifs by selecting the carver. See Combs, <italic>Early Gravestone Art</italic>, 15–18.</p>
+            </fn>
+            <fn id="fn9">
+               <label>8</label>
+               <p>The association of the number four with things material dates at least to Augustine. See Emile Male, <italic>The Gothic Image: Religious Art in France of the Thirteenth Century</italic> (New York: Harper, 1958), 11. The four elements, the four humors, and other doctrines of Renaissance science were still being taught at Yale in the opening decades of the eighteenth century. They persisted in the popular imagination throughout the century. See Herbert Leventhal, <italic>In the Shadow of the Enlightenment: Occultism and Renaissance Science in Eighteenth‐Century America</italic> (New York: New York University Press, 1976), 6, 192–205. By means of the acre, the square served to order the landscape. See John R. Stilgoe, <italic>Common Landscape of America, 1580–1845</italic> (New Haven, CT: Yale University Press, 1982), 99–100. For the construction of the temporal world as a square, see Mircea Eliade, <italic>The Sacred and the Profane: The Nature of Religion</italic> (San Diego: Harcourt &amp; Brace, 1959), 45–46.</p>
+            </fn>
+            <fn id="fn10">
+               <label>9</label>
+               <p>For more on the theocentric view of heaven among seventeenth‐ and eighteenth‐century Protestants, see Colleen McDannell and Bernhard Lang, <italic>Heaven: A History</italic> (New Haven, CT: Yale University Press, 1988), 177–80. An extraordinary discussion of the power of shapes in Puritan linguistics appears in “Iconoclastic Materialism,” in Ann Kibbey, <italic>The Interpretation of Material Shapes in Puritanism: A Study of Rhetoric, Prejudice, and Violence</italic> (Cambridge: Cambridge University Press, 1986), 42–65.</p>
+            </fn>
+            <fn id="fn11">
+               <label>10</label>
+               <p>That the winged head represents the soul of the deceased has been convincingly argued by a number of authors. See Allan Ludwig, <italic>Graven Images: New England Stonecarving and Its Symbols, 1650–1815</italic> (Middletown, CT: Wesleyan University Press, 1966), 67–69, 223; David H. Watters, <italic>“With Bodilie Eyes”: Eschatological Themes in Puritan Literature and Gravestone Art</italic> (Ann Arbor, MI: UMI Research Press, 1981), 35–68; and John L. Brooke, “For Honour and Civil Worship to Any Worthy Person: Burial, Baptism, and Community on the Massachusetts Near Frontier, 1730–1790,” in <italic>Material Life in America, 1600–1860</italic>, ed. Robert Blair St. George (Boston: Northeastern University Press, 1988), 463–86.</p>
+            </fn>
+            <fn id="fn12">
+               <label>11</label>
+               <p>Robert Smith, “On Death,” 1772, no. 322, folder 7, box 3, Sermons by Number, 292–391, Bishop Smith Sermon Collection, St. Philip’s Church Archive, Charleston, SC; The Book of Common Prayer and the Administration of Sacraments and Other Rites and Ceremonies of the Church According to the Use of the Church of England and Ireland (Dublin: n.p., 1668).</p>
+            </fn>
+            <fn id="fn13">
+               <label>12</label>
+               <p>The shared embrace of this shape and its underlying theological meanings by both New England Calvinists and Southern Anglicans demonstrates the embrace of certain fundamental beliefs by two religious groups who differed fundamentally on issues of church government and less on issues of theology. The vast majority of Protestants in the southern colonies, for example, were still firmly rooted in the Calvinistic tradition into the early eighteenth century. See Edmund Morgan, “The Puritan Ethic and the American Revolution,” <italic>William and Mary Quarterly</italic>, 3rd ser., 24 (January 1967): 3–43; Babbette Levy, “Early Puritanism in the Southern and Island Colonies,” <italic>Proceedings of the American Antiquarian Society</italic> 70, pt. 1 (April–October 1960): 69–348; and Brooks Holifield, <italic>Gentlemen Theologians: American Theology in Southern Culture, 1795–1860</italic> (Durham: University of North Carolina Press, 1978). Maurice Ashley has argued that by the opening decades of the eighteenth century the daily religious life of Englishmen was Calvinist in theology if not in government. See Maurice Ashley, <italic>England in the Seventeenth Century, 1603–1714</italic> (London: Penguin, 1958), 238. For a similar view among Anglicans in early Virginia, see Edward Bond, <italic>Spreading the Gospel in Colonial Virginia</italic> (Lanham, MD: Lexington Books, 2004/2005). John Walsh, Colin Haydon, and Stephen Taylor have an excellent discussion of the theology of eighteenth‐century Anglicanism in their “Introduction” to <italic>The Church of England, 1689–1833: From Toleration to Tractarianism</italic> (New York: Cambridge University Press, 1993). See also chap. 6, “The Whole Duty of Man,” in John Spurr, <italic>The Restoration Church of England, 1646–1689</italic> (New Haven, CT: Yale University Press, 1991), 279–330. For a discussion of the historic applications of the ninth article through the nineteenth century, see Edgar C. S. Gibson, <italic>The Thirty‐Nine Articles of the Church of England</italic> (London: Methuen, 1896), 357–78.</p>
+            </fn>
+            <fn id="fn14">
+               <label>13</label>
+               <p>On the New England gravestone as the portal between earth and heaven, see Ludwig, <italic>Graven Images</italic>, 139–42. See also Watters, <italic>With Bodilie Eyes</italic>, 90–91. Quote from Francis Le Jau to Society for the Propagation of the Gospel (hereafter SPG), June 13, 1710, 343, vol. 5, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina, original at Lambeth Palace, London.</p>
+            </fn>
+            <fn id="fn15">
+               <label>14</label>
+               <p>Eliade describes the temple as “an opening in the upward direction.” He goes on to describe the temple as the <italic>axis mundi</italic>, the space connecting earth and heaven. Eliade, <italic>Sacred and Profane</italic>, 26, 38.</p>
+            </fn>
+            <fn id="fn16">
+               <label>15</label>
+               <p>Barrel‐vaulted ceilings appeared in St. Philip’s (1711–23); St. Andrew’s (completed 1723); Strawberry Chapel (1723–25); St. John’s, Colleton (1734?–44); and Prince George’s, Winyaw (1741–53). The ceiling now in the church of St. James, Goose Creek, is flat, but recent archaeological excavations under the church floor indicated that the interior posts that supported the ceiling have been displaced and were not originally located where they are now. This suggests that the ceiling in St. James carried by the four internal posts is not original.</p>
+            </fn>
+            <fn id="fn17">
+               <label>16</label>
+               <p>The barrel vault is a simplification of the dome. Discussions of the theological connections between the dome and the heavens in the Christian tradition are abundant. See Karl Lehmann, “The Dome of Heaven,” <italic>Art Bulletin</italic> 27, no. 1 (March 1945): 1–27; E. Baldwin Smith, <italic>The Dome: A Study in the History of Ideas</italic> (Princeton, NJ: Princeton University Press, 1950). See also Kathleen McVey, “The Domed Church as Microcosm: Literary Roots of an Architectural Symbol,” <italic>Dumbarton Oaks Papers</italic> 37 (1983): 95.</p>
+            </fn>
+            <fn id="fn18">
+               <label>17</label>
+               <p>Leventhal, <italic>In the Shadow of the Enlightenment</italic>, 6.</p>
+            </fn>
+            <fn id="fn19">
+               <label>18</label>
+               <p>Ephraim Chambers, <italic>Cyclopedia; or, an Universal Dictionary of Arts and Sciences</italic> (London: privately printed, 1728). This association of heaven with a sphere would be dropped in similar dictionaries by midcentury.</p>
+            </fn>
+            <fn id="fn20">
+               <label>19</label>
+               <p>Anthony Sparrow, “Rationale upon the Book of Common Prayer of the Church of England,” reprinted in Richard Kieckhefer, <italic>Theology in Stone: Church Architecture from Byzantium to Berkeley</italic> (Oxford: Oxford University Press, 2004), 140.</p>
+            </fn>
+            <fn id="fn21">
+               <label>20</label>
+               <p>Ecclus. 43:11, in Joseph Addison, <italic>Spectator</italic>, no. 415 (June 26, 1712).</p>
+            </fn>
+            <fn id="fn22">
+               <label>21</label>
+               <p>William Guy to SPG, January 22, 1727, 107–15, vol. 20, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn23">
+               <label>22</label>
+               <p>William Guy to SPG, January 22, 1727, 110–15, vol. 20, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn24">
+               <label>23</label>
+               <p>“Christ Church Parish, Minutes of the Vestry, 1708–59, 1797–1847,” February 11, 1711, microfilm at South Carolina Department of Archives and History, Columbia, SC..</p>
+            </fn>
+            <fn id="fn25">
+               <label>24</label>
+               <p>Brent H. Holcomb, ed., <italic>Saint David’s Parish, South Carolina, Minutes of the Vestry, 1768–1832, Parish Register 1819–1924</italic> (Easley, SC: Southern Historical Press, 1979), April 30, 1770.</p>
+            </fn>
+            <fn id="fn26">
+               <label>25</label>
+               <p>Francis Price, <italic>The British Carpenter</italic> (London: C. Ackers 1733), 21.</p>
+            </fn>
+            <fn id="fn27">
+               <label>26</label>
+               <p>The first and very early appearance of the arched window on a dissenting meetinghouse is the Willtown Presbyterian Meeting, built in 1765. See Stan L. C. Simmons, ed., “Records of the Willtown Presbyterian Church, 1738–1941,” <italic>South Carolina Historical and Genealogical Magazine</italic> 62 (July 1960): 148–62; citation from December 12, 1765.</p>
+            </fn>
+            <fn id="fn28">
+               <label>27</label>
+               <p>Carl Lounsbury has made this same observation in his extensive fieldwork on colonial churches and meetinghouses. See Carl Lounsbury, “From Meetinghouse to Church: The Transformation of American Ecclesiastical Architecture, 1790–1840,” paper presented at the Vernacular Architecture Forum annual conference, Harrisonburg, PA, May 12–16, 2004.</p>
+            </fn>
+            <fn id="fn29">
+               <label>28</label>
+               <p>Reprinted in Horton Davies, <italic>Worship and Theology in England</italic> (Princeton, NJ: Princeton University Press, 1961–75), 25.</p>
+            </fn>
+            <fn id="fn30">
+               <label>29</label>
+               <p>See Gretchen Buggeln, “New England Orthodoxy and the Language of the Sacred,” in <italic>American Sanctuary: Understanding Sacred Spaces</italic>, ed. Louis P. Nelson (Bloomington: Indiana University Press, 2006), 17–36; and Kevin M. Sweeney, “Meetinghouses, Town Houses, and Churches: Changing Perceptions of Sacred and Secular Space in Southern New England, 1720–1850,” <italic>Winterthur Portfolio</italic> 28, no. 1 (Spring 1993): 59–61. See also Marian Card Donnelley, <italic>The New England Meeting Houses of the Seventeenth Century</italic> (Middletown, CT: Wesleyan University Press, 1968), 35, 61, 107–8.</p>
+            </fn>
+            <fn id="fn31">
+               <label>30</label>
+               <p>Gibson, <italic>The Thirty‐nine Articles of the Church of England</italic>, 620. This basic theology remained in place even after the Acts of Toleration were passed as a result of the Glorious Revolution.</p>
+            </fn>
+            <fn id="fn32">
+               <label>31</label>
+               <p>Sidney Ahlstrom argues that in an important period of Anglican redefinition, 1660–90, the “new Anglicanism” abandoned the idea of a comprehensive church, thus legitimating the notion of denominations in the eyes of Anglicans, but never adopted any dogmatic restrictions on membership common to other, more firmly Calvinistic, Protestant denominations. See Sidney E. Ahlstrom, “The New Anglicanism,” in his <italic>A Religious History of the American People</italic> (New Haven, CT: Yale University Press, 1972), 95–98.</p>
+            </fn>
+            <fn id="fn33">
+               <label>32</label>
+               <p>On the national vs. the gathered models of the church, see Davies, “Two Ecclesiologies,” in his <italic>Worship and Theology in England</italic>, 24–30.</p>
+            </fn>
+            <fn id="fn34">
+               <label>33</label>
+               <p>On the emphasis of such continuity in the “new Anglicanism” of the late seventeenth century, see Ahlstrom, <italic>Religious History</italic>, 96. The idea of God’s special presence in the church has early seventeenth‐century Laudian origins. See Peter Lake, “The Laudian Style: Order, Uniformity and the Pursuit of the Beauty of Holiness in the 1630s,” in <italic>The Early Stuart Church, 1603–1642</italic>, ed. Kenneth Fincham (Stanford, CA: Stanford University Press, 1993), 161–86.</p>
+            </fn>
+            <fn id="fn35">
+               <label>34</label>
+               <p>“Alexander Keith Commonplace Book, 1730–1740,” manuscript collection, South Caroliniana Library, Columbia, SC.</p>
+            </fn>
+            <fn id="fn36">
+               <label>35</label>
+               <p>Gerardus van deer Leeuw summarizes the standard line of argument regarding the secularization of Protestant church architecture: that the church is a “House of Prayer,” not a “House of God.” Although this line of argument follows Anglican theology, the material and documentary evidence indicates that this did not hold true on the popular level. See Gerardus van deer Leeuw, <italic>Sacred and Profane Beauty: The Holy in Art</italic> (New York: Holt, Rinehart &amp; Winston, 1963), 199–201.</p>
+            </fn>
+            <fn id="fn37">
+               <label>36</label>
+               <p>Edward Brailsford, “A Prayer before Divine Service Begins” (fl. 1744), “Devotions, 1710–1714,” manuscript collection, South Caroliniana Library, Columbia, SC.</p>
+            </fn>
+            <fn id="fn38">
+               <label>37</label>
+               <p>“A Teacher’s Journal, 1740,” August 9, 1740. Printed in Roy Merrins, <italic>The Colonial South Carolina Scene: Contemporary Views, 1697–1774</italic> (Columbia: University of South Carolina Press, 1977), 136.</p>
+            </fn>
+            <fn id="fn39">
+               <label>38</label>
+               <p>Robert Smith, “Keep thy foot, when thou goest into the House of God” (Eccles. 5:1), 1759, 1774, 1797, no. 123, folder 22, box 4, Index to Sermons, Bishop Smith Sermon Collection, St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+            <fn id="fn40">
+               <label>39</label>
+               <p>Charles Woodmason, “On Correct Behaviour in Church,” in <italic>The Carolina Backcountry on the Eve of the Revolution: The Journal and Other Writings of Charles Woodmason, Anglican Itinerant</italic>, ed. Richard J. Hooker (Chapel Hill: University of North Carolina Press, 1953), 88–89.</p>
+            </fn>
+            <fn id="fn41">
+               <label>40</label>
+               <p>Vestry of St. Paul’s and their minister William Bull to Francis Nicholson, 84, vol. 16, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn42">
+               <label>41</label>
+               <p>Le Jau to SPG, September 23, 1707, 179, vol. 16, SPG Letter Book, 1702–10, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn43">
+               <label>42</label>
+               <p>Reprinted in Frederick Dalcho, <italic>An Historical Account of the Protestant Episcopal Church in South Carolina from the First Settlement of the Province to the War of the Revolution</italic> (Charleston, SC: E. Thayer, 1820; repr., Charleston: Diocese of South Carolina, 1970), 249; emphasis mine.</p>
+            </fn>
+            <fn id="fn44">
+               <label>43</label>
+               <p>Vestry to SPG, May 26, 1715, 125, vol. 10, ser. B, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn45">
+               <label>44</label>
+               <p>Robert Maule to SPG, January 23, 1714, 77, vol. 10, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn46">
+               <label>45</label>
+               <p>Robert Smith, “Sermon on Psalm 100,” 1794, no. 377, folder 18A, box 3, Sermons by Number, 292–391, Bishop Smith Sermon Collection, St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+            <fn id="fn47">
+               <label>46</label>
+               <p>Davies, <italic>Worship and Theology</italic>, 11–22.</p>
+            </fn>
+            <fn id="fn48">
+               <label>47</label>
+               <p>See Walsh, Haydon, and Taylor, “Introduction.”</p>
+            </fn>
+            <fn id="fn49">
+               <label>48</label>
+               <p>W. M. Jacob, <italic>Lay People and Religion in the Eighteenth Century</italic> (New York: Cambridge University Press, 1996), 209. See also Lake, “The Laudian Style,” 165.</p>
+            </fn>
+            <fn id="fn50">
+               <label>49</label>
+               <p>The noted anthropologist and theorist of religion, Arnold van Gennep, argues that “sacredness as an attribute is not absolute: it is brought into play by the nature of particular situations.” Arnold van Gennep, <italic>The Rites of Passage</italic>, trans. Monika B. Vizedom and Gabrielle L. Caffe (Chicago: University of Chicago Press, 1960), 12.</p>
+            </fn>
+            <fn id="fn51">
+               <label>50</label>
+               <p>It should be noted here that Dell Upton makes a convincing argument that the refinements of church architecture reified the authority of the Anglican elite. My assertion that arched windows conveyed theological beliefs complicates this earlier reading and reinforces the multivalence of meanings in material culture. See Upton, <italic>Holy Things and Profane</italic>.</p>
+            </fn>
+            <fn id="fn52">
+               <label>51</label>
+               <p>See Ryan K. Smith, “The Cross: Church Symbol and Contest in Nineteenth‐Century America,” <italic>Church History: Studies in Christianity and Culture</italic> 70 (December 2001): 705–34, and <italic>Gothic Arches, Latin Crosses: Anti‐Catholicism and American Church Designs in the Nineteenth Century</italic> (Chapel Hill: University of North Carolina Press, 2006).</p>
+            </fn>
+            <fn id="fn53">
+               <label>52</label>
+               <p>Book of Common Prayer.</p>
+            </fn>
+            <fn id="fn54">
+               <label>53</label>
+               <p>Keith Thomas, <italic>Religion and the Decline of Magic</italic> (New York: Scribners, 1971), 31. For evidence of this usage in the early South, see W. D. Hand, ed., <italic>The Frank C. Brown Collection of North Carolina Folklore</italic>, 7 vols. (Durham, NC: Duke University Press, 1964), 7:164.</p>
+            </fn>
+            <fn id="fn55">
+               <label>54</label>
+               <p>Woodmason, <italic>The Carolina Backcountry</italic>, 105.</p>
+            </fn>
+            <fn id="fn56">
+               <label>55</label>
+               <p>Johnston to SPG, September 20, 1708, 311, vol. 4, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn57">
+               <label>56</label>
+               <p>“St. Philip’s Church, Charleston, SC, Vestry Minutes, 1735–55,” April 14, 1743, manuscript collections, South Carolina Historical Society, Charleston.</p>
+            </fn>
+            <fn id="fn58">
+               <label>57</label>
+               <p>A chapel of ease in St. James, Goose Creek Parish (begun 1721), St. Paul’s (begun 1721), St. Andrew’s (begun 1723), and St. George’s, Dorchester (begun 1734).</p>
+            </fn>
+            <fn id="fn59">
+               <label>58</label>
+               <p>Robert Ludham to SPG, December 12, 1727, 98, vol. 20, ser. A, SPG Letter Book, microfilm at University of South Carolina; William Guy to SPG, January 22, 1727, 107–15, vol. 20, ser. A, SPG Letter Book, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn60">
+               <label>59</label>
+               <p>Walter Edgar, <italic>South Carolina: A History</italic> (Columbia: University of South Carolina, 1998), 293.</p>
+            </fn>
+            <fn id="fn61">
+               <label>60</label>
+               <p>While I have argued that Anglican churches in Jamaica often take the form of a cross as a structural insurance against hurricanes and earthquakes, the reduced frequency of cruciform churches in South Carolina and its relatively subdued climactic conditions suggest that reasons for the form might lie elsewhere. See Louis P. Nelson, “Anglican Church Building and Local Context in Early Jamaica,” in <italic>Building Environments: Perspectives in Vernacular Architecture X</italic>, ed. Kenneth A. Breisch and Alison K. Hoagland, 14 vols. (Knoxville: University of Tennessee Press, 2005), 10:63–80.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc2">
+         <title>Symbolizing the Supernatural</title>
+         <p>In addition to the geometric signification of the sacred through arched ceilings, windows, and cruciform churches, South Carolina Anglicans also symbolized the supernatural that animated their everyday life. Anglican churches from the early eighteenth century were replete with cherubim (see figs. 2, 7). The use of cherubim or angels in the architecture of the church to represent the presence of the host of heaven had roots in centuries of English practice, but it was a visual symbol that persisted in common use after the Reformation. As the 1640s journal of Suffolk Puritan and iconoclast William Dowsing makes very clear, the painted images of cherubim were still very common in the worship spaces of mid‐seventeenth‐century England. While Dowsing and other iconoclasts worked feverishly to destroy such “superstitious images,” other Anglicans were freely incorporating angels in the ornamentation of their new churches.61 Rows of angels on or near the ceilings of many seventeenth‐ and early eighteenth‐century Anglican churches in the colonies demonstrate the extension of this tradition across the Atlantic. The nave and chancel ceilings of two Boston churches, Christ Church (begun 1722) and Trinity Church (begun 1727), were both ornamented in the early eighteenth century with cherubim peering down through clouds.62 Similar cherubim also graced the ceilings of a few early Anglican churches in Virginia.63 In 1677, for example, the vestry of Petsworth parish in Virginia paid Thomas Powell “for draweing the Cherubin” in their church at Poplar Spring.64 Like their medieval predecessors, early eighteenth‐century Anglicans visualized the church as a space created by man but occupied by God and the heavenly host. The visualization of cherubim in the space of the church was only the most explicit reference to the invisible supernatural that animated Anglican belief in early South Carolina.</p>
+         <p>The seventeenth‐ and early eighteenth‐century view of God was something very different from the image of a gentle and benevolent diety often projected by later Anglicans. Popular Anglicanism during the seventeenth and early eighteenth centuries understood God as both sovereign and interventionist in nature. Theories of divine causation, for example, are evident among South Carolina Anglicans well into the eighteenth century. In response to her faith in a sovereign God, Eliza Pinckney, South Carolina’s premier mid‐eighteenth‐century diarist, told herself as her brother lay dying, “hush, 'tis the almighty’s will.”65 Mrs. Thomas Broughton told her son to “remember you depend on the allmighty for all things.”66 God’s intervention was painfully evident in his “punishing hand.” Writing in 1747, the minister of Christ Church parish complained that because of the sins of the colony, God was sending “Pestilential Diseases amongst men and beasts, which yearly sweep away [a] number of both.”67 During the first half of the century, the colony’s more pious Anglicans were quick to see the hand of God in both preservation and destruction.68</p>
+         <p>The iconography on early eighteenth‐century headstones in Anglican churchyards reinforced this view of the sovereignty of God. Among the headstones in Anglican churchyards the winged death’s‐head—a skull with wings—outnumbers the winged soul’s head by four to one before 1750. In this one way, Benjamin Seabrook’s 1718 marker with its winged head was quite unusual. The winged skull rising from the grave of Thomas Baker was far more typical of imagery in Anglican churchyards of the early eighteenth century (fig. 11). In the context of death, the skull had for centuries symbolized the death of Adam’s race by sin. The winged skull reminded the living of the inevitability of death, as a memento mori, and as a statement about the hope of resurrection from death to new life through faith in Christ. The winged skull reminded the viewer that by death, the soul would rise to either eternal joy or eternal damnation. Peter Benes has argued that the winged skulls on New England headstones represented “the invisible and immortal spirits which were separated from their bodies by the event of death.”69 Carefully examining Puritan theological treatises, David H. Watters has demonstrated that the winged skull found commonly on seventeenth‐ and early eighteenth‐century gravestones was an image prophetically referencing the general resurrection of the dead at the time of Christ’s return.70 This resurrection would be followed by the judgment of souls, whereby the elect would enter into the joys of heaven and the damned would descend to hell. While the typical South Carolina Anglican understandings of these headstones might not have been quite so theologically sophisticated, the winged skull was certainly a reminder of the inevitable separation of the body and soul at death.<fig-group content-type="figgrp" id="fg11" position="float" seq="11">
+               <label>Fig. 11.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Thomas Baker gravestone, St. Philip’s churchyard, Charleston SC, 1737. (Photo, Louis Nelson.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg11.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>While there seems little reason to doubt the interpretation of the winged skull as some reference to the soul or ghost of the deceased, the actual location of the soul after death seems not to have been so clear.71 Two sermons written by the same South Carolina Anglican minister, for example, offer differing views on the question. In one he relays that “at the last day, the eve of the general judgement, [God] shall restore all the dead now buried and corrupted in their graves, to a new life; for I am the resurrection and the life.”72 But in another written only two years later, the same minister implies that resurrection to new life is immediate: “may the Almighty God with whom do live the spirits of them that depart hence in the Lord, and with whom the souls of the faithful, after they are delivered from the burden of this flesh, are in joy and felicity, grant that we may die the death of the righteous, and with them be partakers of joy and felicity, infinite and unspeakable—joys that are to last evermore.”73 The ambiguous location of the soul after death in popular belief perpetuated the centuries‐old tradition that the disembodied souls of the deceased occupied the natural realm in real time. Ghosts were one of the most common apparitions in the spiritually animated world of the seventeenth and eighteenth centuries.</p>
+         <p>Together with spirits of the dead, early modern theology also believed in a palpable and imminent Satan that “prowls around like a roaring lion looking for someone to devour.”74 A grotesque, horrifying horned figure with full knowledge of the natural world and the capacity to take on human form, the medieval conception of Satan and his minions survived the Reformation. One historian of early modern England argues, “the battle with Satan and his hierarchy of demons was a literal reality for most devout Englishmen.”75 A rare eighteenth‐century depiction of Satan hung in the Anglican parish church in Williamsburg, Virginia. Depicting “talons &amp; beaks &amp;c in the midst of horrible flames,” the image offered one viewer a “dreadful idea of the Old Wretch and his place of abode.”76 Often termed the “black man,” Satan and his minions freely prowled the eighteenth century.77 Although Anglicans would slowly abandon the palpable nature of evil over the course of the eighteenth century, Satan remained a powerful, very real force among Evangelicals. As late as the 1770s, one young Methodist recalled seeing “with my bodily eyes a ghostly appearance,” and on another occasion he “saw the devil who appeared very furious.”78</p>
+         <p>Satan was not the only manifestation of evil. In 1706, Nicholas Trott offered a rousing defense for the real presence of witchcraft in South Carolina’s highest court.79 As Chief Justice of South Carolina, Trott was a distinguished voice of authority in the colony. He held honorary doctorates from both Oxford and Aberdeen, he owned the largest personal library in the colony at the time, and he was a founding commissioner of Anglicanism in the colony.80 And Trott was not alone in his convictions. The most prominent Anglican clergyman in South Carolina during the early decades of the century, Francis Le Jau, described “a notorious malefactor evidently guilty of witchcraft and who has killed several persons by the Devil’s help.”81 “An Acte against Conjuration, Witchcraft, and dealinge with Evill and Wicked Spirits,” which was added to South Carolina law in 1712, demonstrates the persistence of supernatural evil in the eighteenth‐century imagination.82 Into the opening decades of the eighteenth century, well‐respected Anglicans in South Carolina expressed confidence in the real power of witches.83</p>
+         <p>Contrary to the persistent assumptions that the Reformation and the Enlightenment effectively divorced the natural from the supernatural worlds, belief in witches, folk magic, and conjuration continued into the eighteenth century at many levels of English society.84 Joseph Glanvill, a member of the Royal Society and moderate Anglican, published a scientific defense for the real presence of demons and witches in the seventeenth century (fig. 12).85 In 1718, the prominent English Anglican Francis Hutchinson published <italic>An Historical Essay concerning Witchcraft</italic>, in which he cited almost thirty works written since 1660 defending the real presence of witches. English historians are generally in agreement that into the early eighteenth century, the English persisted in their belief in witches, ghosts, and other “forces of darkness.”86 William M. Jacob has also discovered belief in witches well into the eighteenth century in his study of English Anglicanism. Herbert Leventhal has argued the same for their colonial counterparts.87 If early Anglican life was animated by the power of supernatural forces—both good and ill—such knowledge was only reinforced in South Carolina by the beliefs and practices of the enslaved African cultures that surrounded Anglicans. Accounts indicate that certain elements of African cosmology, including haunts (spirits of the dead), hags (disembodied spirits of witches), and plat eyes (evil spirits capable of taking many forms), survived the Middle Passage and permeated both traditional and Afro‐Christian belief systems in South Carolina.88 For Trott, Le Jau, and probably many other early Anglicans, supernatural manifestations of evil were alive and well in early eighteenth‐century South Carolina.<fig-group content-type="figgrp" id="fg12" position="float" seq="12">
+               <label>Fig. 12.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Detail of Joseph Glanvill, <italic>Saducismus Triumphatus: or, Full and Plain Evidence Concerning Witches and Apparitions</italic> (London, 1681), facing page 180. (Tracy W. McGregor Library of American History, Special Collections, University of Virginia Library.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg12.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>In a world shaped by an interventionist God and haunted by palpable evil, the use of cherubim was not mere decoration. It was, in fact, nothing less than the visualization of the invisible supernatural. The cherubim stationed over each window of St. James’s were a spiritual defense against the very real presence of evil (see fig. 7). Such apotropaic devices were common not only in European practice but also in colonial America. The practice among enslaved African Americans of wearing a pierced silver coin around their ankle as spiritual protection of their body from malevolent forces was fairly widespread.89 Similarly, glass beads and cowrie shells have been interpreted as African charms to protect living quarters from similar attack.90 By the nineteenth century, many blacks in South Carolina used blue paint on the door and window frames of their houses in an attempt to turn away evil spirits.91 English colonials in South Carolina were not only aware but also responsive to such African practices. As Christopher Fennel has argued, “much of the material culture of African American folk religious traditions was likely recognizable and meaningful within the conjuration traditions of many European Americans.”92 As a case in point, the spiritual animation of the graveyard crossed cultures. Fear of the spirits of the dead among slaves meant that they avoided such places at night. Because of its spiritual potency, however, grave dirt was a common ingredient in the African conjurer's bag.93 Similarly, their white masters shared a belief in the spirits of the dead haunting burial grounds into the late eighteenth century.94 Anglican knowledge of the spiritual world of their slaves increased their own awareness of supernatural evil, making all the more palpable the power of angels to guard the sanctity of the church.</p>
+         <p>The Africans’ penchant to defend themselves and their spaces against spiritual invasion was shared by their English masters, although the means employed by the two often differed. Robert Blair St. George has demonstrated how the anthropomorphic imagination of seventeenth‐century New Englanders led to fears of invasion of both their houses and their bodies by evil spirits.95 He describes how residents of seventeenth‐century England and New England inscribed or imbedded various objects into and around the structure of their house to guard against supernatural attack. In a practice that echoes the “witch bottles” commonly found in sixteenth‐ and seventeenth‐century houses in England, shoes and boots were believed to conjure and contain the devil. “When placed in walls near windows, doors, or under hearths,” St. George argues, “they might trap an evil spirit as it was trying to enter the house.”96 The apotropaic power of shoes and other objects extended also to the image of the cherubim. In 1695, for example, Samuel Sewell of Boston, a leading justice in Salem’s witchcraft trials of only a few years earlier, placed cherubim heads on his gateposts in order to protect his house from supernatural invasion. St. George locates the responsibility of supernatural protection in cherubim carved on structural members of the early New England house. The world of early South Carolina was no less gripped with fear. A cherub with extended wings sheltered the Baker family crest—a visual surrogate for the family—mounted above the entrance into Archdale Hall (figs. 13, 14).97 Other cherubim guarded the archway that led from the public hall into the private chambers of the house (figs. 15, 16). The early eighteenth‐century Izard plantation house at the Elms was ornamented with “plaster‐headed house‐hold gods.”98 Together with African haunts, hags, and plat eyes, English witches, and the spirits of the dead, Satan himself lurked through the Carolina Lowcountry. While those angels on the inside of a church visualized the heavens, those above the exterior windows functioned for many as apotropaic guardians of the sacred space within.99<fig-group content-type="figgrp" id="fg13" position="float" seq="13">
+               <label>Fig. 13.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Exterior view of Archdale Hall, Summerville, SC, 1706–10. (Charleston Library Society.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg13.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group content-type="figgrp" id="fg14" position="float" seq="14">
+               <label>Fig. 14.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Detail of fig. 13 showing coat of arms sheltered by an angel over the main exterior door. (Charleston Library Society.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg14.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group content-type="figgrp" id="fg15" position="float" seq="15">
+               <label>Fig. 15.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Interior view of Archdale Hall, Summerville, SC, 1706–10. (Charleston Library Society.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg15.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group content-type="figgrp" id="fg16" position="float" seq="16">
+               <label>Fig. 16.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Detail of fig. 15 showing two angels at the impost of the arched doorway. (Charleston Library Society.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg16.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <fn-group>
+            <fn id="fn62">
+               <label>61</label>
+               <p>For numerous references to angels on the ceilings of eighteenth‐century Anglican churches in England, see Basil F. L. Clarke, <italic>Building the Eighteenth‐Century Church</italic> (London: Society for the Propagation of Christian Knowledge, 1963), 162–87, esp. 170–71.</p>
+            </fn>
+            <fn id="fn63">
+               <label>62</label>
+               <p>Bettina Norton, “Anglican Embellishments: The Contributions of John Gibbs, Junior, and William Price to the Church of England in Eighteenth‐Century Boston,” in <italic>New England Meetinghouse and Church: 1630–1850</italic>, ed. Peter Benes (Boston: Boston University, 1979), 70–85.</p>
+            </fn>
+            <fn id="fn64">
+               <label>63</label>
+               <p>Upton, <italic>Holy Things and Profane</italic>, 119.</p>
+            </fn>
+            <fn id="fn65">
+               <label>64</label>
+               <p>Ibid.</p>
+            </fn>
+            <fn id="fn66">
+               <label>65</label>
+               <p>Elisa Lucas Pinckney, <italic>Letterbook of Eliza Lucas Pinckney, 1739–1762</italic>, ed. Elise Pinckney (Columbia: University of South Carolina, 1972), 70.</p>
+            </fn>
+            <fn id="fn67">
+               <label>66</label>
+               <p>“Broughton Letters,” <italic>South Carolina Historial and Geneological Magazine</italic> 15 (1914): 175–76.</p>
+            </fn>
+            <fn id="fn68">
+               <label>67</label>
+               <p>Levi Durand to SPG, April 23, 1747, 171, vol. 15, ser. B, SPG Letter Book, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn69">
+               <label>68</label>
+               <p>Bradford J. Wood, “‘A Constant Attendance on God’s Alter’: Death, Disease, and the Anglican Church in Colonial South Carolina, 1706–1750,” <italic>South Carolina Historical Magazine</italic> 100, no. 3 (July 1999): 204–20.</p>
+            </fn>
+            <fn id="fn70">
+               <label>69</label>
+               <p>Peter Benes, <italic>Masks of Orthodoxy: Folk Gravestone Carving in Plymouth County, Massachusetts, 1689–1805</italic> (Amherst: University of Massachusetts Press, 1977), 52.</p>
+            </fn>
+            <fn id="fn71">
+               <label>70</label>
+               <p>Watters, <italic>With Bodilie Eyes</italic>, 35–68.</p>
+            </fn>
+            <fn id="fn72">
+               <label>71</label>
+               <p>Peter Benes argues that Puritans struggled with exactly this same issue. Benes, <italic>Masks of Orthodoxy</italic>, 52–54.</p>
+            </fn>
+            <fn id="fn73">
+               <label>72</label>
+               <p>Robert Smith, “Easter and at any Time Easter Sunday AM,” 1765, no. 171, folder 15, box 1, Sermons by Number, 110–213, Bishop Smith Sermon Collection, St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+            <fn id="fn74">
+               <label>73</label>
+               <p>Robert Smith, “Funeral Sermon,” 1767, folder 4, box 7, Bishop Smith Sermon Collection [unnumbered sermons], St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+            <fn id="fn75">
+               <label>74</label>
+               <p>1 Pet. 5:8. On the early modern conception of Satan, see Thomas, <italic>Religion and the Decline of Magic</italic>, 469–77. On the presence of Satan in the eighteenth‐century South, see Christine Heyrman, <italic>Southern Cross: The Beginnings of the Bible Belt</italic> (New York: Knopf, 1997), 52–76.</p>
+            </fn>
+            <fn id="fn76">
+               <label>75</label>
+               <p>Thomas, <italic>Religion and the Decline of Magic</italic>, 472.</p>
+            </fn>
+            <fn id="fn77">
+               <label>76</label>
+               <p>Quoted in Upton, <italic>Holy Things and Profane</italic>, 120.</p>
+            </fn>
+            <fn id="fn78">
+               <label>77</label>
+               <p>On the “black man” in the early South, see Heyrman, <italic>Southern Cross</italic>, 29, 52. On the relationship between (African) blackness and evil in the early South, see Winthrop D. Jordan, <italic>White over Black: American Attitudes towards the Negro, 1550–1812</italic> (Chapel Hill: University of North Carolina Press, 1968; repr., Baltimore: Penguin Books, 1969).</p>
+            </fn>
+            <fn id="fn79">
+               <label>78</label>
+               <p>Quoted in Heyrman, <italic>Southern Cross</italic>, 71.</p>
+            </fn>
+            <fn id="fn80">
+               <label>79</label>
+               <p>Cited in Leventhal, <italic>In the Shadow of the Enlightenment</italic>, 85. See also L. Lynne Hogue, “An Edition of ‘Eight Charges Delivered at so Many General Sessions [1703–1707]' by Nicholas Trott” (PhD diss., University of Tennessee, 1972), 133–63. For a history of witches, see Ian Bostridge, <italic>Witchcraft and Its Transformations, 1650–1750</italic> (Oxford: Clarendon, 1997).</p>
+            </fn>
+            <fn id="fn81">
+               <label>80</label>
+               <p>Richard B. Davis, <italic>Intellectual Life in the Colonial South, 1585–1763</italic>, 3 vols. (Knoxville: University of Tennessee Press, 1978), 2:575–76.</p>
+            </fn>
+            <fn id="fn82">
+               <label>81</label>
+               <p>Le Jau to SPG, April 15, 1707, 332, vol. 3, ser. A, SPG Letter Book, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn83">
+               <label>82</label>
+               <p>See Thomas Cooper and David J. McCord, <italic>The Statutes at Large of South Carolina</italic>, 10 vols. (A. Johnston: Columbia, SC, 1836–41), 2:509–10, 739; cited in Edgar, <italic>South Carolina: A History</italic>.</p>
+            </fn>
+            <fn id="fn84">
+               <label>83</label>
+               <p>See Jon Butler, <italic>Awash in a Sea of Faith</italic> (Cambridge, MA: Harvard University Press, 1990), 83–86.</p>
+            </fn>
+            <fn id="fn85">
+               <label>84</label>
+               <p>See Leventhal, <italic>In the Shadow of the Enlightenment</italic>; Jacob, <italic>Lay People and Religion</italic>, 117–20; and Peter Benes, ed., <italic>Wonders of the Invisible World: 1600–1900</italic> (Boston: Dublin Seminar, 1995). Don Yoder has recently argued the same for German Americans. See Donald Yoder, <italic>Discovering American Folklife: Studies in Ethnic, Religious, and Regional Culture</italic> (Ann Arbor, MI: UMI Research Press, 1990), 95.</p>
+            </fn>
+            <fn id="fn86">
+               <label>85</label>
+               <p>See Richard Olson, “Spirits, Witches, and Science: Why the Rise of Science Encouraged Belief in the Supernatural in Seventeenth‐Century England,” <italic>Skeptic</italic> 1, no. 4 (1992): 34–43.</p>
+            </fn>
+            <fn id="fn87">
+               <label>86</label>
+               <p>Jacob, <italic>Lay People and Religion</italic>, 117–20. See also “Witchcraft: Decline,” in Thomas, <italic>Religion and the Decline of Magic</italic>, 570–86.</p>
+            </fn>
+            <fn id="fn88">
+               <label>87</label>
+               <p>See “Witchcraft,” in Leventhal, <italic>In the Shadow of the Enlightenment</italic>, 66–125.</p>
+            </fn>
+            <fn id="fn89">
+               <label>88</label>
+               <p>Charles Joyner, <italic>Down by the Riverside: A South Carolina Slave Community</italic> (Urbana: University of Illinois Press, 1984), 141–71. Frey and Wood concur that the African belief in witches and evil spirits survived the Middle Passage. See Sylvia R. Frey and Betty Wood, <italic>Come Shouting to Zion: African American Protestantism in the American South and British Caribbean to 1830</italic> (Chapel Hill: University of North Carolina Press, 1998), 56, 59. For an extraordinary description of haunts and hags in early nineteenth‐century Jamaica, see Matthew Gregory Lewis, <italic>A Journal of a West Indian Proprietor</italic> (London: John Murray, 1834; republished, New York: Negro Universities Press, 1969), 97. See also M. Drake Patten’s article on slave beliefs in “African‐American Spiritual Beliefs: An Archaeological Testimony from the Slave Quarter,” in Benes, <italic>Wonders of the Invisible World</italic>, 44–52.</p>
+            </fn>
+            <fn id="fn90">
+               <label>89</label>
+               <p>Frey and Wood, <italic>Come Shouting to Zion</italic>, 46–48; Eugene Genovese, <italic>Roll, Jordan, Roll: The World the Slaves Made</italic> (New York: Vintage Books, 1976), 223; Hand, <italic>The Frank C. Brown Collection</italic>, 106–7, 164–65. See also Christopher Fennel, “Conjuring Boundaries: Inferring Past Identities from Religious Artifacts,” in <italic>International Journal of Historical Archaeology</italic> 4, no. 4 (2000): 281–313.</p>
+            </fn>
+            <fn id="fn91">
+               <label>90</label>
+               <p>Mark P. Leone and G. Fry, “Conjuring in the Big House Kitchen: An Interpretation of African American Belief Systems Based on the Uses of Archaeology and Folklore Sources,” <italic>Journal of American Folklore</italic> 112, no. 445 (Summer 1999): 372–403; Linda France Stine, Melanie A. Cabak, and Mark D. Groover,“Blue Beads as African‐American Cultural Symbols,” <italic>Historical Archaeology</italic> 30, no. 3 (1996): 49–75.</p>
+            </fn>
+            <fn id="fn92">
+               <label>91</label>
+               <p>Joyner, <italic>Down by the Riverside</italic>, 153.</p>
+            </fn>
+            <fn id="fn93">
+               <label>92</label>
+               <p>Christopher Fennel, “Conjuring Boundaries,” 281–313, quote on 282.</p>
+            </fn>
+            <fn id="fn94">
+               <label>93</label>
+               <p>See Albert Raboteau, <italic>Slave Religion: The Invisible Institution in the Antebellum South</italic> (Oxford: Oxford University Press, 1978), 8; Joyner, <italic>Down by the Riverside</italic>, 147.</p>
+            </fn>
+            <fn id="fn95">
+               <label>94</label>
+               <p>Robert Olwell, <italic>Masters, Slaves, and Subjects: The Culture of Power in the South Carolina Lowcountry, 1740–1790</italic> (Ithaca, NY: Cornell University Press, 1998), 116.</p>
+            </fn>
+            <fn id="fn96">
+               <label>95</label>
+               <p>St. George, <italic>Conversing by Signs</italic>, 115–204.</p>
+            </fn>
+            <fn id="fn97">
+               <label>96</label>
+               <p>Ibid., 192. On witch bottles in England, see Ralph Merrifield, <italic>The Archaeology of Ritual and Magic</italic> (New York: Amsterdam Books, 1987), 163–75.</p>
+            </fn>
+            <fn id="fn98">
+               <label>97</label>
+               <p>This cherub was noted by Emma Drayton‐Grimke in her 1924 “ The Chronicles of Archdale Hall,” unpublished manuscript, South Carolina Historical Society, Charleston, reprinted in Martha Zierden, Jeanne Calhoun, and Debi Hacker Norton, “Archdale Hall: Investigations of a Lowcountry Plantation,” in <italic>Charleston Museum Archaeological Contributions</italic> 10 (1985), 19–20.</p>
+            </fn>
+            <fn id="fn99">
+               <label>98</label>
+               <p>Quoted in Samuel Gaillard Stoney, <italic>Plantations of the Carolina Lowcountry</italic> (Charleston, SC: Carolina Art Association, 1938), 79.</p>
+            </fn>
+            <fn id="fn100">
+               <label>99</label>
+               <p>Angels over windows were also not unique to St. James, but are in evidence in late seventeenth‐century parish churches in England as well. Minsterly in Shropshire, ca. 1689, for example, has similar cherubim over the windows. On the cherub as apotropaic sign, see St. George, <italic>Conversing by Signs</italic>, 181–95.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc3">
+         <title>Seeing “The Word”</title>
+         <p>In addition to the signification of God through arched windows and the symbolic representations of angels, the presence of God in the space of St. James Church was equally evident in the visualization of the scriptures. Above the chancel window of St. James, Goose Creek, the scriptures appear both in the form of an open Bible flanked by cherubim over the window and in the scriptural passage that seems to spill from the Holy Writ on both sides (fig. 17). In bold, capital letters, “Glory to God on High on Earth Peace Good Will towards Men” follows the window architrave, exaggerating the semicircular profile of the window. For early Anglican viewers, this visualization of the scriptures would have represented something far more powerful than simply words. As William Graham has argued, “for Christians ‘the word’ is theologically and functionally not a written text but the living, spoken message of the Gospel.”100 The opening passages of the Gospel of John remind us of the complex theology of “The Word” in Christianity: “In the beginning was the Word and the Word was with God and the Word was God.” This fluidity of meaning was particularly acute for those who learned to read using early modern primers, where the page was typically organized with figural scenes immediately adjacent to narrative texts, reinforcing the notion that words were a surrogate for the things or concepts they represented.101 Anglicans seized on the analogous relationship between Christ and “The Word,” and, in doing so, words—whether read, heard, or simply seen—were vested with sacred power and sacred presence.<fig-group content-type="figgrp" id="fg17" position="float" seq="17">
+               <label>Fig. 17.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Chancel window of St. James Episcopal Church, Goose Creek, Berkeley County, SC, 1714–23. (Photo, Louis Nelson.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg17.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The use of a scriptural passage on the window of St. James is a rare colonial example of a common early Anglican practice. In most English examples, the written text is often located near the chancel, the pulpit, or the font in an effort to reinforce the biblical authority of the sacraments or the sermon. The walls near the altar in Stokesay in Shropshire, for example, are painted with a tabernacle surrounding “Come eat of my bread and drink of the wine which I have mingled forsake ye food … [lost]” (fig. 18). Near the pulpit the walls read “As new born Babes desire ye milk of ye word that ye may grow thereby.”102 In 1710, Keighley in Yorkshire was beautified with “many Scripture sentences (besides the Creed, the Lord’s Prayer, and the Ten Commandments) fit for that holy place.”103 So, while the texts in St. James, Goose Creek, are unique for early South Carolina, they were not so in the larger world of seventeenth‐ and early eighteenth‐century Anglicanism.<fig-group content-type="figgrp" id="fg18" position="float" seq="18">
+               <label>Fig. 18.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Detail of painted wall text in Stokesay Church, Shropshire, England, seventeenth century. (Photo, Louis Nelson.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg18.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Words appeared most commonly in two other locations in early eighteenth‐century churches. The most explicit was the presentation of essential texts on tablets in or near the chancel. The large wooden tablets in St. Philip’s parish church present these texts in a typical fashion (see fig. 2). The presentation of the Decalogue—the Ten Commandments—was proscribed by Canon 82 of the Church of England, but in practice the commandments were often accompanied by the creed and prayer.104 In visual communion with the arched profile of barrel‐vaulted ceilings, compass‐headed windows, and slate gravemarkers, the tablets containing these words were always vertical and arch topped, conveying the divine source of the texts they contained. Drawing on the familiarity of the tablet form in seventeenth‐century churches, the shape, size, and often gilt lettering of the tablets mounted on the walls of the church usually within or above the chancel reinforced the authority of these as the Word of God.</p>
+         <p>The divine authority of words would also have been visible in the large folio books used during the service by the minister; the smaller, quarto books that comprised the parish library; and the similarly sized personal books owned by the wealthiest Anglicans. The most pronounced and most sacred of books was, of course, the parish Bible. While a smaller, fairly plain Bible would have sufficed, most parishes made certain that their church had an “elegant Folio Bible.” The common usage of a “great Bible” implied that these parish copies were larger and more visually imposing than private or personal copies.105 The authority of the word contained in the scriptures was visually manifest in the size and fine finish of these Bibles.106 The second most important book was the Book of Common Prayer, from which the liturgy of the service was read. Most parishes had one or more copies, often folio, but sometimes smaller as a way of conveying its secondary status.</p>
+         <p>Most parishes owned libraries, commonly books of sermons but also treatises on theology or church history.107 Already by the closing years of the seventeenth century, the parish of St. Philip’s owned a theological library that included 233 titles.108 In 1723, St. James, Goose Creek, listed a large library of 29 titles. A more typical catalog of books owned by Christ Church parish in 1751 lists 15 volumes, 10 of which were folios.109 The much larger collections of volumes owned by ministers—the rector of St. James, Goose Creek, had a personal library of 230 volumes—suggest that in most cases these smaller parish libraries were not only owned by the parish but remained in the church.110 The vestry of St. Stephen’s paid in 1754 for the construction of “a place under the Pulpit to lock up the Books.”111 The commissioners in charge of building St. Michael’s made a point to include a bookcase in the church warden's pew.112 As a result, a number of other books owned by the parish might have been found on the interior of any church. It is also clear that a number of Anglicans in a service brought private books with them to church.113 Gideon Johnson complained in 1715 that since a recent hurricane destroyed the church books, the congregation is “obliged to make use of our Private Books.”114 Not only were religious books by far the most common category in personal libraries of the early South, but the Bible, the Book of Common Prayer, and <italic>The Whole Duty of Man</italic> were almost “omnipresent.”115</p>
+         <p>Words were so powerful in early Anglicanism that the visual consumption of words played an important role in Anglican worship. The implied presence of the author carried a gravity that our text‐inundated culture has lost. In his discussion of early Virginia, Rhys Isaac reminds his readers of the visual authority of formal documents in a widely illiterate culture where text was not yet common. William Graham concurs: “We have little access to the sense of awe and respect before the physical copy of <italic>any</italic> text that prevailed in ages … in which a book was (is) a rare thing, and a scriptural book often the <italic>only</italic> book.”116 As words penned by God, scriptural passages in part or the Bible in whole took on the sensuous presence of divine “aura.” Describing sacred images, David Morgan defines “aura” as “a presence or power that impresses upon the viewer the authenticity, veracity, or authority of whomever or whatever the image depicts.”117 In an early modern Protestant context, sacred words would have had similar “aura,” especially for the illiterate majority who could certainly see and hear but not read.118</p>
+         <p>The presence of Holy Writ in the space of the church would have been perceived in the seventeenth and early eighteenth centuries in ways very different from what we might imagine. In his study of hearing in early America, for example, Leigh Eric Schmidt has explored what he calls a “modern hearing loss,” suggesting that words had a power we no longer recognize.119 In a culture where illiteracy was prevalent and reading aloud was still a common practice, written words were, as William Graham has argued, “a repository of the vocal words of an author.”120 Variations in typeface, by extension, implied intonations of voice.121 In the passage lining the chancel window of St. James, the use of all capital letters emphasizes the passage as the loud, declamatory pronouncement of the heavenly host announcing to the shepherds the birth of the Christ child. When seeing Holy Writ, the early modern viewer would not have given it silent intellectual consideration as we might but would have seen and heard the voice of God.122 For eighteenth‐century viewers and hearers, writing was an extension of speaking, and written words in the form of the Decalogue, scriptural passages painted on the walls, or the great Bible implied—even realized—the presence of the author.</p>
+         <fn-group>
+            <fn id="fn101">
+               <label>100</label>
+               <p>For a complete discussion of the complexity of “The Word” in the Christian tradition, see William Graham, “The Spoken Word as Christian Holy Writ,” in his <italic>Beyond the Written Word: Oral Aspects of Scripture in the History of Religion</italic> (New York: Cambridge University Press, 1987), 63, 119–25. For discussions of seventeenth‐century Anglican homiletics, see Martin Seymour‐Smith, <italic>The English Sermon: An Anthology</italic> (Cheadle, England: Carcanet, 1976); Arthur Pollard, <italic>English Sermons</italic> (London: Longmans, 1963); Gerald R. Cragg, <italic>The Church and the Age of Reason, 1648–1789</italic> (Baltimore: Penguin, 1970).</p>
+            </fn>
+            <fn id="fn102">
+               <label>101</label>
+               <p>See David Morgan, “For Christ and the Republic: Protestant Illustration and the History of Literacy in Nineteenth‐Century America,” in <italic>The Visual Cultures of American Religion</italic>, ed. David Morgan and Sally M. Promey (Berkeley: University of California Press, 2001), 49–50.</p>
+            </fn>
+            <fn id="fn103">
+               <label>102</label>
+               <p>Jacob, <italic>Lay People and Religion</italic>, 208–9.</p>
+            </fn>
+            <fn id="fn104">
+               <label>103</label>
+               <p>Quoted in Clarke, <italic>The Building of the Eighteenth Century Church</italic>, 170.</p>
+            </fn>
+            <fn id="fn105">
+               <label>104</label>
+               <p>G. W. O. Addleshaw and Frederick Etchels, <italic>Architectural Setting of Anglican Worship</italic> (London: Faber &amp; Faber, 1948), 158.</p>
+            </fn>
+            <fn id="fn106">
+               <label>105</label>
+               <p>Dalcho, <italic>Protestant Episcopal Church in South Carolina</italic>, 300; Thomas Hasell to SPG, September 6, 1707, 362, vol. 3, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn107">
+               <label>106</label>
+               <p>Paul Gutjahr, <italic>An American Bible: A History of the Good Book in the United States, 1777–1880</italic> (Stanford, CA: Stanford University Press, 1999).</p>
+            </fn>
+            <fn id="fn108">
+               <label>107</label>
+               <p>Richard B. Davis, <italic>The Southern Colonial Bookshelf: Reading in the Eighteenth Century</italic> (Athens: University of Georgia Press, 1979), 73.</p>
+            </fn>
+            <fn id="fn109">
+               <label>108</label>
+               <p>Cited in Davis, <italic>Intellectual Life</italic>, 2:516.</p>
+            </fn>
+            <fn id="fn110">
+               <label>109</label>
+               <p>“Catalogue of Books in the Library of St. James, Goose Creek,” 142, vol. 4, ser. B, SPG Letter Book, 1701–86, microfilm at University of South Carolina; “Christ Church Parish, Minutes of the Vestry, 1708–1759, 1797–1847,” 1751, microfilm at South Carolina Department of Archives and History, Columbia, SC.</p>
+            </fn>
+            <fn id="fn111">
+               <label>110</label>
+               <p>“Items from the estate inventory of Mr. Ludham, rector of St. James, Goose Creek,” 287, vol. 4, ser. B, SPG Letter Book, 1701–86, microfilm at University of South Carolina. A full list of the value of libraries owned by South Carolina clergymen appears in Walter B. Edgar, “Notable Libraries of Colonial South Carolina,” <italic>SCHG</italic> 72, no. 2 (April 1972): 105–10.</p>
+            </fn>
+            <fn id="fn112">
+               <label>111</label>
+               <p>“St. Stephen’s Parish, Craven Co., Vestry Minutes, 1754–1873,” August 26, 1754, Craven County, SC.</p>
+            </fn>
+            <fn id="fn113">
+               <label>112</label>
+               <p>St. Michael’s Collection: Building of Church.</p>
+            </fn>
+            <fn id="fn114">
+               <label>113</label>
+               <p>Newspaper advertisements suggest that personal Bibles, Books of Common Prayer, and catechisms were widely available in South Carolina in the early eighteenth century, e.g., “To be sold by the printer hereof, Common Prayers, Testaments, Psalters … Church Catechisms,” <italic>South Carolina Gazette</italic>, January 13, 1733.</p>
+            </fn>
+            <fn id="fn115">
+               <label>114</label>
+               <p>Johnson to SPG, December 19, 1715, 37, vol. 4, ser. B, SPG Letter Book, 1701–86, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn116">
+               <label>115</label>
+               <p>Davis, <italic>Intellectual Life</italic>, 2:528, and also “Religion,” in <italic>Southern Colonial Bookshelf</italic>, 65–90. See also Walter B. Edgar, “Some Popular Books in Colonial South Carolina,” <italic>South Carolina Historical Magazine</italic> 72, no. 3 (July 1971): 174–78.</p>
+            </fn>
+            <fn id="fn117">
+               <label>116</label>
+               <p>Rhys Isaac, “Dramatizing the Ideology of the Revolution: Popular Mobilization in Virginia, 1774 to 1776,” 3rd ser., <italic>William and Mary Quarterly</italic> 33, no. 3 (July 1976): 357–85; Graham, <italic>Beyond the Written Word</italic>, 61.</p>
+            </fn>
+            <fn id="fn118">
+               <label>117</label>
+               <p>David Morgan, <italic>Protestants and Pictures: Religion, Visual Culture and the Age of American Mass Production</italic> (New York: Oxford University Press, 1999), 6.</p>
+            </fn>
+            <fn id="fn119">
+               <label>118</label>
+               <p>Leigh Schmidt argues that in the early modern context, “words became printed objects more than breathed speech, things to be seen rather than voices to be heard.” Leigh Eric Schmidt, <italic>Hearing Things: Religion, Illusion and the American Enlightenment</italic> (Cambridge, MA: Harvard University Press, 2000), 16.</p>
+            </fn>
+            <fn id="fn120">
+               <label>119</label>
+               <p>Ibid., 7.</p>
+            </fn>
+            <fn id="fn121">
+               <label>120</label>
+               <p>Graham, <italic>Beyond the Written Word</italic>, 39. Reinhard Wittman describes the most pervasive forms of reading in the eighteenth century as “naïve, non‐reflexive and undisciplined, and for the most part performed aloud. It constituted the sole form of reading among the rural population and a large section of the urban lower classes too.” Reinhard Wittman, “Was There a Reading Revolution?” in <italic>A History of Reading in the West</italic>, ed. Guglielmo Cavallo and Roger Chartier (Oxford: Polity Press, 1999), 290. See also William Dyrness, <italic>Reformed Theology and Visual Culture: The Protestant Imagination from Calvin to Edwards</italic> (Cambridge: Cambridge University Press, 2004), 31.</p>
+            </fn>
+            <fn id="fn122">
+               <label>121</label>
+               <p>“Silent, private reading appears to have become dominant only with the advent of widespread literacy in much of Western Europe, which was largely a nineteenth‐century phenomenon”; Graham, <italic>Beyond the Written Word</italic>, 41. See also Richard Cullen Rath, <italic>How Early America Sounded</italic> (Ithaca, NY: Cornell University Press, 2003), x.</p>
+            </fn>
+            <fn id="fn123">
+               <label>122</label>
+               <p>Graham, “Of Written and Spoke Words,” in his <italic>Beyond the Written Word</italic>, 9–44.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc4">
+         <title>Sensing the Sacred</title>
+         <p>The commingling of sight and sound as vehicles for imputing divine power to words serves as a useful reminder that all five senses contributed to ways of knowing the divine in early modern Anglicanism. This was particularly true in a pre‐Enlightenment world animated by the supernatural and things unseen. To fully understand the material dimensions of religious belief and practice, material culture scholarship must unseat the tendency to favor sight to the detriment of the other senses. While sight was certainly an important vehicle for knowing among early Anglicans, so too were hearing, smell, and taste. If hearing words communicated power in ways we no longer recognize, what about other sounds? What smells and tastes shaped the sacred?</p>
+         <p>Writing of his parish church in St. John’s, Berkeley, in 1714, the Rev. Maule was pleased that it had “a handsome pulpit, reading Desk, clerks Pew, Communion Table, and a Chancel Railed in; all made of Cedar.”123 Of his church in Beaufort, Rev. Jones boasted in 1728, “We have a pulpit and desk and also 6 pews and a communion table decently raised in, all of cedar.”124 In the same year, the Rev. Hassell described in his church in the parish of St. Thomas and St. Dennis, “a handsome Pulpit Reading Desk some Pews a Communion Table neatly railed in all of Cedar Wood.”125 An abundant resource in the Carolina Lowcountry—and exotic to English sensibilities—cedar was widely used in early furniture making and seems to have been an integral part of the furniture of most early churches. But if it was so common, why did ministers seem so eager to identify its use?126 Assuming practical availability fails to acknowledge the associations and metaphors often implicating the most common seventeenth‐ and early eighteenth‐century objects, forms, or materials.</p>
+         <p>Cedar was distinctive in that it emitted an easily identifiable scent. Writing of the “odiferous and fragrant Woods” thriving in Carolina in 1682, one writer commented on the “lofty Pine” and black walnut, which was “esteem’d” for its rich grain, but it was the cedar he described as “sweet smelling.”127 Another wrote in 1700 “Tables, Wainscots, and other necessaries are made [from cedar] and esteemed for their sweet smell.”128 Cedar’s strong scent was highly evocative. Writing to a friend in the spring of 1742, Eliza Pinckney wondered, “how I could in this gay season think of planting a Cedar grove, which rather reflects an Autumnal gloom and solemnity than the freshness and gayety of spring.” In the same letter Pinckney reiterated her sense that a cedar grove conveyed “solemnity,” certainly a characteristic Anglicans thought appropriate in their churches.129 This association with solemnity might have motivated James Childs in the 1730s to enclose the church square in his newly laid out town of Childsbury with a hedge of cedar.130 An olfactory response to the abundance of cedar in the early Anglican interior emitted from pews, liturgical fittings, and architectural ornament would have distinguished the church from other spaces, reinforcing a sense of otherness.</p>
+         <p>For those Anglicans versed in the scriptures, cedar’s solemn scent would have also evoked the deep theological resonance of the cedars of Lebanon, much revered and repeatedly lauded in the Old Testament as the most majestic of all trees. The Old Testament repeats on numerous occasions the fact that Solomon’s Temple in Jerusalem was finished in cedar: “The cedar paneling inside the Temple was carved with gourds and flower blossoms. Everything was cedar; not a stone could be seen.” Even the altar table was cedar finished with gold.131 Anglicans might also have known that cedar had important ritual functions as well.132 In the Hebraic law outlined in the book of Leviticus, cedar wood is an essential component of a ritual designed to purify—make sacred—a house.133 In this way, the use of cedar in a church interior might have shared functions with the inscription of the cross in the church building and the mounting of cherubim over its windows: the assurance of spiritual purity. The biblical significance of cedar was not unfamiliar to eighteenth‐century Anglicans in South Carolina. In a sermon on the importance of the temple, St. Philip’s minister Robert Smith expounded on the moment when David realized “how shamefully unreasonable it was that [I] should dwell in a house of Cedar, but the ark of God within curtains.”134 Smith connected the cedar of David’s house with grandeur, strength, and stability by contrasting it with the ephemeral nature of the tent sheltering the Ark of the Covenant.</p>
+         <p>Cedar’s powerful scent and biblical significance meant that it often remained unpainted. In an early instance of the use of paint, the vestry of Prince Frederick’s parish ordered the interior finishes of their parish church to be painted in 1740, although the cedar altar and pulpit were only polished.135 In 1744, Rev. Durand was pleased that the pews of his church had in 1744 been “newly glazed and painted,” but again the liturgical fittings remained unpainted.136 For early eighteenth‐century Anglicans, the finishing of a church’s interior fittings in cedar was of great significance; its scent would have evoked solemnity, purity, and majesty, virtues that distinguished the church from other buildings in early South Carolina. From the solemnity of a cedar grove to the cedars of Lebanon to the paneled interior of Solomon’s Temple, the strong scent of cedar might have drawn upon one of a variety of associations to impute sanctity to the space of the church.</p>
+         <p>In addition to being place bound, the sanctity of the Anglican divine worship service was also time specific, and one of the most important agents initiating sacred time was the bell. Descriptions of the new church of St. Philip’s boasted as early as 1712 that it was to include a ring of bells, but the parish had difficulties obtaining one to their satisfaction. The single bell that arrived in 1750 “sounds as from under a Dunghill and is so low, that it can scarce be heard at the distance of two or three hundred yards.”137 The vestry was sufficiently disappointed in its impotent ring to return it to its English manufacturers. The <italic>South Carolina Gazette</italic> announced in 1762 that a subscription was underway to purchase a set of bells for the as yet incomplete church of St. Michael’s; the church would soon thereafter boast a fine ring of eight bells.138 But bells were not limited to Charleston; they were an essential fixture for parish churches in smaller towns and plantation parishes as well. The parish churches in Georgetown, Dorchester, and Beaufort all had bells from an early date. These bells might have been sufficient to ring through the town but certainly not to the miles of plantations that surrounded it.139 Even the rural church in the plantation parish of St. Andrew’s had a “small bell” as early as 1727.140</p>
+         <p>Bells in the early eighteenth century might have retained some of their ancient function as a defense against evil spirits and demons. The inscription on one early English bell includes a list of its responsibilities. Many of them are not surprising, “I praise the true God, call the people, assemble the clergy,” but the engraver also included in this list “toll for funerals, subdue the thunder flash … [and] drive away plague.”141 The ring of a baptized medieval bell was understood to be the voice of God, and the tolling of a bell could ward off disease and thunder, believed to be the effect of demons clashing in the skies.142 Even though Protestant church fathers had worked feverishly for over a century to eliminate such traditional beliefs, some of these functions survived the Reformation. One English bell inscribed in 1705 boasted that it caused “the return of fine weather.”143 Richard Rath reminds us that sounds in colonial American “had a tangible power we no longer grant them.”144 This was certainly true for early South Carolinians. In July of 1740, James Ellerton recorded the effects of a powerful storm that damaged an incomplete house he was helping to construct. Although “lightning took fire in the chitchen (sic.),” it was the sound of thunder that “split the east chimney [and] broke the sashes in the cedar room and passage.” Seeing the supernatural in this storm, a relieved Ellerton attributed the limited damage to God’s mercy.145 Into the early eighteenth century the ringing of a bell was also believed to facilitate God’s mercy.146 In a South Carolina example, the handbells rung by the sexton at the 1705 funeral of Elizabeth Sindrey might have been intended to drive away demons hovering around the deceased (fig. 19).147 Belief in the supernatural power of bells persisted as late as 1766, when Edward Weyman was paid for ringing a “coffin bell” as part of his duties as an undertaker.148<fig-group content-type="figgrp" id="fg19" position="float" seq="19">
+               <label>Fig. 19.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Detail of John Dunstall engraving of <italic>Plague Scenes of 1655</italic>, PL2973/447d, 3rd scene. This detail shows a man ringing a bell before a coffin passing through the streets of London. (Pepys Library, Magdalene College, Cambridge University.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg19.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>But the most obvious function of the parish bell was gathering the faithful for service.149 The ringing of bells on Sunday morning distinguished cities, towns, and more populated parishes from the backcountry, where, even in the early nineteenth century, “no pleasant sound of church‐going bells is echoed from their heights [of hills] and through the vallies.”150 In addition to calling together the faithful and marking the beginning of the service, bells were also used to mark significant events on the calendar, such as Christmas and New Year's Day, and important rites of passage, such as funerals.151 In the late seventeenth century, English church bells were often used to govern the natural progression of the day, chiming at the break of day and at dusk, for example.152 The setting apart of the divine service from the rest of the week echoed the Anglican adherence to the liturgical seasons. Like most colonial parishes, those in South Carolina did not abide by the complex schedule of festivals celebrated by their English counterparts.153 Most limited themselves to the four most important festival days—Christmas, Easter, Whitsunday, and Michaelmas, which were most often the four occasions for the celebration of communion.154 But even in observing these, Anglicans set themselves apart from many Protestants who denounced their celebration.155 These sacred times and seasons were important enough to the parish of St. Andrew’s that in a letter to the bishop of London, they accused their rector of “not giving notice of the fasts or Feasts of the Church, not administering the Holy Sacrament on Christmas.”156 Another minister was pleased to write, “I had a great number of Communicants Christmas Day than ever had been here before.”157 But aside from the partaking of communion, there was little else to distinguish Christmas in the church. The English practice of decorating the church for Christmas, for example, only appears in the South Carolina records in the opening years of the nineteenth century.158</p>
+         <p>In addition to the practical function of calling the faithful to worship, the bell also marked the transition from common to sacred time. Although Rene Descartes had in the early seventeenth century proposed a mechanistic construction of the cosmos governed by Absolute (or Clock) Time—whereby all time was conceived as the continuous progression of equal units—clock time was less important than natural time and sacred time in eighteenth‐century life.159 For a culture whose majority had little access to personal timepieces, natural time—the seasons, the tides, the rising and setting of the sun—governed life. In 1739, for example, no persons were allowed to offer for sale meats or other provisions “before the ringing of the Market Bell at Sun rising.”160 Interrupting natural time was sacred time, a sequence of “indefinitely recoverable and repeatable” events that were usually initiated by the ringing of a bell.161 The consistent, repeatable nature of the liturgy meant that each Anglican worship service was one infinitely repeatable moment interrupting natural time; sacred time was a constant place that stood outside the cyclical events of natural time or the linear march of clock time.162 As a result, time was essential to realizing the sacred in Protestant worship. While the architecture of the early Anglican church visualized its function as an opening between the visible and the supernatural, the sanctity of the space was not immutable. The palpable presence of the divine realized during the service depended on the rhythm of sacred time. The ringing of the bells to initiate the service functioned as a temporal threshold that participated with the physical threshold of the church walls to mark the sacred.</p>
+         <p>Anglicans in South Carolina enlisted visual markers to reinforce the audible distinctions between sacred and common time. The row of flaming hearts over the door into St. James, Goose Creek, visualized the “utmost religious fervor” associated with that symbol in the Christian tradition (see fig. 7).163 It was, of course, the collective fervor of the gathered faithful together with the imminence of the godhead that bestowed upon the church its sacred nature.164 Anglicans recognized that the sanctity of the space was animated at the time of worship. This specific symbol of religious devotion extended the manifestation of the sacred in both space and time at the church to private devotional time in the manuscript prayerbook of Edward Brailsford, where rows of flaming hearts initiate both morning and evening prayers (fig. 20).165 These hearts reminded the reader that it was religious fervor that realized the sacred in the time of the devotional just as it was the gathered faithful that manifested the sacred in the space of the church.<fig-group content-type="figgrp" id="fg20" position="float" seq="20">
+               <label>Fig. 20.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Detail of evening prayer from Edward Brailsford manuscript devotional, ca. 1710. (Photocopy, South Caroliniana Library.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg20.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>The religious implications of time were not just limited to hours of worship or the march of the liturgical seasons. Sacred time was also linear, bounded at one end by Creation and at the other by Christ’s return. The construction of a church steeple offered a unique opportunity to visualize the bounds of time recognized by Christianity. Together with the Charleston meetinghouses of the Scotch Presbyterians and the French Huguenots, the steeples of St. Helena’s in Beaufort, St. George’s in Dorchester, and St. Philip’s in Charleston were all surmounted with a cock, the traditional symbol of watchfulness and vigilance (see fig. 1).166 As the animal familiarly burdened with announcing the arrival of the day at the rising of the sun, the cock represented the hopeful anticipation of the dawning of a new age. The symbolic relationship between the returning Christ and the rising sun draws from an Old Testament prophecy in Malachi, “But unto you that fear my name shall the Sun of righteousness rise with healing in his wings.”167 While steeple bells marked the initiation of the sacred liturgy, the cock reminded observers also of linear time bounded by the eventual return of Christ.</p>
+         <p>If the bell initiated sacred time, the chalice facilitated the indwelling of the Holy Spirit through the sacrament of Holy Communion, where those Anglicans who participated in the sacrament might “taste and see that the Lord is Good” (fig. 21).168 The extraordinary quality of South Carolina’s surviving chalices reinforces the importance of their role in the spiritual life of the small percentage of Anglicans who were actually communicants. Anglicans interchangeably referred to the chalice as the cup and the paten as a salver. In eighteenth‐century Anglicanism, the chalice most frequently took the form of a standing cup and the paten a small, plain plate. Derived from the smaller Roman Catholic chalice, the larger bowl of the Anglican standing cup had long been associated with the Protestant commitment to opening full communion to the laity by serving the elements to all prepared to partake in the sacrament.169 Reflecting their shared function, the inverted paten was often intended as a lid to the chalice. As the principal object mentioned in the scriptural passages describing the Last Supper, the chalice was the most important piece of communion plate, which meant it was often the first piece obtained by the parish.170 After the minister was instructed to break the bread, he raised the cup and repeated the prayer of consecration. The minister then offered the chalice to each of the communicants who, taking the cup “into their hands,” partook of its contents.<fig-group content-type="figgrp" id="fg21" position="float" seq="21">
+               <label>Fig. 21.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Miles Brewton, chalice for St. Thomas parish, 1711. (Episcopal Diocese of South Carolina; Photo, Keith Leonard.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg21.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Through sight, touch, and taste, the chalice participated in the transformation of the soul. As communicated in the Book of Common Prayer, the Holy Communion was “received in remembrance of [Christ’s] meritorious cross and passion, whereby alone we obtain remission of sins, and are made partakers of the kingdom of heaven.” In his book of private devotions, Edward Brailsford confessed to God that before he approached the table for communion he was fully aware of his need for repentance. His prayer confessed that he was “freely willing to part with these [sins] forever, and to part even with those Darling Lusts that have heretofore been as dear to me as my right eye.”171 The words of the Eucharistic prayer set the stage for the event: “Grant us therefore, gracious Lord, so to eat the flesh of thy dear Son Jesus Christ and to drink his blood, that our sinful bodies may be made clean by his body, and our souls washed though his most precious blood: and that we may evermore dwell in him and he in us. Amen.”172 For the minority of Anglicans who participated, the sacrament of the Lord’s Supper was central to the regeneration of the believer; through this most mysterious of sacraments, the believer experienced forgiveness. In a very real way, it was the chalice that mediated God’s grace and forgiveness.</p>
+         <p>Although the chalice reminded communicants most directly of Christ’s words in the Upper Room, as a physical object rooted in historical time, the chalice manifested memory on other levels as well. Reaching beyond the Last Supper, the chalice reminded the communicant of another manifestation of the body of Christ, the Church. The Holy Communion was not only a sacrament with Christ but with each other as well. This was made evident in the fact that the small coterie of communicants shared a common cup. Set apart from others (and even other Anglicans) as a community, surrounding the table in the chancel, the communicants shared the chalice. The extraordinary frequency with which residents of the eighteenth century drank from common vessels meant that they understood more easily than we the community constructed by common vessels.173 The inscription of the parish name on the chalice reinforced this collective identity. As a result, the chalice became the visual focus of the communion as the single object offered by the church and shared by communicants. “The Church” was not limited to just the Church Militant—those temporally present—but extended to include the Church Triumphant as well.174 In the midst of the communion, in fact, the Book of Common Prayer offered a prayer for the Church in both manifestations. Prior to the consumption of the elements, the communicants implore God “to inspire continually thy universal Church [Militant] with the spirit of truth, unity, and concord.” During the same prayer a few moments later, they pray also for the Church Triumphant: “for all thy servants departed this life in they faith and fear; beseeching thee to give us grace, so to follow their good examples, that with them we may be partakers of thy heavenly Kingdom.” As Robert Smith explained in one sacrament sermon, “By this communion here upon Earth, the Church militant is united with the triumphing Saints in Glory.”175 Smith understood the materiality of the sacrament to facilitate communion between the Church Militant and the Church Triumphant. In a different sermon he used church buildings to construct a consciousness between the present and the past. “Buildings,” argued Smith, “are lasting monuments.” They remind the living “how warm was the zeal to promote the honour of God” among past generations. They had built churches, “excited by [God’s] commands, exhortations and many examples that followed them.” Smith commends his audience that these same buildings, now artifacts of past generations, remind the present age “no less are we obliged” to persist in the forms of prayers and thanksgivings “they excellently compiled at first.”176</p>
+         <p>In some instances the memory of the Church Triumphant took on a distinctive specificity. In 1742 the vestry minutes of St. John’s, Berkeley, noted in their minutes the receipt of a “a silver Cup Gilt with a case belonging to it” (fig. 22). They recorded that this cup was an important reminder of a significant event in the history of Protestantism: “This cup was brought to this country by the Dr. Rev. Lessou formerly Minister of the French congregation in this Province and the said cup was formerly used by the Protestants in France before the Persecution.”177 This beaker—a form otherwise alien to Anglicanism in the colony—reminded South Carolina’s Anglican communicants of a specific place and moment in history, France during the revocation of the Edict of Nantes. But by evoking a different time and place, the distinctive form and history of this beaker reminded communicants of a moment in the past and their own place in the grand narrative of the Church Militant working in time but governed and directed by an eternal God.178 This cup breached ethnic and denominational barriers to evoke the virtues and perseverance of Christians persecuted for their faith.179 At this sacrament the faithful joined in communion not just with God but with Christians, past, present, and future.180<fig-group content-type="figgrp" id="fg22" position="float" seq="22">
+               <label>Fig. 22.<x xml:space="preserve"> </x>
+               </label>
+               <caption>
+                  <p>Beaker from St. John’s parish, Berkeley, late seventeenth century. Silver and gold. (St. John’s Vestry, Berkeley County; photo, Keith Leonard.)</p>
+               </caption>
+               <fig position="float" fig-type="figure">
+                  <graphic xlink:href="fg22.tiff"
+                           rotation="0"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </fig>
+            </fig-group>
+         </p>
+         <p>Very few of the early eighteenth‐century chalices purchased by parishes as their first communion vessel were replaced or refashioned to more current taste through the course of the eighteenth and nineteenth centuries. The preservation of these early forms suggests that they functioned in comparable if less articulate ways to the French chalice. As later generations of Anglicans came to appreciate newer fashions in silver, and as they abandoned the silver standing cup for domestic use, these early eighteenth‐century chalices came to evoke a conscious antiquity. Sacred artifacts that remain in continuous use inevitably become burdened with the responsibility of bridging time between generations of believers, bridging the chasm between the Church Militant and the Church Triumphant. Just as the French chalice reminded communicants of the faith of past generations of Protestants, so too the aged forms of these chalices evoked earlier generations to mid‐ and late eighteenth‐century Anglicans.</p>
+         <p>This important connection with the past was even inscribed explicitly on the outside of many chalices. The chalice that opened this section, for example, read “Belonging to St. Thomas Parish in South Carolina Anno Dom: 1711.” The most overt function of this engraving was, of course, for the identification and protection of this valuable object. But, over time, the chalice reminded the Church Militant of their relationship to each other and to the Church Triumphant. Chalices inscribed with the name of the parish certainly put the communicant in mind of his or her role both as an individual and as a parish in God’s “universal Church.”181</p>
+         <p>In some instances these engraved chalices were part of a much larger set intended to demonstrate the dependence of the Church of England on the English government, and on the King, the ultimate head of the church. As one might expect, the two city parishes of St. Philip’s and St. Michael’s have sets of communion silver gifted by King George II, in the first instance, and the royal governor, in the second, which demonstrate this most explicitly. The St. Philip’s set bears the royal insignia, while each piece of the St. Michael’s set was engraved “The Gift of his Excellency Thomas Boone, Esqr. Governour of this Province to the Church of St. Michael Charles Town So. Carolina 1762.”</p>
+         <p>This practice was not limited to official representatives of government. As Dell Upton has demonstrated, the local elite also gifted church silver to demonstrate the dependence of the local church on their benevolence, a reflection of their importance within that local community. “In return for their gifts [of communion plate],” Upton tells us, “the gentry expected not only recognition, but the kind of treatment they received at other gentlemen’s houses.”182 More generally, Robert St. George explains that gifting functioned as “calculated acts of largesse.”183 But while the gifting of communion silver might seem an explicit act of self‐aggrandizement, the importance of communion plate as signifiers of local power can be overstated.184 In some instances the donor did not even choose the form of the object, and in many cases it was the vestry who drafted and paid for the inscription.185 In his 1726 will, for example, Ralph Izard bequeathed ten pounds “to buy a convenient piece of plate for the use of the Congregation at Goose Creek for ever when they celebrate the Holy Sacrament of the Lord’s Supper.”186 Izard left it to his executors to select and commission the object and to the vestry to decide if it was to be inscribed in his memory. Furthermore, the social functions of these objects was circumscribed by the fact that they appeared in most instances only four times a year, and when they did, they sat at such a distance from the majority of the congregation that inscriptions were largely illegible. As a result, the only individuals with the opportunity for close inspection of the communion plate were the communicants, the small proportion of those present who actually approached the table for communion.</p>
+         <p>The vestry may have intended inscriptions on communion silver to evoke the selflessness essential to a healthy community by reminding communicants of the donor’s benevolence, a virtue practiced in the giving of alms, which immediately preceded and prefigured the sacrament. In a culture long on memory, a person’s public character—his piety, charity, and local benevolent leadership—may have long outlived him and become associated with certain objects in the parish bearing the mark of their lives. For example, the vestry of St. Philip’s commissioned a silver plate as a gift for their former rector, Alexander Garden, “as a testimony of their true respect and cordial affections they bear him for his exemplary life and constant labours in the cause of virtue and religion.”187 They said this explicitly in the inscription engraved on the plate but also in selecting the form. The large silver plate was not dissimilar from an alms basin, the visual form that most directly evoked the sacrificial giving required of the Christian life. Following an ancient practice within English Protestantism of gifting silver to commemorate notable acts of service or experiences in Christian fellowship, this plate became for the congregation an explicit reminder of the life and work of a beloved minister.188</p>
+         <p>Dominated by objects that bridged past and present, mortal and eternal, the visual impact of the set table must have been striking. Anglicans knew the power of the eye to distract, and so the communion table remained veiled during the prayers and sermon that preceded the sacrament. After some time of preparation and anticipation, the bright silver plate and rich crimson damask cloths covered in a light and intricately woven diaper must have overwhelmed the senses in ways captured by a plate from <italic>The Orthodox Communicant</italic>, a 1721 treatise on the significance of Holy Communion in the life of the Anglican (fig. 23). Separated from the rest of the congregation, the communicant had been invited to enter into the immediate presence of the Godhead. Kneeling at the rail of St. James, Goose Creek, the communicant saw the voice of God speaking an invitation to lay his burden on him and rest (fig. 24). Anglican Alexander Keith understood God’s presence at the communion in immediate, tangible terms: “Thy Chair and Seat is at thy table.”189 God was present at the table, and it was only by the sacrifice signified by the communion silver and their contents that such a fleeting intercourse between the mortal and the divine was made possible. Captured in the titles of devotional manuals such as <italic>The Divine Banquet</italic> (1700), the most explicit metaphor of the meal pointed not to the dining table of the elite but to the wedding feast of the risen Christ and his bride, the Church.190 At the communion, the Church Militant would for a moment taste the eternal feast of the Church Triumphant. One South Carolina minister described what the Anglican would find at the Eucharist: <disp-quote>
+               <p>a Table more richly furnished, than all your former life of luxury and intemperance ever partook of! Here, you shall taste how sweet and gracious the Lord is! And be possessed at once of all things that can make you happy: of joy, of peace, fulness &amp; security; for this is the Table that he has prepared against them that would trouble us, says holy David; I.e. against the Devil &amp; his agents. Here, as the wise Man tells us, eat your bread with joy &amp; drink your wine with a good heart; for your filthy raggs shall be changed into a wedding garment, &amp; your souls shall be joyful in your God, who hath cloathed you with the garment of salvation.191<fig-group content-type="figgrp" id="fg23" position="float" seq="23">
+                     <label>Fig. 23.<x xml:space="preserve"> </x>
+                     </label>
+                     <caption>
+                        <p>Frontispiece from J. Sturt, <italic>The Orthodox Communicant, by way of meditation on the order for the administration of the Lord’s Supper, or Holy Communion; according to the Liturgy of the Church of England</italic> (London, 1721). (Special Collections, University of Virginia Library.)</p>
+                     </caption>
+                     <fig position="float" fig-type="figure">
+                        <graphic xlink:href="fg23.tiff"
+                                 rotation="0"
+                                 alt-version="no"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </fig>
+                  </fig-group>
+                  <fig-group content-type="figgrp" id="fg24" position="float" seq="24">
+                     <label>Fig. 24.<x xml:space="preserve"> </x>
+                     </label>
+                     <caption>
+                        <p>Detail from the altar rail of St. James Episcopal Church, Goose Creek, Berkeley County, SC, 1714–23. (Photo, Louis Nelson.)</p>
+                     </caption>
+                     <fig position="float" fig-type="figure">
+                        <graphic xlink:href="fg24.tiff"
+                                 rotation="0"
+                                 alt-version="no"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </fig>
+                  </fig-group>
+               </p>
+            </disp-quote>Through this feast, Alexander Keith proclaimed, the Christian could partake of those gifts of the soul that no money can buy: joy, peace, fullness, and security. By this feast, the forces of evil were defeated. And, at this feast, the resurrected Christ joins his bride, the Church, and the filthy rags of the Church Militant are transformed into the wedding clothes of the Church Triumphant.</p>
+         <fn-group>
+            <fn id="fn124">
+               <label>123</label>
+               <p>Maule to SPG, January 23, 1714, 77, vol. 10, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn125">
+               <label>124</label>
+               <p>Lewis Jones to SPG, January 26, 1728, 116, vol. 20, ser. A, SPG Letter Book, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn126">
+               <label>125</label>
+               <p>Hasell to SPG, June 4, 1728, 108, vol. 21, ser. A, SPG Letter Book, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn127">
+               <label>126</label>
+               <p>See E. Milby Burton, <italic>Charleston Furniture, 1700–1825</italic> (Columbia: University of South Carolina Press, 1955), 31–32.</p>
+            </fn>
+            <fn id="fn128">
+               <label>127</label>
+               <p>Quoted in ibid., 29.</p>
+            </fn>
+            <fn id="fn129">
+               <label>128</label>
+               <p>Quoted in ibid., 32.</p>
+            </fn>
+            <fn id="fn130">
+               <label>129</label>
+               <p>Pinckney, <italic>Letterbook</italic>, 36.</p>
+            </fn>
+            <fn id="fn131">
+               <label>130</label>
+               <p>Daniel Dwight to SPG, April 12, 1739, 237, vol. 7, ser. B, SPG Letter Book, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn132">
+               <label>131</label>
+               <p>1 Kings 6:18–20.</p>
+            </fn>
+            <fn id="fn133">
+               <label>132</label>
+               <p>The theological implications of the use of cedar in churches were first noted by the late John Bivins. John Bivins, “St. Michael’s Church,” in <italic>The Vernacular Architecture of Charleston and the Lowcountry, 1670–1990: A Field Guide</italic>, ed. Carter Hudgins, Carl Lounsbury, Louis Nelson, and Jonathan Poston (Charleston, SC: Historic Charleston Foundation, 1994), 97–99. For two of many descriptions of the cedars of Lebanon, see Ezek. 17:23 and 31:3.</p>
+            </fn>
+            <fn id="fn134">
+               <label>133</label>
+               <p>See Leviticus 14.</p>
+            </fn>
+            <fn id="fn135">
+               <label>134</label>
+               <p>Robert Smith, “Sermon on Psalm 100,” 1794, no. 377, folder 18A, box 3, Sermons by Number, 292–391, Bishop Smith Sermon Collection, St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+            <fn id="fn136">
+               <label>135</label>
+               <p>“Prince Fredericks Episcopal Church, Georgetown, S.C., Register and Journal, 1713–1778,” vol. 1, November 24, 1740.</p>
+            </fn>
+            <fn id="fn137">
+               <label>136</label>
+               <p>Levi Durand to SPG, April 19, 1744, 106, vol. 12, ser. B, SPG Letter Book, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn138">
+               <label>137</label>
+               <p>“St. Philip’s Church, Charleston, SC, Vestry Minutes, 1735–55,” June 1750, manuscript collections, South Carolina Historical Society, Charleston.</p>
+            </fn>
+            <fn id="fn139">
+               <label>138</label>
+               <p>“A True Copy of the Clergy of South Carolina’s Instructions to Mr. Johnston, Charles Town, March 4, 1712/3,” <italic>South Carolina Gazette</italic>, Charleston, February 27, 1762, 1‐1.</p>
+            </fn>
+            <fn id="fn140">
+               <label>139</label>
+               <p>Dalcho, <italic>Protestant Episcopal Church in South Carolina</italic>, 305, 350; A. S. Salley Jr., ed., <italic>Minutes of the Vestry of St. Helena’s Parish, South Carolina, 1726–1812</italic> (Columbia, SC: State Company, 1919), Easter Monday, 1737.</p>
+            </fn>
+            <fn id="fn141">
+               <label>140</label>
+               <p>William Guy to SPG, January 22, 1727, 107–15, vol. 20, ser. A, SPG Letter Book, 1702–37, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn142">
+               <label>141</label>
+               <p>Cited in David Cressy, <italic>Bonfires and Bells: National Memory and the Protestant Calendar in Elizabethan and Stuart England</italic> (London: Weidenfeld &amp; Nicolson, 1989), 71.</p>
+            </fn>
+            <fn id="fn143">
+               <label>142</label>
+               <p>See “Ringing to drive away evil,” in Percival Price, <italic>Bells and Man</italic> (New York: Oxford University Press, 1983), 122–29.</p>
+            </fn>
+            <fn id="fn144">
+               <label>143</label>
+               <p>Quoted in ibid., 133.</p>
+            </fn>
+            <fn id="fn145">
+               <label>144</label>
+               <p>Rath, <italic>How Early America Sounded</italic>, 46. See also Cressy, <italic>Bonfires and Bells</italic>, 70.</p>
+            </fn>
+            <fn id="fn146">
+               <label>145</label>
+               <p>“A Teacher’s Journal, 1740,” in Merrins, <italic>Colonial South Carolina Scene</italic>, 134–35.</p>
+            </fn>
+            <fn id="fn147">
+               <label>146</label>
+               <p>See chap. 1, “‘Those Thunders, Those Roarings’: The Natural Soundscape,” in Rath, <italic>How Early America Sounded</italic>, 10–42.</p>
+            </fn>
+            <fn id="fn148">
+               <label>147</label>
+               <p>“Elizabeth Sindrey Account Book,” manuscipt collections, South Carolina Historical Society, Charleston, SC. On the persistence of the passing bell after the Reformation, see Cressy, <italic>Bonfires and Bells</italic>, 70; see also Percival Price, <italic>Bells and Man</italic>, 130.</p>
+            </fn>
+            <fn id="fn149">
+               <label>148</label>
+               <p>“Inventories, Charleston County,” 94A‐B, 1771–74, 296, in “Wills and Inventories,” Charleston County Courthouse, Charleston, SC. An alternative reason for the coffin bell might have been the emerging fear in the later eighteenth century of being buried alive. An external bell allowed the buried individual a means of alerting the living of his status.</p>
+            </fn>
+            <fn id="fn150">
+               <label>149</label>
+               <p>Cressy, <italic>Bonfires and Bells</italic>, 69.</p>
+            </fn>
+            <fn id="fn151">
+               <label>150</label>
+               <p>John Hammond Moore, “The Abiel Abbot Journals, a Yankee Preacher in Charleston Society, 1818–1827,” <italic>South Carolina Historical Magazine</italic> 68 (1967): 53 (May 19, 1819).</p>
+            </fn>
+            <fn id="fn152">
+               <label>151</label>
+               <p>See Cressy, <italic>Bonfires and Bells</italic>, 16, 46, 69, 70.</p>
+            </fn>
+            <fn id="fn153">
+               <label>152</label>
+               <p>Jacob, <italic>Lay People and Religion</italic>, 187–88.</p>
+            </fn>
+            <fn id="fn154">
+               <label>153</label>
+               <p>For the English practices, see Cressy, <italic>Bonfires and Bells</italic>, 16.</p>
+            </fn>
+            <fn id="fn155">
+               <label>154</label>
+               <p>The celebration of these four festivals is a dramatic reduction from the observance of many saints days and other festival days common in the British Isles in the same century. See Jacob, <italic>Lay People and Religion</italic>. On sacred time in Anglican Virginia, see John Nelson, <italic>Blessed Company: Parishes, Parsons and Parishioners in Anglican Virginia, 1690–1776</italic> (Chapel Hill: University of North Carolina Press, 2001), 230–32.</p>
+            </fn>
+            <fn id="fn156">
+               <label>155</label>
+               <p>On the rejection of Christmas by Protestants in New England, see James H. Barnett, <italic>The American Christmas: A Study in National Culture</italic> (New York: Macmillan, 1954), 2–6.</p>
+            </fn>
+            <fn id="fn157">
+               <label>156</label>
+               <p>“Bicentennial Facts from St. Andrew’s Parish Episcopal Church,“ photostat in St. Andrew’s parish church files.</p>
+            </fn>
+            <fn id="fn158">
+               <label>157</label>
+               <p>Francis Varnod to SPG, January 13, 1723, 132, vol. 4, ser. B, SPG Letter Book, microfilm at University of South Carolina.</p>
+            </fn>
+            <fn id="fn159">
+               <label>158</label>
+               <p>The first evidence of such ornamentation in the records of St. Philip’s, for example, does not appear until May 31, 1807; St. Philip’s Church, Charleston, SC, Vestry Minutes, 1804–1812, manuscript collections, South Carolina Historical Society, Charleston.</p>
+            </fn>
+            <fn id="fn160">
+               <label>159</label>
+               <p>See Mark M. Smith, “Taming Time’s Pinions, Weaving Time’s Web: Of Times Natural, Sacred, and Secular, 1700–1900,” in <italic>Mastered by the Clock: Time, Slavery, and Freedom in the American South</italic> (Chapel Hill: University of North Carolina Press, 1997), 39–68.</p>
+            </fn>
+            <fn id="fn161">
+               <label>160</label>
+               <p>
+                  <italic>South Carolina Gazette</italic>, December 15, 1739. Cited in Jan Durecki, “Changing Times in Charleston,” unpublished paper, summer 2002, Museum of Early Southern Decorative Arts, Winston‐Salem, NC.</p>
+            </fn>
+            <fn id="fn162">
+               <label>161</label>
+               <p>Repeatable, audible markers such as chimes and bells are the threshold of sacred time. Eliade, <italic>Sacred and Profane</italic>, 68–113, quote on 69. On the power of bells to shape culture, see Alain Corbin, <italic>Village Bells: Sound and Meaning in the Nineteenth‐Century French Countryside</italic>, trans. Martin Thom (New York: Columbia University Press, 1998).</p>
+            </fn>
+            <fn id="fn163">
+               <label>162</label>
+               <p>On the role of time in the making of Protestant sacred space, see David Morgan, <italic>Visual Piety: A History and Theory of Popular Religious Images</italic> (Berkeley: University of California Press, 1998), 182.</p>
+            </fn>
+            <fn id="fn164">
+               <label>163</label>
+               <p>George Ferguson, <italic>Signs and Symbols in Christian Art</italic> (New York: Oxford University Press, 1961), 48.</p>
+            </fn>
+            <fn id="fn165">
+               <label>164</label>
+               <p>Arnold van Gennep argues that symbols are commonly placed at portals since they serve as significant points of passage between realms: “Sacred objects are hung or nailed onto [portals] as on the architrave”; van Gennep, <italic>Rites of Passage</italic>, 17–20. Eliade describes the church door as “The threshold … the boundary, the frontier that distinguishes and opposes two worlds—and at the same time the paradoxical place where two worlds communicate, where passage from the profane and the sacred world becomes possible.” See Eliade, <italic>Sacred and Profane</italic>, 25.</p>
+            </fn>
+            <fn id="fn166">
+               <label>165</label>
+               <p>Edward Brailsford’s devotional book (1710–14), in the collections of the South Caroliniana Library, survives as a rare manuscript book type that was very common among Anglicans in the seventeenth and early eighteenth centuries. For a discussion of printed devotional books, see Spurr, <italic>The Restoration Church of England</italic>, 341–53. For a discussion of devotionals among early Anglicans in Virginia, see Patricia Bonomi, <italic>Under the Cope of Heaven: Religion, Society and Politics in Colonial America</italic> (New York: Oxford University Press, 1986), 97–102.</p>
+            </fn>
+            <fn id="fn167">
+               <label>166</label>
+               <p>Salley, <italic>Minutes of the Vestry of St. Helena’s Parish</italic>, November 29, 1757; “St. Philip’s Church, Charleston, SC, Vestry Minutes, 1735–55,” August 6, 1753, manuscript collections, South Carolina Historical Society, Charleston. The cock on the Huguenot church is visible in the 1739 Roberts’s view of Charleston, a painting now in the collections of the Colonial Williamsburgh Foundation in Williamsburgh, VA. The reference to the Scotch Presbyterians appears in George Howe, <italic>History of the Presbyterian Church in South Carolina</italic> (Columbia, SC: Duffie &amp; Chapman, 1870), 201. See also Ferguson, <italic>Signs and Symbols</italic>, 14.</p>
+            </fn>
+            <fn id="fn168">
+               <label>167</label>
+               <p>Mal. 4:2. See Ferguson, <italic>Signs and Symbols</italic>, 45.</p>
+            </fn>
+            <fn id="fn169">
+               <label>168</label>
+               <p>Ps. 34:8.</p>
+            </fn>
+            <fn id="fn170">
+               <label>169</label>
+               <p>Barbara Mclean Ward, “‘In an Feasting Posture’: Communion Vessels and Community Values in Seventeenth and Eighteenth‐Century New England,” <italic>Winterthur Portfolio</italic> 23 (Spring 1988): 1–24.</p>
+            </fn>
+            <fn id="fn171">
+               <label>170</label>
+               <p>Just prior to Easter, 1717, the vestry of Christ Church parish made note of their only piece of communion plate, a silver, Boston‐made chalice. Almost thirty years later the vestry recorded that their only piece of communion silver was still that single silver chalice. In a common practice in South Carolina, the vestries of St. Paul’s and St. Thomas’s parishes ordered chalices—and only chalices—near the completion of their churches in the opening years of the eighteenth century. These vestries turned to Charleston silversmith Miles Brewton. A decade later the parish of St. John’s, Berkeley, would also turn to Miles Brewton to craft their church plate, this time a chalice and paten. “Christ Church Parish, Minutes of the Vestry, 1708–1759, 1797–1847,” March 4, 1717, and November 25, 1751, both in microfilm at South Carolina Department of Archives and History, Columbia, SC. Other examples are Prince Frederick’s Parish and St. Stephen’s Parish: “Prince Fredericks Episcopal Church, Georgetown, S.C., Register and Journal, 1713–1778,” vol. 1, Apr. 14, 1745; “St. Stephen’s Parish, Craven Co., Vestry Minutes, 1754–1873,” September 19, 1759.</p>
+            </fn>
+            <fn id="fn172">
+               <label>171</label>
+               <p>Edward Brailsford’s devotional book (1710–1714), South Caroliniana Library, Columbia, SC.</p>
+            </fn>
+            <fn id="fn173">
+               <label>172</label>
+               <p>Book of Common Prayer.</p>
+            </fn>
+            <fn id="fn174">
+               <label>173</label>
+               <p>Leslie B. Grigsby, “From Punch Bowls to Puzzle Jugs: Drinking Vessels and Traditions in England and America,” <italic>Winterthur Magazine</italic> (Winter 2004): 10–11.</p>
+            </fn>
+            <fn id="fn175">
+               <label>174</label>
+               <p>Mark Peterson has made a similar argument for the communion silver of New England. See Peterson, “Puritanism and Refinement,” nn. 32–38.</p>
+            </fn>
+            <fn id="fn176">
+               <label>175</label>
+               <p>Robert Smith, “Sacrament,” St. Philip’s, July 27, 1766, no. 193, folder 24, box 1, Sermons by Number, 110–213, Bishop Smith Sermon Collection, St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+            <fn id="fn177">
+               <label>176</label>
+               <p>Robert Smith, “On Holy Worship,” 1798, no. 386, folder 18F, box 3, Sermons by Number, 292–391, Bishop Smith Sermon Collection, St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+            <fn id="fn178">
+               <label>177</label>
+               <p>“Minutes of the Vestry of St. John’s Parish, Berkeley Co., March 22, 1731–April 14, 1813,” July 7, 1742.</p>
+            </fn>
+            <fn id="fn179">
+               <label>178</label>
+               <p>Gretchen Buggeln finds a similar memorial function in some Connecticut Congregational silver as well; see Buggeln, <italic>Temples of Grace</italic>, 220.</p>
+            </fn>
+            <fn id="fn180">
+               <label>179</label>
+               <p>For three other examples from New England, see Peterson, “Puritanism and Refinement,” nn. 75–87.</p>
+            </fn>
+            <fn id="fn181">
+               <label>180</label>
+               <p>Gretchen Buggeln finds the same meanings in communion silver of eighteenth‐century Connecticut. See Buggeln, <italic>Temples of Grace</italic>, 220.</p>
+            </fn>
+            <fn id="fn182">
+               <label>181</label>
+               <p>The same may also be true in England, where the donation of communion silver declines markedly after 1750, so that by those years, most parishes are partaking from chalices reflecting seventeenth‐ and early eighteenth‐century forms. See table 1 in Jacob, <italic>Lay People and Religion</italic>, 212.</p>
+            </fn>
+            <fn id="fn183">
+               <label>182</label>
+               <p>Upton, <italic>Holy Things and Profane</italic>, 171.</p>
+            </fn>
+            <fn id="fn184">
+               <label>183</label>
+               <p>Robert Blair St. George, “Artifacts of Regional Consciousness in the Connecticut River Valley, 1700–1800,” in <italic>The Great River: Art and Society of the Connecticut River Valley, 1635–1820</italic>, ed. Gerald W. R. Ward and William N. Hosley Jr. (Hartford, CT: Wadsworth Atheneum, 1985), 35.</p>
+            </fn>
+            <fn id="fn185">
+               <label>184</label>
+               <p>Buggeln makes the same observation in <italic>Temples of Grace</italic>, 220.</p>
+            </fn>
+            <fn id="fn186">
+               <label>185</label>
+               <p>“The Minutes of St. Michael’s Church of Charleston, S. C. From 1758–1797,” February 18, 1762.</p>
+            </fn>
+            <fn id="fn187">
+               <label>186</label>
+               <p>“Will of Ralph Izard,” 1726, 335, vol. 58, Wills and Miscellaneous Records, vols. 58–59, 1722–26, “Wills and Inventories,” Charleston County Courthouse, Charleston, SC.</p>
+            </fn>
+            <fn id="fn188">
+               <label>187</label>
+               <p>“St. Philip’s Church, Charleston, SC, Vestry Minutes, 1735–1755,” April 19, 1754, manuscript collections, South Carolina Historical Society, Charleston.</p>
+            </fn>
+            <fn id="fn189">
+               <label>188</label>
+               <p>For other examples, see Peterson, “Puritanism and refinement,” n. 84.</p>
+            </fn>
+            <fn id="fn190">
+               <label>189</label>
+               <p>Alexander Keith, “A Prayer before coming to the Holy Communion,” Alexander Keith Commonplace Book, 1730–40, 126, South Caroliniana Library, Columbia, SC.</p>
+            </fn>
+            <fn id="fn191">
+               <label>190</label>
+               <p>This interpretation is offered as a counterpoint to Dell Upton’s reading of Anglican communion silver as vehicles for reifying elite hegemony. See Upton, <italic>Holy Things and Profane</italic>, 153–58, 170–71.</p>
+            </fn>
+            <fn id="fn192">
+               <label>191</label>
+               <p>“Sacrament,” St. Philip’s, July 27, 1766, no. 193, folder 24, box 1, Sermons by Number, 110–213, Bishop Smith Sermon Collection, St. Philip’s Church Archives, Charleston, SC.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc5">
+         <title>Conclusion</title>
+         <p>By way of conclusion, consider once again the interior of St. Philip’s church in Charleston (see fig. 2). In the nave, a strong cornice divided the stable, architectonic space of the nave walls from the soaring barrel vault that covered it. A tall arcade with a large cherub stationed at the crest of each arch divided the nave from the flanking side aisles. The barrel vault joined with the cherubim to remind believers that in this space only a thin veil separated earth and heaven. The eastern wall rose solid behind the chancel up to the cornice, displaying only four huge tablets with Holy Writ and other sacred words of the faith in gold lettering over a black field. On these tablets, the believer saw the voice of God. Rising above the cornice on the east end was an abbreviated parapet that hid the base of a very large semicircular window. In the instance that the viewer missed this window as an explicit reference to the rising sun/Son, the parapet before it has a sunburst inscribed with I H S, the first three letters of Ihsus, the Greek name for Jesus and a common christological monogram in Protestantism.</p>
+         <p>Making reference to the divine drama of the Lord’s Supper, a pair of drawn curtains flanks the semicircular window.192 A drawn curtain appears also in an early eighteenth‐century Anglican church in Virginia. Below the interior cornice of that church “were fragments of the plaster, extending farther down at the corners, and representing an immense curtain drawn back. I remember seeing what was part of a very large curtain and tassel. Mama said there used to be an angel just where the curtain was drawn on one side, with a trumpet in his hand, and rolling on toward him were vast bodies of clouds with angels in them.”193 Like the barrel vault and the symbolic cherubim, the drawn curtain referenced the immediacy of God in the space of the church. The unveiling of Christ in the space of the church was a theme realized in a number of ways, not least of which was the removal of a napkin from over the elements at the time of the Eucharist. The ultimate source for this image, however, was the curtain described in the Old Testament as veiling the Holy of Holies—the innermost sanctum and residence of God—in the Temple of Solomon. The great interest in the Temple of Solomon both by seventeenth‐century Anglican theologians and eighteenth‐century Freemasons would certainly have generated in South Carolina’s laity a degree of fluency in the forms and details of the temple.194 The lingering scent of cedar and the grand architectural setting of the nave interior work together with the image of the curtain to recall biblical visions of Solomon’s Temple deeply inscribed in the imagination of believers.195</p>
+         <p>The New Testament narratives describe the crucifixion of Christ as rending this curtain in two, dissolving the separation between God and his people. It was maybe that event that gave the open curtains of St. Philip’s their most powerful referent. The drawn curtain could represent the unfettered communication between humanity and divinity—the withdrawing of the veil—that was realized in the space of the church. But the withdrawing of the curtain might also be a temporal reference. Together with the cock that surmounted the cupola outside, the use of the trumpet in the Virginia church and the implications of the “rising Son” in St. Philip’s imply that the drawn curtain references the end of human time and the Second Coming of Christ. In many ways, the architecture of St. Philip’s embodied the deepest Anglican beliefs in the imminence of God and the sacred dramas of earth and heaven, time and eternity.</p>
+         <p>Even though seventeenth‐ and early eighteenth‐century Anglicanism finds its roots in the English Reformation, and Anglicans in South Carolina certainly embraced the power of “The Word” and rejected the use of images in worship, they can hardly be described as lacking a material culture of religion. Arched windows, cruciform plans, and the words of Holy Writ manifested the sacred in space and became signs of God’s imminence in the natural world. These worked together with cherubim and cocks, more explicit symbols of the Christian faith, to make visible the invisible realities of supernatural beings and sacred time. But the visual was only one aspect of the sacred meanings imbedded in Anglican architecture. As Peter Hoffer’s <italic>Sensory Worlds in Early America</italic> demonstrates, the other senses were equally powerful ways of knowing and shaping cultural experience.196 The scent of cedar drew upon a variety of associations—both natural and biblical—to sense the sacred in the space of the church. The sound of the church bell inaugurated the sacred in time. The taste of wine and the touch of the chalice commingled God and communicant and invited the Church Militant and the Church Triumphant to partake together. As a result, sound, smell, taste, and touch were powerful agents of breaching the thin veil between the natural and supernatural worlds in the seventeenth and early eighteenth centuries. The centrality of scriptural revelation as a way of knowing and the importance of the senses in detecting the invisible world of the supernatural meant that early colonial America was densely metaphoric. In his remarkable examination of colonial culture in New England, Robert Blair St. George has argued that “in seventeenth‐century New England … word and thing were inextricably linked, referentially interdependent, constantly implicated in each other’s ways of making meaning.”197 But this dense web of interreferential words, shapes, and images was not unique to Puritan New England. Metaphors blending word and image, sound and shape, the natural and the supernatural, were powerful ways of making sense of the spiritual world of early Anglicanism as well.</p>
+         <p>Depending largely on written evidence, scholars have generally assumed that Enlightenment thought began drawing Anglicanism away from revelation toward reason in the late seventeenth century. The material culture of Anglicanism in South Carolina suggests that Anglicans continued to invest their buildings with a theology driven by the proximity and reality of heaven, the sovereignty of God, and the activity of the supernatural into the eighteenth century. While this was certainly not a universal experience—there is ample evidence for Anglicans attending church for decidedly nonpious purposes—there was in early eighteenth‐century South Carolina a material theology that manifested the beliefs of the pious. Headstones and churches together spoke a visual language of eternity and of heaven. The architecture of early eighteenth‐century Anglicanism simultaneously realized and reflected the rich, sensuous, and spiritually animated world that survived from the seventeenth century. Ghosts, demons, and witches roamed the landscape as Anglicans sought ways to defend the House of God from spiritual attack. While church walls defined the sacred in space, their bells established temporal thresholds of sacred time. Church interiors manifested the cope of heaven as Anglicans petitioned a very imminent God, whose voice was heard in the scriptures and seen on church walls. Buildings, grave markers, and communion vessels realized theologies and practices dependent on the rich sensorial world of the seen and the unseen that shaped the lived experience of ordinary Anglicanism.</p>
+         <p>This spiritually animated view of the world among Anglicans, however, would not survive the eighteenth century. Later eighteenth‐century church builders replaced barrel‐vaulted ceilings with more fashionable tray ceilings, cherubim disappeared from the ornamental programs of churches, texts were relegated to books and prescribed panels in the chancel, cedar was supplanted by mahogany. By the second half of the eighteenth century, a new form of Anglicanism had emerged, an Anglicanism that favored reason to mystery, natural evidence to supernatural activity, and the (visibly consumed) beauty of holiness to the densely metaphoric world of shapes, symbols, tastes, sounds, and smells of early modern Anglicanism.198 Popular Anglicanism was changed.</p>
+         <fn-group>
+            <fn id="fn193">
+               <label>192</label>
+               <p>Bettina Norton, “Embellishments.” Poplar Spring Church in Virginia similarly had a painted curtain; see Upton, <italic>Holy Things and Profane</italic>, 119.</p>
+            </fn>
+            <fn id="fn194">
+               <label>193</label>
+               <p>Cited in Upton, <italic>Holy Things and Profane</italic>, 119.</p>
+            </fn>
+            <fn id="fn195">
+               <label>194</label>
+               <p>On the interest in the temple of Jerusalem among Freemasons, see John D. Hamilton, <italic>Material Culture of the American Freemasons</italic> (Hanover, NH: University Press of New England, 1994), 15; and James Stevens Curl, <italic>The Art and Architecture of Freemasonry: An Introductory Study</italic> (London: Batsford, 2002), chap. 4, “The Great Prototype.”</p>
+            </fn>
+            <fn id="fn196">
+               <label>195</label>
+               <p>The image of the temple of Jerusalem also occupied the imagination of prominent seventeenth‐ and eighteenth‐century Anglican church architects. See the chapter titled “Wren, Hawksmoor, and the Wonders of the World,” in Pierre de la Ruffiniere de Prey, <italic>Hawksmoor’s London Churches: Architecture and Theory</italic> (Chicago: University of Chicago Press, 2000), 3–46.</p>
+            </fn>
+            <fn id="fn197">
+               <label>196</label>
+               <p>On the power of the senses to shape early American culture, see Peter Charles Hoffer, <italic>Sensory Worlds in Early America</italic> (Baltimore: Johns Hopkins University Press, 2003).</p>
+            </fn>
+            <fn id="fn198">
+               <label>197</label>
+               <p>St. George, <italic>Conversing by Signs</italic>, 3.</p>
+            </fn>
+            <fn id="fn199">
+               <label>198</label>
+               <p>For more on the Enlightenment impact on popular Anglicanism, see Louis P. Nelson, “Word, Shape and Image: Anglican Constructions of the Sacred,” in his <italic>American Sanctuary</italic>, 157–81.</p>
+            </fn>
+         </fn-group>
+      </sec>
+   </body>

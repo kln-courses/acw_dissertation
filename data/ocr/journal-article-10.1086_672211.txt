@@ -1,0 +1,936 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <sec id="sc1">
+         <title>Introduction</title>
+         <p>Insects dominate the terrestrial biosphere; they are the most abundant and diverse metazoans on land and have profound and far-reaching effects in almost every ecosystem on earth. Despite their large effects, most insects are tiny by anthropomorphic standards and even the largest insects are small relative to other taxa (Dudley 2000; Chown and Gaston 2010). However, insects were not always small: during the late Carboniferous, many mayflies, dragonflies, and their now extinct relatives were giant by today’s standards, with wingspans over 70 cm (Graham et al. 1995; Dudley 1998; Wootton and Kukalová-Peck 2000). Fluctuations of insect body sizes through geologic time (Graham et al. 1995) suggest that the small body sizes of modern insects are likely a derived condition (Dudley 1998).</p>
+         <p>One hypothesis for the small body sizes of modern insects (and gigantism in the fossil record) posits that atmospheric oxygen constrains maximal insect body sizes through effects on gas transport through the tracheal system (Dudley 1998; Harrison et al. 2010). The partial pressure of oxygen in the atmosphere (aP<sc>o</sc>
+            <sub>2</sub>) drives gas exchange through the branched network of air-filled tubes (tracheae and tracheoles) and sacs that make up the insect tracheal system. Current aP<sc>o</sc>
+            <sub>2</sub> (21%) may limit the maximum distance that gases can be effectively transported (by diffusion or convection), thereby limiting body size, whereas elevated aP<sc>o</sc>
+            <sub>2</sub> during the late Carboniferous (35%) may have relaxed this limitation, allowing for larger insects (Dudley 1998; Harrison et al. 2010).</p>
+         <p>Beyond correlations between historical aP<sc>o</sc>
+            <sub>2</sub> and insect size, developmental and evolutionary exposure to hypoxia results in smaller body sizes, supporting the oxygen limitation hypothesis. Fruit flies (<italic>Drosophila melanogaster</italic>) reared in hypoxia are smaller (Peck and Maddrell 2005), especially at warm rearing temperatures when oxygen demand is highest (Frazier et al. 2001). Similar hypoxia-induced reductions in body size have been found in beetles, moths, cockroaches, and mayflies (Harrison et al. 2006). Hypoxia exposure over multiple generations also results in decreased body size of flies (Klok and Harrison 2009). Further, fly populations evolving in hypoxia showed little response to 11 generations of laboratory selection for larger body size, whereas populations in normoxia and hyperoxia increased in size (Klok and Harrison 2009), suggesting that low oxygen may set upper body size limits. Evidence supporting the converse prediction of the oxygen limitation hypothesis—that hyperoxia should result in larger body sizes—is mixed (Harrison et al. 2006, 2010), potentially refuting the notion that relaxation of oxygen limitation allowed for insect gigantism (Klok and Harrison 2009).</p>
+         <p>If atmospheric oxygen limits body size, larger insects should be more challenged by oxygen delivery, such that they become oxygen limited at higher aP<sc>o</sc>
+            <sub>2</sub> than smaller insects (i.e., have higher critical P<sc>o</sc>
+            <sub>2</sub> values [P<sub>crit</sub>]; Harrison et al. 2010). However, P<sub>crit</sub> does not change with ontogenetic increases in body size in grasshoppers (Greenlee and Harrison 2004) or caterpillars (Greenlee and Harrison 2005). Further, P<sub>crit</sub> did not change with body size among 23 grasshopper (Greenlee et al. 2007) or 14 beetle (Lease et al. 2012) species. Because these data are for insects at rest and because mass-specific metabolic rates decrease with body size among beetles (Lease et al. 2012) and insects in general (Chown et al. 2007), it may not be surprising that P<sub>crit</sub> values so far measured are size invariant. Relatively lower oxygen demands of larger insects that are tested far from their peak oxygen demand may preclude detection of any body size trend in P<sub>crit</sub> (Harrison et al. 2010).</p>
+         <p>Alternatively, P<sub>crit</sub> values may be size invariant because larger insects invest more in their tracheal systems to offset potential oxygen limitation. Insects that develop in hypoxia respond by increasing the size and branching of tracheoles (Wigglesworth 1954; Locke 1958; Loudon 1989; Jarecki et al. 1999), likely to compensate for tissue oxygen limitation. Similarly, if larger insects are challenged by oxygen delivery, developmental or evolutionary changes in tracheal morphology may help compensate to allow for gas transport over longer distances. Increased investment in the tracheal system by larger insects (tracheal hypermetry) would be reflected in the scaling of tracheal dimensions: tracheal system volume would increase with body mass<sup>&gt;1</sup>, and tracheal cross-sectional area would increase with body mass<sup>&gt;0.67</sup>. Scaling coefficients of 1 and 0.67 for tracheal volume and cross-sectional area, respectively, are the null expectation of size-invariant investment in the tracheal system (isometry). Values less than 1 and 0.67 would indicate that larger insects have relatively smaller tracheal systems (hypometry). Tracheal hypermetry would facilitate gas exchange in larger insects but not without a trade-off: proportionately larger tracheal systems monopolize body space at the expense of other tissues, ultimately limiting maximum body size (Kaiser et al. 2007; Harrison et al. 2010).</p>
+         <p>Several recent studies suggest strong tracheal hypermetry both during ontogeny (Harrison et al. 2005; Lease et al. 2006; Greenlee et al. 2009) and among species (Kaiser et al. 2007). Among grasshopper instars, total tracheal volume increased with mass<sup>1.3</sup> when measured using an inert gas approach (Lease et al. 2006), and air sac volume measured by synchrotron imaging increased with mass<sup>1.37</sup> (Greenlee et al. 2009). Among four beetle species, total tracheal volume and cross-sectional area of leg trachea increased hypermetrically with mass<sup>1.29</sup> and mass<sup>1.02</sup>, respectively (Kaiser et al. 2007). The realized effect of hypermetry on oxygen delivery to the tissues may be even more pronounced than these exponents suggest, given that the generally hypometric scaling of insect metabolic rates (Chown et al. 2007) would predict lower null (isometric) scaling coefficients. However, increased diffusive limitations in longer tracheae of larger insects may require hypermetric scaling (Harrison et al. 2010).</p>
+         <p>Although ontogenetic (Harrison et al. 2005; Lease et al. 2006; Greenlee et al. 2009) and interspecific (Kaiser et al. 2007) allometry of tracheal morphology is compelling, observed differences may be due to physiological and life-history differences among developmental stages or among species rather than being driven by body size per se. To decouple body size from ontogeny and phylogeny, we examined tracheal allometry among bumblebee (genus <italic>Bombus</italic>) workers. Within a nest, adult sisters can range in mass from under 50 mg to more than 400 mg, and their queen can exceed 1 g (Goulson 2003; Couvillon et al. 2010). This large body size range among females from the same nest coupled with a relatedness of 0.75 makes bumblebees ideal for testing whether larger insects compensate for oxygen limitation by increasing their investment in the tracheal system. Here, we measure scaling of the tracheal system with body size of bumblebees within and among nests and find pronounced hypermetry of tracheal volume suggesting strong compensation for oxygen limitation at larger body sizes.</p>
+      </sec>
+      <sec id="sc2">
+         <title>Material and Methods</title>
+         <sec id="sc2.1">
+            <title>Study Species</title>
+            <p>Seven <italic>Bombus impatiens</italic> nests purchased from a commercial supplier (International Technology Services, Leamington, Ontario) were kept in an animal room (70°–80°F, natural light∶dark cycles through a window) from March 31, 2011, to December 15, 2011. Bees had ad lib. access to nectar (50∶50 sugar-water mixture with additives as provided by Biobest) via a reservoir in the nest box and were allowed to forage for fresh pollen (replaced every 2–3 d) from 12 artificial “flowers” inside a foraging chamber (<inline-formula id="if1">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if1.eps"/>
+               </inline-formula>) connected to the nest box by 5/8-in polystyrene tubing. Artificial flowers were 5-dr plastic vials attached to blue plastic weigh boats (<inline-formula id="if2">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if2.eps"/>
+               </inline-formula>) via a 5/8-in tube 1 in in length. We used both live and recently dead workers for morphology measurements. Dead workers were collected from the foraging chamber floor every 1–3 d and kept frozen before being pinned and measured. Live workers were taken from the nest and foraging chamber and frozen before being measured. For comparison with workers, we also measured morphology of newly produced queens at the end of the colony life cycle.</p>
+         </sec>
+         <sec id="sc2.2">
+            <title>Body and Respiratory System Morphology</title>
+            <p>In addition to measuring body mass of freshly killed workers, we measured thorax width (TW), the straight-line distance between the outer edges of the tegula (fig. 1<italic>B</italic>). The distance between the tegula is a reliable predictor of body size in <italic>Bombus</italic> (Peat et al. 2005) and other bees (Cane 1987), is less sensitive to variation in feeding condition, and allows for reliable estimates of body size from museum and other dry specimens. We measured TW from digital photographs (Canon Rebel XSI, Canon, Lake Success, NY) of the dorsal thorax taken through a stereo microscope (Omano OM2344, Microscope Store, Roanoke, VA). Calipers (CD-6CS, Mitutoyo, Japan) moved into focus on a two-axis micromanipulator provided a 1-mm scale within photos. We subsequently measured thorax width as the maximum distance between the outside lateral edges of the tegula by digitization in ImageJ (Abramoff et al. 2004).<fig id="fg1" position="float" fig-type="figure">
+                  <label>Figure 1.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>Exterior tracheal morphology of <italic>Bombus</italic>. <italic>A</italic>, <italic>Bombus impatiens</italic> worker, with black square indicating the magnified region in <italic>B</italic>, which shows the location of the pronotal lobe between the wing base (covered by the tegula) and the head. <italic>C</italic>, After removal of dense pile, the pronotal lobe is clearly visible and its maximum dorsoventral length can be measured. <italic>D</italic>, Removal of the pronotal lobe reveals the pronotal spiracular trachea, the area of which can be traced and measured. A picture from directly above the bee allows for measurement of the thorax width as the distance between the outside (most lateral) edges of the tegulae (visible in <italic>A</italic> and <italic>B</italic>).</p>
+                  </caption>
+                  <graphic alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="fg1.eps"/>
+               </fig>
+            </p>
+            <p>We estimated respiratory volume (tracheal and air sac volumes combined) of freshly killed <italic>B. impatiens</italic> workers by volume displacement (Wigglesworth 1950; Callier and Nijhout 2011). Live workers were placed in the freezer (−20°C) for a minimum of 15 min and a maximum of 8 d before measurements. Most bees were measured on the same day (78%) or on the day following (additional 10%) freezing, and time in the freezer did not affect estimates of respiratory volume relative to body mass (ANOVA, <inline-formula id="if3">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if3.eps"/>
+               </inline-formula>, <inline-formula id="if4">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if4.eps"/>
+               </inline-formula>). We weighed bees before (“mass”) and after (“empty mass”) squeezing the anterior and ventral surfaces of the abdomen to empty the crop (Ranta and Lundberg 1981). After weighing, bees were immersed in 6 mL of deionized water in a 10-mL syringe attached to a benchtop vacuum line. For the first minute, gentle pumping of the syringe plunger induced water flow into the trachea. After 15 min under the vacuum, bees were dried on paper towels for 1 min and then under compressed air for 30 s to remove any water trapped in the pile. The difference between water-filled mass (measured after exterior drying) and empty mass gave the volume of the tracheal system, assuming water density of 1 g/mL. Relative to an inert gas approach, water displacement can overestimate respiratory volumes of larger insects, presumably due to better penetration in larger tracheoles (Lease et al. 2006). However, for grasshoppers the water displacement method predicted the same scaling of respiratory volume with body mass as did an inert gas method (Lease et al. 2006).</p>
+            <p>Bumblebees have four prominent thoracic spiracles, the anterior pair of pronotal spiracles protected by the pronotal lobe (fig. 1<italic>B</italic>, 1<italic>C</italic>) and the posterior propodeal spiracles. We measured the pronotal spiracles because removal of the pronotal lobe allows for direct access to the pronotal spiracular trachea. After clearing the pile from around both pronotal lobes, we removed one pronotal lobe and measured the cross-sectional area of the pronotal spiracular trachea (PSA; fig. 1<italic>D</italic>) using the digital photography approach described for TW estimates above. Estimating internal tracheal dimensions is difficult and time-consuming but the pronotal lobe is easily accessible for measurement in <italic>Bombus</italic> and other bees, so we also measured the maximum width the pronotal lobe (PLW; fig. 1<italic>C</italic>). If the PLW is a reliable predictor of the area of the PSA, one could rapidly estimate the scaling of internal tracheal dimensions for <italic>Bombus</italic>, and potentially other bees, simply by measuring PLW.</p>
+            <p>To estimate potential measurement error due to microscope and camera settings and due to point-picking in ImageJ, we estimated (in a double-blind experiment) morphological measurements both for existing images that were redigitized and for new photographs of original specimens. For both new photographs and new digitization estimates, errors averaged ∼1% and ∼3% for TWs and PLWs, respectively. Cross-sectional area of the PSA determined from new photographs and from redigitized original photographs differed from original measurements by ∼12% and ∼9%, respectively. Measurement error for TW, PLW, and PSA did not vary with body size (ANOVA, all <inline-formula id="if5">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if5.eps"/>
+               </inline-formula>).</p>
+         </sec>
+         <sec id="sc2.3">
+            <title>Analyses</title>
+            <p>We used ordinary least squares (OLS) linear regression with hive as a covariate to test for significant correlations between ln-transformed morphological measurements. We removed nonsignificant interactions to determine final model estimates and coefficients. OLS models reveal significant (nonzero) correlations and give valid estimates of variance in dependent variables explained by the independent variable(s) but are not appropriate for estimating allometric slopes (McArdle 1988; Warton et al. 2006). To make inferences about the scaling of body and tracheal morphology, we used standardized major axis regression (SMA) for relationships that were significant by OLS analysis (Warton et al. 2006). For SMA regressions, we first included hive as a covariate in a full factorial model to assess whether hives differed in allometric slopes as determined by the likelihood ratio statistic, <italic>D</italic> (<inline-formula id="if6">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if6.eps"/>
+               </inline-formula>). Significant differences in slopes among hives precluded comparisons of intercepts (Warton et al. 2006). However, if slopes were indistinguishable among hives, we removed the hive by morphology interaction to test for difference in intercepts among hives using the Wald test statistic, which compares maximum likelihood estimates with and without intercept differences among groups (Warton et al. 2012). For both <italic>D</italic> and the Wald test statistic, <italic>P</italic> values are based on a χ<sup>2</sup> distribution with appropriate degrees of freedom (Warton et al. 2006). We also report slope estimates from robust SMA regression, which minimizes potential effects of outliers on regression coefficients (Warton et al. 2012). All analyses and figures were done in R (R Development Core Team 2012) using the smatr package for SMA regression (Warton et al. 2012).</p>
+         </sec>
+      </sec>
+      <sec id="sc3">
+         <title>Results</title>
+         <p>We measured body and respiratory system morphology of 407 worker and 8 queen bees from seven different hives, with a nearly sevenfold range in worker body mass (35–251 mg) and queens weighing up to 611 mg.</p>
+         <sec id="sc3.1">
+            <title>Is TW a Reliable Predictor of Body Size?</title>
+            <p>We regressed body mass on thorax width (both ln transformed), including hive and the interaction between hive and thorax width in the full OLS model. After removing the nonsignificant interaction between hive and thorax width from the final model, thorax width explained 85% of the variation in body mass, with an additional 3% of the variation explained by significant differences among hives (table 1). Bees from hive 4 were significantly larger at a given thorax width than bees from hives 1, 3, and 7 (Tukey HSD post hoc comparisons, <inline-formula id="if7">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if7.eps"/>
+               </inline-formula>, 0.024, and 0.033, respectively). Allometric slopes did not differ among hives, but intercepts did (<inline-formula id="if8">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if8.eps"/>
+               </inline-formula>; table 1), driven by bees from hive 4 (fig. 2<italic>A</italic>, blue circles and line) being heavier than bees from hive 7 (fig. 2<italic>A</italic>, brown circles and line) at any given thorax width (<inline-formula id="if9">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if9.eps"/>
+               </inline-formula>). Overall, mass increased with TW<sup>3.01</sup> (fig. 2<italic>A</italic>, black line), which was not significantly different from the isometric prediction of 3 (<inline-formula id="if10">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if10.eps"/>
+               </inline-formula>; table 1). Similarly, the robust regression slope estimate (3.07, 95% confidence interval [CI]: 2.84, 3.32) and all within-hive scaling exponents were indistinguishable from 3 (SMA, all <inline-formula id="if11">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if11.eps"/>
+               </inline-formula>). Four queens from 2 hives (fig. 2<italic>A</italic>, triangles) appeared heavier for their TW than would be expected based on the worker regression (fig. 2<italic>A</italic>, dotted line), but insufficient sample sizes precluded their inclusion in the analyses.<table-wrap id="tb1" position="float">
+                  <label>Table 1.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <title>Within- and among-hive scaling of body size (mass and empty mass) and cross-sectional area of the pronotal spiracular tracheae (PSA) with the width of thorax (TW) and of the pronotal lobe (PLW), respectively, for <italic>Bombus impatiens</italic> worker bees</title>
+                  </caption>
+                  <graphic alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="tb1.eps"/>
+                  <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                                 xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                                 frame="topbot">
+                     <oasis_0:tgroup cols="8">
+                        <oasis_0:colspec colname="col1" align="left"/>
+                        <oasis_0:colspec colname="col2" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col3" align="char" char="."/>
+                        <oasis_0:colspec colname="col4" align="char" char="."/>
+                        <oasis_0:colspec colname="col5" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col6" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col7" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col8" align="char" char="."/>
+                        <oasis_0:thead>
+                           <oasis_0:row>
+                              <oasis_0:entry morerows="1" colsep="0" rowsep="1"/>
+                              <oasis_0:entry namest="col2"
+                                             nameend="col4"
+                                             colsep="0"
+                                             rowsep="1"
+                                             align="center">OLS</oasis_0:entry>
+                              <oasis_0:entry namest="col5"
+                                             nameend="col8"
+                                             colsep="0"
+                                             rowsep="1"
+                                             align="center">SMA</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>F</italic> (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>R</italic>
+                                 <sup>2</sup>
+                              </oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>P</italic>
+                              </oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>D</italic> (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">Wald (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">Slope (95% CI)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>P</italic>
+                              </oasis_0:entry>
+                           </oasis_0:row>
+                        </oasis_0:thead>
+                        <oasis_0:tbody>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Mass∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> TW (<italic>N</italic> = 88)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">594.3 (1, 81)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.85</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.65 (6)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.01 (2.77, 3.26)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.949</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 6)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">4.54 (5, 81)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.03</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.001**</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">15.88 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.007**</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> TW × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.42 (5, 76)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.834</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.65 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.895</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Empty mass∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> TW (<italic>N</italic> = 74)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">625.8 (1, 67)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.87</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.01 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.03 (2.79, 3.28)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.848</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">5.98 (4, 67)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.03</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">19.87 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.001**</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> TW × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.72 (4, 64)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.583</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.98 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.739</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">PSA∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> PLW (<italic>N</italic> = 244)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">534.3 (1, 237)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.69</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.34 (6)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.08 (1.92, 2.22)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.765</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 6)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.84 (5, 237)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.01</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.106</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">13.89 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.016*</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> PLW × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.46 (5, 232)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.807</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.55 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.770</oasis_0:entry>
+                           </oasis_0:row>
+                        </oasis_0:tbody>
+                     </oasis_0:tgroup>
+                  </oasis_0:table>
+                  <table-wrap-foot>
+                     <fn id="tb1fn1">
+                        <label>Note</label>
+                        <p>For ordinary least squares (OLS) and standardized major axis (SMA) analyses, main effects statistics come from models with nonsignificant interactions removed. OLS <italic>P</italic> values are for the null hypothesis that the slope of the regression is 0 (main effect) or varies among hives (main effect by hive interaction) or that the intercept varies among hives (hive covariate). SMA <italic>P</italic> values are for the null hypothesis that the slope matches the isometric prediction (<italic>D</italic> statistic for the main effect), that the slope varies among hives (<italic>D</italic> statistic for the main effect by hive interaction), or that the intercept varies among hives (Wald statistic for the hive covariate). CI = confidence interval.</p>
+                     </fn>
+                     <fn id="tb1fna">
+                        <label>*</label>
+                        <p>
+                           <inline-formula id="if79">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if79.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                     <fn id="tb1fnb">
+                        <label>**</label>
+                        <p>
+                           <inline-formula id="if80">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if80.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                     <fn id="tb1fnc">
+                        <label>***</label>
+                        <p>
+                           <inline-formula id="if81">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if81.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
+               <fig id="fg2" position="float" fig-type="figure">
+                  <label>Figure 2.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>Thorax width (TW) and pronotal lobe width (PLW) predict body mass and pronotal spiracular area (PSA), respectively. <italic>A</italic>, Mass increases isometrically with TW<sup>3.01</sup> among 88 worker bees from six different hives. Bees from hive 4 (blue circles) were larger than bees from hive 7 (brown circles), but slopes within these hives (blue and brown lines) did not differ from the common slope (black line). Bees from all other hives are indicated by open black points to reveal point density where points overlap. <italic>B</italic>, PSA increases isometrically with PLW<sup>2.08</sup> (black regression line) among 244 worker bees from six different hives. All bees are indicated by open black points because there were no differences among hives in regression slopes or intercepts. Queens (triangles) were not included in regression analyses, but worker regression lines (solid) are extended (dotted) to queens for visual comparison. Inset plots show untransformed data. Gray lines in the background represent the isometric slope expectation. See table 1 for regression statistics.</p>
+                  </caption>
+                  <graphic alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="fg2.eps"/>
+               </fig>
+            </p>
+            <p>Empty mass was also strongly correlated with TW. In the final model, TW explained 87% of the total variation in empty mass (<inline-formula id="if12">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if12.eps"/>
+               </inline-formula>), with an additional 3% explained by a significant hive effect (<inline-formula id="if13">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if13.eps"/>
+               </inline-formula>; table 1). Hives did not differ in allometric slopes, but differed in intercepts (<inline-formula id="if14">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if14.eps"/>
+               </inline-formula>, 0.001, respectively; table 1), with bees from hive 1 lighter than those from hives 2, 4, and 5 at any given thorax width (<inline-formula id="if15">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if15.eps"/>
+               </inline-formula>, 0.001, 0.002, respectively). The common slope of 3.03 was not significantly different from 3 (<inline-formula id="if16">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if16.eps"/>
+               </inline-formula>; table 1), nor were the robust slope estimate (3.14, 95% CI: 2.89, 3.40) or any of the within-hive slopes (SMA, all <inline-formula id="if17">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if17.eps"/>
+               </inline-formula>).</p>
+         </sec>
+         <sec id="sc3.2">
+            <title>Is the Width of the Pronotal Lobe a Reliable Predictor of PSA?</title>
+            <p>We evaluated the relationship between the PLW (fig. 1<italic>C</italic>) and PSA (fig. 1<italic>D</italic>) among 244 workers from 6 hives, with body size ranging from 75 to 251 mg. After removing the nonsignificant hive by PLW interaction (<inline-formula id="if18">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if18.eps"/>
+               </inline-formula>; table 1), the final model explained 70% of the variance in PSA, with PLW explaining most of the variance in PSA (69%; table 1). Allometric slopes did not differ among hives (<inline-formula id="if19">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if19.eps"/>
+               </inline-formula>; table 1) and all within-hive slopes were indistinguishable from the isometric expectation of 2 (SMA, all <inline-formula id="if20">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if20.eps"/>
+               </inline-formula>). Overall, hives differed in their intercepts (<inline-formula id="if21">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if21.eps"/>
+               </inline-formula>; table 1), but no pairwise differences among hives were significant (all <inline-formula id="if22">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if22.eps"/>
+               </inline-formula>). PSA scaled with PLW<sup>2.08</sup>, which was not significantly different from the isometric expectation of 2 (<inline-formula id="if23">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if23.eps"/>
+               </inline-formula>; table 1). The robust slope estimate (2.03) was also not different from 2 (95% CI: 1.88, 2.18).</p>
+         </sec>
+         <sec id="sc3.3">
+            <title>Does Respiratory Volume Scale Hypermetrically with Body Size?</title>
+            <p>We compared the scaling of respiratory volume with body mass of 67 worker bees from 5 hives with body mass ranging from 36 to 251 mg. Given limited sample sizes and clearly distinct morphology, we did not include data for three queen bees in allometric analyses but included them in plots for visual comparison (fig. 3<italic>A</italic>, 3<italic>C</italic> triangles). The final model explained 44% of the variation in respiratory volume, which increased significantly with mass (<inline-formula id="if24">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if24.eps"/>
+               </inline-formula>) and did not differ among hives (<inline-formula id="if25">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if25.eps"/>
+               </inline-formula>; table 2). Hives did not differ in allometric slopes (<inline-formula id="if26">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if26.eps"/>
+               </inline-formula>) or intercepts (<inline-formula id="if27">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if27.eps"/>
+               </inline-formula>), with the common slope estimate of 2.62 significantly greater than the slope of 1 predicted by isometry (<inline-formula id="if28">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if28.eps"/>
+               </inline-formula>; table 2). Within hives, respiratory volume was significantly correlated with mass only among workers from hives 2 (OLS, <inline-formula id="if29">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if29.eps"/>
+               </inline-formula>, <inline-formula id="if30">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if30.eps"/>
+               </inline-formula>, <inline-formula id="if31">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if31.eps"/>
+               </inline-formula>) and 4 (OLS, <inline-formula id="if32">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if32.eps"/>
+               </inline-formula>, <inline-formula id="if33">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if33.eps"/>
+               </inline-formula>, <inline-formula id="if34">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if34.eps"/>
+               </inline-formula>), but samples sizes were lower for other hives (<inline-formula id="if35">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if35.eps"/>
+               </inline-formula>, 6, and 5). Allometric slope estimates for workers from hives 2 and 4 (2.69 and 2.22, respectively) were both significantly larger than the isometric prediction of 1 (SMA, hive 2: <inline-formula id="if36">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if36.eps"/>
+               </inline-formula>, 95% CI: 2.04, 3.54; hive 4: <inline-formula id="if37">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if37.eps"/>
+               </inline-formula>, 95% CI: 1.47, 3.27). Robust regression yielded a slope of 2.57, also significantly greater than 1 (robust SMA, <inline-formula id="if38">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if38.eps"/>
+               </inline-formula>, 95% CI: 2.11, 3.12; OLS, <inline-formula id="if39">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if39.eps"/>
+               </inline-formula>).<fig id="fg3" position="float" fig-type="figure">
+                  <label>Figure 3.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>Tracheal volume scales hypermetrically with body size. <italic>A</italic>, Among 67 worker bees from 5 hives, tracheal volume (tracheal tubes and air sacs combined) scaled with mass<sup>2.62</sup>. <italic>B</italic>, Among 64 worker bees from 5 hives, tracheal volume scaled with empty mass<sup>2.64</sup>. <italic>C</italic>, Among 68 workers from 5 hives, tracheal volume scaled hypermetrically with thorax width<sup>8.03</sup>, which is a strong predictor of body size (table 1; fig. 2). Slopes and intercepts did not vary among hives for any of the scaling relationships (see table 2 and text for statistics). Queens were not included in these standardized major axis regression analyses but are plotted (triangles) for visual comparison in <italic>A</italic> and <italic>C</italic> (we lacked estimates of empty mass for queens). Inset plots show untransformed data. Gray lines in the background represent the isometric slope expectation.</p>
+                  </caption>
+                  <graphic alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="fg3.tiff"/>
+               </fig>
+               <table-wrap id="tb2" position="float">
+                  <label>Table 2.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <title>Within- and among-hive scaling of respiratory volume with body size of <italic>Bombus impatiens</italic> worker bees</title>
+                  </caption>
+                  <graphic alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="tb2.eps"/>
+                  <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                                 xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                                 frame="topbot">
+                     <oasis_0:tgroup cols="8">
+                        <oasis_0:colspec colname="col1" align="left"/>
+                        <oasis_0:colspec colname="col2" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col3" align="char" char="."/>
+                        <oasis_0:colspec colname="col4" align="char" char="."/>
+                        <oasis_0:colspec colname="col5" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col6" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col7" align="char" char="."/>
+                        <oasis_0:colspec colname="col8" align="char" char="."/>
+                        <oasis_0:thead>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0"/>
+                              <oasis_0:entry namest="col2"
+                                             nameend="col4"
+                                             colsep="0"
+                                             rowsep="1"
+                                             align="center">OLS</oasis_0:entry>
+                              <oasis_0:entry namest="col5"
+                                             nameend="col8"
+                                             colsep="0"
+                                             rowsep="1"
+                                             align="center">SMA</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="1"/>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>F</italic> (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>R</italic>
+                                 <sup>2</sup>
+                              </oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>P</italic>
+                              </oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>D</italic> (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">Wald (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">Slope (95% CI)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>P</italic>
+                              </oasis_0:entry>
+                           </oasis_0:row>
+                        </oasis_0:thead>
+                        <oasis_0:tbody>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Respiratory volume∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Mass (<italic>N</italic> = 67)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">39.9 (1, 61)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.37</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">62.2 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.62 (2.13, 3.27)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.77 (4, 61)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.07</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.147</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">6.65 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.155</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Mass × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.73 (4, 57)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.157</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.10 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.541</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">Respiratory volume∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Empty mass (<italic>N</italic> = 64)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">38.4 (1, 58)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.36</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">58.3 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.64 (2.13, 3.33)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.23 (4, 58)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.08</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.077</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">8.65 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.071</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Empty mass × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.28 (4, 54)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.288</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.96 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.565</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">PNL∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> TW (<italic>N</italic> = 68)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">48.2 (1, 62)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.39</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">66.3 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">8.03 (6.54, 9.99)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.14 (4, 62)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.10</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.020*</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">9.05 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.060</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> TW × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.81 (4, 58)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.522</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.11 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.539</oasis_0:entry>
+                           </oasis_0:row>
+                        </oasis_0:tbody>
+                     </oasis_0:tgroup>
+                  </oasis_0:table>
+                  <table-wrap-foot>
+                     <fn id="tb2fn1">
+                        <label>Note</label>
+                        <p>For ordinary least squares (OLS) and standardized major axis (SMA) analyses, main effects statistics come from models with nonsignificant interactions removed. OLS <italic>P</italic> values are for the null hypothesis that the slope of the regression is 0 (main effect) or varies among hives (main effect by hive interaction) or that the intercept varies among hives (hive covariate). SMA <italic>P</italic> values are for the null hypothesis that the slope matches the isometric prediction (<italic>D</italic> statistic for the main effect), that the slope varies among hives (<italic>D</italic> statistic for the main effect by hive interaction), or that the intercept varies among hives (Wald statistic for the hive covariate). CI = confidence interval; TW = thorax width.</p>
+                     </fn>
+                     <fn id="tb2fna">
+                        <label>*</label>
+                        <p>
+                           <inline-formula id="if82">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if82.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                     <fn id="tb2fnb">
+                        <label>**</label>
+                        <p>
+                           <inline-formula id="if83">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if83.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                     <fn id="tb2fnc">
+                        <label>***</label>
+                        <p>
+                           <inline-formula id="if84">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if84.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
+            </p>
+            <p>We regressed respiratory volume on empty mass for 64 workers from 5 hives, varying in empty mass from 35 to 249 mg (fig. 3<italic>B</italic>; we lacked estimates of empty mass for any queens). In the final model, respiratory volume was strongly correlated with empty mass (<inline-formula id="if40">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if40.eps"/>
+               </inline-formula>) and did not vary among hives (<inline-formula id="if41">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if41.eps"/>
+               </inline-formula>; table 2). Neither allometric slopes nor intercepts varied among hives (<inline-formula id="if42">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if42.eps"/>
+               </inline-formula>, 0.071, respectively; table 2). The common slope estimate of 2.64 was significantly different from the isometric expectation of 1 (<inline-formula id="if43">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if43.eps"/>
+               </inline-formula>; table 2), as were within-hive estimates (SMA, all <inline-formula id="if44">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if44.eps"/>
+               </inline-formula>) and the robust slope estimate (2.59, 95% CI: 2.14, 3.14).</p>
+            <p>We also investigated the scaling of respiratory volume with TW (which scales isometrically with body mass; fig. 2<italic>A</italic>, table 1) of 68 workers from 5 hives. In the final model, thorax width explained 39% of the variation in respiratory volume, with an additional 10% explained by significant variation among hives (<inline-formula id="if45">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if45.eps"/>
+               </inline-formula>; table 2), driven by marginally larger respiratory volumes in bees from hive 3 relative to those from hive 5 (Tukey HSD, <inline-formula id="if46">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if46.eps"/>
+               </inline-formula>). Hives did not differ in allometric slopes or intercepts (<inline-formula id="if47">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if47.eps"/>
+               </inline-formula>, 0.060, respectively; table 2). The common slope estimate of 8.03 was significantly greater than the isometric expectation of 3 (<inline-formula id="if48">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if48.eps"/>
+               </inline-formula>; table 2), as were within-hive estimates (all <inline-formula id="if49">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if49.eps"/>
+               </inline-formula>) and the robust estimate of 8.20 (SMA, 95% CI: 6.84, 9.84).</p>
+         </sec>
+         <sec id="sc3.4">
+            <title>Does PSA Scale Hypermetrically with Body Size?</title>
+            <p>We estimated cross-sectional area of the PSA of 38 workers (65–251 mg body mass) from 3 hives. In the final model, mass explained 76% of the variation in PSA, with no significant hive effect (<inline-formula id="if50">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if50.eps"/>
+               </inline-formula>; table 3). Allometric slopes and intercepts were indistinguishable among hives (<inline-formula id="if51">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if51.eps"/>
+               </inline-formula>, 0.164, respectively; table 3). The common slope was not significantly different from the isometric expectation (0.67, <inline-formula id="if52">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if52.eps"/>
+               </inline-formula>; table 3), nor was the robust allometric slope estimate (0.63, 95% CI: 0.54, 0.75), or any of the within-hive slope estimates (all <inline-formula id="if53">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if53.eps"/>
+               </inline-formula>). PSA scaled similarly with empty mass, which explained 75% of the variation in tracheal area, with no effect of hive (<inline-formula id="if54">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if54.eps"/>
+               </inline-formula>; table 3). Allometric slopes and intercepts did not vary among hives (<inline-formula id="if55">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if55.eps"/>
+               </inline-formula>, 0.088, respectively; table 3). Neither common (0.68, <inline-formula id="if56">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if56.eps"/>
+               </inline-formula>; table 3), robust (0.64, 95% CI: 0.54, 0.75, <inline-formula id="if57">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if57.eps"/>
+               </inline-formula>), or within-hive slope estimates (all <inline-formula id="if58">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if58.eps"/>
+               </inline-formula>) were different from the isometric expectation of 0.67.<table-wrap id="tb3" position="float">
+                  <label>Table 3.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <title>Within- and among-hive scaling of cross-sectional area of the pronotal spiracular tracheae (PSA) and of pronotal lobe width (PLW) with body size for <italic>Bombus impatiens</italic> worker bees</title>
+                  </caption>
+                  <graphic alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="tb3.eps"/>
+                  <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                                 xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                                 frame="topbot">
+                     <oasis_0:tgroup cols="8">
+                        <oasis_0:colspec colname="col1" align="left"/>
+                        <oasis_0:colspec colname="col2" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col3" align="char" char="."/>
+                        <oasis_0:colspec colname="col4" align="char" char="."/>
+                        <oasis_0:colspec colname="col5" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col6" align="char" char=";op"/>
+                        <oasis_0:colspec colname="col7" align="char" char="."/>
+                        <oasis_0:colspec colname="col8" align="char" char="."/>
+                        <oasis_0:thead>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0"/>
+                              <oasis_0:entry namest="col2"
+                                             nameend="col4"
+                                             colsep="0"
+                                             rowsep="1"
+                                             align="center">OLS</oasis_0:entry>
+                              <oasis_0:entry namest="col5"
+                                             nameend="col8"
+                                             colsep="0"
+                                             rowsep="1"
+                                             align="center">SMA</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="1"/>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>F</italic> (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>R</italic>
+                                 <sup>2</sup>
+                              </oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>P</italic>
+                              </oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>D</italic> (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">Wald (df)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">Slope (95% CI)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="1" align="center">
+                                 <italic>P</italic>
+                              </oasis_0:entry>
+                           </oasis_0:row>
+                        </oasis_0:thead>
+                        <oasis_0:tbody>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">PSA∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Mass (<italic>N</italic> = 38)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">113.4 (1, 34)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">.76</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.02 (3)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.67 (.56, .81)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.388</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 3)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.70 (2, 34)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.01</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.501</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.62 (2)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.164</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Mass × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.42 (2, 32)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.256</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3.01 (2)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.222</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">PSA∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Empty mass (<italic>N</italic> = 39)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">111.8 (1, 35)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.75</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.69 (3)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.68 (.57, .82)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.442</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 3)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.04 (2, 35)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.01</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.364</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">4.87 (2)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.088</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Empty mass × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.42 (2, 33)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.256</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.60 (2)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.272</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">PLW∼:</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"/>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> TW (<italic>N</italic> = 276)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">3,521 (1, 262)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.92</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">1.96 (5)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.98 (.90, 1.10)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.854</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> Hive (<italic>N</italic> = 7)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">6.11 (6, 262)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.01</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.001***</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">16.42 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.002**</oasis_0:entry>
+                           </oasis_0:row>
+                           <oasis_0:row>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom"> TW × hive</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.70 (6, 262)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">&lt;.01</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.015*</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">2.03 (4)</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" align="center" valign="bottom">…</oasis_0:entry>
+                              <oasis_0:entry colsep="0" rowsep="0" valign="bottom">.731</oasis_0:entry>
+                           </oasis_0:row>
+                        </oasis_0:tbody>
+                     </oasis_0:tgroup>
+                  </oasis_0:table>
+                  <table-wrap-foot>
+                     <fn id="tb3fn1">
+                        <label>Note</label>
+                        <p>For ordinary least squares (OLS) and standardized major axis (SMA) analyses, main effects statistics come from models with nonsignificant interactions removed. OLS <italic>P</italic> values are for the null hypothesis that the slope of the regression is 0 (main effect) or varies among hives (main effect by hive interaction) or that the intercept varies among hives (hive covariate). The SMA analysis of PLW excludes data from 2 hives that had significantly different slopes (see text for details), so regression analyses include 63 bees from 5 hives. SMA <italic>P</italic> values are for the null hypothesis that the slope matches the isometric prediction (<italic>D</italic> statistic for the main effect), that the slope varies among hives (<italic>D</italic> statistic for the main effect by hive interaction), or that the intercept varies among hives (Wald statistic for the hive covariate). CI = confidence interval; TW = thorax width.</p>
+                     </fn>
+                     <fn id="tb3fna">
+                        <label>*</label>
+                        <p>
+                           <inline-formula id="if85">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if85.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                     <fn id="tb3fnb">
+                        <label>**</label>
+                        <p>
+                           <inline-formula id="if86">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if86.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                     <fn id="tb3fnc">
+                        <label>***</label>
+                        <p>
+                           <inline-formula id="if87">
+                              <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if87.eps"/>
+                           </inline-formula>.</p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
+            </p>
+            <p>TW and PLW scaled isometrically with body size and spiracular cross-sectional area, respectively (fig. 2; table 1), so we measured these traits on a larger sample of bees to indirectly assess scaling of tracheal dimensions with body size. We analyzed scaling of PLW and TW for 276 worker bees from 7 hives (four queens are excluded from scaling analyses but plotted for comparison; fig. 4<italic>B</italic>). Hives differed in their slopes (<inline-formula id="if59">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if59.eps"/>
+               </inline-formula>) and intercepts (<inline-formula id="if60">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if60.eps"/>
+               </inline-formula>; table 3). Although post hoc comparisons revealed no significant differences in coefficients, these effects were driven primarily by the lower intercept and steeper slope of hive 7. The full model explained 93% of the variation in PLW, with 92% of the variation explained by TW alone. Allometric slopes differed among hives (SMA, <inline-formula id="if61">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if61.eps"/>
+               </inline-formula>, <inline-formula id="if62">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if62.eps"/>
+               </inline-formula>), driven by the shallower slope of hive 2 compared to hive 6 (SMA, <inline-formula id="if63">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if63.eps"/>
+               </inline-formula>, all other <inline-formula id="if64">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if64.eps"/>
+               </inline-formula>). Within hive 2, PLW scaled with TW<sup>0.88</sup>, significantly less than the isometric expectation of 1 (95% CI: 0.80, 0.99; <inline-formula id="if65">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if65.eps"/>
+               </inline-formula>, <inline-formula id="if66">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if66.eps"/>
+               </inline-formula>; fig. 4<italic>B</italic>, brown points and line). Within hive 6, the allometric slope was 1.08, significantly greater than 1 (95% CI: 1.05, 1.12; <inline-formula id="if67">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if67.eps"/>
+               </inline-formula>, <inline-formula id="if68">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if68.eps"/>
+               </inline-formula>; fig. 4<italic>B</italic>, blue circles and line). With hives 2 and 6 excluded, allometric slopes did not vary among hives (<inline-formula id="if69">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if69.eps"/>
+               </inline-formula>), but intercepts did (<inline-formula id="if70">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if70.eps"/>
+               </inline-formula>; table 3), with bees from hives 4 and 5 having significantly larger PLW for their size than did bees from hive 6 (SMA, <inline-formula id="if71">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if71.eps"/>
+               </inline-formula>, 0.002, respectively). The common slope estimate of 0.98 was not significantly different from the isometric expectation of 1 (<inline-formula id="if72">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if72.eps"/>
+               </inline-formula>; table 3), nor were the robust slope estimate (0.92, 95%CI: 0.83, 1.02, <inline-formula id="if73">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if73.eps"/>
+               </inline-formula>) or any of the within-hive slope estimates (all <inline-formula id="if74">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if74.eps"/>
+               </inline-formula>).<fig id="fg4" position="float" fig-type="figure">
+                  <label>Figure 4.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>Tracheal cross-sectional area scales isometrically with body size. <italic>A</italic>, Cross-sectional area of the pronotal spiracular trachea (PSA; see fig. 1<italic>D</italic>) increases isometrically with mass<sup>0.67</sup> among 38 worker bees from 3 hives (all indicated by open circles), with no differences among hives in slopes or intercepts of the standardized major axis regression (SMA; black line). <italic>B</italic>, Width of the pronotal lobe (PLW; see fig. 1<italic>C</italic>) scales isometrically with thorax width<sup>0.98</sup> among 63 bees from 5 hives (open points), excluding hives 2 and 6. Hives 2 and 6 differed in regression slopes and intercepts, with PLW scaling hypometrically with TW among worker bees in hive 2 (brown circles and lines) and hypermetrically with TW among worker bees in hive 6 (blue circles and lines). Queens were not included in these SMA regression analyses but are plotted (triangles) for visual comparison in <italic>B</italic>. PLW and thorax width (TW) are correlated with PSA and body size, respectively (table 1; fig. 2). Inset plots show untransformed data. Gray lines in the background represent the isometric slope expectation. See table 2 for regression statistics.</p>
+                  </caption>
+                  <graphic alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="fg4.eps"/>
+               </fig>
+            </p>
+         </sec>
+      </sec>
+      <sec id="sc4">
+         <title>Discussion</title>
+         <sec id="sc4.1">
+            <title>Linear Predictors of Body and Respiratory Morphology</title>
+            <p>As expected from within- and among-species comparisons when source nest was unknown (Peat et al. 2005), TW was a reliable predictor of body size within and among nests of <italic>Bombus impatiens</italic> (fig. 2<italic>A</italic>) as it scaled isometrically and explained ∼85% of the variation in body mass (table 1). Similarly, the width of the pronotal lobe predicted cross-sectional area of the pronotal spiracular trachea (fig. 2<italic>B</italic>), but with more unexplained variance (<inline-formula id="if75">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if75.eps"/>
+               </inline-formula>). The excess variance could, in part, be methodological given substantial error in PSA measurements (9%–12%; see “Material and Methods”). Alternatively, the variability in PSA at a given PLW may reflect actual morphological differences among individuals; testing these hypotheses will require alternative measurement approaches. Nevertheless, the relatively strong correlations between linear predictors and body and respiratory morphology make these measurements a useful tool both for quick determination of body and tracheal morphology of pinned specimens and for noninvasive estimation of morphology of live specimens.</p>
+         </sec>
+         <sec id="sc4.2">
+            <title>Hypermetry of Tracheal System Volume</title>
+            <p>We found pronounced tracheal hypermetry among sister bumblebees with 75% genetic similarity and varying roughly fivefold in body mass, with larger bees investing proportionately more in their tracheal systems (fig. 3). Tracheal volume scaled with body mass<sup>2.62</sup> among bumblebee workers, which is twice the scaling coefficients found for ontogenetic comparisons of grasshoppers across instars (∼1.3; Harrison et al. 2005; Lease et al. 2006; Greenlee et al. 2009) and for comparisons among four Tenebrionid beetle species (∼1.3; Kaiser et al. 2007).</p>
+            <p>The large allometric slope in bumblebees could be an artifact of the water displacement technique. Syringe pumping while the insect is immersed in fluid under the vacuum can strongly alter the tracheal volume estimate (Lease et al. 2006). Also, water could be trapped in the bee pile after removal from the vacuum leading to overestimates of tracheal volumes (Lease et al. 2006), particularly for larger bees which can have relatively longer pile (Peat et al. 2005). To minimize these potential sources of error, we standardized syringe pumping to the first minute that the bee was under the vacuum. Further, after removal from the vacuum, we thoroughly dried bees on paper towels and under an air stream to remove all exterior water. We could not detect exterior water on any bees after the standardized drying period, so suspect that errors from water trapped in pile were minimal and uncorrelated with body size. Also, the tracheal volumes estimated here were similar to tracheal volume estimates (by water displacement and inert gas approaches) for similarly sized grasshoppers. The smallest and largest worker bees (roughly 60 and 250 mg, respectively) had tracheal volumes of about 1.5 and 50 μL, respectively; similarly sized grasshoppers had tracheal volumes of about 6 and 100 μL, respectively (Lease et al. 2006). For grasshoppers, water displacement tended to overestimate tracheal volumes relative to an inert gas approach, particularly for larger individuals (Lease et al. 2006). Despite these systematic errors, the estimated scaling of tracheal volume with body size was the same for the two techniques (Lease et al. 2006). As such, our estimate of tracheal volume scaling in bumblebees is unlikely to be an artifact of the water displacement technique.</p>
+            <p>Alternatively, the large scaling coefficient in bumblebees as compared to coefficients from beetles and grasshoppers could reflect physiological differences between these insects. Whereas the largest species of beetles included in the Kaiser et al. (2007) study do not fly and adult grasshoppers are only occasional fliers unless they are migrating, large worker bumblebees are the primary foragers for the colony (Goulson et al. 2002), relying on flight to visit often widely dispersed flowers and return to the nest with large pollen and nectar loads (Goulson 2003). Bumblebee dependence on flight which demands high rates of oxygen consumption (Ellington et al. 1990) may strongly select for oxygen delivery capacity. Flight metabolic rates scale with mass<sup>1</sup> for <italic>B. impatiens</italic> (Skandalis and Darveau 2012). Therefore the pronounced tracheal hypermetry found here (fig. 3) suggests strong compensation in tracheal morphology to facilitate maintenance of oxygen delivery in larger bees.</p>
+            <p>We assessed scaling of tracheal volume for bees with empty crops (empty mass) to minimize variation in mass estimates. However, given space constraints within a rigid exoskeleton, a full nectar load might reduce tracheal volume, potentially imposing respiratory constraints during feeding. It would be particularly interesting to measure tracheal volumes of fully loaded bumblebees for comparison with these data.</p>
+         </sec>
+         <sec id="sc4.3">
+            <title>Isometry of Tracheal Cross-Sectional Area</title>
+            <p>Bumblebees could increase the size of the tracheal system by increasing the size of the main tracheal trunks, by increasing the number and size of air sacs, and by increasing the number and size of terminal tracheoles. Isometric scaling of the cross-sectional area of the pronotal spiracular tracheae (table 3; fig. 4<italic>A</italic>) suggests that, overall, bumblebees do not change the size of these outermost tracheae. Similarly, cross-sectional area of major tracheae in grasshoppers showed little (Greenlee et al. 2009) to no (Hartung et al. 2004; Harrison et al. 2005) relative change with body size. Among beetle species, diameters of main head tracheae scaled isometrically but leg tracheal diameter scaled hypermetrically with body size (Kaiser et al. 2007), suggesting that among beetle species tracheal hypermetry is driven in part by increased size of the largest tracheae (Kaiser et al. 2007). In contrast to the overall pattern, we found slight hypermetry of PLW with body size (TW) for bees from hive 6 (fig. 4<italic>B</italic>, blue circles and line), and slight hypometry for bees from hive 2 (fig. 4<italic>B</italic>, brown circles and line). Sample sizes from hive 2 (<inline-formula id="if76">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if76.eps"/>
+               </inline-formula>) are small relative to the analysis of all bees, excluding hives 2 and 6 (<inline-formula id="if77">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if77.eps"/>
+               </inline-formula>); however, the large sample size from hive 6 (<inline-formula id="if78">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if78.eps"/>
+               </inline-formula>) suggests that hypermetry of cross-sectional area of major trachea cannot be ruled out for bumblebees.</p>
+            <p>Although it is unclear whether the number and size of air sacs and tracheoles change with size in bumblebees, tracheal hypermetry in grasshoppers is driven by more and larger air sacs (Greenlee et al. 2009) and tracheoles (Hartung et al. 2004). Larger air sacs could facilitate convective gas exchange from outside air into the small trachea, helping larger insects overcome potential oxygen limitation by minimizing diffusion distances (Harrison et al. 2005; Greenlee et al. 2009). Bumblebees ventilate the flight muscles in the thorax by pumping the abdomen (Komai 2001) to expand and compress a large abdominal air sac (Westneat et al. 2008). Larger bumblebees may increase convective flux capacity by increasing the size of this and other air sacs, but measurements of internal air sac dimensions (perhaps by synchrotron imaging; Westneat et al. 2008) are necessary to test this hypothesis. Bumblebees may also increase the density of tracheoles to minimize diffusion distances from tracheole endings to mitochondria. Increased density and surface area to volume ratio of tracheoles as well as thinner tracheole walls facilitated increased lateral diffusion capacities in adult relative to second-instar grasshoppers, allowing larger grasshoppers to overcome potential oxygen delivery issues (Hartung et al. 2004). Similar changes in tracheole morphology might be expected for larger bumblebees.</p>
+         </sec>
+         <sec id="sc4.4">
+            <title>Differences in Body and Respiratory Morphology among Hives</title>
+            <p>Hives showed very similar scaling of body and respiratory morphology, with the hive effect explaining less than 10% of the variation in morphological variables in all cases (tables 1–3). Hives did differ in some cases, but it is unclear what drove those differences. Hive 4 was larger than hive 7 at the same TW (fig. 2<italic>A</italic>); and hives 2 and 6 differed in the scaling of PLW with TW (fig. 4<italic>B</italic>). The age of the colony (Couvillon et al. 2010) and the developmental conditions (Cnaani et al. 2002), age (Skandalis et al. 2011), and nutritional status of workers are all factors that can alter body morphology of bumblebees. Although we attempted to standardize these conditions across colonies, variation in these factors among colonies could account for the small differences we found in the scaling of body and respiratory morphology.</p>
+         </sec>
+         <sec id="sc4.5">
+            <title>Tracheal Morphology of Queen Bumblebees</title>
+            <p>Based on tracheal morphology, queen bumblebees are not simply very large workers. Bumblebee queens had tracheal system volumes similar in size to workers less than 1/3 their mass (fig. 3<italic>A</italic>, 3<italic>C</italic>, triangles), suggesting that queens may be more limited by oxygen delivery. Although we don’t know the extent of ovary development of the queens used in this study, they were newly produced by the colonies and had not mated; therefore, the relatively small tracheal volumes of these queens likely reflected the developmentally determined tracheal volume. Extensive ovary development in gravid, nesting queens could displace abdominal air sacs, further reducing relative tracheal volume. For example, gravid female grasshoppers had significantly smaller tracheal volumes than did adult females without eggs, likely due to egg mass displacing air sac volume (Lease et al. 2006). In any case, our measurements of tracheal system volume likely represent the maximum relative tracheal volumes possible for these queens because the increase in mass and reduction of abdominal air sac volume driven by continued ovary development (Vogt et al. 1994) would further decrease relative tracheal volume. The striking difference in respiratory morphology between workers and queens may reflect the very different life histories of the two castes. Whereas workers rely on flight throughout their lives to collect resources for colony growth, queens fly only for short periods before overwintering and before nest establishment, after which they remain in the nest (Alford 1978). Queens may emerge with tracheal volumes just sufficient to supply oxygen during routine flight (i.e., leaving little reserve flight capacity), reserving the extra abdominal space for future egg production. Further, queens appeared to have larger pronotal lobes than expected for their size (fig. 4<italic>B</italic>, compare triangles to dotted lines); because PLW predicts PSA (fig. 2<italic>B</italic>), this could mean that queens have larger cross-sectional area of the pronotal spiracular trachea than expected for their size. Wider external openings of the trachea could help compensate for relatively smaller tracheal system volumes by facilitating diffusive and convective flow (Harrison et al. 2006). Small queen sample sizes in this study preclude rigorous testing of these hypotheses, but it would be particularly interesting to compare queen and worker morphology for bumblebee species with continuous size distributions between workers and queens (Plowright and Jay 1968) with these data for <italic>B. impatiens</italic>, which has a disjunct size distribution (Cnaani et al. 2002).</p>
+         </sec>
+         <sec id="sc4.6">
+            <title>Maximal Bumblebee Body Size</title>
+            <p>The pronounced tracheal system hypermetry seen here (fig. 3) may strongly impact maximal body size through tracheal system competition with other tissues for space within a rigid exoskeleton (Kaiser et al. 2007; Greenlee et al. 2009; Harrison et al. 2010). As the proportion of the body space occupied by the respiratory system increases, the proportion occupied by other tissues must decrease (fig. 5). The tracheal system occupied ∼25% of the body volume of the largest <italic>B. impatiens</italic> workers we measured (∼250 mg body mass; fig. 5, lower solid line). Bumblebee workers can regularly reach 400 mg in some species (Goulson 2003); these workers would have to devote roughly 50% of their body volume to the tracheal system if they follow the same scaling we found here. If queens followed the same scaling as workers (fig. 3<italic>A</italic>), the tracheal system would occupy 97% of their body volume (fig. 5, lower dotted line), rather than ∼4% (fig. 5, lower right triangles). Clearly, a minimal amount of muscle, gut, nervous system, and hemolymph is necessary for proper function. The competition for space between the tracheal system and other tissues may set the upper limit of body size for bumblebees, as has been suggested for beetles (Kaiser et al. 2007). Comparisons of tracheal allometry within and among nests reared in variable aP<sc>o</sc>
+               <sub>2</sub> would be particularly revealing.<fig id="fg5" position="float" fig-type="figure">
+                  <label>Figure 5.<x xml:space="preserve"> </x>
+                  </label>
+                  <caption>
+                     <p>Increased tracheal volume must be offset by reduced volume of other tissues. The fraction of the body of workers occupied by the tracheal system (tracheal volume) as estimated from the standardized major axis regression (fig. 3<italic>A</italic>) is indicated by the lower solid line. The lower dotted line extends the worker regression to queen-sized bees. Measured mass and tracheal system volumes of queens are indicated by triangles on the lower right. The upper solid line shows the estimated volume fraction of other tissues or workers (solid) and the extension of the worker regression to queen-sized bees (dotted). Estimates of other tissue volume for queens are indicated by triangles in the upper right corner.</p>
+                  </caption>
+                  <graphic alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="fg5_online.eps"/>
+               </fig>
+            </p>
+         </sec>
+      </sec>
+   </body>

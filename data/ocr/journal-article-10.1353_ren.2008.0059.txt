@@ -1,0 +1,70 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <p>For the last fifty years or so, a steadily increasing interest
+has developed in the study of the so-called “emergence of a
+new subjectivity” in the early modern period. Although the word <italic>subjectivity</italic> has been used with somewhat different meanings
+by scholars ranging from Blumenberg to Garin, Greenblatt, Taylor,
+and Toulmin, the representation of landscapes has generally been a
+major field of inquiry in the assessment of the period’s psychologizing
+tendencies. Starting with Petrarch’s “Ascent of Mont Ventoux,”
+there has been a number of important studies on the subject (see Karlheinz
+Stierle’s <italic>Petrarcas Landschaften: zur Geschichte ästhetischer
+Landschaftserfahrung</italic> [1979]). Indeed Renaissance landscapes
+lend themselves particularly well to the study of symbolic projections
+of the poetic self, and a study of their configurations constitute
+a most productive approach to the emergence of an unstable, tottering,
+and often poorly articulated expression of early modern subjectivity.</p>
+      <p>The fourteen seminar papers assembled in this book by Dominique
+de Courcelles, the <italic>grande dame</italic> of Spanish culture
+and <italic>directrice de recherche</italic> at the Centre National
+de la Recherche Scientifique, represent a worthwhile attempt at circumscribing
+the countless interpretive problems presented by the heterogeneous
+corpus of literature and the arts in Renaissance Europe. For nature
+is never a given, but a fictional construct meant to convey the facets
+of authorial selves as they are caught fashioning themselves for the
+better or the worse. Hispanic culture is, of course, given the lion’s
+share here, as half of the papers deal with Iberian topics and consider
+the treatment of “wild nature” in fifteenth-century Castilian
+literature and politics (Santiago López-Ríos); the interior
+landscape of the soul in Rodríguez del Padrón’s <italic>Siervo libre de amor</italic> (Juan Carlos Conde); the authorial
+masked and unmasked virtuosity in Góngora’s <italic>Soledades</italic> (Mercedes Bianco); El Greco’s use of a deformed vision to
+affirm his subjective grasp of the world (Lizzie Boubli); sacred elements
+syncretistically reinvested into pagan texts of the Andes (Chantal
+Caillavet); identity search through birdwatching in Bernardim Ribeiro’s
+poem “Menina e Moça” (Helio J. S. Aloes); and,
+finally, Spanish mystics’ creative use of landscapes as “natural
+magic” to access divine wisdom (Dominique de Courcelles).</p>
+      <p>French literature comes second as a field of exploration for self-expressivity
+through the depiction of nature. Clément Marot’s “Temple
+de Cupido” is reexamined as a parody of allegorical landscape
+leading to the author’s spiritual quest (Danièle Duport).
+Other sixteenth-century poets with evangelical leanings, like Marguerite
+de Navarre, use natural elements as a symbolic invitation to interior
+reformation (Rosanna Gorris Camos). Pierre de Ronsard’s famous
+roses are seen as flowers of rhetoric meant to enhance the poet’s
+claim to creativity (Cathy Yandell). Traditional categories borrowed
+from the classics or the scholastics, like the macrocosm/microcosm
+figure, are recycled to emphasize human anthropomorphism in Belon,
+Rabelais, and other writers (Frank Lestringant). Two papers deal with
+Montaigne, either to explore the figure of insularity in the <italic>Essais</italic> (Tom Conley) or the self-appropriating quality of
+Italian gardens in his <italic>Journal de voyage</italic> (Philippe
+Desan). Only one study touches upon Italian literature with Sannazaro’s <italic>Arcadia</italic> as a wishful dream of harmony between nature and
+civilized society (Carlo Vecce).</p>
+      <p>To be sure, as in all colloquia of this sort, one might argue with
+the choice of speakers or the selection of topics. Yet all the contributions
+point in their own way to some hidden side of landscape depiction,
+namely its capability for authorial self-representation. In the end,
+one wonders if the Romantic cliché once denounced by theorists
+as <italic>pathetic fallacy</italic> (“la nature est un état
+d’âme”) should not be rehabilitated, <italic>mutatis
+mutandis</italic>, as an important component of a rising self-consciousness
+as European culture sails toward modernity. One final regret, however,
+that will probably be shared by all readers: this collection of scholarly
+articles would certainly be put to better use if it contained a bibliography
+and an <italic>index nominum et rerum</italic>.</p>
+      <sig-block> 
+         <sig>François Rigolot</sig> 
+         <sig>Princeton University</sig> 
+      </sig-block>
+   </body>

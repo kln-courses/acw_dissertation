@@ -1,0 +1,842 @@
+<body xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <sec id="sc1">
+         <label>1.<x xml:space="preserve"> </x>
+         </label>
+         <title>Introduction.</title>
+         <p>Alan Musgrave (1985, 208) launched an objection against the <italic>Distinction</italic> between observable and unobservable concrete objects when drawn within the confines of Bas C. van Fraassen's (1980) epoch‐making and passionately debated view of science called <italic>Constructive Empiricism</italic> (CE). Musgrave's objection is an argument to the effect that the Distinction relies on what by the lights of CE is impossible. The Distinction, which is anthropomorphic, vague, and meaningful, is essential for CE, because CE tells us to believe as true only those propositions of an accepted scientific theory that are about actual observables only (proposition ≡ class of logically equivalent statements). Van Fraassen (1985, 256) provided a succinct response to Musgrave's criticism, which Musgrave (2002) confessed not to understand “and nobody I asked could explain it to me either.” I argue that van Fraassen's response is not enough; moreover, it does not put the finger on exactly where Musgrave's objection goes wrong; I shall attempt to remedy the situation (Section 4). I show that Musgrave's criticism can be strengthened, in that it shows that CE cannot solve a problem I shall call ‘Musgrave's Problem,’ which CE however must solve; I end this paper by pointing to a route of how CE can solve it all the same (Section 5). Musgrave's argument is the pièce de résistance, which is why, by way of a thorough warm‐up exercise, I first deal with three other objections. First I argue that Michael Friedman's (1982) objection and Jeffrey Foss' (1984) closely related objection are both wrong (Section 2). Then I provide a way out of the tension in CE, observed by Foss (1984) and by Richard Creath (1985), between the <italic>vagueness</italic> of the Distinction and the <italic>sharpness</italic> of the distinction of CE between pragmatic acceptance and epistemic belief in the truth (Section 3).1</p>
+         <p>As we shall see, all objections against the Distinction are not objections against it simpliciter, but against <italic>drawing it within the confines of</italic> CE. All critics argue that drawing the Distinction somehow clashes with certain principles that constitute CE. To emphasize, whether or not the critics <italic>also</italic> want to criticise the <italic>epistemic significance</italic> of the Distinction (which van Fraassen attributes to it) is not relevant for the present purposes. The present purpose is to show that arguments against the very possibility of drawing the Distinction within CE are unconvincing—the possibility of drawing it is logically prior to discussing its epistemic significance, any such discussion presupposes the Distinction is in place. Another issue not relevant for the present purposes is how to understand the concept of observability itself—one could argue that without a clear conception of what observability is we have no clear conception of what CE is either. I address this topic at length in another paper (Muller 2004); in this paper I take the meaning of observability for granted.</p>
+         <p>One might wonder whether all these objections are not trivially or obviously fallacious so that they do not merit a response: they will be washed away in the fullness of time, it is a shame they were published in the first place. I do not believe that all of these objections <italic>are</italic> fallacious—certainly they are neither <italic>trivially</italic> nor <italic>obviously</italic> so. That is why these objections merit a response. Further, there is even some evidence to the contrary. For in what arguably is the most comprehensive discussion of the Distinction to date, Andre Kukla (1998, 142) writes: “Friedman's objection devastates Van Fraassen's distinction,” and he refers approvingly to the other objections treated in the current paper: “We've found trouble enough for Van Fraassen's Distinction; one troublesome point more or less won't significantly alter its status.” (139). So the Distinction is judged to be in trouble. Whence this defence.</p>
+         <fn-group>
+            <fn id="fn2">
+               <label>1. </label>
+               <p>There are other objections against the Distinction floating around; they require, however, a more comprehensive account of the concept of observability than van Fraassen's troublesome “rough guide” (1980, 16); Muller (2004) is an attempt to accomplish precisely this.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc2">
+         <label>2.<x xml:space="preserve"> </x>
+         </label>
+         <title>Compositions of Unobservable.</title>
+         <p>In his review of van Fraassen 1980, Friedman (1982) fired an argument at the Distinction which we shall quote in full. As I reported in the Introduction, Kukla (1998, 142) regards Friedman's argument as literally “devastating.” <disp-quote>
+               <p>The observable objects are themselves characterised from within the world picture of modern physics: as those complicated systems of elementary particles of the right size and configuration for reflecting light in the visible spectrum, for example. Hence, <italic>if I assert that observable objects exist, I have also asserted that certain complicated systems of elementary particles exist.</italic> But I have thereby asserted that (individual) elementary particles exist as well! <italic>I have not,</italic> in accordance with Van Fraassen's constructive empiricism, <italic>remained agnostic about the unobservable part of the world.</italic> (Friedman 1982, 278, my italics)</p>
+            </disp-quote>
+         </p>
+         <p>Notice that Friedman objects against drawing the Distinction coherently within the confines of CE: drawing it somehow clashes with an epistemic principle of CE which advices one to remain neutral about what an accepted scientific theory asserts about the unobservable part of the world.2 The epistemic significance of the Distinction is not an issue in <italic>this</italic> criticism.</p>
+         <p>CE surely holds that both acceptance and belief in the truth are, or ought to be, closed under implication. So <italic>if</italic> CE accepts the Standard Model of Elementary Particles and their Interactions (<bold>SM</bold>) from physics and accepts therefore that all actual concrete objects consist of the elementary particles of <bold>SM</bold>, then CE must accept (the proposition) that these individual particles exist too. The leap from pragmatic acceptance to epistemic belief is only licensed by CE's epistemic policy when it comes to <italic>empirical</italic> propositions (which we define as being about actual observables only). Since the statement ‘concrete objects consist of elementary particles’ (ξ) is not empirical, because it is (also) about unobservable elementary particles, it does not follow, given CE, that we must believe ξ. On the contrary, whilst CE gladly <italic>accepts</italic> the existence of unobservable elementary particles and <italic>accepts</italic> ξ, because these follow from the acceptance of <bold>SM</bold>, CE does not believe that it is true that they exist. It seems that Friedman has overlooked the crucial distinction between pragmatic acceptance and epistemic belief, as well as the fact that ξ is for CE <italic>not</italic> an object of belief or disbelief.</p>
+         <p>Kukla has understood Friedman's argument as establishing the incompatibility between (a) the epistemic policy of CE and (b) the <italic>theory‐ladenness</italic> of scientific theories, which Van Fraassen subscribes to (cf. Kukla 1998, 139–141). How can (a) and (b) clash? Kukla says they clash because ‘a composite object of more than 10<sup>23</sup> atoms of Carbon exists’ is laden by an acceptable theory, and hence acceptable, but is also about something observable, hence susceptible to belief. So it is believed that individual atoms exist because it is believed that 10<sup>23</sup> Carbon‐atoms exist, in contradiction to the neutral epistemic attitude about unobservables commanded by CE.</p>
+         <p>But, first of all, to acknowledge that our language is ‘theory‐laden’ is to acknowledge the rather banal fact that the use of particular words and expressions in our language is governed in certain ways by the theories we accept; in fact, theories are the main providers of the ‘semantic grammar’ (Wittgenstein) of scientific concepts, they provide the most rules how to use these concepts, and this is constitutive for their meaning. To acknowledge <italic>this</italic> fact does not commit one <italic>to believe</italic> any proposition about the world of the theory, whether the proposition is empirical or not. Therefore, the incompatibility between (a) and (b) which Kukla discerns <italic>must</italic> be a chimera. Specifically, CE does not believe that about 10<sup>23</sup> Carbon‐atoms exist. When we veridically see a diamond, say, we are prepared to believe that this diamond is observable and that it exists; but we are not prepared to believe that 10<sup>23</sup> Carbon‐atoms exist, because saying that a diamond consists of 10<sup>23</sup> Carbon‐atoms is an interpretation of what we see partly in terms of unobservables, which CE may <italic>accept</italic> but <italic>does not believe</italic> in. ‘Theory‐laden’ and ‘laden‐with‐unobservables’ are distinct predicates of propositions; it seems that Kukla has confused them. Theory‐laden sentences can be empirical (‘laden‐with‐only‐actual‐observables’) and non‐empirical; only the aforementioned are the type of theory‐laden statements susceptible to belief and disbelief. Empirical propositions can be theory‐laden or not: ‘Today at such‐and‐such place‐time on the face of planet Earth the sun is visible’ is empirical and not theory‐laden, whereas ‘Today at such‐and‐such place‐time on the face of planet Earth a gigantic, continuously exploding Hydrogen‐bomb is visible’ (which is what the sun is according to modern physics) is empirical and theory‐laden. As soon as unobservables enter statements about observables, these statements do not involve <italic>only</italic> actual unobservables and therefore fail to qualify as empirical; these statements can at best be accepted on the basis of CE, never believed as true or as false.3</p>
+         <p>Mutatis mutandis for Foss' objection against CE. He points out that photons are <italic>unobservable</italic> so taking lots of them cannot not change <italic>that;</italic> but lots of them constitute a visible beam of light when it passes a cloud of cigar smoke, say; from this he concludes that the Distinction is unacceptably <italic>ambiguous.</italic>4 In Foss' objection photons have taken the place of Friedman's atoms and I therefore refer to the previous paragraph.</p>
+         <p>Another way to respond to this criticism is as follows: being observable may be closed under composition (building a house of observable bricks results in an equally observable house), but being unobservable is not, anymore than being light (a house is heavy but the molecules composing it are very light). There is nothing ambiguous going on here.</p>
+         <p>At the danger of being patronising, let me finally address the question how to understand that according to science ‘a bunch of light’ and ‘10<sup>10</sup> photons’ are <italic>identical.</italic> I would say that both expressions have a distinct meaning but an <italic>identical observable referent.</italic> In ‘10<sup>10</sup> photons’ an expression occurs that has an <italic>unobservable</italic> referent (‘photon’), whereas this is not the case in ‘a bunch of light’; whence their difference in meaning.</p>
+         <fn-group>
+            <fn id="fn3">
+               <label>2. </label>
+               <p>The term ‘neutral’ with respect to a proposition stands for ‘neither believing nor disbelieving in the truth of the proposition whilst acknowledging both as genuine possibilities.’ Although the term ‘agnosticism’ threatens to become standard terminology, I see no advantages of flooding philosophy of science with centuries‐old terminology from theological discourse; hence the neutral term ‘neutral.’</p>
+            </fn>
+            <fn id="fn4">
+               <label>3. </label>
+               <p>For an elaboration on the issue of theory‐ladenness, of observation, of ‘observation‐reports’ and their relation to the Distinction, refer to van Fraassen 1993.</p>
+            </fn>
+            <fn id="fn5">
+               <label>4. </label>
+               <p>Foss 1984, 86. What we observe around us is not light itself but objects that reflect, scatter or emit light. When you see a laser beam you see laser light being scattered by air molecules and dust particles. If you send the beam through a glass bell and pump all the air out of it, the laser beam inside will disappear. Light is unobservable.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc3">
+         <label>3.<x xml:space="preserve"> </x>
+         </label>
+         <title>Sharpness Out of Vagueness.</title>
+         <p>Creath (1985, 335‐336) does not object to the Distinction, but submits it is incoherent to admit that the Distinction is <italic>vague</italic> and then to use it to draw the supposedly <italic>sharp</italic> distinction between pragmatic acceptance and epistemic belief in the truth. Foss (1984, 84–85) agrees and charges Van Fraassen with having paid hardly any attention in general to the consequences of the vagueness of the Distinction. (Notice again that the epistemic relevance of the Distinction is not the issue here.) Let us recall that a predicate is <italic>vague</italic> iff there are clear examples for which it holds, clear counter‐examples and ambiguous examples. Being bald, fat, tall, portable, rich, and observable are (unambiguous) examples. But then, should we only <italic>accept</italic> or <italic>believe</italic> a proposition of an accepted theory about a concrete object for which it is ambiguous whether it is observable or not? What do we do with ambiguous cases?5 There is a straightforward answer to this question.</p>
+         <p>The answer is that we should accept ambiguous cases but not believe them. Imperative: when in doubt about observabililty, do not make the mental jump to the level of true belief but remain at the level of acceptance. Simply revise the epistemic policy of CE to asserting that only unambiguously empirical propositions of accepted theories are to be believed as true, where an <italic>unambiguously empirical</italic> proposition by definition is a proposition about objects that are actual and unambiguously observable; a neutral attitude is reserved for unempirical and for ambiguously empirical propositions of an accepted theory. In this fashion we draw the line on the safe side without denying that observability is vague. The distinction between pragmatic acceptance and epistemic belief remains sufficiently sharp.</p>
+         <p>Consider the ethical principle that it is worse to convict an innocent man than to acquit a guilty man. Following this principle should guarantee that prisons contain criminals only and do not contain a single innocent man (beyond reasonable doubt anyway). Sometimes a criminal will not go to prison, for instance due to some silly error of procedure committed by the prosecutor. If the procedures are complicated, so that errors are bound to happen given human fallibility, but this complexity is necessary to prevent innocent persons to be send to prison (the ethical principle mentioned above), then we are prepared to pay the price of an occasional guilty man not being convicted. Similarly, when we amend CE slightly, in the manner explained in the previous paragraph, we have the guarantee that what we demarcate as scientific knowledge is about actual observables only and never about the wretched unobservables or about borderline cases. The price we pay is that sometimes we remain neutral where we could have believed or disbelieved; but we never believe or disbelieve what we should have remained neutral about. <italic>Scientific knowledge,</italic> then, is by constructive‐empiricist definition the whole of all unambiguously empirical propositional content of all accepted scientific theories—it grows steadily. This is what I mean by drawing the line on the safe side.</p>
+         <fn-group>
+            <fn id="fn6">
+               <label>5. </label>
+               <p>In all interesting cases of unobservables that occur in accepted scientific theories, the objects are unambiguously unobservable (electrons, forces, gluon‐fields, black holes, tau‐neutrino's, superstrings, and so forth), which makes the case of ambiguous unobservables largely ‘academic’ (in its pejorative sense). <italic>Gratia</italic> Dieks.</p>
+            </fn>
+         </fn-group>
+      </sec>
+      <sec id="sc4">
+         <label>4.<x xml:space="preserve"> </x>
+         </label>
+         <title>Relying on the Impossible.</title>
+         <sec id="sc4.1">
+            <label>4.1.<x xml:space="preserve"> </x>
+            </label>
+            <title>Preliminaries.</title>
+            <p>I present Musgrave's (1985, 208) criticism of the Distinction in the next Section; in the current Section I introduce a number of abbreviations and state CE's epistemic policy for the sake of future reference.6 Acc(<bold>T</bold>, ε) abbreviates ‘<bold>T</bold> is a scientific theory accepted by our epistemic community ε,’ which consists of all sane human beings with healthy eyes (van Fraassen 1980, 18–19; 1985, 253). Let ψ(<italic>X</italic>) denote some proposition <italic>about</italic> concrete object <italic>X</italic> of some accepted scientific theory.7 In this case, ψ(<italic>X</italic>) is by definition <italic>empirical</italic> iff <italic>X</italic> is real and unambiguously observable:
+<disp-formula id="df1">
+                  <graphic xlink:href="df1"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Here ‘Obs(<italic>X</italic>)’ abbreviates that object <italic>X</italic> is observable to epistemic community ε—which I do not mention for the sake of simplicity; ‘Real(<italic>X</italic>)’ abbreviates ‘<italic>X</italic> is real’—I take the expressions ‘<italic>X</italic> is real,’ ‘<italic>X</italic> is actual,’ and ‘<italic>X</italic> exists’ to be logically equivalent. So it is clear that the classification of all concrete objects in real and unreal ones, and in observable and unobservable ones, is logically prior to the classification of all propositions of all accepted scientific theories into empirical and nonempirical ones. Although it sounds a bit odd to say that ‘¬ Obs(<italic>X</italic>)’ is <italic>about an unobservable object X,</italic> because it is <italic>about object X</italic> and expresses itself <italic>that X</italic> is unobservable, definition (1) does not prohibit expressions Obs(<italic>X</italic>) or Real(<italic>X</italic>) to occur in ψ(<italic>X</italic>). In fact, from definition (1) we have immediately as theorems of logic:
+<disp-formula id="df2">
+                  <graphic xlink:href="df2"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+            </p>
+            <p>Belief (<italic>p,</italic> φ) abbreviates ‘person <italic>p</italic> believes that proposition φ is true’; Neutral (<italic>p,</italic> φ) ‘person <italic>p</italic> remains neutral with regard to proposition φ,’ and <italic>‘ce’</italic> is an arbitrary constructive empiricist (<italic>ce</italic> 𝛆 ε). The epistemic policy of CE asserts that <italic>ce</italic> believes in the truth of all empirical propositions of accepted theories and remains neutral with regard to all nonempirical propositions of accepted theories:8
+<disp-formula id="df3">
+                  <graphic xlink:href="df3"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+where neutrality is defined as follows:
+<disp-formula id="df4">
+                  <graphic xlink:href="df4"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+            </p>
+            <p>Belief in the <italic>empirical adequacy</italic> of <bold>T</bold>, abbreviated by EmpAd(<bold>T</bold>), is by definition believing that all its empirical propositions are true; so the first line in schema (3) can also be written as follows:
+<disp-formula id="df5">
+                  <graphic xlink:href="df5"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Further, I mention that <italic>not believing</italic> φ is not the same as <italic>disbelief</italic> in φ (although the aforementioned is necessary for the last‐mentioned); disbelief in φ is the same as belief in ¬φ; so not believing φ is not the same as believing ¬φ. In general, belief is logically stronger than acceptance:
+<disp-formula id="df6">
+                  <graphic xlink:href="df6"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Of course the converse fails, unless φ is implied by some accepted scientific theory and is empirical; in that case the jump from acceptance to belief is licensed by the epistemic policy of CE (3). When I write ‘CE’ in displayed abbreviations, this includes epistemic policy (3), the very reasonable if not analytic conditional (6) and a few background assumptions about how belief and acceptance interact with the logical connectives, such as that belief is closed under implication: if person <italic>p</italic> believes that sentence ψ is true, and ψ implies φ (or <italic>p</italic> believes so), then <italic>p</italic> also ought to believe that φ is true.</p>
+            <fn-group>
+               <fn id="fn7">
+                  <label>6. </label>
+                  <p>I introduce these abbreviations not because I desire to be pedantic, but to make the logical structure of the sometimes subtle arguments I shall be discussing manifest, and to display numbered statements for ease of reference—thereby omitting the need of having to write phrases like ‘as we concluded in the second half of the one but last paragraph of Section 4.2,’ etc.</p>
+               </fn>
+               <fn id="fn8">
+                  <label>7. </label>
+                  <p>To prevent misunderstandings from arising: <italic>X</italic> may occur free or not in ψ(<italic>X</italic>), or may even not occur in ψ(<italic>X</italic>) at all. The notation ‘ψ(<italic>X</italic>)’ here by definition expresses that ψ is <italic>about X.</italic> What it means to say that a proposition is <italic>about</italic> something has been the subject of thorough analysis. The canonical account seems to be Nelson Goodman's (1972, 246–279); it is less simple than one might intuitively expect because several pitfalls have to be avoided. For the purposes of this paper I take the meaning of ‘about’ for granted.</p>
+               </fn>
+               <fn id="fn9">
+                  <label>8. </label>
+                  <p>One may object to the fact that I seem to construe <bold>T</bold> linguistically, as a set of statements closed under deduction, as the expressions ‘proposition φ of theory <bold>T</bold>’ and ‘<inline-formula>
+                        <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\mathbf{T}\rightarrow \phi $
+\end{document}</tex-math>
+                     </inline-formula>’ strongly suggest, whereas van Fraassen is against such linguistic construals and wants to construe theories as ‘sets of models’ (1980: 64–69). True, but nothing will depend on this. Everything I say can be repeated by construing ‘<inline-formula>
+                        <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\mathbf{T}\rightarrow \phi $
+\end{document}</tex-math>
+                     </inline-formula>’ semantically as: all models in <bold>T</bold> make φ true. And mutatis mutandis for other prima facie linguistic construals.</p>
+               </fn>
+            </fn-group>
+         </sec>
+         <sec id="sc4.2">
+            <label>4.2.<x xml:space="preserve"> </x>
+            </label>
+            <title>Musgrave's Criticism.</title>
+            <p>Consider the wave‐theory of light (<bold>L</bold>), which is an accepted scientific theory. From <bold>L</bold> it follows that an electron (e) is unobservable by humans because it is far too tiny to be detected by our eyes by means of light‐waves:
+<disp-formula id="df7">
+                  <graphic xlink:href="df7"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Although <bold>L</bold> is not a theory telling us anything interesting about electrons, it need not do so; what is sufficient is that according to <bold>L</bold> light bends around tiny objects like a tidal wave bends around a grain of sand, and <italic>this</italic> makes tiny objects such as electrons unobservable, when we model the human eye by a small concave lens and a little spherical screen behind it (the retina), together with the values of the relevant parameters (resolution power, sensititivity‐threshold); cf. Muller 2004.</p>
+            <p>We proceed with statement (7) as a premise of Musgrave's argument. The other premise is that ε (and therefore <italic>ce</italic>) accepts <bold>L</bold>:
+<disp-formula id="df8">
+                  <graphic xlink:href="df8"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Notice that we are silent about the question whether electrons exist. When <italic>ce</italic> accepts <bold>L</bold>, <italic>ce</italic> will <italic>believe</italic> that everything <bold>L</bold> says about actual observables is <italic>true,</italic> but no more; <italic>ce</italic> is qua belief <italic>neutral</italic> with regard to everything else that <bold>L</bold> says but does accept it (3). Therefore <italic>ce</italic> does <italic>not</italic> believe that ‘<inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Obs}\,( \mathrm{e}\,) $
+\end{document}</tex-math>
+               </inline-formula>’ is true because it is a theorem of logic (2) that <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Obs}\,( \mathrm{e}\,) $
+\end{document}</tex-math>
+               </inline-formula> is not empirical (<italic>ce</italic> remains neutral):
+<disp-formula id="df9">
+                  <graphic xlink:href="df9"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Since it is a premise that ε accepts <bold>L</bold> (8), and ‘ <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Obs}\,( \mathrm{e}\,) $
+\end{document}</tex-math>
+               </inline-formula>’ is true iff electrons are <italic>unobservable</italic> (an instance of Tarski's Convention T), we must conclude that <italic>ce does not believe that electrons are unobservable.</italic>
+            </p>
+            <p>Luckily for CE it does <italic>not</italic> follow that <italic>ce</italic> believes that electrons are <italic>observable</italic>—that would surely confute CE. The reason is that in general disbelieving statement φ does not imply believing ¬φ, as we pointed out earlier; one can always choose to remain neutral. Nonetheless, <italic>not believing that electrons are unobservable</italic> (9) whilst it is obviously true that they <italic>are</italic> unobservable is for CE bad enough as it is!</p>
+            <p>Electrons can be replaced with any kind of unobservables. Hence this argument shows, according to Musgrave, that CE “cannot draw the dichotomy it requires” (1985, 208). Notice, again, that the epistemic relevance of the Distinction is not at issue here; what is at issue is something logically prior to it, namely whether CE can draw the Distinction at all. It seems not. CE seems to rely on something which is impossible to reach on the basis of its own epistemic policy (3), namely the belief that objects are unobservable when some accepted theory says they are.</p>
+         </sec>
+         <sec id="sc4.3">
+            <label>4.3.<x xml:space="preserve"> </x>
+            </label>
+            <title>Elaboration of Musgrave's Criticism.</title>
+            <p>What Musgrave tacitly requires of CE is that for every concrete object <italic>X,</italic> there must be a sufficient amount of information about <italic>X</italic> and about the human eye, some or all of which must come from some accepted scientific theory, <bold>T</bold> say, such that one can acquire either the belief that <italic>X</italic> is observable or the belief that <italic>X</italic> is unobservable. Let us call <italic>Musgrave's Problem</italic> the problem to explain how to achieve this within the confines of CE, if only ‘in principle.’ Musgrave's argument then says that taking <bold>L</bold> for <bold>T</bold>, e for <italic>X</italic> and what seems the best information one can dream of, namely that <bold>L</bold> 
+               <italic>itself says that</italic> e <italic>is unobservable</italic> (7), is still <italic>not enough</italic> to solve Musgrave's problem. His conclusion that it is “impossible” to meet is prima facie too quick, but on closer inspection it is not, for one wonders what additional information could improve upon <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Obs}\,( \mathrm{e}\,) $
+\end{document}</tex-math>
+               </inline-formula>. Hence Musgrave's conclusion seems firmly grounded.</p>
+            <p>It is instructive to see how Musgrave's argument fares for an <italic>observable.</italic> If Obs(γ) according to some theory, then Obs(γ) is a statement that can be believed as true iff γ is actual, because only then is Obs(γ) empirical. A Musgrave‐type argument cannot take off because premise (7) is false for γ. In this case Musgrave's Problem is solved. But what if the observable is not actual? Think of Pegasus, Hydra, Cyclops and other characters of fiction. In such cases Musgrave's Problem cannot be solved, because then ‘Obs(γ)’ is not empirical and therefore not a valid object of belief for <italic>ce</italic>. Hence, not only <italic>unobservables,</italic> whether they exist or not, but also <italic>non‐existing observables</italic> make trouble for CE.</p>
+            <p>One begins to wonder whether CE really must solve Musgrave's Problem, as Musgrave tacitly claims. Perhaps it is enough to solve the weaker problem of how to arrive at the acceptance, rather than the belief, of the observability or the unobservability of every concrete object. <italic>If</italic> it is enough for CE to solve this weaker problem, <italic>then</italic> the buck stops here, because CE happily accepts non‐empirical propositions of accepted theories, such as <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Obs}\,( \mathrm{e}\,) $
+\end{document}</tex-math>
+               </inline-formula> of <bold>L</bold>. Let us see.</p>
+            <p>Now, the Distinction is essential for CE, because it grounds the distinction between which part of an accepted scientific theory should be accepted as <italic>objective knowledge of the world,</italic> should be <italic>believed as objectively true,</italic> and which part belongs to the realm of pragmatics, the realm of useful fictions we employ to help us achieve particular aims, notably the epistemic aim of science—which is according to CE the construction of empirically adequate theories. The Distinction is the pillar of this central epistemic claim of CE and presupposed in its epistemic policy (3). Certainly for CE, epistemology and pragmatics are <italic>objectively distinct;</italic> cf. van Fraassen 1980, 87–92. If this distinction itself were not objective, then the part of an accepted theory that according to CE constitutes objective knowledge of the world could not be objectively characterised either. This should be unacceptable for CE. CE should be able to say that it is true that electrons are unobservable and should be able to believe this. Therefore CE must claim that one <italic>can</italic> acquire the belief that electrons are unobservable, if needed on the basis of an accepted scientific theory according to which electrons <italic>are</italic> unobservable (cf. van Fraassen 1980,17; 1985, 252–258).</p>
+            <p>We conclude that solving the weaker problem is not enough. Musgrave's Problem must be solved, just as Musgrave tacitly required.</p>
+         </sec>
+         <sec id="sc4.4">
+            <label>4.4.<x xml:space="preserve"> </x>
+            </label>
+            <title>Van Fraassen's Response and Kukla's Explication.</title>
+            <p>Van Fraassen responded to Musgrave's criticism within his favourite framework of models and embeddings:9 <disp-quote>
+                  <p>Suppose theory <bold>L</bold> entails that statement [‘electrons are unobservable’]. Then <bold>L</bold> has no model in which electrons occur in the empirical substructures. Hence, if electrons are real and observable, not all observable phenomena fit into a model of <bold>L</bold> in the right way, and then <bold>L</bold> is not empirically adequate. So, if I believe <bold>L</bold> to be empirically adequate, then I also believe that electrons are unobservable if they are real. I think that is enough. (1985, 256)</p>
+               </disp-quote>
+            </p>
+            <p>I am going to spell this out—remember that Musgrave (2002) has admitted not to understand this response. Recall that for CE, <bold>L</bold> saves a phenomenon iff <bold>L</bold> has a model which has a substructure that embeds it, called the <italic>empirical substructure</italic> of the model. Suppose concrete object <italic>X</italic> is <italic>real.</italic> Suppose further that <italic>X</italic> is <italic>unobservable.</italic> From the acceptance of <bold>L</bold> (8) it follows that <italic>ce</italic> believes that <bold>L</bold> is empirically adequate (5). Then no model in <bold>L</bold> has an empirical substructure that embeds <italic>X,</italic> because if some model of <bold>L</bold> has one, then <italic>X</italic> is an observable, in contradiction to the supposed unobservability of <italic>X</italic>(7). So we have the following translation of Premise (7) into this language of models and embeddings:
+<disp-formula id="df10">
+                  <graphic xlink:href="df10"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+wherein Embed(<italic>M, X</italic>) abbreviates: model <italic>M</italic> has an empirical substructure embedding <italic>X.</italic> Now, <italic>if X</italic> is an <italic>existing observable</italic> object, <italic>and if</italic> 
+               <bold>L</bold> is empirically adequate, <italic>then</italic> 
+               <bold>L</bold> has some model having an empirical substructure that embeds <italic>X</italic>:
+<disp-formula id="df11">
+                  <graphic xlink:href="df11"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Notice that the consequent of (11) cannot be reached if we delete the second conjunct from the antecedent, Real(<italic>X</italic>), because then the fact that <bold>L</bold> fails to have a model having a substructure that embeds it is not a reason to call <bold>L</bold> empirically inadequate—the notion of empirical adequacy refers to actually existing observables only. The consequent of (11) is in conflict with Premise (10), so we have from these statements, premise (8) and the logical equivalence between <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg ( \phi \wedge \psi ) $
+\end{document}</tex-math>
+               </inline-formula> and <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\psi \rightarrow \neg \phi $
+\end{document}</tex-math>
+               </inline-formula> (and <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \psi \vee \neg \phi $
+\end{document}</tex-math>
+               </inline-formula> for that matter):
+<disp-formula id="df12">
+                  <graphic xlink:href="df12"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+When we invoke the epistemic policy of CE (5) and use the closure of belief under implication (tacitly used by van Fraassen), we obtain from (12):
+<disp-formula id="df13">
+                  <graphic xlink:href="df13"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+From premise (8), we then have that <italic>ce</italic> (who by definition has CE as a premise) can truly believe that <italic>X</italic> is unobservable if <italic>X</italic> actually exists:
+<disp-formula id="df14">
+                  <graphic xlink:href="df14"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+So it seems that the required Distinction can be drawn after all, without relying on any impossibility (substitute an electron for <italic>X</italic>): accepting <bold>L</bold> (8) and that electrons are unobservable according to <bold>L</bold> (7) grounds the belief of <italic>ce</italic> in the unobservability of electrons if they exist (14).</p>
+            <p>Kukla (1998, 138–139) presented van Fraassen's response in more familiar terms, “just to show that the mistake <italic>isn't</italic> due to the failure to think model‐theoretically.” I also quote it in full, because Kukla adds some explication that makes it evident that this response is not enough, in contradiction to what both van Fraassen and Kukla claim (the third italics are mine): <disp-quote>
+                  <p>Suppose electrons exist and are observable. Then if theory <bold>L</bold> entails that electrons are <italic>not</italic> observable, <bold>L</bold> will fail to be empirically adequate. So if we believe that <bold>L</bold> is empirically adequate, we have to believe either that electrons do not exist or that they are unobservable—equivalently, <italic>if</italic> electrons exist, then they are unobservable. Musgrave is right when he claims that <italic>Van Fraassen can't allow himself to believe that electrons are unobservable.</italic> But there's no reason why he shouldn't believe that electrons are unobservable <italic>if they exist.</italic> What anti‐realists refuse to believe is any statement that entails that theoretical entities exist. But the claim that theoretical entities are unobservable‐if‐they‐exist doesn't violate this prescription. (1998, 138–139)</p>
+               </disp-quote>
+            </p>
+            <p>Like van Fraassen (1985, 256), Kukla concludes that <italic>ce</italic> can believe that electrons are unobservable<italic>‐if‐they‐exist</italic> and that thereby the threat of the impossibility of drawing the Distinction within CE has been put to rest; but unlike van Fraassen, Kukla agrees this much with Musgrave that <italic>ce</italic> “cannot allow himself to believe that electrons are unobservable” <italic>tout court.</italic> In other words, Musgrave's Problem remains unsolved. Van Fraassen's response is not enough.</p>
+            <fn-group>
+               <fn id="fn10">
+                  <label>9. </label>
+                  <p>I have replaced ‘<italic>T</italic>’ with <bold>L</bold> and ‘<italic>B</italic>’ with ‘electrons’ for evident reasons, and concomitantly have replaced the singular with the plural where needed to keep the grammar correct.</p>
+               </fn>
+            </fn-group>
+         </sec>
+         <sec id="sc4.5">
+            <label>4.5.<x xml:space="preserve"> </x>
+            </label>
+            <title>Rescue Attempts.</title>
+            <p>I explore some other ways to solve Musgrave's Problem and see whether these are “enough.” Before considering two rescue attempts, let me first display—for the sake of future reference—the conclusion of Musgrave's argument that on the basis of CE, the acceptance of a theory <bold>L</bold> according to which electrons are unobservable, one <italic>cannot</italic> arrive at the belief that electrons are unobservable:
+<disp-formula id="df15">
+                  <graphic xlink:href="df15"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+To repeat, what can be established validly is this:
+<disp-formula id="df16">
+                  <graphic xlink:href="df16"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+From (15) we see that even in the best of circumstances Musgrave's Problem is not solved. If CE were to add Belief(<italic>ce,</italic> Real(e)) to the antecedent, as in (16), then CE would have solved Musgrave's Problem. But since Real(e) is not empirical, <italic>ce</italic> will never believe that Real(e) because of the epistemic policy (3) of CE.</p>
+            <p>
+               <italic>Rescue Attempt 1.</italic> Can't we turn to some other accepted scientific theory rather than <bold>L</bold> to advise us about the <italic>existence</italic> of electrons? We can. Take Quantum Electro‐Dynamics (QED) or <bold>SM</bold> if you please. On a literal reading of these theories—van Fraassen (1980, 10–11) endorses reading theories literally—electrons exist:
+<disp-formula id="df17">
+                  <graphic xlink:href="df17"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+From this we can deduce, with the aid of premise (7), the acceptance of QED, and the closure of acceptance under implication, that <italic>ce</italic> accepts the existence of electrons:
+<disp-formula id="df18">
+                  <graphic xlink:href="df18"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+But since acceptance only implies belief when it concerns actual <italic>observables</italic> (3), and we are not yet supposed to believe whether electrons are unobservable because we are in the process of finding out whether we can believe this, the step from acceptance in statement (18) to the belief in it is, for CE, a non sequitur. So the additional premise (17) is of no avail. Rescue Attempt 1 has failed.</p>
+            <p>Let us further remind ourselves that for van Fraassen (1980; 18, 15, 197) the observability of an object “has nothing to do with existence”: <disp-quote>
+                  <p>A flying horse is observable—that is why we are so sure there aren't any…(…)The ride of the headless horseman is an observable event, but not an actual event.</p>
+               </disp-quote>Within the confines of CE, observability and existence are logically independent categories for objects, whereas conclusion (15) demonstrates that one cannot acquire the categorical belief in the unobservability of an object: before <italic>ce</italic> can believe that some candidate unobservable actually is unobservable, a decision has to be reached on the issue whether the candidate exists or does not exist.</p>
+            <p>
+               <italic>Rescue Attempt 2.</italic> Perhaps, then, we can also acquire the belief that electrons‐are‐unobservable‐if‐they‐are‐<italic>not</italic>‐real:
+<disp-formula id="df19">
+                  <graphic xlink:href="df19"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+When we then assume that belief is closed under conjunction (glossing over the Preface Paradox and similar inconveniences which consequently arise), we can acquire the belief in
+<disp-formula id="df20">
+                  <graphic xlink:href="df20"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+the antecedent of which is a theorem of logic. Naturally we believe that the theorems of logic are true. Then we can believe that <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Obs}\,( \mathrm{e}\,) $
+\end{document}</tex-math>
+               </inline-formula>. Home at last?</p>
+            <p>Not quite. Where does the required belief in (19) come from? The constructive empiricist (<italic>ce</italic>) accepts QED and therefore (i) accepts Real(e). If <italic>ce</italic> now accepts another theory, <bold>T</bold>
+               <sup>
+                  <inline-formula>
+                     <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\arcmin$\end{document}</tex-math>
+                  </inline-formula>
+               </sup> say, according to which electrons do <italic>not</italic> exist, <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\mathbf{T}^{\prime }\rightarrow \neg \mathrm{Real}\,( \mathrm{e}\,) $
+\end{document}</tex-math>
+               </inline-formula>, then <italic>ce</italic> also (ii) accepts <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Real}\,( \mathrm{e}\,) $
+\end{document}</tex-math>
+               </inline-formula>, in contradiction to (i). So <italic>ce</italic> now accepts a statement and its denial. Is the way to make sense of science (the aim of CE) paved with accepting contradictions?</p>
+            <p>Perhaps. If it is, then this paraconsistent twist is a feature of CE that so far has escaped everybody's attention, presumably including that of its creator. If this strategy is to work generally, we then must, for <italic>every</italic> concrete object <italic>X,</italic> accept a theory that affirms its existence <italic>and</italic> accept a theory that denies its existence. Do we want that? Is this the way to make sense of science? For many unobservable posits there are no acceptable rival theories available that deny these posits. There is not an empirically equivalent rival of QED that does not somehow posit electrons. Thus even if CE were to walk this road, there is no guarantee whatsoever—to say the very least—there is a road at all that would bring CE to the desired destination.</p>
+            <p>Moreover, when we recall that (19) is logically equivalent to:
+<disp-formula id="df21">
+                  <graphic xlink:href="df21"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+then we have an instance of a statement that contradicts van Fraassen's view of the matter as expressed in the quotations displayed above: Pegasus and the headless horseman are observable and not real. Hence the starting point (19) of Rescue Attempt 2 is inconsistent with CE.</p>
+            <p>I conclude that the strategy of trying to establish the categorical belief in the observability of electrons so as to solve Musgrave's Problem via an antecedent that is a theorem of logic (Rescue Attempt 2) fails. I am therefore back where I started in this Section: neither van Fraassen nor Kukla has shown how to solve Musgrave's Problem, because what they have shown is (16), and that is too weak to carry, ultimately, the objective and non‐pragmatic distinction between knowledge and pragmatics in science (Section 4.3).</p>
+         </sec>
+      </sec>
+      <sec id="sc5">
+         <label>5.<x xml:space="preserve"> </x>
+         </label>
+         <title>Musgrave's Problem.</title>
+         <sec id="sc5.1">
+            <label>5.1.<x xml:space="preserve"> </x>
+            </label>
+            <title>Strengthening of Musgrave's Criticism.</title>
+            <p>The present Section will end in strengthening Musgrave's criticism (Section 5.1); in the next and final Section I point to a road that leads to a solution (Section 5.2).</p>
+            <p>Van Fraassen (1980, 57–59) regards “what is observable as a <italic>theory‐independent</italic> question. It is a function of facts about us <italic>qua</italic> organisms in the world.” The observability of concrete objects is “a subject for empirical science and not for philosophical analysis” (1980, 57). We should <italic>not</italic> make our judgments about the unobservability of electrons rely on some particular scientific theory in the first place, such as <bold>L</bold> or QED, notwithstanding the fact that physical theories such as QED supply us with the very concept of an electron and its properties (one of which is its unobservability). Musgrave's final conclusion that CE “cannot draw the distinction it requires” follows from conclusion (9), keeping in mind that Musgrave's argument can be repeated for every theory and every (actual or non‐actual) unobservable object, iff the following premise is taken aboard:
+<disp-formula id="df22">
+                  <graphic xlink:href="df22"
+                           alt-version="no"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Premise (22) then also enforces premise (7) of Musgrave's critical argument.</p>
+            <p>Since CE rejects tacit premise (22) of Musgrave's argument, this rejection blocks the deduction of his unwelcome general conclusion that CE cannot draw the distinction it requires. Is CE now safe?</p>
+            <p>It seems so. Van Fraassen could take Musgrave's argument as a reductio ad absurdum of statement (22) and could draw the following moral from Musgrave's reasoning: if you rely on theories to tell you what unobservables are, you get into trouble, so don't do it. Perhaps, then, this Chapter in the debate about the concept of observability is yet another illustration of the eternal truth that one philosopher's modus ponens is another's modus tollens. One philosopher (van Fraassen) says that we should not and admittedly even cannot base our belief in the unobservability of electrons on some theory, whereas another (Musgrave) says that we must do so and therefore reject any philosophical view of science that forbids us to do this, such as CE.</p>
+            <p>So it seems that CE is safe indeed. Stalemate is not defeat. Furthermore, we now have a solution of Musgrave's problem on our hands: to acquire the belief that (it is true that) some given concrete object <italic>Y</italic> is observable or unobservable, we perform scientific research. Will this work?</p>
+            <p>To begin with, van Fraassen has recently declared that the question ‘What is observable?,’ although <italic>in principle</italic> it is a theory‐independent question, “in practice <italic>we must rely on our current best theories</italic> to answer that question” (Monton &amp; van Fraassen 2003, 414). In practice observability is theory‐dependent but in principle it is theory‐independent. Hence in principle CE is safe from, but in practice it falls prey to Musgrave's criticism, because in practice CE apparently adumbrates Musgrave's tacit premise (22). So will performing scientific research to decide whether object <italic>Y</italic> is observable or unobservable work <italic>in principle</italic>?</p>
+            <p>Let us consider again Musgrave's electrons. For electrons, Musgrave's Problem states: how exactly to acquire the belief that electrons are unobservable when we discard any reliance on theories but investigate the matter experimentally instead? Observability is an objective property of concrete objects in relation to the light‐detectors above our eyes. The relevant empirical research investigates what types of object the members of ε can see, under what conditions and in what circumstances they can see objects. These investigations will provide CE with a sound, objective, empirical basis for its beliefs in the observability or unobservability of any type of object. Now, the results of empirical research fall under our experience. Van Fraassen (1985, 253): “Experience can give us information only about what is both observable and actual.” But then how will empirical research ever provide a sound and objective basis for believing that some object is <italic>unobservable</italic>?</p>
+            <p>Suppose that under a variety of conditions and in a variety of circumstances members of ε do <italic>not</italic> observe some putative object <italic>Y.</italic> What, then, must <italic>ce</italic> believe? That (a) γ is unobservable and exists, or that (b) γ does not exist? Both possibilities seem alive in the face of the supposed null‐outcomes of experiments. If <italic>ce</italic> wants to conclude that (a) γ is unobservable, <italic>ce</italic> must prior to this conclusion believe that γ exists in order to rule out (b). But how can <italic>ce</italic> acquire the belief that γ does not exist? If <italic>ce</italic> wants to conclude that (b) γ does not exist, <italic>ce</italic> must first believe that γ is unobservable to rule out (a). And so forth ad infinitum.</p>
+            <p>This is altogether not unlike the conclusion of van Fraassen's response to Musgrave's criticism, because <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Real}\,( \gamma ) \vee \neg \mathrm{Obs}\,( \gamma ) $
+\end{document}</tex-math>
+               </inline-formula> is logically equivalent to <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\mathrm{Real}\,( \gamma ) \rightarrow \neg \mathrm{Obs}\,( \gamma ) $
+\end{document}</tex-math>
+               </inline-formula>; cf. statement (14). Recall the earlier conclusion that this is not enough to solve Musgrave's Problem.</p>
+            <p>What I have done here is to erect a Musgrave‐type of argument to show that at closer inspection CE cannot solve Musgrave's problem, but this time without relying on any scientific theory, without the need for tacit premise (22) and even without invoking the epistemic policy of CE (3). But recall that CE must solve it in order to have an objective subdivision between the epistemic building of science and the pragmatic toolkit of science (see Section 4.3). This means I have strengthened Musgrave's criticism, because the no‐reliance‐on‐theory escape route turns out to be a red herring. Even better, it seems that scientific research cannot solve Musgrave's problem because it makes us run around in circles for all eternity—<italic>pace</italic> van Fraassen.</p>
+         </sec>
+         <sec id="sc5.2">
+            <label>5.2.<x xml:space="preserve"> </x>
+            </label>
+            <title>Extending the Epistemic Policy.</title>
+            <p>What CE needs in order to solve Musgrave's Problem seems to be no more and no less than an extension of its epistemic policy (3). The project to extend it requires a deep dive into the meaning of concept of observability, into its relation to modality within CE and into the truth‐conditions of Obs(<italic>X</italic>). Although I have executed this project elsewhere and therefore shall not repeat it here (Muller 2004), I end this paper by indicating how such an extension solves Musgrave's Problem.</p>
+            <p>Suppose we have a truth‐condition for Obs(<italic>X</italic>): a condition that <italic>X</italic> meets and then is truly pronounced ‘observable.’ The new policy simply reads that if <italic>X</italic> meets the condition, then <italic>ce</italic> believes that (it is true that) Obs(<italic>X</italic>) and the proposition ‘Obs(<italic>X</italic>)’ belongs to our scientific knowledge of the world; and if <italic>X</italic> does not meet the condition, then <italic>ce</italic> believes that (it is false that) Obs(<italic>X</italic>), hence that (it is true that) <inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Obs}\,( X) $
+\end{document}</tex-math>
+               </inline-formula> and ‘<inline-formula>
+                  <tex-math notation="latex">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\neg \mathrm{Obs}\,( X) $
+\end{document}</tex-math>
+               </inline-formula>’ belongs to our scientific knowledge of the world, but <italic>ce</italic> remains neutral (4) about Real(<italic>X</italic>). This extension of the epistemic policy of CE evidently is wholly in the spirit of CE. This is the way to solve Musgrave's Problem, or so I claim.</p>
+            <p>The sole purpose of the present paper was to show that the allegedly devastating criticisms against the Distinction when drawn within the confines of CE turn out to be not so devastating after all. One criticism, however, raised a problem that CE must solve (Musgrave's Problem)—and can solve. So as things currently stand, the answer to the question posed in the title of this paper is in the affirmative. <italic>Salute</italic> van Fraassen.</p>
+         </sec>
+      </sec>
+   </body>
