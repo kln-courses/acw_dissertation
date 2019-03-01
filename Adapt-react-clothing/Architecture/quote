@@ -1,0 +1,177 @@
+Skip to content
+ 
+senior gists
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @oscarg933 Sign out
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+Repositories0
+Code1K
+Commits0
+Issues13
+Marketplace0
+Topics0
+Wikis3
+Users0
+Languages
+882 Text
+257 JSON
+206 CSV
+86 HTML
+72 XML
+64 Common Lisp
+48 Markdown
+17 Jupyter Notebook
+9 JavaScript
+7 Shell
+Advanced search 
+1,880 code results
+@somphod
+somphod/DemoApp – seed_data.json
+Showing the top two matches Last indexed on Jul 13, 2018
+JSON
+      "public_repos": 110,
+      "public_gists": 64,
+      "followers": 71,
+      "following": 21,
+      "avatar_url": null,
+      "industry": "Consulting",
+      "bio": "I use Ruby and numerous other technologies to create websites.",
+      "public_repos": 106,
+      "public_gists": 34,
+      "followers": 72,
+      "following": 22,
+@Azure-App-Service
+Azure-App-Service/DemoApp – seed_data.json
+Showing the top two matches Last indexed on Jul 10, 2018
+JSON
+      "public_repos": 110,
+      "public_gists": 64,
+      "followers": 71,
+      "following": 21,
+      "avatar_url": null,
+      "industry": "Consulting",
+      "bio": "I use Ruby and numerous other technologies to create websites.",
+      "public_repos": 106,
+      "public_gists": 34,
+      "followers": 72,
+      "following": 22,
+@krishnabandla81
+krishnabandla81/azureappservice-demoapp – seed_data.json
+Showing the top two matches Last indexed on Jul 12, 2018
+JSON
+      "public_repos": 110,
+      "public_gists": 64,
+      "followers": 71,
+      "following": 21,
+      "avatar_url": null,
+      "industry": "Consulting",
+      "bio": "I use Ruby and numerous other technologies to create websites.",
+      "public_repos": 106,
+      "public_gists": 34,
+      "followers": 72,
+      "following": 22,
+@giova82
+giova82/App-Demo – seed_data.json
+Showing the top two matches Last indexed on Aug 11, 2018
+JSON
+      "public_repos": 110,
+      "public_gists": 64,
+      "followers": 71,
+      "following": 21,
+      "avatar_url": null,
+      "industry": "Consulting",
+      "bio": "I use Ruby and numerous other technologies to create websites.",
+      "public_repos": 106,
+      "public_gists": 34,
+      "followers": 72,
+      "following": 22,
+@giova82
+giova82/AppCourse – seed_data.json
+Showing the top two matches Last indexed on Aug 12, 2018
+JSON
+      "public_repos": 110,
+      "public_gists": 64,
+      "followers": 71,
+      "following": 21,
+      "avatar_url": null,
+      "industry": "Consulting",
+      "bio": "I use Ruby and numerous other technologies to create websites.",
+      "public_repos": 106,
+      "public_gists": 34,
+      "followers": 72,
+      "following": 22,
+@TylerLu
+TylerLu/Developer-Finder – seed_data.json
+Showing the top two matches Last indexed on Jul 9, 2018
+JSON
+      "public_repos": 110,
+      "public_gists": 64,
+      "followers": 71,
+      "following": 21,
+      "avatar_url": null,
+      "industry": "Consulting",
+      "bio": "I use Ruby and numerous other technologies to create websites.",
+      "public_repos": 106,
+      "public_gists": 34,
+      "followers": 72,
+      "following": 22,
+@kswoong
+kswoong/developer-finder-kswoong – seed_data.json
+Showing the top two matches Last indexed on Jul 11, 2018
+JSON
+      "public_repos": 110,
+      "public_gists": 64,
+      "followers": 71,
+      "following": 21,
+      "avatar_url": null,
+      "industry": "Consulting",
+      "bio": "I use Ruby and numerous other technologies to create websites.",
+      "public_repos": 106,
+      "public_gists": 34,
+      "followers": 72,
+      "following": 22,
+@jhath16
+jhath16/Assignment_10 – repos.js
+Showing the top four matches Last indexed on Jul 6, 2018
+JavaScript
+    following_url: "https://api.github.com/users/jhath16/following{/other_user}",
+    gists_url: "https://api.github.com/users/jhath16/gists{/gist_id}",
+    gists_url: "https://api.github.com/users/jhath16/gists{/gist_id}",
+@vsoch
+vsoch/github-dockerfiles – github_orgs_carrot.json
+Showing the top three matches Last indexed on Jan 15
+JSON
+        "html_url": "https://github.com/carrot/senior-dibs-a-bot/blob/155dcc1ac944a8c93440c199a161a45edf909773/Dockerfile",
+            "node_id": "MDEwOlJlcG9zaXRvcnk2NTA1OTkwMg==",
+            "name": "senior-dibs-a-bot",
+            "full_name": "carrot/senior-dibs-a-bot",
+@hawkfalcon
+hawkfalcon/Peregrine – README.md
+Showing the top two matches Last indexed on Jul 12, 2018
+Markdown
+It is written in Swift 4 and uses Apple's Cocoa API. 
+
+Created for my Senior Project @ Cal Poly SLO
+
+[CustomSharingService](https://github.com/hawkfalcon/CustomSharingService)
+[Medium Article](https://medium.com/@hawkfalcon/creating-a-custom-macos-sharing-service-in-swift-e7e0e46cbdd3)
+
+## Features
+* Create Gists from the menubar
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
